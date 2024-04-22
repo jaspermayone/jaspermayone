@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2152" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2179" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.activity .field,.track .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -188,7 +188,7 @@ Founder and Developer of @Cyaneus-Co &amp; @thepurplebubble.</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    23.1 MB used
+                                    25.2 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -388,14 +388,14 @@ Founder and Developer of @Cyaneus-Co &amp; @thepurplebubble.</div>
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 39 commits)</small>
+                    <small class="h-details">(computed from last 47 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
                         <li>Has approximately 34.6 characters per line of code written</li>
-                        <li>Mostly pushes code around 13:00</li>
-                        <li>Mostly active on Tuesday</li>
+                        <li>Mostly pushes code around 12:00</li>
+                        <li>Mostly active on Monday</li>
                     </ul>
                 </div>
             </section>
@@ -690,73 +690,6 @@ Founder and Developer of @Cyaneus-Co &amp; @thepurplebubble.</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1138 Updating `hackclub.app`</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by polypixeldev in <span class="repo">hackclub/dns</span></div>
-                                    <div class="comment">Oh wow, nest breaking stuff as usuall</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Forked
-                                        <span class="repo">hackclub/cow2</span>
-                                        to
-                                        <span class="repo">jaspermayone/cow2</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Forked
-                                        <span class="repo">hackclub/cow</span>
-                                        to
-                                        <span class="repo">jaspermayone/cow</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jaspermayone/greenhouse</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c6b2d9b</div>
-                                        <div class="message">domain swap</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -767,143 +700,172 @@ Founder and Developer of @Cyaneus-Co &amp; @thepurplebubble.</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8f9287f</div>
-                                        <div class="message">
-                                            build(deps-dev): bump tapioca from 0.13.1 to 0.13.3 (#87)
+                                        <div class="sha">#e5f9ad3</div>
+                                        <div class="message">build(deps): bump github/codeql-action from 3.25.0 to 3.25.1 (#91)
 
-Bumps [tapioca](https://github.com/Shopify/tapioca) from 0.13.1 to
-0.13.3.
+Bumps [github/codeql-action](https://github.com/github/codeql-action)
+from 3.25.0 to 3.25.1.
 &lt;details&gt;
-&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
 &lt;p&gt;&lt;em&gt;Sourced from &lt;a
-href="https://github.com/Shopify/tapioca/releases"&gt;tapioca's
-releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+href="https://github.com/github/codeql-action/blob/main/CHANGELOG.md"&gt;github/codeql-action's
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;h2&gt;v0.13.3&lt;/h2&gt;
+&lt;h1&gt;CodeQL Action Changelog&lt;/h1&gt;
+&lt;p&gt;See the &lt;a
+href="https://github.com/github/codeql-action/releases"&gt;releases
+page&lt;/a&gt; for the relevant changes to the CodeQL CLI and language
+packs.&lt;/p&gt;
+&lt;p&gt;Note that the only difference between &lt;code&gt;v2&lt;/code&gt; and
+&lt;code&gt;v3&lt;/code&gt; of the CodeQL Action is the node version they support,
+with &lt;code&gt;v3&lt;/code&gt; running on node 20 while we continue to release
+&lt;code&gt;v2&lt;/code&gt; to support running on node 16. For example
+&lt;code&gt;3.22.11&lt;/code&gt; was the first &lt;code&gt;v3&lt;/code&gt; release and is
+functionally identical to &lt;code&gt;2.22.11&lt;/code&gt;. This approach ensures an
+easy way to track exactly which features are included in different
+versions, indicated by the minor and patch version numbers.&lt;/p&gt;
+&lt;h2&gt;[UNRELEASED]&lt;/h2&gt;
+&lt;p&gt;No user facing changes.&lt;/p&gt;
+&lt;h2&gt;3.25.1 - 17 Apr 2024&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;We are rolling out a feature in April/May 2024 that improves the
+reliability and performance of analyzing code when analyzing a compiled
+language with the &lt;code&gt;autobuild&lt;/code&gt; &lt;a
+href="https://docs.github.com/en/code-security/code-scanning/creating-an-advanced-setup-for-code-scanning/codeql-code-scanning-for-compiled-languages#codeql-build-modes"&gt;build
+mode&lt;/a&gt;. &lt;a
+href="https://redirect.github.com/github/codeql-action/pull/2235"&gt;#2235&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fix a bug where the &lt;code&gt;init&lt;/code&gt; Action would fail if
+&lt;code&gt;--overwrite&lt;/code&gt; was specified in
+&lt;code&gt;CODEQL_ACTION_EXTRA_OPTIONS&lt;/code&gt;. &lt;a
+href="https://redirect.github.com/github/codeql-action/pull/2245"&gt;#2245&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;3.25.0 - 15 Apr 2024&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The deprecated feature for extracting dependencies for a Python
+analysis has been removed. &lt;a
+href="https://redirect.github.com/github/codeql-action/pull/2224"&gt;#2224&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;As a result, the following inputs and environment variables are now
+ignored:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;code&gt;setup-python-dependencies&lt;/code&gt; input to the
+&lt;code&gt;init&lt;/code&gt; Action&lt;/li&gt;
+&lt;li&gt;The
+&lt;code&gt;CODEQL_ACTION_DISABLE_PYTHON_DEPENDENCY_INSTALLATION&lt;/code&gt;
+environment variable&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We recommend removing any references to these from your workflows.
+For more information, see the release notes for CodeQL Action v3.23.0
+and v2.23.0.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Automatically overwrite an existing database if found on the
+filesystem. &lt;a
+href="https://redirect.github.com/github/codeql-action/pull/2229"&gt;#2229&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bump the minimum CodeQL bundle version to 2.12.6. &lt;a
+href="https://redirect.github.com/github/codeql-action/pull/2232"&gt;#2232&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A more relevant log message and a diagnostic are now emitted when the
+&lt;code&gt;file&lt;/code&gt; program is not installed on a Linux runner, but is
+required for Go tracing to succeed. &lt;a
+href="https://redirect.github.com/github/codeql-action/pull/2234"&gt;#2234&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;3.24.10 - 05 Apr 2024&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Update default CodeQL bundle version to 2.17.0. &lt;a
+href="https://redirect.github.com/github/codeql-action/pull/2219"&gt;#2219&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add a deprecation warning for customers using CodeQL version 2.12.5
+and earlier. These versions of CodeQL were discontinued on 26 March 2024
+alongside GitHub Enterprise Server 3.8, and will be unsupported by
+CodeQL Action versions 3.25.0 and later and versions 2.25.0 and later.
+&lt;a
+href="https://redirect.github.com/github/codeql-action/pull/2220"&gt;#2220&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;If you are using one of these versions, please update to CodeQL CLI
+version 2.12.6 or later. For instance, if you have specified a custom
+version of the CLI using the 'tools' input to the 'init' Action, you can
+remove this input to use the default version.&lt;/li&gt;
+&lt;li&gt;Alternatively, if you want to continue using a version of the CodeQL
+CLI between 2.11.6 and 2.12.5, you can replace
+&lt;code&gt;github/codeql-action/*@v3&lt;/code&gt; by
+&lt;code&gt;github/codeql-action/*@v3.24.10&lt;/code&gt; and
+&lt;code&gt;github/codeql-action/*@v2&lt;/code&gt; by
+&lt;code&gt;github/codeql-action/*@v2.24.10&lt;/code&gt; in your code scanning
+workflow to ensure you continue using this version of the CodeQL
+Action.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;3.24.9 - 22 Mar 2024&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Update default CodeQL bundle version to 2.16.5. &lt;a
+href="https://redirect.github.com/github/codeql-action/pull/2203"&gt;#2203&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;3.24.8 - 18 Mar 2024&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Improve the ease of debugging extraction issues by increasing the
+verbosity of the extractor logs when running in debug mode. &lt;a
+href="https://redirect.github.com/github/codeql-action/pull/2195"&gt;#2195&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;3.24.7 - 12 Mar 2024&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Update default CodeQL bundle version to 2.16.4. &lt;a
+href="https://redirect.github.com/github/codeql-action/pull/2185"&gt;#2185&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;3.24.6 - 29 Feb 2024&lt;/h2&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;h2&gt;What's Changed&lt;/h2&gt;
-&lt;h3&gt;
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#AA8DD8" d="M7.415 4c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1zM3.232 5.72c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1z"/>
-                                                <path fill="#744EAA" d="M29.607 32.856c.189.808 1.227 2.28 2.032 2.091.806-.19 1.077-1.971.888-2.777-.189-.808-.998-1.307-1.804-1.117-.805.19-1.306.997-1.116 1.803zm-5.434.649c.003.83.681 2.498 1.509 2.495.828-.004 1.494-1.677 1.491-2.506-.003-.829-.677-1.497-1.505-1.495-.828.004-1.498.677-1.495 1.506zm-5.271-2.446c-.326.764-.365 2.563.396 2.89.763.324 2.037-.947 2.363-1.71.325-.762-.028-1.643-.789-1.97-.762-.325-1.643.027-1.97.79zm-5.031-11.04c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.965-1.33-1.778-1.159zm-2.037-5c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.966-1.33-1.778-1.159z"/>
-                                                <path fill="#9266CC" d="M27.244 34c2.831 0 4.926-.877 5.266-1.027 2.271-1.01 3.293-3.669 2.284-5.939-.999-2.25-3.616-3.275-5.872-2.314-.133.05-1.793.649-3.343-.072-1.851-.861-2.995-3.309-3.628-5.209-.144-.43-.385-1.274-.686-2.316-1.866-6.471-2.832-8.285-3.983-9.82C13.571 2.352 7.69 2.007 4.799 2.587c-2.437.487-4.018 2.858-3.53 5.295.488 2.438 2.86 4.02 5.296 3.53.162-.026 2.204-.306 3.424 1.169.643 1.287 2.08 5.128 2.63 7.034.346 1.199.629 2.171.794 2.667 1.773 5.317 4.666 8.893 8.603 10.629C23.868 33.729 25.67 34 27.244 34z"/>
-                                                <circle fill="#FFF" cx="6.682" cy="5" r="1"/>
-                                                <path d="M30.923 32.964c-.089 0-.18-.012-.269-.036-.532-.148-.844-.699-.696-1.231.757-2.722-.77-4.542-.785-4.56-.359-.419-.312-1.051.107-1.41.418-.359 1.051-.312 1.41.107.092.107 2.234 2.66 1.195 6.397-.122.443-.525.733-.962.733zm-7.199-.563c-.245 0-.49-.089-.684-.27-.403-.378-.424-1.011-.047-1.414 1.485-1.587 1.453-4.193 1.452-4.22-.016-.552.419-1.012.972-1.028.542-.005 1.013.419 1.028.972.004.139.073 3.437-1.991 5.644-.197.21-.464.316-.73.316zm-8.542-8.696c-.48 0-.904-.347-.985-.837-.09-.544.278-1.06.823-1.149 3.074-.51 4.774-2.377 4.791-2.396.365-.41.998-.449 1.409-.084.412.365.453.993.091 1.406-.087.099-2.156 2.415-5.964 3.046-.056.01-.111.014-.165.014zm2.921 4.857c-.425 0-.819-.272-.954-.698-.166-.526.126-1.089.652-1.255 2.693-.853 3.88-2.83 3.892-2.85.28-.477.892-.637 1.368-.357.477.279.636.893.357 1.368-.063.108-1.595 2.663-5.013 3.744-.101.033-.203.048-.302.048zm-4.619-10.67c-.496 0-.927-.369-.991-.875-.069-.548.319-1.048.867-1.118 2.689-.34 4.657-1.971 4.676-1.988.422-.354 1.053-.303 1.408.119.356.421.305 1.05-.115 1.407-.097.083-2.42 2.029-5.718 2.446-.043.006-.085.009-.127.009zm-1.821-4.767c-.425 0-.819-.273-.954-.701-.165-.527.127-1.088.654-1.254 3.13-.983 4.253-2.692 4.299-2.764.295-.462.911-.605 1.375-.312.465.292.611.899.324 1.366-.06.097-1.506 2.396-5.399 3.619-.099.031-.2.046-.299.046z" fill="#744EAA"/>
-                                            </svg>
-                                            Bug Fixes&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Remove extra ) in the ActiveRecord.find output by &lt;a
-href="https://github.com/brendo"&gt;&lt;code&gt;@​brendo&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/Shopify/tapioca/pull/1867"&gt;Shopify/tapioca#1867&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;New Contributors&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://github.com/brendo"&gt;&lt;code&gt;@​brendo&lt;/code&gt;&lt;/a&gt; made
-their first contribution in &lt;a
-href="https://redirect.github.com/Shopify/tapioca/pull/1867"&gt;Shopify/tapioca#1867&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
-href="https://github.com/Shopify/tapioca/compare/v0.13.2...v0.13.3"&gt;https://github.com/Shopify/tapioca/compare/v0.13.2...v0.13.3&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;v0.13.2&lt;/h2&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;h2&gt;What's Changed&lt;/h2&gt;
-&lt;h3&gt;
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#FFCC4D" d="M36 15c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V7c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v8z"/>
-                                                <path d="M6 3H4C1.791 3 0 4.791 0 7v2l6-6zm6 0L0 15c0 1.36.682 2.558 1.72 3.28L17 3h-5zM7 19h5L28 3h-5zm16 0L35.892 6.108c-.281-1.23-1.126-2.24-2.252-2.748L18 19h5zm13-4v-3l-7 7h3c2.209 0 4-1.791 4-4z" fill="#292F33"/>
-                                                <path fill="#99AAB5" d="M4 19h5v14H4zm23 0h5v14h-5z"/>
-                                            </svg>
-                                            Breaking Changes&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;create_sig takes hash instead of TypedParams by &lt;a
-href="https://github.com/bdewater"&gt;&lt;code&gt;@​bdewater&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/Shopify/tapioca/pull/1856"&gt;Shopify/tapioca#1856&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#FFAC33" d="M34.347 16.893l-8.899-3.294-3.323-10.891c-.128-.42-.517-.708-.956-.708-.439 0-.828.288-.956.708l-3.322 10.891-8.9 3.294c-.393.146-.653.519-.653.938 0 .418.26.793.653.938l8.895 3.293 3.324 11.223c.126.424.516.715.959.715.442 0 .833-.291.959-.716l3.324-11.223 8.896-3.293c.391-.144.652-.518.652-.937 0-.418-.261-.792-.653-.938z"/>
-                                                <path fill="#FFCC4D" d="M14.347 27.894l-2.314-.856-.9-3.3c-.118-.436-.513-.738-.964-.738-.451 0-.846.302-.965.737l-.9 3.3-2.313.856c-.393.145-.653.52-.653.938 0 .418.26.793.653.938l2.301.853.907 3.622c.112.444.511.756.97.756.459 0 .858-.312.97-.757l.907-3.622 2.301-.853c.393-.144.653-.519.653-.937 0-.418-.26-.793-.653-.937zM10.009 6.231l-2.364-.875-.876-2.365c-.145-.393-.519-.653-.938-.653-.418 0-.792.26-.938.653l-.875 2.365-2.365.875c-.393.146-.653.52-.653.938 0 .418.26.793.653.938l2.365.875.875 2.365c.146.393.52.653.938.653.418 0 .792-.26.938-.653l.875-2.365 2.365-.875c.393-.146.653-.52.653-.938 0-.418-.26-.792-.653-.938z"/>
-                                            </svg>
-                                            Enhancements&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Automatic stdout/stderr assertion updates by &lt;a
-href="https://github.com/kddnewton"&gt;&lt;code&gt;@​kddnewton&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/Shopify/tapioca/pull/1853"&gt;Shopify/tapioca#1853&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;load default compilers before user defined compilers by &lt;a
-href="https://github.com/stathis-alexander"&gt;&lt;code&gt;@​stathis-alexander&lt;/code&gt;&lt;/a&gt;
-in &lt;a
-href="https://redirect.github.com/Shopify/tapioca/pull/1831"&gt;Shopify/tapioca#1831&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Update Active Record find sig to allow a block by &lt;a
-href="https://github.com/bdewater"&gt;&lt;code&gt;@​bdewater&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/Shopify/tapioca/pull/1844"&gt;Shopify/tapioca#1844&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Update Active Record count sig to allow a block by &lt;a
-href="https://github.com/bdewater"&gt;&lt;code&gt;@​bdewater&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/Shopify/tapioca/pull/1860"&gt;Shopify/tapioca#1860&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#8899A6" d="M34.247 6.324l-2.742 2.743s-1.829.914-3.657-.915c-1.829-1.828-.915-3.657-.915-3.657l2.743-2.743C30.591.838 29.492 0 28.667 0c-4.051 0-7.334 3.283-7.334 7.333 0 .569.072 1.121.194 1.653l-6.199 6.199 5.485 5.485 6.199-6.198c.533.122 1.084.194 1.654.194 4.05 0 7.333-3.283 7.333-7.333.001-.83-.838-1.923-1.752-1.009zm-19.027 9.04L3.031 27.552c-1.495 1.496-1.495 3.921 0 5.417 1.497 1.495 3.921 1.495 5.417 0l12.187-12.188-5.415-5.417zM5.763 31.838c-.819 0-1.482-.664-1.482-1.482s.664-1.483 1.482-1.483c.819 0 1.482.664 1.482 1.483 0 .818-.663 1.482-1.482 1.482z"/>
-                                                <path fill="#F4900C" d="M30.83 33.279c1.166 1.166 3.022 1.221 4.121.121 1.1-1.1 1.045-2.955-.121-4.121L11.565 6.014c-1.167-1.167-3.021-1.221-4.121-.121-1.1 1.1-1.045 2.955.121 4.121L30.83 33.279z"/>
-                                                <path fill="#66757F" d="M21.444.893s-6-3-11 2l-7 7s-1-1-2 0l-1 1s-1 1 0 2l4 4s1 1 2 0l1-1s1-1 0-2l-.078-.078c.77-.743 1.923-1.5 3.078-.922l4-4s-1-3 1-5 3-2 5-2 1-1 1-1z"/>
-                                            </svg>
-                                            Other Changes&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Specify DSL compiler contributions in README by &lt;a
-href="https://github.com/KaanOzkan"&gt;&lt;code&gt;@​KaanOzkan&lt;/code&gt;&lt;/a&gt; in &lt;a
-href="https://redirect.github.com/Shopify/tapioca/pull/1866"&gt;Shopify/tapioca#1866&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;New Contributors&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/stathis-alexander"&gt;&lt;code&gt;@​stathis-alexander&lt;/code&gt;&lt;/a&gt;
-made their first contribution in &lt;a
-href="https://redirect.github.com/Shopify/tapioca/pull/1831"&gt;Shopify/tapioca#1831&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
-href="https://github.com/Shopify/tapioca/compare/v0.13.1...v0.13.2"&gt;https://github.com/Shopify/tapioca/compare/v0.13.1...v0.13.2&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
 &lt;/details&gt;
 &lt;details&gt;
 &lt;summary&gt;Commits&lt;/summary&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a
-href="https://github.com/Shopify/tapioca/commit/f00b6c1a49032379d1ff111e4297d3dc42742f53"&gt;&lt;code&gt;f00b6c1&lt;/code&gt;&lt;/a&gt;
-Bump version to v0.13.3&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/Shopify/tapioca/commit/d4034fc14c2df40b8e34b306f1d345b339987f8e"&gt;&lt;code&gt;d4034fc&lt;/code&gt;&lt;/a&gt;
+href="https://github.com/github/codeql-action/commit/c7f9125735019aa87cfc361530512d50ea439c71"&gt;&lt;code&gt;c7f9125&lt;/code&gt;&lt;/a&gt;
 Merge pull request &lt;a
-href="https://redirect.github.com/Shopify/tapioca/issues/1867"&gt;#1867&lt;/a&gt;
-from Shopify/fix_invalid-ar-find-output&lt;/li&gt;
+href="https://redirect.github.com/github/codeql-action/issues/2248"&gt;#2248&lt;/a&gt;
+from github/update-v3.25.1-c4fb45143&lt;/li&gt;
 &lt;li&gt;&lt;a
-href="https://github.com/Shopify/tapioca/commit/01b788097f019860a9fd7b0a6bda06b6fd632912"&gt;&lt;code&gt;01b7880&lt;/code&gt;&lt;/a&gt;
-Remove extra ) in the ActiveRecord.find output&lt;/li&gt;
+href="https://github.com/github/codeql-action/commit/1c7e8b2cf27fe2842c9131549befe9126c581615"&gt;&lt;code&gt;1c7e8b2&lt;/code&gt;&lt;/a&gt;
+Update changelog for v3.25.1&lt;/li&gt;
 &lt;li&gt;&lt;a
-href="https://github.com/Shopify/tapioca/commit/37e48be85a86e38173740e50f520074d3f3bbcaf"&gt;&lt;code&gt;37e48be&lt;/code&gt;&lt;/a&gt;
-Bump version to v0.13.2&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/Shopify/tapioca/commit/4f4b9edc26aacb3e301ab38b8e7b0257857579cd"&gt;&lt;code&gt;4f4b9ed&lt;/code&gt;&lt;/a&gt;
+href="https://github.com/github/codeql-action/commit/c4fb451437765abf5018c6fbf22cce1a7da1e5cc"&gt;&lt;code&gt;c4fb451&lt;/code&gt;&lt;/a&gt;
 Merge pull request &lt;a
-href="https://redirect.github.com/Shopify/tapioca/issues/1866"&gt;#1866&lt;/a&gt;
-from Shopify/KaanOzkan-patch-1&lt;/li&gt;
+href="https://redirect.github.com/github/codeql-action/issues/2245"&gt;#2245&lt;/a&gt;
+from github/henrymercer/ignore-already-specified-flags&lt;/li&gt;
 &lt;li&gt;&lt;a
-href="https://github.com/Shopify/tapioca/commit/1daf684f283fb6e587e33567022d47c40752f6a5"&gt;&lt;code&gt;1daf684&lt;/code&gt;&lt;/a&gt;
-Specify rails&lt;/li&gt;
+href="https://github.com/github/codeql-action/commit/556b3bcfae6e80d5b97e3022fdc26e2e2fb8fcc1"&gt;&lt;code&gt;556b3bc&lt;/code&gt;&lt;/a&gt;
+Add changelog note&lt;/li&gt;
 &lt;li&gt;&lt;a
-href="https://github.com/Shopify/tapioca/commit/ae9ee9753a93fa0ff05b75a89de8735a0630799c"&gt;&lt;code&gt;ae9ee97&lt;/code&gt;&lt;/a&gt;
-Specify DSL compiler contributions in README&lt;/li&gt;
+href="https://github.com/github/codeql-action/commit/ef66aeacbffbc0a38d99ff4c7128b7a08402998d"&gt;&lt;code&gt;ef66aea&lt;/code&gt;&lt;/a&gt;
+Merge branch 'main' into henrymercer/ignore-already-specified-flags&lt;/li&gt;
 &lt;li&gt;&lt;a
-href="https://github.com/Shopify/tapioca/commit/cdc0d7c02d5291d3a72de0c0b1cb28ea53847b76"&gt;&lt;code&gt;cdc0d7c&lt;/code&gt;&lt;/a&gt;
-Disable all permissions for action&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/Shopify/tapioca/commit/5e946e96e6ac3d3e46126eddf53fc1320337e824"&gt;&lt;code&gt;5e946e9&lt;/code&gt;&lt;/a&gt;
-Sanitize branch input&lt;/li&gt;
-&lt;li&gt;&lt;a
-href="https://github.com/Shopify/tapioca/commit/032e04f9f4f7bd86f5de8c08b4f33424aa2a298c"&gt;&lt;code&gt;032e04f&lt;/code&gt;&lt;/a&gt;
+href="https://github.com/github/codeql-action/commit/9b87e0a8c4c056fe190dbe9b27705e4a609b3ed7"&gt;&lt;code&gt;9b87e0a&lt;/code&gt;&lt;/a&gt;
 Merge pull request &lt;a
-href="https://redirect.github.com/Shopify/tapioca/issues/1860"&gt;#1860&lt;/a&gt;
-from bdewater/ar-count-block&lt;/li&gt;
+href="https://redirect.github.com/github/codeql-action/issues/2241"&gt;#2241&lt;/a&gt;
+from github/nickfyson/speculative-script-fix&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/github/codeql-action/commit/18111b696bb9dfa258eafa803d7ebe62fd0c2f2a"&gt;&lt;code&gt;18111b6&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/github/codeql-action/issues/2235"&gt;#2235&lt;/a&gt;
+from github/henrymercer/autobuild-with-direct-tracing&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/github/codeql-action/commit/ade98b980a98b96bdf2a6987025f40e215961ddc"&gt;&lt;code&gt;ade98b9&lt;/code&gt;&lt;/a&gt;
+Ensure &lt;code&gt;--overwrite&lt;/code&gt; flag is only passed once&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/github/codeql-action/commit/8566d50a791ab204d59de6606ac0714547892d92"&gt;&lt;code&gt;8566d50&lt;/code&gt;&lt;/a&gt;
+Add regression test for double &lt;code&gt;--overwrite&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/github/codeql-action/commit/453a95695a4bcef90d0a08e0573386c6591819db"&gt;&lt;code&gt;453a956&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/github/codeql-action/issues/2243"&gt;#2243&lt;/a&gt;
+from github/dependabot/npm_and_yarn/npm-9b31496ffc&lt;/li&gt;
 &lt;li&gt;Additional commits viewable in &lt;a
-href="https://github.com/Shopify/tapioca/compare/v0.13.1...v0.13.3"&gt;compare
+href="https://github.com/github/codeql-action/compare/df5a14dc28094dc936e103b37d749c6628682b60...c7f9125735019aa87cfc361530512d50ea439c71"&gt;compare
 view&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;
@@ -911,7 +873,7 @@ view&lt;/a&gt;&lt;/li&gt;
 
 
 [![Dependabot compatibility
-score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=tapioca&amp;package-manager=bundler&amp;previous-version=0.13.1&amp;new-version=0.13.3)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=github/codeql-action&amp;package-manager=github_actions&amp;previous-version=3.25.0&amp;new-version=3.25.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
 
 Dependabot will resolve any conflicts with this PR as long as you don't
 alter it yourself. You can also trigger a rebase manually by commenting
@@ -951,20 +913,388 @@ Dependabot creating any more for this dependency (unless you reopen the
 PR or upgrade to it yourself)
 
 
-&lt;/details&gt;
-                                        </div>
+&lt;/details&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#7bf0a31</div>
-                                        <div class="message">build(deps-dev): bump tapioca from 0.13.1 to 0.13.3
+                                        <div class="sha">#cb7cfaa</div>
+                                        <div class="message">build(deps): bump github/codeql-action from 3.25.0 to 3.25.1
 
-Bumps [tapioca](https://github.com/Shopify/tapioca) from 0.13.1 to 0.13.3.
-- [Release notes](https://github.com/Shopify/tapioca/releases)
-- [Commits](https://github.com/Shopify/tapioca/compare/v0.13.1...v0.13.3)
+Bumps [github/codeql-action](https://github.com/github/codeql-action) from 3.25.0 to 3.25.1.
+- [Release notes](https://github.com/github/codeql-action/releases)
+- [Changelog](https://github.com/github/codeql-action/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/github/codeql-action/compare/df5a14dc28094dc936e103b37d749c6628682b60...c7f9125735019aa87cfc361530512d50ea439c71)
 
 ---
 updated-dependencies:
-- dependency-name: tapioca
+- dependency-name: github/codeql-action
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/github_actions/github/codeql-action-3.25.1</span>
+                                        in
+                                        <span class="repo">jaspermayone/greenhouse</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/github_actions/actions/checkout-4.1.3</span>
+                                        in
+                                        <span class="repo">jaspermayone/greenhouse</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">jaspermayone/greenhouse</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7089725</div>
+                                        <div class="message">build(deps): bump actions/checkout from 4.1.2 to 4.1.3 (#92)
+
+Bumps [actions/checkout](https://github.com/actions/checkout) from 4.1.2
+to 4.1.3.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/actions/checkout/releases"&gt;actions/checkout's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v4.1.3&lt;/h2&gt;
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Update &lt;code&gt;actions/checkout&lt;/code&gt; version in
+&lt;code&gt;update-main-version.yml&lt;/code&gt; by &lt;a
+href="https://github.com/jww3"&gt;&lt;code&gt;@​jww3&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/actions/checkout/pull/1650"&gt;actions/checkout#1650&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Check git version before attempting to disable
+&lt;code&gt;sparse-checkout&lt;/code&gt; by &lt;a
+href="https://github.com/jww3"&gt;&lt;code&gt;@​jww3&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/actions/checkout/pull/1656"&gt;actions/checkout#1656&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add SSH user parameter by &lt;a
+href="https://github.com/cory-miller"&gt;&lt;code&gt;@​cory-miller&lt;/code&gt;&lt;/a&gt; in
+&lt;a
+href="https://redirect.github.com/actions/checkout/pull/1685"&gt;actions/checkout#1685&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/actions/checkout/compare/v4.1.2...v4.1.3"&gt;https://github.com/actions/checkout/compare/v4.1.2...v4.1.3&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/actions/checkout/commit/1d96c772d19495a3b5c517cd2bc0cb401ea0529f"&gt;&lt;code&gt;1d96c77&lt;/code&gt;&lt;/a&gt;
+Add SSH user parameter (&lt;a
+href="https://redirect.github.com/actions/checkout/issues/1685"&gt;#1685&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/actions/checkout/commit/cd7d8d697e10461458bc61a30d094dc601a8b017"&gt;&lt;code&gt;cd7d8d6&lt;/code&gt;&lt;/a&gt;
+Check git version before attempting to disable
+&lt;code&gt;sparse-checkout&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/actions/checkout/issues/1656"&gt;#1656&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/actions/checkout/commit/8410ad0602e1e429cee44a835ae9f77f654a6694"&gt;&lt;code&gt;8410ad0&lt;/code&gt;&lt;/a&gt;
+Update &lt;code&gt;actions/checkout&lt;/code&gt; version in
+&lt;code&gt;update-main-version.yml&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/actions/checkout/issues/1650"&gt;#1650&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/actions/checkout/compare/9bb56186c3b09b4f86b1c65136769dd318469633...1d96c772d19495a3b5c517cd2bc0cb401ea0529f"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=actions/checkout&amp;package-manager=github_actions&amp;previous-version=4.1.2&amp;new-version=4.1.3)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#800ce60</div>
+                                        <div class="message">build(deps): bump actions/checkout from 4.1.2 to 4.1.3
+
+Bumps [actions/checkout](https://github.com/actions/checkout) from 4.1.2 to 4.1.3.
+- [Release notes](https://github.com/actions/checkout/releases)
+- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/actions/checkout/compare/9bb56186c3b09b4f86b1c65136769dd318469633...1d96c772d19495a3b5c517cd2bc0cb401ea0529f)
+
+---
+updated-dependencies:
+- dependency-name: actions/checkout
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">jaspermayone/greenhouse</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6a1c4cc</div>
+                                        <div class="message">build(deps): bump sorbet-runtime and sorbet (#94)
+
+Bumps [sorbet-runtime](https://github.com/sorbet/sorbet) and
+[sorbet](https://github.com/sorbet/sorbet). These dependencies needed to
+be updated together.
+Updates `sorbet-runtime` from 0.5.11332 to 0.5.11352
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/sorbet/sorbet/releases"&gt;sorbet-runtime's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;sorbet 0.5.11351.20240418142657-5fe571441&lt;/h2&gt;
+&lt;p&gt;To use Sorbet add this line to your Gemfile:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;gem 'sorbet', '0.5.11351', :group =&amp;gt; :development
+gem 'sorbet-runtime', '0.5.11351'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;sorbet 0.5.11350.20240417093929-da7488695&lt;/h2&gt;
+&lt;p&gt;To use Sorbet add this line to your Gemfile:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;gem 'sorbet', '0.5.11350', :group =&amp;gt; :development
+gem 'sorbet-runtime', '0.5.11350'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;sorbet 0.5.11349.20240416143659-a35195af5&lt;/h2&gt;
+&lt;p&gt;To use Sorbet add this line to your Gemfile:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;gem 'sorbet', '0.5.11349', :group =&amp;gt; :development
+gem 'sorbet-runtime', '0.5.11349'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;sorbet 0.5.11348.20240416110959-755bae42c&lt;/h2&gt;
+&lt;p&gt;To use Sorbet add this line to your Gemfile:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;gem 'sorbet', '0.5.11348', :group =&amp;gt; :development
+gem 'sorbet-runtime', '0.5.11348'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;sorbet 0.5.11347.20240415151946-c5567ee1d&lt;/h2&gt;
+&lt;p&gt;To use Sorbet add this line to your Gemfile:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;gem 'sorbet', '0.5.11347', :group =&amp;gt; :development
+gem 'sorbet-runtime', '0.5.11347'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;sorbet 0.5.11346.20240412161810-f80cd5a67&lt;/h2&gt;
+&lt;p&gt;To use Sorbet add this line to your Gemfile:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;gem 'sorbet', '0.5.11346', :group =&amp;gt; :development
+gem 'sorbet-runtime', '0.5.11346'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;sorbet 0.5.11345.20240412161526-5c0012a52&lt;/h2&gt;
+&lt;p&gt;To use Sorbet add this line to your Gemfile:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;gem 'sorbet', '0.5.11345', :group =&amp;gt; :development
+gem 'sorbet-runtime', '0.5.11345'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;sorbet 0.5.11344.20240412111932-3afd7e5b7&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/sorbet/sorbet/commits"&gt;compare view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+Updates `sorbet` from 0.5.11332 to 0.5.11352
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/sorbet/sorbet/releases"&gt;sorbet's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;sorbet 0.5.11351.20240418142657-5fe571441&lt;/h2&gt;
+&lt;p&gt;To use Sorbet add this line to your Gemfile:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;gem 'sorbet', '0.5.11351', :group =&amp;gt; :development
+gem 'sorbet-runtime', '0.5.11351'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;sorbet 0.5.11350.20240417093929-da7488695&lt;/h2&gt;
+&lt;p&gt;To use Sorbet add this line to your Gemfile:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;gem 'sorbet', '0.5.11350', :group =&amp;gt; :development
+gem 'sorbet-runtime', '0.5.11350'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;sorbet 0.5.11349.20240416143659-a35195af5&lt;/h2&gt;
+&lt;p&gt;To use Sorbet add this line to your Gemfile:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;gem 'sorbet', '0.5.11349', :group =&amp;gt; :development
+gem 'sorbet-runtime', '0.5.11349'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;sorbet 0.5.11348.20240416110959-755bae42c&lt;/h2&gt;
+&lt;p&gt;To use Sorbet add this line to your Gemfile:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;gem 'sorbet', '0.5.11348', :group =&amp;gt; :development
+gem 'sorbet-runtime', '0.5.11348'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;sorbet 0.5.11347.20240415151946-c5567ee1d&lt;/h2&gt;
+&lt;p&gt;To use Sorbet add this line to your Gemfile:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;gem 'sorbet', '0.5.11347', :group =&amp;gt; :development
+gem 'sorbet-runtime', '0.5.11347'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;sorbet 0.5.11346.20240412161810-f80cd5a67&lt;/h2&gt;
+&lt;p&gt;To use Sorbet add this line to your Gemfile:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;gem 'sorbet', '0.5.11346', :group =&amp;gt; :development
+gem 'sorbet-runtime', '0.5.11346'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;sorbet 0.5.11345.20240412161526-5c0012a52&lt;/h2&gt;
+&lt;p&gt;To use Sorbet add this line to your Gemfile:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;gem 'sorbet', '0.5.11345', :group =&amp;gt; :development
+gem 'sorbet-runtime', '0.5.11345'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;sorbet 0.5.11344.20240412111932-3afd7e5b7&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/sorbet/sorbet/commits"&gt;compare view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fced603</div>
+                                        <div class="message">build(deps): bump sorbet-runtime and sorbet
+
+Bumps [sorbet-runtime](https://github.com/sorbet/sorbet) and [sorbet](https://github.com/sorbet/sorbet). These dependencies needed to be updated together.
+
+Updates `sorbet-runtime` from 0.5.11332 to 0.5.11352
+- [Release notes](https://github.com/sorbet/sorbet/releases)
+- [Commits](https://github.com/sorbet/sorbet/commits)
+
+Updates `sorbet` from 0.5.11332 to 0.5.11352
+- [Release notes](https://github.com/sorbet/sorbet/releases)
+- [Commits](https://github.com/sorbet/sorbet/commits)
+
+---
+updated-dependencies:
+- dependency-name: sorbet-runtime
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+- dependency-name: sorbet
   dependency-type: direct:development
   update-type: version-update:semver-patch
 ...
@@ -979,7 +1309,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Apr 2024, 13:08:56 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Apr 2024, 14:12:47 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
