@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2079" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2179" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -388,14 +388,14 @@ Founder and Developer of @Cyaneus-Co &amp; @thepurplebubble.</div>
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 50 commits)</small>
+                    <small class="h-details">(computed from last 56 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
                         <li>Has approximately 14.5 characters per line of code written</li>
                         <li>Mostly pushes code around 13:00</li>
-                        <li>Mostly active on Sunday</li>
+                        <li>Mostly active on Monday</li>
                     </ul>
                 </div>
             </section>
@@ -693,15 +693,285 @@ Founder and Developer of @Cyaneus-Co &amp; @thepurplebubble.</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">thepurplebubble/records</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">jaspermayone/greenhouse</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ca89a1c</div>
-                                        <div class="message">new meeting</div>
+                                        <div class="sha">#9621240</div>
+                                        <div class="message">build(deps-dev): bump selenium-webdriver from 4.19.0 to 4.20.1 (#99)
+
+Bumps [selenium-webdriver](https://github.com/SeleniumHQ/selenium) from
+4.19.0 to 4.20.1.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/SeleniumHQ/selenium/releases"&gt;selenium-webdriver's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;Selenium 4.20.0&lt;/h2&gt;
+&lt;h3&gt;Changelog&lt;/h3&gt;
+&lt;p&gt;For each component's detailed changelog, please check:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/SeleniumHQ/selenium/blob/trunk/rb/CHANGES"&gt;Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/SeleniumHQ/selenium/blob/trunk/py/CHANGES"&gt;Python&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/SeleniumHQ/selenium/blob/trunk/javascript/node/selenium-webdriver/CHANGES.md"&gt;JavaScript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/SeleniumHQ/selenium/blob/trunk/java/CHANGELOG"&gt;Java&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/SeleniumHQ/selenium/blob/trunk/dotnet/CHANGELOG"&gt;DotNet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/SeleniumHQ/selenium/blob/trunk/cpp/iedriverserver/CHANGELOG"&gt;IEDriverServer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Commits in this release&lt;/h3&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="http://github.com/seleniumhq/selenium/commit/a12c3b56a9530de0eaee0f53ced6bd9a5ce941b0"&gt;&lt;code&gt;a12c3b56a9&lt;/code&gt;&lt;/a&gt;
+- [build] Moving versions to nightly :: Diego Molina&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="http://github.com/seleniumhq/selenium/commit/4fec60d2b890875d8e67a4ee4f88180475b57a2d"&gt;&lt;code&gt;4fec60d2b8&lt;/code&gt;&lt;/a&gt;
+- [rb] Update Gemfile.lock :: Alex Rodionov&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="http://github.com/seleniumhq/selenium/commit/96cf53a4544d46e11f6f4160673b3a1d41630dfc"&gt;&lt;code&gt;96cf53a454&lt;/code&gt;&lt;/a&gt;
+- [rb] Fix document generation :: Alex Rodionov&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="http://github.com/seleniumhq/selenium/commit/507970233bda8a14064cc3f7641931326524c971"&gt;&lt;code&gt;507970233b&lt;/code&gt;&lt;/a&gt;
+- [build] Bumping actions versions :: Diego Molina&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="http://github.com/seleniumhq/selenium/commit/63e815627f16f2ae5d5cdf71e3e3816d0727f581"&gt;&lt;code&gt;63e815627f&lt;/code&gt;&lt;/a&gt;
+- Update mirror info (Thu Mar 28 00:15:30 UTC 2024) :: Selenium CI
+Bot&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="http://github.com/seleniumhq/selenium/commit/b7d831db8cfeac9dfbf441c623c6d4bf580f2cc5"&gt;&lt;code&gt;b7d831db8c&lt;/code&gt;&lt;/a&gt;
+- [bidi][js] Update the capture screenshot APIs to include all
+parameters and remove scroll parameter (&lt;a
+href="https://redirect.github.com/SeleniumHQ/selenium/issues/13744"&gt;#13744&lt;/a&gt;)
+:: Puja Jagani&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="http://github.com/seleniumhq/selenium/commit/0b29138fa77b3c395e110928bfb672cb018258f6"&gt;&lt;code&gt;0b29138fa7&lt;/code&gt;&lt;/a&gt;
+- [rust] Bump to rules_rust 0.41.0 (Rust 1.77.0) :: Boni García&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="http://github.com/seleniumhq/selenium/commit/cc7f3402f8a3a859f1ccfacaeda39f83ee81b61b"&gt;&lt;code&gt;cc7f3402f8&lt;/code&gt;&lt;/a&gt;
+- Update mirror info (Fri Mar 29 00:15:26 UTC 2024) :: Selenium CI
+Bot&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="http://github.com/seleniumhq/selenium/commit/acd9d0e77dc5a5a39c3a95a5aa0e94a6c4161fe7"&gt;&lt;code&gt;acd9d0e77d&lt;/code&gt;&lt;/a&gt;
+- [bidi] [java] Fix the bazel file after the BiDi breaking change ::
+Puja Jagani&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="http://github.com/seleniumhq/selenium/commit/abe0ee07dca3afec9fa2418eb9b093b7c9da90ce"&gt;&lt;code&gt;abe0ee07dc&lt;/code&gt;&lt;/a&gt;
+- [java] Updating change log and bumping version :: Puja Jagani&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="http://github.com/seleniumhq/selenium/commit/3ef121c0b2b2ff599334e23a5abb4284c3d2911b"&gt;&lt;code&gt;3ef121c0b2&lt;/code&gt;&lt;/a&gt;
+- Update mirror info (Fri Mar 29 12:14:17 UTC 2024) :: Selenium CI
+Bot&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="http://github.com/seleniumhq/selenium/commit/6cda69299366dd9e0976bede2fdbcfe42eb90cfa"&gt;&lt;code&gt;6cda692993&lt;/code&gt;&lt;/a&gt;
+- [grid] synchronize read from field written by other thread :: Jörg
+Sautter&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="http://github.com/seleniumhq/selenium/commit/9c6ccdbf40356284fad342f70fbdc0afefd27bd3"&gt;&lt;code&gt;9c6ccdbf40&lt;/code&gt;&lt;/a&gt;
+- Update mirror info (Sat Mar 30 00:14:35 UTC 2024) :: Selenium CI
+Bot&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="http://github.com/seleniumhq/selenium/commit/1f88231e2bdc79f2aecf23e1412a95e116583864"&gt;&lt;code&gt;1f88231e2b&lt;/code&gt;&lt;/a&gt;
+- [js] Fix linting (&lt;a
+href="https://redirect.github.com/SeleniumHQ/selenium/issues/13753"&gt;#13753&lt;/a&gt;)
+:: Puja Jagani&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="http://github.com/seleniumhq/selenium/commit/a2aa09f143a349474a41be89f24717d46abd68ae"&gt;&lt;code&gt;a2aa09f143&lt;/code&gt;&lt;/a&gt;
+- Bumping to SNAPSHOT for Nightly :: Diego Molina&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="http://github.com/seleniumhq/selenium/commit/ec7c11fae8d36f6d1512fb9d7f76214de3392dec"&gt;&lt;code&gt;ec7c11fae8&lt;/code&gt;&lt;/a&gt;
+- Update mirror info (Mon Apr 1 12:08:01 UTC 2024) :: Selenium CI
+Bot&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="http://github.com/seleniumhq/selenium/commit/e90e4a500143361ebcce58adcdf15026db59c29b"&gt;&lt;code&gt;e90e4a5001&lt;/code&gt;&lt;/a&gt;
+- [rb] Return JRuby dependencies :: Alex Rodionov&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="http://github.com/seleniumhq/selenium/commit/ef3d9e870e0d88b99878f20e1c4914d70643e105"&gt;&lt;code&gt;ef3d9e870e&lt;/code&gt;&lt;/a&gt;
+- [rb][java][dotnet][py] Skipping Edge tests due to &lt;a
+href="https://bugs.chromium.org/p/chromedriver/issues/detail?id=4743"&gt;https://bugs.chromium.org/p/chromedriver/issues/detail?id=4743&lt;/a&gt;
+:: Diego Molina&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="http://github.com/seleniumhq/selenium/commit/a169d905b4215f41d0b04ed18bcf02e3057298a7"&gt;&lt;code&gt;a169d905b4&lt;/code&gt;&lt;/a&gt;
+- [JS][bidi] Impelments functionality to retrieve all top-level browsing
+contexts :: Sri Harsha&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="http://github.com/seleniumhq/selenium/commit/a663d280de741cd56bf40a52f361dc4815b6dfb9"&gt;&lt;code&gt;a663d280de&lt;/code&gt;&lt;/a&gt;
+- [js] Running format script :: Diego Molina&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="http://github.com/seleniumhq/selenium/commit/37565afc7243047c961d9330aba1c39ec0b5240f"&gt;&lt;code&gt;37565afc72&lt;/code&gt;&lt;/a&gt;
+- [dotnet] Simplify definition of building test web server for unit
+tests :: Nikolay Borisenko&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="http://github.com/seleniumhq/selenium/commit/911b31209015852a5aa7b851de2d878e1e615070"&gt;&lt;code&gt;911b312090&lt;/code&gt;&lt;/a&gt;
+- [js] Add JS comments for BiDi related files (&lt;a
+href="https://redirect.github.com/SeleniumHQ/selenium/issues/13763"&gt;#13763&lt;/a&gt;)
+:: Puja Jagani&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="http://github.com/seleniumhq/selenium/commit/309b3e802f1ee5052194548d31f2e6fcae78a841"&gt;&lt;code&gt;309b3e802f&lt;/code&gt;&lt;/a&gt;
+- [bidi][java] Deprecate using builder for Locate Node parameters. (&lt;a
+href="https://redirect.github.com/SeleniumHQ/selenium/issues/13767"&gt;#13767&lt;/a&gt;)
+:: Puja Jagani&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="http://github.com/seleniumhq/selenium/commit/baf61165416cf6550eed62d448a71f31d6e4160d"&gt;&lt;code&gt;baf6116541&lt;/code&gt;&lt;/a&gt;
+- [bidi][java] Update Locator class to not use optional :: Puja
+Jagani&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="http://github.com/seleniumhq/selenium/commit/cca70e3eb49c2230739d10f828f99252b913fda8"&gt;&lt;code&gt;cca70e3eb4&lt;/code&gt;&lt;/a&gt;
+- [JS] lint fixes :: Sri Harsha&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="http://github.com/seleniumhq/selenium/commit/68ad9845aa917b960e2bd37088a617fad521c324"&gt;&lt;code&gt;68ad9845aa&lt;/code&gt;&lt;/a&gt;
+- [grid] do not create unused HttpResponse instances :: Jörg
+Sautter&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="http://github.com/seleniumhq/selenium/commit/aaa7e791a4b6be6314250966a4538cd594576254"&gt;&lt;code&gt;aaa7e791a4&lt;/code&gt;&lt;/a&gt;
+- [bidi][java] Enable chrome tests (&lt;a
+href="https://redirect.github.com/SeleniumHQ/selenium/issues/13770"&gt;#13770&lt;/a&gt;)
+:: Puja Jagani&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="http://github.com/seleniumhq/selenium/commit/b49ae752c9de233a61d6e14c0551be62051db23b"&gt;&lt;code&gt;b49ae752c9&lt;/code&gt;&lt;/a&gt;
+- [JS] Set browserName by default when browserOptions are used :: Sri
+Harsha&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="http://github.com/seleniumhq/selenium/commit/111941bd3ceaceed44985e22b00f4eab44a69a5d"&gt;&lt;code&gt;111941bd3c&lt;/code&gt;&lt;/a&gt;
+- [JS] Implement fullPageScreenshot functionality for Firefox (&lt;a
+href="https://redirect.github.com/SeleniumHQ/selenium/issues/13301"&gt;#13301&lt;/a&gt;)
+:: Sri Harsha&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="http://github.com/seleniumhq/selenium/commit/38829c7c637f9defb2e76f4b6747d6c3065cc4e9"&gt;&lt;code&gt;38829c7c63&lt;/code&gt;&lt;/a&gt;
+- [bidi][java] Enable grid BiDi chrome test (&lt;a
+href="https://redirect.github.com/SeleniumHQ/selenium/issues/13778"&gt;#13778&lt;/a&gt;)
+:: Puja Jagani&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="http://github.com/seleniumhq/selenium/commit/12ed6cc2d94295c792c84c1315edab2571a60d5c"&gt;&lt;code&gt;12ed6cc2d9&lt;/code&gt;&lt;/a&gt;
+- [dotnet] use correct devtools session id after reinitialization (&lt;a
+href="https://redirect.github.com/SeleniumHQ/selenium/issues/13768"&gt;#13768&lt;/a&gt;)
+:: schrufygroovy&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="http://github.com/seleniumhq/selenium/commit/44eba5952f5e210b3d6795907bd64c5c70ab771e"&gt;&lt;code&gt;44eba5952f&lt;/code&gt;&lt;/a&gt;
+- [js] Running format script :: Diego Molina&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="http://github.com/seleniumhq/selenium/commit/8c8adec9163024ced88ef294985775241c6a73d2"&gt;&lt;code&gt;8c8adec916&lt;/code&gt;&lt;/a&gt;
+- [grid] handle baseRoute like the hubRoute and the graphqlRoute (&lt;a
+href="https://redirect.github.com/SeleniumHQ/selenium/issues/13772"&gt;#13772&lt;/a&gt;)
+:: Jörg Sautter&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="http://github.com/seleniumhq/selenium/commit/392ffbc08d2cdf50e592793f484f866dd8e6463c"&gt;&lt;code&gt;392ffbc08d&lt;/code&gt;&lt;/a&gt;
+- [JS] Remove duplicate license agreement from files :: Sri Harsha&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="http://github.com/seleniumhq/selenium/commit/b800dfcde20129329ac602eb252d895464472f6d"&gt;&lt;code&gt;b800dfcde2&lt;/code&gt;&lt;/a&gt;
+- [java] [bidi] Enable test that pass in chrome :: Puja Jagani&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/SeleniumHQ/selenium/blob/trunk/rb/CHANGES"&gt;selenium-webdriver's
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h1&gt;4.20.1 (2024-04-25)&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Returned accidentally removed DriverFinder.path and deprecated
+it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;4.20.0 (2024-04-24)&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Add CDP for Chrome 124 and remove 121&lt;/li&gt;
+&lt;li&gt;Making Selenium Manager a thin wrapper (&lt;a
+href="https://redirect.github.com/SeleniumHQ/selenium/issues/13386"&gt;#13386&lt;/a&gt;)
+&lt;ul&gt;
+&lt;li&gt;This change has been made to make it easier to maintain and improve,
+the interface has
+changed and if users were invoking it, they might experience issues.
+Selenium Manager is
+still in beta and these type of changes are expected.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/SeleniumHQ/selenium/commits"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=selenium-webdriver&amp;package-manager=bundler&amp;previous-version=4.19.0&amp;new-version=4.20.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#658e9a1</div>
+                                        <div class="message">build(deps-dev): bump selenium-webdriver from 4.19.0 to 4.20.1
+
+Bumps [selenium-webdriver](https://github.com/SeleniumHQ/selenium) from 4.19.0 to 4.20.1.
+- [Release notes](https://github.com/SeleniumHQ/selenium/releases)
+- [Changelog](https://github.com/SeleniumHQ/selenium/blob/trunk/rb/CHANGES)
+- [Commits](https://github.com/SeleniumHQ/selenium/commits)
+
+---
+updated-dependencies:
+- dependency-name: selenium-webdriver
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -710,31 +980,234 @@ Founder and Developer of @Cyaneus-Co &amp; @thepurplebubble.</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Closed
-                                        <span class="issue">#3 Add text / resources for how to schedule an exam!</span>
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/bundler/main/selenium-webdriver-4.20.1</span>
+                                        in
+                                        <span class="repo">jaspermayone/greenhouse</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/bundler/main/jbuilder-2.12.0</span>
+                                        in
+                                        <span class="repo">jaspermayone/greenhouse</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">jaspermayone/greenhouse</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened  in <span class="repo">hackclub/ham-night</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">launch</span>
-                                        in
-                                        <span class="repo">hackclub/ham-night</span>
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f8a2fd8</div>
+                                        <div class="message">build(deps): bump jbuilder from 2.11.5 to 2.12.0 (#100)
+
+Bumps [jbuilder](https://github.com/rails/jbuilder) from 2.11.5 to
+2.12.0.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/rails/jbuilder/releases"&gt;jbuilder's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;v2.12.0&lt;/h2&gt;
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Use OpenStruct only if available by &lt;a
+href="https://github.com/yahonda"&gt;&lt;code&gt;@​yahonda&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/rails/jbuilder/pull/562"&gt;rails/jbuilder#562&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Replace deprecated &lt;code&gt;ProxyObject&lt;/code&gt; with
+&lt;code&gt;BasicObject&lt;/code&gt; by &lt;a
+href="https://github.com/Earlopain"&gt;&lt;code&gt;@​Earlopain&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/rails/jbuilder/pull/563"&gt;rails/jbuilder#563&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Avoid loading &lt;code&gt;ActionController::API&lt;/code&gt; constant by &lt;a
+href="https://github.com/nvasilevski"&gt;&lt;code&gt;@​nvasilevski&lt;/code&gt;&lt;/a&gt; in
+&lt;a
+href="https://redirect.github.com/rails/jbuilder/pull/529"&gt;rails/jbuilder#529&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fixed a bug where &lt;a
+href="https://redirect.github.com/rails/jbuilder/issues/501"&gt;#501&lt;/a&gt;
+broke compatibility with Enumerable by &lt;a
+href="https://github.com/yuki24"&gt;&lt;code&gt;@​yuki24&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/rails/jbuilder/pull/531"&gt;rails/jbuilder#531&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fix namespace issue when generating jbuilder views by &lt;a
+href="https://github.com/hahmed"&gt;&lt;code&gt;@​hahmed&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/rails/jbuilder/pull/536"&gt;rails/jbuilder#536&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Remove reliance on ERBTracker from rails by &lt;a
+href="https://github.com/HParker"&gt;&lt;code&gt;@​HParker&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/rails/jbuilder/pull/504"&gt;rails/jbuilder#504&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fix require path of dependency_tracker in railtie.rb by &lt;a
+href="https://github.com/jalyna"&gt;&lt;code&gt;@​jalyna&lt;/code&gt;&lt;/a&gt; in &lt;a
+href="https://redirect.github.com/rails/jbuilder/pull/552"&gt;rails/jbuilder#552&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;New Contributors&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/nvasilevski"&gt;&lt;code&gt;@​nvasilevski&lt;/code&gt;&lt;/a&gt;
+made their first contribution in &lt;a
+href="https://redirect.github.com/rails/jbuilder/pull/529"&gt;rails/jbuilder#529&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/okuramasafumi"&gt;&lt;code&gt;@​okuramasafumi&lt;/code&gt;&lt;/a&gt;
+made their first contribution in &lt;a
+href="https://redirect.github.com/rails/jbuilder/pull/526"&gt;rails/jbuilder#526&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/berkos"&gt;&lt;code&gt;@​berkos&lt;/code&gt;&lt;/a&gt; made
+their first contribution in &lt;a
+href="https://redirect.github.com/rails/jbuilder/pull/528"&gt;rails/jbuilder#528&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/hahmed"&gt;&lt;code&gt;@​hahmed&lt;/code&gt;&lt;/a&gt; made
+their first contribution in &lt;a
+href="https://redirect.github.com/rails/jbuilder/pull/536"&gt;rails/jbuilder#536&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/casperisfine"&gt;&lt;code&gt;@​casperisfine&lt;/code&gt;&lt;/a&gt;
+made their first contribution in &lt;a
+href="https://redirect.github.com/rails/jbuilder/pull/550"&gt;rails/jbuilder#550&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/jalyna"&gt;&lt;code&gt;@​jalyna&lt;/code&gt;&lt;/a&gt; made
+their first contribution in &lt;a
+href="https://redirect.github.com/rails/jbuilder/pull/552"&gt;rails/jbuilder#552&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/yahonda"&gt;&lt;code&gt;@​yahonda&lt;/code&gt;&lt;/a&gt; made
+their first contribution in &lt;a
+href="https://redirect.github.com/rails/jbuilder/pull/562"&gt;rails/jbuilder#562&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/Earlopain"&gt;&lt;code&gt;@​Earlopain&lt;/code&gt;&lt;/a&gt;
+made their first contribution in &lt;a
+href="https://redirect.github.com/rails/jbuilder/pull/563"&gt;rails/jbuilder#563&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/stefannibrasil"&gt;&lt;code&gt;@​stefannibrasil&lt;/code&gt;&lt;/a&gt;
+made their first contribution in &lt;a
+href="https://redirect.github.com/rails/jbuilder/pull/539"&gt;rails/jbuilder#539&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a
+href="https://github.com/rails/jbuilder/compare/v2.11.5...v2.12.0"&gt;https://github.com/rails/jbuilder/compare/v2.11.5...v2.12.0&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/rails/jbuilder/commit/080ce0b4d142715e1b6ba5ae3735b440ef9020a4"&gt;&lt;code&gt;080ce0b&lt;/code&gt;&lt;/a&gt;
+Prepare for 2.12.0&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/rails/jbuilder/commit/0463bde5f3790c7a2ecfdf878b522802024b02a4"&gt;&lt;code&gt;0463bde&lt;/code&gt;&lt;/a&gt;
+Document Testing configuration for RSpec users (&lt;a
+href="https://redirect.github.com/rails/jbuilder/issues/539"&gt;#539&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/rails/jbuilder/commit/6732db4054f3a5be580d61863501c023905586a6"&gt;&lt;code&gt;6732db4&lt;/code&gt;&lt;/a&gt;
+Replace deprecated &lt;code&gt;ProxyObject&lt;/code&gt; with
+&lt;code&gt;BasicObject&lt;/code&gt; (&lt;a
+href="https://redirect.github.com/rails/jbuilder/issues/563"&gt;#563&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/rails/jbuilder/commit/0919e3ffdbb6cbcc65d918470e4855f19d33a300"&gt;&lt;code&gt;0919e3f&lt;/code&gt;&lt;/a&gt;
+Use OpenStruct only if available (&lt;a
+href="https://redirect.github.com/rails/jbuilder/issues/562"&gt;#562&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/rails/jbuilder/commit/387561395daf471f05287fc67d28e0a296988f57"&gt;&lt;code&gt;3875613&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/rails/jbuilder/issues/556"&gt;#556&lt;/a&gt;
+from amatsuda/run_railtie_in_tests&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/rails/jbuilder/commit/5af3835446988dab84d66ce00521c68d1cd1a53e"&gt;&lt;code&gt;5af3835&lt;/code&gt;&lt;/a&gt;
+Rails 5.0 doesn't equip :action_controller_api on_load hook&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/rails/jbuilder/commit/9db282b5aef2e79134ecfa6340984547e365e681"&gt;&lt;code&gt;9db282b&lt;/code&gt;&lt;/a&gt;
+Run AC &amp;amp; AV railties on the testing app&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/rails/jbuilder/commit/b1156705158c99ca80b7bc5f6ac1fc0703ca601e"&gt;&lt;code&gt;b115670&lt;/code&gt;&lt;/a&gt;
+Trigger :jbuilder initializer before starting the tests&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/rails/jbuilder/commit/6d1dc920d625195795f0fa0e1746564f36707495"&gt;&lt;code&gt;6d1dc92&lt;/code&gt;&lt;/a&gt;
+This has to be done in the railtie, and is already written there&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/rails/jbuilder/commit/aa5a27272988421adbffbdaaad700d46038b136a"&gt;&lt;code&gt;aa5a272&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/rails/jbuilder/issues/552"&gt;#552&lt;/a&gt;
+from jalyna/patch-1&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/rails/jbuilder/compare/v2.11.5...v2.12.0"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=jbuilder&amp;package-manager=bundler&amp;previous-version=2.11.5&amp;new-version=2.12.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#020ff00</div>
+                                        <div class="message">build(deps): bump jbuilder from 2.11.5 to 2.12.0
+
+Bumps [jbuilder](https://github.com/rails/jbuilder) from 2.11.5 to 2.12.0.
+- [Release notes](https://github.com/rails/jbuilder/releases)
+- [Commits](https://github.com/rails/jbuilder/compare/v2.11.5...v2.12.0)
+
+---
+updated-dependencies:
+- dependency-name: jbuilder
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -743,30 +1216,200 @@ Founder and Developer of @Cyaneus-Co &amp; @thepurplebubble.</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">flex</span>
-                                        in
-                                        <span class="repo">hackclub/ham-night</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">jaspermayone/greenhouse</span>
                                     </div>
                                 </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">remove-next</span>
-                                        in
-                                        <span class="repo">hackclub/ham-night</span>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f4861bd</div>
+                                        <div class="message">build(deps): bump sorbet and sorbet-runtime (#101)
+
+Bumps [sorbet](https://github.com/sorbet/sorbet) and
+[sorbet-runtime](https://github.com/sorbet/sorbet). These dependencies
+needed to be updated together.
+Updates `sorbet` from 0.5.11352 to 0.5.11361
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/sorbet/sorbet/releases"&gt;sorbet's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;sorbet 0.5.11360.20240426131359-4fae184b8&lt;/h2&gt;
+&lt;p&gt;To use Sorbet add this line to your Gemfile:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;gem 'sorbet', '0.5.11360', :group =&amp;gt; :development
+gem 'sorbet-runtime', '0.5.11360'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;sorbet 0.5.11359.20240426100553-5156c60e4&lt;/h2&gt;
+&lt;p&gt;To use Sorbet add this line to your Gemfile:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;gem 'sorbet', '0.5.11359', :group =&amp;gt; :development
+gem 'sorbet-runtime', '0.5.11359'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;sorbet 0.5.11358.20240425123945-9206e530e&lt;/h2&gt;
+&lt;p&gt;To use Sorbet add this line to your Gemfile:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;gem 'sorbet', '0.5.11358', :group =&amp;gt; :development
+gem 'sorbet-runtime', '0.5.11358'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;sorbet 0.5.11357.20240423155326-5ebdd7309&lt;/h2&gt;
+&lt;p&gt;To use Sorbet add this line to your Gemfile:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;gem 'sorbet', '0.5.11357', :group =&amp;gt; :development
+gem 'sorbet-runtime', '0.5.11357'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;sorbet 0.5.11356.20240423115858-1841eeab9&lt;/h2&gt;
+&lt;p&gt;To use Sorbet add this line to your Gemfile:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;gem 'sorbet', '0.5.11356', :group =&amp;gt; :development
+gem 'sorbet-runtime', '0.5.11356'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;sorbet 0.5.11355.20240423114803-cd37d072b&lt;/h2&gt;
+&lt;p&gt;To use Sorbet add this line to your Gemfile:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;gem 'sorbet', '0.5.11355', :group =&amp;gt; :development
+gem 'sorbet-runtime', '0.5.11355'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;sorbet 0.5.11354.20240423094732-636971051&lt;/h2&gt;
+&lt;p&gt;To use Sorbet add this line to your Gemfile:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;gem 'sorbet', '0.5.11354', :group =&amp;gt; :development
+gem 'sorbet-runtime', '0.5.11354'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;sorbet 0.5.11353.20240422153049-7ec14ac39&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/sorbet/sorbet/commits"&gt;compare view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+Updates `sorbet-runtime` from 0.5.11352 to 0.5.11361
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/sorbet/sorbet/releases"&gt;sorbet-runtime's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;sorbet 0.5.11360.20240426131359-4fae184b8&lt;/h2&gt;
+&lt;p&gt;To use Sorbet add this line to your Gemfile:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;gem 'sorbet', '0.5.11360', :group =&amp;gt; :development
+gem 'sorbet-runtime', '0.5.11360'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;sorbet 0.5.11359.20240426100553-5156c60e4&lt;/h2&gt;
+&lt;p&gt;To use Sorbet add this line to your Gemfile:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;gem 'sorbet', '0.5.11359', :group =&amp;gt; :development
+gem 'sorbet-runtime', '0.5.11359'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;sorbet 0.5.11358.20240425123945-9206e530e&lt;/h2&gt;
+&lt;p&gt;To use Sorbet add this line to your Gemfile:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;gem 'sorbet', '0.5.11358', :group =&amp;gt; :development
+gem 'sorbet-runtime', '0.5.11358'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;sorbet 0.5.11357.20240423155326-5ebdd7309&lt;/h2&gt;
+&lt;p&gt;To use Sorbet add this line to your Gemfile:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;gem 'sorbet', '0.5.11357', :group =&amp;gt; :development
+gem 'sorbet-runtime', '0.5.11357'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;sorbet 0.5.11356.20240423115858-1841eeab9&lt;/h2&gt;
+&lt;p&gt;To use Sorbet add this line to your Gemfile:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;gem 'sorbet', '0.5.11356', :group =&amp;gt; :development
+gem 'sorbet-runtime', '0.5.11356'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;sorbet 0.5.11355.20240423114803-cd37d072b&lt;/h2&gt;
+&lt;p&gt;To use Sorbet add this line to your Gemfile:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;gem 'sorbet', '0.5.11355', :group =&amp;gt; :development
+gem 'sorbet-runtime', '0.5.11355'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;sorbet 0.5.11354.20240423094732-636971051&lt;/h2&gt;
+&lt;p&gt;To use Sorbet add this line to your Gemfile:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;gem 'sorbet', '0.5.11354', :group =&amp;gt; :development
+gem 'sorbet-runtime', '0.5.11354'
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;sorbet 0.5.11353.20240422153049-7ec14ac39&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;See full diff in &lt;a
+href="https://github.com/sorbet/sorbet/commits"&gt;compare view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1bdcb9d</div>
+                                        <div class="message">build(deps): bump sorbet and sorbet-runtime
+
+Bumps [sorbet](https://github.com/sorbet/sorbet) and [sorbet-runtime](https://github.com/sorbet/sorbet). These dependencies needed to be updated together.
+
+Updates `sorbet` from 0.5.11352 to 0.5.11361
+- [Release notes](https://github.com/sorbet/sorbet/releases)
+- [Commits](https://github.com/sorbet/sorbet/commits)
+
+Updates `sorbet-runtime` from 0.5.11352 to 0.5.11361
+- [Release notes](https://github.com/sorbet/sorbet/releases)
+- [Commits](https://github.com/sorbet/sorbet/commits)
+
+---
+updated-dependencies:
+- dependency-name: sorbet
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+- dependency-name: sorbet-runtime
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -776,7 +1419,7 @@ Founder and Developer of @Cyaneus-Co &amp; @thepurplebubble.</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Apr 2024, 14:13:24 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Apr 2024, 15:08:45 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
