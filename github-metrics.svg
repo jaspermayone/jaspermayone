@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2195" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2129" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -388,14 +388,14 @@ Founder and Developer of @Cyaneus-Co &amp; @thepurplebubble.</div>
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 53 commits)</small>
+                    <small class="h-details">(computed from last 59 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 19.3 characters per line of code written</li>
-                        <li>Mostly pushes code around 17:00</li>
-                        <li>Mostly active on Tuesday</li>
+                        <li>Has approximately 19.7 characters per line of code written</li>
+                        <li>Mostly pushes code around 12:00</li>
+                        <li>Mostly active on Wednesday</li>
                     </ul>
                 </div>
             </section>
@@ -693,101 +693,553 @@ Founder and Developer of @Cyaneus-Co &amp; @thepurplebubble.</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 2 commits in
                                         <span class="repo">jaspermayone/greenhouse</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#70b0b81</div>
-                                        <div class="message">fix standard</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jaspermayone/greenhouse</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#68b40f3</div>
-                                        <div class="message">remove standard</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jaspermayone/greenhouse</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#08c7b2b</div>
-                                        <div class="message">add console log and misc improvements</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">jaspermayone/greenhouse</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7821670</div>
-                                        <div class="message">misc stuff from ref:hb</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">hackclub/dns</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#387431f</div>
-                                        <div class="message">Adding terror.dino.icu (#1163)
+                                        <div class="sha">#9357939</div>
+                                        <div class="message">
+                                            build(deps): bump sqlite3 from 1.7.3 to 2.0.1 (#122)
 
-* Update dino.icu.yaml
+Bumps [sqlite3](https://github.com/sparklemotion/sqlite3-ruby) from
+1.7.3 to 2.0.1.
+&lt;details&gt;
+&lt;summary&gt;Release notes&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/sparklemotion/sqlite3-ruby/releases"&gt;sqlite3's
+releases&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;2.0.1 / 2024-04-20&lt;/h2&gt;
+&lt;h3&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Raise &lt;code&gt;ArgumentError&lt;/code&gt; if &lt;code&gt;Database#execute&lt;/code&gt;,
+&lt;code&gt;#execute_batch&lt;/code&gt;, or &lt;code&gt;#query&lt;/code&gt; are passed multiple
+bind parameters that are not in an Array. In v2.0.0 these methods would
+silently swallow additional arguments, and this change makes the failure
+explicit. See the CHANGELOG notes for v2.0.0 for examples on how to
+update your code. &lt;a
+href="https://redirect.github.com/sparklemotion/sqlite3-ruby/issues/527"&gt;#527&lt;/a&gt;
+&lt;a
+href="https://github.com/flavorjones"&gt;&lt;code&gt;@​flavorjones&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fixed a regression in v2.0.0 that caused
+&lt;code&gt;Database#execute_batch&lt;/code&gt; to raise an encoding exception when
+passed some non-ascii strings. As a result of this fix,
+&lt;code&gt;Database#prepare&lt;/code&gt; now ensures the &amp;quot;remainder&amp;quot;
+string will always be encoded as UTF-8. &lt;a
+href="https://redirect.github.com/sparklemotion/sqlite3-ruby/issues/524"&gt;#524&lt;/a&gt;
+&lt;a
+href="https://github.com/flavorjones"&gt;&lt;code&gt;@​flavorjones&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;sha256 checksums:&lt;/p&gt;
 
-* Update dino.icu.yaml
+&lt;pre&gt;&lt;code&gt;752cb885faf5e5d80b2fda5601b1168f1461e2e63e18c62cab8cf32fc4b05d8e
+sqlite3-2.0.1-aarch64-linux-gnu.gem
+637f90e5ec6d30b34fc49d7acc50b0f569d8c58699c2157e818e5e99c2594fcf
+sqlite3-2.0.1-aarch64-linux-musl.gem
+0ff1acf7e110c7bbfd140682f14926c5b2e84fe01620dc19ab4f6de1deadc1fd
+sqlite3-2.0.1-arm-linux-gnu.gem
+09d9f9723683a97a9454f593eecbf6c029670c4c0f7059fcfa62eb12e3d47b93
+sqlite3-2.0.1-arm-linux-musl.gem
+0efb2ca9d6c184c9960322b2a32ec86355f523b50089b0f26147b2abdfc94583
+sqlite3-2.0.1-arm64-darwin.gem
+937cc0c0668565c863c0e1736e3172726729a210a1a8fb59b857509ffd6ca835
+sqlite3-2.0.1-x64-mingw-ucrt.gem
+ee01997371e3dc3495f46dec9f1667a49fe65fe8f635edcd203048d639aa0948
+sqlite3-2.0.1-x64-mingw32.gem
+bf395f9b713811eb5d068056df986531038f79b5a3d49dfa42b1ac164c937c3b
+sqlite3-2.0.1-x86-linux-gnu.gem
+3082b2a19bfd7e33539c407adc646c58e5985b6344e192f715f04bb65cc82727
+sqlite3-2.0.1-x86-linux-musl.gem
+9fd4ee3d3aa6f1a4703abe0a5d247f31ae2757cb6a3be89664dfb714ba55d5b4
+sqlite3-2.0.1-x86_64-darwin.gem
+97cd463ea0f7e31e85814918ab70ebf4ca87b2b829d4664ea2787a39a6c4ffa6
+sqlite3-2.0.1-x86_64-linux-gnu.gem
+f6d1d84a49df5ba11a99998ee76dc004eeb3e4129037126ed085833cf471edda
+sqlite3-2.0.1-x86_64-linux-musl.gem
+6c5ff93b951ce521d8b3c6d05df46a15d97ec241c6cff5950c1a628ff7957922
+sqlite3-2.0.1.gem
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;2.0.0 / 2024-04-17&lt;/h2&gt;
+&lt;p&gt;This is a major release which contains some breaking changes,
+primarily the removal of
+long-deprecated functionality. Before upgrading, please make sure to
+address deprecation warnings
+emitted from your application using sqlite3-ruby v1.7.x.&lt;/p&gt;
+&lt;h3&gt;Ruby&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;This release drops support for Ruby 2.7. &lt;a
+href="https://redirect.github.com/sparklemotion/sqlite3-ruby/issues/453"&gt;#453&lt;/a&gt;
+&lt;a
+href="https://github.com/flavorjones"&gt;&lt;code&gt;@​flavorjones&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Packaging&lt;/h3&gt;
+&lt;p&gt;Native (precompiled) gems are now available for Linux Musl. &lt;a
+href="https://redirect.github.com/sparklemotion/sqlite3-ruby/issues/442"&gt;#442&lt;/a&gt;
+&lt;a
+href="https://github.com/flavorjones"&gt;&lt;code&gt;@​flavorjones&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Here are the platforms for which native gems are shipped:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;aarch64-linux-gnu&lt;/code&gt; (requires: glibc &amp;gt;= 2.29)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;aarch64-linux-musl&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;arm-linux-gnu&lt;/code&gt; (requires: glibc &amp;gt;= 2.29)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;arm-linux-musl&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;arm64-darwin&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/sparklemotion/sqlite3-ruby/blob/main/CHANGELOG.md"&gt;sqlite3's
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;2.0.1 / 2024-04-20&lt;/h2&gt;
+&lt;h3&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Raise &lt;code&gt;ArgumentError&lt;/code&gt; if &lt;code&gt;Database#execute&lt;/code&gt;,
+&lt;code&gt;#execute_batch&lt;/code&gt;, or &lt;code&gt;#query&lt;/code&gt; are passed multiple
+bind parameters that are not in an Array. In v2.0.0 these methods would
+silently swallow additional arguments, and this change makes the failure
+explicit. See the CHANGELOG notes for v2.0.0 for examples on how to
+update your code. &lt;a
+href="https://redirect.github.com/sparklemotion/sqlite3-ruby/issues/527"&gt;#527&lt;/a&gt;
+&lt;a
+href="https://github.com/flavorjones"&gt;&lt;code&gt;@​flavorjones&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Fixed a regression in v2.0.0 that caused
+&lt;code&gt;Database#execute_batch&lt;/code&gt; to raise an encoding exception when
+passed some non-ascii strings. As a result of this fix,
+&lt;code&gt;Database#prepare&lt;/code&gt; now ensures the &amp;quot;remainder&amp;quot;
+string will always be encoded as UTF-8. &lt;a
+href="https://redirect.github.com/sparklemotion/sqlite3-ruby/issues/524"&gt;#524&lt;/a&gt;
+&lt;a
+href="https://github.com/flavorjones"&gt;&lt;code&gt;@​flavorjones&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;2.0.0 / 2024-04-17&lt;/h2&gt;
+&lt;p&gt;This is a major release which contains some breaking changes,
+primarily the removal of
+long-deprecated functionality. Before upgrading, please make sure to
+address deprecation warnings
+emitted from your application using sqlite3-ruby v1.7.x.&lt;/p&gt;
+&lt;h3&gt;Ruby&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;This release drops support for Ruby 2.7. &lt;a
+href="https://redirect.github.com/sparklemotion/sqlite3-ruby/issues/453"&gt;#453&lt;/a&gt;
+&lt;a
+href="https://github.com/flavorjones"&gt;&lt;code&gt;@​flavorjones&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Packaging&lt;/h3&gt;
+&lt;p&gt;Native (precompiled) gems are now available for Linux Musl. &lt;a
+href="https://redirect.github.com/sparklemotion/sqlite3-ruby/issues/442"&gt;#442&lt;/a&gt;
+&lt;a
+href="https://github.com/flavorjones"&gt;&lt;code&gt;@​flavorjones&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Here are the platforms for which native gems are shipped:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;aarch64-linux-gnu&lt;/code&gt; (requires: glibc &amp;gt;= 2.29)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;aarch64-linux-musl&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;arm-linux-gnu&lt;/code&gt; (requires: glibc &amp;gt;= 2.29)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;arm-linux-musl&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;arm64-darwin&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;x64-mingw32&lt;/code&gt; / &lt;code&gt;x64-mingw-ucrt&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;x86-linux-gnu&lt;/code&gt; (requires: glibc &amp;gt;= 2.17)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;x86-linux-musl&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;x86_64-darwin&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;x86_64-linux-gnu&lt;/code&gt; (requires: glibc &amp;gt;= 2.17)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;x86_64-linux-musl&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#FFCC4D" d="M2.653 35C.811 35-.001 33.662.847 32.027L16.456 1.972c.849-1.635 2.238-1.635 3.087 0l15.609 30.056c.85 1.634.037 2.972-1.805 2.972H2.653z"/>
+                                                <path fill="#231F20" d="M15.583 28.953c0-1.333 1.085-2.418 2.419-2.418 1.333 0 2.418 1.085 2.418 2.418 0 1.334-1.086 2.419-2.418 2.419-1.334 0-2.419-1.085-2.419-2.419zm.186-18.293c0-1.302.961-2.108 2.232-2.108 1.241 0 2.233.837 2.233 2.108v11.938c0 1.271-.992 2.108-2.233 2.108-1.271 0-2.232-.807-2.232-2.108V10.66z"/>
+                                            </svg>
+                                            Ruby 3.0 linux users must use Rubygems &amp;gt;= 3.3.22 in order to use
+these gems.&lt;/p&gt;
+&lt;p&gt;
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#FFCC4D" d="M2.653 35C.811 35-.001 33.662.847 32.027L16.456 1.972c.849-1.635 2.238-1.635 3.087 0l15.609 30.056c.85 1.634.037 2.972-1.805 2.972H2.653z"/>
+                                                <path fill="#231F20" d="M15.583 28.953c0-1.333 1.085-2.418 2.419-2.418 1.333 0 2.418 1.085 2.418 2.418 0 1.334-1.086 2.419-2.418 2.419-1.334 0-2.419-1.085-2.419-2.419zm.186-18.293c0-1.302.961-2.108 2.232-2.108 1.241 0 2.233.837 2.233 2.108v11.938c0 1.271-.992 2.108-2.233 2.108-1.271 0-2.232-.807-2.232-2.108V10.66z"/>
+                                            </svg>
+                                            Musl linux users should update to Bundler &amp;gt;= 2.5.6 to avoid &lt;a
+href="https://redirect.github.com/rubygems/rubygems/issues/7432"&gt;rubygems/rubygems#7432&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;See &lt;a
+href="https://github.com/sparklemotion/sqlite3-ruby/blob/main/INSTALLATION.md"&gt;the
+INSTALLATION doc&lt;/a&gt; for more information.&lt;/p&gt;
+&lt;h3&gt;Dependencies&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Vendored sqlite is updated to &lt;a
+href="https://sqlite.org/releaselog/3_45_3.html"&gt;v3.45.3&lt;/a&gt;. &lt;a
+href="https://github.com/flavorjones"&gt;&lt;code&gt;@​flavorjones&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/sparklemotion/sqlite3-ruby/commit/659d01c73d2792d02e5f627accc13d9f7fb8d215"&gt;&lt;code&gt;659d01c&lt;/code&gt;&lt;/a&gt;
+version bump to v2.0.1&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/sparklemotion/sqlite3-ruby/commit/3ba4a15a9c1104682e72af6e137d9f2b1206edb4"&gt;&lt;code&gt;3ba4a15&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/sparklemotion/sqlite3-ruby/issues/526"&gt;#526&lt;/a&gt;
+from sparklemotion/524-utf8-execute-batch&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/sparklemotion/sqlite3-ruby/commit/f4c326e24a53e2739ee18d077035ef488d02dfcc"&gt;&lt;code&gt;f4c326e&lt;/code&gt;&lt;/a&gt;
+fix: Database#execute_batch properly handles non-ASCII strings&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/sparklemotion/sqlite3-ruby/commit/19baf763b18f6be0736b8f36193f70491f022d2c"&gt;&lt;code&gt;19baf76&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/sparklemotion/sqlite3-ruby/issues/527"&gt;#527&lt;/a&gt;
+from sparklemotion/flavorjones-raise-on-bind-params&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/sparklemotion/sqlite3-ruby/commit/1168b9ca54be650352b498ec77d7bd2e7f533be8"&gt;&lt;code&gt;1168b9c&lt;/code&gt;&lt;/a&gt;
+fix: raise an exception if bind parameters aren't an array&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/sparklemotion/sqlite3-ruby/commit/59eee1d007a80930a36410983f60594814b4d619"&gt;&lt;code&gt;59eee1d&lt;/code&gt;&lt;/a&gt;
+version bump to v2.0.0&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/sparklemotion/sqlite3-ruby/commit/6a2f56cc2270d227d2569242a7f693db4fa622d1"&gt;&lt;code&gt;6a2f56c&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/sparklemotion/sqlite3-ruby/issues/520"&gt;#520&lt;/a&gt;
+from wjlroe/sqlite-status&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/sparklemotion/sqlite3-ruby/commit/b14a84ee1645f2e800fa2c21c22a697c88123a83"&gt;&lt;code&gt;b14a84e&lt;/code&gt;&lt;/a&gt;
+make optional the second argument to SQLite3.status&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/sparklemotion/sqlite3-ruby/commit/a1ddbec50f5376f2e3ab67ce192bf8e242b07bdb"&gt;&lt;code&gt;a1ddbec&lt;/code&gt;&lt;/a&gt;
+doc: document SQLite3::Constants::Status&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/sparklemotion/sqlite3-ruby/commit/ab2fc3ddc16e47bd0e9b932f57b833f1bf1a6e2e"&gt;&lt;code&gt;ab2fc3d&lt;/code&gt;&lt;/a&gt;
+Add SQLite3.status to call sqlite3_status&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/sparklemotion/sqlite3-ruby/compare/v1.7.3...v2.0.1"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
 
-* Update dino.icu.yaml</div>
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=sqlite3&amp;package-manager=bundler&amp;previous-version=1.7.3&amp;new-version=2.0.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#53380e1</div>
+                                        <div class="message">build(deps): bump sqlite3 from 1.7.3 to 2.0.1
+
+Bumps [sqlite3](https://github.com/sparklemotion/sqlite3-ruby) from 1.7.3 to 2.0.1.
+- [Release notes](https://github.com/sparklemotion/sqlite3-ruby/releases)
+- [Changelog](https://github.com/sparklemotion/sqlite3-ruby/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/sparklemotion/sqlite3-ruby/compare/v1.7.3...v2.0.1)
+
+---
+updated-dependencies:
+- dependency-name: sqlite3
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/bundler/main/sqlite3-2.0.1</span>
+                                        in
+                                        <span class="repo">jaspermayone/greenhouse</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">jaspermayone/greenhouse</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#cc1880f</div>
+                                        <div class="message">build(deps-dev): bump solargraph-rails from 0.2.1.1 to 1.1.0 (#123)
+
+Bumps
+[solargraph-rails](https://github.com/iftheshoefritz/solargraph-rails)
+from 0.2.1.1 to 1.1.0.
+&lt;details&gt;
+&lt;summary&gt;Changelog&lt;/summary&gt;
+&lt;p&gt;&lt;em&gt;Sourced from &lt;a
+href="https://github.com/iftheshoefritz/solargraph-rails/blob/main/CHANGELOG.md"&gt;solargraph-rails's
+changelog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h3&gt;v1.1.0&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;remove pinned solargraph version&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;v1.0.1&lt;/h3&gt;
+&lt;p&gt;&lt;a
+href="https://github.com/alisnic/solargraph-arc"&gt;https://github.com/alisnic/solargraph-arc&lt;/a&gt;
+was merged, with the following features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;fixes autocompletion for multi-level classes defined in 1 line
+&lt;code&gt;class Foo::Bar::Baz&lt;/code&gt;. See &lt;a
+href="https://redirect.github.com/castwide/solargraph/issues/506"&gt;castwide/solargraph#506&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;autocomplete database columns by parsing db/schema.rb&lt;/li&gt;
+&lt;li&gt;autocomplete of model relations&lt;/li&gt;
+&lt;li&gt;parsing of &lt;code&gt;delegate&lt;/code&gt; calls&lt;/li&gt;
+&lt;li&gt;completions for methods generated by Devise&lt;/li&gt;
+&lt;li&gt;better support for running solargraph outside bundle&lt;/li&gt;
+&lt;li&gt;better completion inside controllers. &lt;code&gt;request&lt;/code&gt;,
+&lt;code&gt;response&lt;/code&gt;, &lt;code&gt;params&lt;/code&gt;, etc.&lt;/li&gt;
+&lt;li&gt;autocomplete inside routes.rb&lt;/li&gt;
+&lt;li&gt;autocomplete inside migrations&lt;/li&gt;
+&lt;li&gt;completions for methods generated by ActiveStorage&lt;/li&gt;
+&lt;li&gt;better ActiveRecord completions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;v1.0.0.pre.1&lt;/h3&gt;
+&lt;p&gt;&lt;a
+href="https://github.com/alisnic/solargraph-arc"&gt;https://github.com/alisnic/solargraph-arc&lt;/a&gt;
+was merged, with the following features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;fixes autocompletion for multi-level classes defined in 1 line
+&lt;code&gt;class Foo::Bar::Baz&lt;/code&gt;. See &lt;a
+href="https://redirect.github.com/castwide/solargraph/issues/506"&gt;castwide/solargraph#506&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;autocomplete database columns by parsing db/schema.rb&lt;/li&gt;
+&lt;li&gt;autocomplete of model relations&lt;/li&gt;
+&lt;li&gt;parsing of &lt;code&gt;delegate&lt;/code&gt; calls&lt;/li&gt;
+&lt;li&gt;completions for methods generated by Devise&lt;/li&gt;
+&lt;li&gt;better support for running solargraph outside bundle&lt;/li&gt;
+&lt;li&gt;better completion inside controllers. &lt;code&gt;request&lt;/code&gt;,
+&lt;code&gt;response&lt;/code&gt;, &lt;code&gt;params&lt;/code&gt;, etc.&lt;/li&gt;
+&lt;li&gt;autocomplete inside routes.rb&lt;/li&gt;
+&lt;li&gt;autocomplete inside migrations&lt;/li&gt;
+&lt;li&gt;completions for methods generated by ActiveStorage&lt;/li&gt;
+&lt;li&gt;better ActiveRecord completions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;v0.3.0&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Require String inflection monkeypatches directly to avoid error from
+ActiveSupport v7&lt;/li&gt;
+&lt;li&gt;Remove Gemfile.lock from version control&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;v0.2.2.pre.4&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Loosen the dependency requirements&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;v0.2.2.pre.3&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Update to solargraph 0.42.3&lt;/li&gt;
+&lt;li&gt;Determine return type of association using class_name argument&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;v0.2.2.pre.2&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Simplistic support for associations&lt;/li&gt;
+&lt;li&gt;Added dependency on ActiveSupport 6.1 for helpful String methods
+like &lt;code&gt;.camelize&lt;/code&gt; and &lt;code&gt;.singularize&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;... (truncated)&lt;/p&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;Commits&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/iftheshoefritz/solargraph-rails/commit/f671f1c9aa036683bcc47769a3d2c48391df596c"&gt;&lt;code&gt;f671f1c&lt;/code&gt;&lt;/a&gt;
+Version bump&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/iftheshoefritz/solargraph-rails/commit/c7a2dc417d875f81b98a6e3e87b12dde91cb88da"&gt;&lt;code&gt;c7a2dc4&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/iftheshoefritz/solargraph-rails/issues/49"&gt;#49&lt;/a&gt;
+from iftheshoefritz/unversioned-solargraph&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/iftheshoefritz/solargraph-rails/commit/3c4b6a71fc7b918442b36b2cec81d82517f087bc"&gt;&lt;code&gt;3c4b6a7&lt;/code&gt;&lt;/a&gt;
+Create separate tests for each core file&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/iftheshoefritz/solargraph-rails/commit/8d7039619dc83e3a815687ca5b524705cfae7941"&gt;&lt;code&gt;8d70396&lt;/code&gt;&lt;/a&gt;
+Stop expecting .descendants&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/iftheshoefritz/solargraph-rails/commit/8a68f609b286cb5c1e9c1261bca672cec8ea30fd"&gt;&lt;code&gt;8a68f60&lt;/code&gt;&lt;/a&gt;
+Remove the pinned version on solargraph dependency&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/iftheshoefritz/solargraph-rails/commit/7d386b5bec27e7bbbe462a0204e9f0afe2ef12bc"&gt;&lt;code&gt;7d386b5&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/iftheshoefritz/solargraph-rails/issues/51"&gt;#51&lt;/a&gt;
+from iftheshoefritz/split_rails_jobs&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/iftheshoefritz/solargraph-rails/commit/3b07886101f39dca05ffbeebb49fe1872febc122"&gt;&lt;code&gt;3b07886&lt;/code&gt;&lt;/a&gt;
+Turn on matrix for 2.7,3.0 Rubies and solargraph 0.44.3-&amp;gt;0.47.2&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/iftheshoefritz/solargraph-rails/commit/e03c4847b146f96d5d08abdf78e1b2ce58c13314"&gt;&lt;code&gt;e03c484&lt;/code&gt;&lt;/a&gt;
+Add solargraph version as a CI matrix variable&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/iftheshoefritz/solargraph-rails/commit/5fdc95e7c4973d1e0d7be5be73548eef81972dd2"&gt;&lt;code&gt;5fdc95e&lt;/code&gt;&lt;/a&gt;
+Downgrade github actions to ubuntu-20.04&lt;/li&gt;
+&lt;li&gt;&lt;a
+href="https://github.com/iftheshoefritz/solargraph-rails/commit/ebc2f3c45e200394adce37e4f1f6a786f5ccef09"&gt;&lt;code&gt;ebc2f3c&lt;/code&gt;&lt;/a&gt;
+Merge pull request &lt;a
+href="https://redirect.github.com/iftheshoefritz/solargraph-rails/issues/50"&gt;#50&lt;/a&gt;
+from iftheshoefritz/fix-rails7-routing-spec&lt;/li&gt;
+&lt;li&gt;Additional commits viewable in &lt;a
+href="https://github.com/iftheshoefritz/solargraph-rails/compare/v0.2.1.1...v1.1.0"&gt;compare
+view&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br /&gt;
+
+
+[![Dependabot compatibility
+score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=solargraph-rails&amp;package-manager=bundler&amp;previous-version=0.2.1.1&amp;new-version=1.1.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
+
+Dependabot will resolve any conflicts with this PR as long as you don't
+alter it yourself. You can also trigger a rebase manually by commenting
+`@dependabot rebase`.
+
+[//]: # (dependabot-automerge-start)
+[//]: # (dependabot-automerge-end)
+
+---
+
+&lt;details&gt;
+&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
+&lt;br /&gt;
+
+You can trigger Dependabot actions by commenting on this PR:
+- `@dependabot rebase` will rebase this PR
+- `@dependabot recreate` will recreate this PR, overwriting any edits
+that have been made to it
+- `@dependabot merge` will merge this PR after your CI passes on it
+- `@dependabot squash and merge` will squash and merge this PR after
+your CI passes on it
+- `@dependabot cancel merge` will cancel a previously requested merge
+and block automerging
+- `@dependabot reopen` will reopen this PR if it is closed
+- `@dependabot close` will close this PR and stop Dependabot recreating
+it. You can achieve the same result by closing it manually
+- `@dependabot show &lt;dependency name&gt; ignore conditions` will show all
+of the ignore conditions of the specified dependency
+- `@dependabot ignore this major version` will close this PR and stop
+Dependabot creating any more for this major version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this minor version` will close this PR and stop
+Dependabot creating any more for this minor version (unless you reopen
+the PR or upgrade to it yourself)
+- `@dependabot ignore this dependency` will close this PR and stop
+Dependabot creating any more for this dependency (unless you reopen the
+PR or upgrade to it yourself)
+
+
+&lt;/details&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2037903</div>
+                                        <div class="message">build(deps-dev): bump solargraph-rails from 0.2.1.1 to 1.1.0
+
+Bumps [solargraph-rails](https://github.com/iftheshoefritz/solargraph-rails) from 0.2.1.1 to 1.1.0.
+- [Changelog](https://github.com/iftheshoefritz/solargraph-rails/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/iftheshoefritz/solargraph-rails/compare/v0.2.1.1...v1.1.0)
+
+---
+updated-dependencies:
+- dependency-name: solargraph-rails
+  dependency-type: direct:development
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/bundler/main/solargraph-rails-1.1.0</span>
+                                        in
+                                        <span class="repo">jaspermayone/greenhouse</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/bundler/main/turbo-rails-2.0.5</span>
+                                        in
+                                        <span class="repo">jaspermayone/greenhouse</span>
                                     </div>
                                 </div>
                             </section>
@@ -797,7 +1249,7 @@ Founder and Developer of @Cyaneus-Co &amp; @thepurplebubble.</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 May 2024, 12:13:24 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 May 2024, 13:11:04 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
