@@ -1,3 +1,3 @@
-![DJI_0002](https://github.com/jaspermayone/jaspermayone/assets/65788728/ed5ece56-7fe4-4700-9958-0eaf6a735340)
+![DJI_0002](https://github.com/jaspermayone/jaspermayone/assets/65788728/87adaeb8-0dcf-4736-ab85-b2c361eaeea5)
 
 # Jasper Mayone
