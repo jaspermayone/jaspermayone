@@ -10,15 +10,16 @@ Check out his website at [jaspermayone.com](https://jaspermayone.com).
 
 ## Cool Things I've Made ~
 
-### Personal Projects:
+### 🌱 Personal Projects:
 - [Greenhouse](https://github.com/jaspermayone/greenhouse)
 - [IT Tool](https://github.com/jaspermayone/ittool)
 - [@jaspermayone/logger](https://github.com/jaspermayone/logger) - Oooooh! Logs! Shiny!
 - [Phish Directory](https://github.com/jaspermayone/phish.directory) - A tool to help catch, prevent, and catalog phishing links & attempts.
 
-### Hack Club Projects:
+### <img src="https://cdn.purplebubble.org/logo.png" width="20" height="20" /> Purple Bubble:
+- [Magic Mirror](https://github.com/thepurplebubble/magic-mirror) - Mirroring Slack Channels Between Workspaces
+
+### <img src="https://assets.hackclub.com/icon-progress-rounded.png" width="20" height="20" /> Hack Club Projects:
 - [Pizza Fund](https://github.com/hackclub/pizza-fund) - Orpheus the delivery dino is ready to deliver your $100 pizza grants!
 - [Professor Bloom](https://github.com/hackclub/professor-bloom) - The beloved bot powering welcome-commitee @ Hack Club
 - [Arcadius](https://github.com/hackclub/arcadius) - Managing Hack Club's Arcade
-
-
