@@ -13,7 +13,7 @@ Check out his website at [jaspermayone.com](https://jaspermayone.com).
 ### Personal Projects:
 - [Greenhouse](https://github.com/jaspermayone/greenhouse)
 - [IT Tool](https://github.com/jaspermayone/ittool)
-- - [@jaspermayone/logger](https://github.com/jaspermayone/logger) - Oooooh! Logs! Shiny!
+- [@jaspermayone/logger](https://github.com/jaspermayone/logger) - Oooooh! Logs! Shiny!
 - [Phish Directory](https://github.com/jaspermayone/phish.directory) - A tool to help catch, prevent, and catalog phishing links & attempts.
 
 ### Hack Club Projects:
