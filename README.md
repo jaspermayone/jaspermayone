@@ -2,11 +2,11 @@
 
 # Jasper Mayone (he/they)
 
-Jasper Mayone is a 17-year-old high school student from Vermont. He is a circus performer, a coder, and a photographer.
+Jasper Mayone is a 17-year-old high school student from Vermont. They are a circus performer, a coder, and a photographer.
 
-A circus artist and a native Vermonter, Jasper is a high school graduate from the class of 2024! Graduating a full year early, he is currently taking a gap year to explore. Jasper tries to live by the quote “We’ve all got both light and dark inside us. What matters is the part we choose to act on...that’s who we really are.” from one of his favorite books, Harry Potter. Jasper’s hobbies include reading, being in the great outdoors, photography, computer programming, cooking, and running away to join the circus.
+A circus artist and a native Vermonter, Jasper is a high school graduate from the class of 2024! Graduating a full year early, they are currently taking a gap year to explore. Jasper tries to live by the quote “We’ve all got both light and dark inside us. What matters is the part we choose to act on...that’s who we really are.” from one of their favorite books, Harry Potter. Jasper’s hobbies include reading, being in the great outdoors, photography, computer programming, cooking, and running away to join the circus.
 
-Check out his website at [jaspermayone.com](https://jaspermayone.com).
+Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 ## Cool Things I've Made ~
 
