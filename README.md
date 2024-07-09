@@ -8,7 +8,7 @@ A circus artist and a native Vermonter, Jasper is a high school graduate from th
 
 Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
-## Cool Things I've Made ~
+## Cool Things I've Made:
 
 ### 🌱 Personal Projects:
 - [IT Tool](https://github.com/jaspermayone/ittool)
@@ -23,5 +23,5 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 - [Professor Bloom](https://github.com/hackclub/professor-bloom) - The beloved bot powering welcome-commitee @ Hack Club
 - [Arcadius](https://github.com/hackclub/arcadius) - Managing Hack Club's Arcade
 
-## Attributions ~ 
+## Attributions:
 - [@kcoderhtml/slackbot-ultimate-template](https://github.com/kcoderhtml/slackbot-ultimate-template?tab=readme-ov-file#template-example)
