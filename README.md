@@ -22,3 +22,6 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 - [Pizza Fund](https://github.com/hackclub/pizza-fund) - Orpheus the delivery dino is ready to deliver your $100 pizza grants!
 - [Professor Bloom](https://github.com/hackclub/professor-bloom) - The beloved bot powering welcome-commitee @ Hack Club
 - [Arcadius](https://github.com/hackclub/arcadius) - Managing Hack Club's Arcade
+
+## Attributions ~ 
+- [@kcoderhtml/slackbot-ultimate-template](https://github.com/kcoderhtml/slackbot-ultimate-template?tab=readme-ov-file#template-example)
