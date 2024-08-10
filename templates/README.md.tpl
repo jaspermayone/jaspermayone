@@ -14,12 +14,12 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 {{- end}}
 
 #### 🌱 My latest projects
-{{range recentCreatedRepos "charmbracelet" 10}}
+{{range recentCreatedRepos "jaspermayone" 10}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
 #### 🍴 My recent forks
-{{range recentForkedRepos "charmbracelet" 10}}
+{{range recentForkedRepos "jaspermayone-forks" 10}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
