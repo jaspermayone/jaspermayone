@@ -51,3 +51,5 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### Attributions:
 - [@kcoderhtml/slackbot-ultimate-template](https://github.com/kcoderhtml/slackbot-ultimate-template?tab=readme-ov-file#template-example)
+
+<sup><sub>🍴Check out my forks [here!](https://github.com/jaspermayone-forks/why)</sub></sup>
