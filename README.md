@@ -8,7 +8,7 @@ A circus artist and a native Vermonter, Jasper is a high school graduate from th
 
 Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
-#### 👷 What I'm currently working onL
+##### 👷 What I'm currently working onL
 
 - [api-bun](https://github.com/phish-directory/api-bun) -  (1 day ago)
 - [site](https://github.com/thepurplebubble/site) - Purple Bubble's main website. (3 days ago)
@@ -21,7 +21,7 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 - [meta](https://github.com/thepurplebubble/meta) - Misc Tasks/Docs & High Level things for PB (1 week ago)
 - [dns](https://github.com/hackclub/dns) - 🕹 Manage Hack Club's DNS through a GitHub repository (1 week ago)
 
-#### 🌱 My latest projects
+##### 🌱 My latest projects
 
 - [slacky](https://github.com/jaspermayone/slacky) - Small Slack Bot to Private / Unprivate Slack Channels without need for workspace owner
 - [configs](https://github.com/jaspermayone/configs) - Project Configs (And other misc stuff)
@@ -34,7 +34,7 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 - [Inkblend](https://github.com/jaspermayone/Inkblend) - 
 - [cowork-cafe](https://github.com/jaspermayone/cowork-cafe) - Showing open & vouched for public work spaces in an easy to view map.
 
-#### 🍴 My recent forks
+##### 🍴 My recent forks
 
 - [OnBoard](https://github.com/jaspermayone-forks/OnBoard) -  💡 Join 1,000 teenagers and make your first PCB with a $100 grant!
 - [arcadius](https://github.com/jaspermayone-forks/arcadius) - 
@@ -46,6 +46,8 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 - [charlotteenvironment](https://github.com/jaspermayone-forks/charlotteenvironment) - 
 - [hackclub_sprig](https://github.com/jaspermayone-forks/hackclub_sprig) - 🍃 Learn to code by making games in a JavaScript web-based game editor.
 - [hackclub_days-of-service](https://github.com/jaspermayone-forks/hackclub_days-of-service) - Website for Comms and Philanthropy team to use for donors and partners to see past, current, and planned days of service events. 
+
+---
 
 #### Things I've Made:
 
