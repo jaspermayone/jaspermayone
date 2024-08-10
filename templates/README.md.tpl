@@ -8,20 +8,22 @@ A circus artist and a native Vermonter, Jasper is a high school graduate from th
 
 Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
-#### 👷 What I'm currently working onL
+##### 👷 What I'm currently working onL
 {{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-#### 🌱 My latest projects
+##### 🌱 My latest projects
 {{range recentCreatedRepos "jaspermayone" 10}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-#### 🍴 My recent forks
+##### 🍴 My recent forks
 {{range recentForkedRepos "jaspermayone-forks" 10}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
+
+---
 
 #### Things I've Made:
 
