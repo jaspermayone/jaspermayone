@@ -10,11 +10,11 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (2 days ago)
-- [public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀 (2 days ago)
-- [api-bun](https://github.com/phish-directory/api-bun) -  (4 days ago)
-- [greenhouse](https://github.com/jaspermayone/greenhouse) -  (6 days ago)
-- [ittool](https://github.com/jaspermayone/ittool) -  (6 days ago)
+- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (3 days ago)
+- [public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀 (3 days ago)
+- [api-bun](https://github.com/phish-directory/api-bun) -  (5 days ago)
+- [greenhouse](https://github.com/jaspermayone/greenhouse) -  (1 week ago)
+- [ittool](https://github.com/jaspermayone/ittool) -  (1 week ago)
 
 #### 🌱 My latest projects
 
