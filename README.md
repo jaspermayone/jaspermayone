@@ -10,19 +10,19 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
+- [metro](https://github.com/jaspermayone/metro) - Subway Map for Boston's T with realtime data (today)
 - [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (1 day ago)
 - [ittool](https://github.com/jaspermayone/ittool) -  (1 day ago)
 - [public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀 (4 days ago)
 - [api-bun](https://github.com/phish-directory/api-bun) -  (6 days ago)
-- [greenhouse](https://github.com/jaspermayone/greenhouse) -  (1 week ago)
 
 #### 🌱 My latest projects
 
+- [metro](https://github.com/jaspermayone/metro) - Subway Map for Boston's T with realtime data
 - [slacky](https://github.com/jaspermayone/slacky) - Small Slack Bot to Private / Unprivate Slack Channels without need for workspace owner
 - [configs](https://github.com/jaspermayone/configs) - Project Configs (And other misc stuff)
 - [calendar-name-tbd](https://github.com/jaspermayone/calendar-name-tbd) - A calendar that stores all your data in a human-readable file format. You can move the file across computers and still have a view of all of your past events.
 - [welcome-recruiter](https://github.com/jaspermayone/welcome-recruiter) - 👀 keeping an eye out for cool people in #welcome (VERY WORK IN PROGRESS)
-- [logger](https://github.com/jaspermayone/logger) - Oooooh! Logs! Shiny!
 
 #### 🍴 My recent forks
 
