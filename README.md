@@ -10,7 +10,7 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (2 days ago)
+- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (today)
 - [metro](https://github.com/jaspermayone/metro) - An interactive map of Boston's transit system. (2 days ago)
 - [ittool](https://github.com/jaspermayone/ittool) -  (4 days ago)
 - [public-api-lists](https://github.com/public-api-lists/public-api-lists) - A collective list of free APIs for use in software and web development 🚀 (1 week ago)
