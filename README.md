@@ -10,19 +10,19 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
+- [ysws-api](https://github.com/jaspermayone/ysws-api) -  (today)
 - [website](https://github.com/phish-directory/website) -  (2 days ago)
 - [greenhouse](https://github.com/jaspermayone/greenhouse) -  (5 days ago)
 - [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (1 week ago)
 - [metro](https://github.com/jaspermayone/metro) - An interactive map of Boston's transit system. (2 weeks ago)
-- [ittool](https://github.com/jaspermayone/ittool) -  (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [ysws-api](https://github.com/jaspermayone/ysws-api) - 
 - [metro](https://github.com/jaspermayone/metro) - An interactive map of Boston's transit system.
 - [slacky](https://github.com/jaspermayone/slacky) - Small Slack Bot to Private / Unprivate Slack Channels without need for workspace owner
 - [configs](https://github.com/jaspermayone/configs) - Project Configs (And other misc stuff)
 - [calendar-name-tbd](https://github.com/jaspermayone/calendar-name-tbd) - A calendar that stores all your data in a human-readable file format. You can move the file across computers and still have a view of all of your past events.
-- [welcome-recruiter](https://github.com/jaspermayone/welcome-recruiter) - 👀 keeping an eye out for cool people in #welcome (VERY WORK IN PROGRESS)
 
 #### 🍴 My recent forks
 
