@@ -10,11 +10,11 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [goodbye-pb](https://github.com/thepurplebubble/goodbye-pb) - Jasper's letter to the PB community - 9/1/2024 (today)
-- [.github](https://github.com/thepurplebubble/.github) -  (today)
-- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (today)
-- [ysws-api](https://github.com/jaspermayone/ysws-api) -  (1 day ago)
-- [website](https://github.com/phish-directory/website) -  (3 days ago)
+- [goodbye-pb](https://github.com/thepurplebubble/goodbye-pb) - Jasper's letter to the PB community - 9/1/2024 (1 day ago)
+- [.github](https://github.com/thepurplebubble/.github) -  (1 day ago)
+- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (1 day ago)
+- [ysws-api](https://github.com/jaspermayone/ysws-api) -  (2 days ago)
+- [website](https://github.com/phish-directory/website) -  (4 days ago)
 
 #### 🌱 My latest projects
 
