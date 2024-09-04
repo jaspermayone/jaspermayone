@@ -10,19 +10,19 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
+- [sound-savvy](https://github.com/jaspermayone/sound-savvy) - something cool this way comes. Soon™ | (802) 494-1091 (today)
 - [goodbye-pb](https://github.com/thepurplebubble/goodbye-pb) - Jasper's letter to the PB community - 9/1/2024 (3 days ago)
 - [.github](https://github.com/thepurplebubble/.github) -  (3 days ago)
 - [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (3 days ago)
 - [ysws-api](https://github.com/jaspermayone/ysws-api) -  (4 days ago)
-- [website](https://github.com/phish-directory/website) -  (6 days ago)
 
 #### 🌱 My latest projects
 
+- [sound-savvy](https://github.com/jaspermayone/sound-savvy) - something cool this way comes. Soon™ | (802) 494-1091
 - [ysws-api](https://github.com/jaspermayone/ysws-api) - 
 - [metro](https://github.com/jaspermayone/metro) - An interactive map of Boston's transit system.
 - [slacky](https://github.com/jaspermayone/slacky) - Small Slack Bot to Private / Unprivate Slack Channels without need for workspace owner
 - [configs](https://github.com/jaspermayone/configs) - Project Configs (And other misc stuff)
-- [calendar-name-tbd](https://github.com/jaspermayone/calendar-name-tbd) - A calendar that stores all your data in a human-readable file format. You can move the file across computers and still have a view of all of your past events.
 
 #### 🍴 My recent forks
 
