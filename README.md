@@ -10,11 +10,11 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [sound-savvy](https://github.com/jaspermayone/sound-savvy) - something cool this way comes. Soon™ | (802) 494-1091 (today)
-- [goodbye-pb](https://github.com/thepurplebubble/goodbye-pb) - Jasper's letter to the PB community - 9/1/2024 (3 days ago)
-- [.github](https://github.com/thepurplebubble/.github) -  (3 days ago)
-- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (3 days ago)
-- [ysws-api](https://github.com/jaspermayone/ysws-api) -  (4 days ago)
+- [sound-savvy](https://github.com/jaspermayone/sound-savvy) - something cool this way comes. Soon™ | (802) 494-1091 (1 day ago)
+- [goodbye-pb](https://github.com/thepurplebubble/goodbye-pb) - Jasper's letter to the PB community - 9/1/2024 (4 days ago)
+- [.github](https://github.com/thepurplebubble/.github) -  (4 days ago)
+- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (4 days ago)
+- [ysws-api](https://github.com/jaspermayone/ysws-api) -  (5 days ago)
 
 #### 🌱 My latest projects
 
