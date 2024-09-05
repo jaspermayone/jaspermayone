@@ -10,16 +10,16 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [sound-savvy](https://github.com/jaspermayone/sound-savvy) - something cool this way comes. Soon™ | (802) 494-1091 (1 day ago)
 - [.github](https://github.com/thepurplebubble/.github) -  (1 day ago)
+- [sound-savvy](https://github.com/jaspermayone/sound-savvy) - something cool this way comes. Soon™ | (802) 494-1091 (1 day ago)
 - [goodbye-pb](https://github.com/thepurplebubble/goodbye-pb) - Jasper's letter to the PB community - 9/1/2024 (4 days ago)
 - [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (4 days ago)
-- [ysws-api](https://github.com/jaspermayone/ysws-api) -  (5 days ago)
+- [ysws-api](https://github.com/jaspermayone/ysws-api) - API for @hackclub's Onboard program | Built for @Limeskey (5 days ago)
 
 #### 🌱 My latest projects
 
 - [sound-savvy](https://github.com/jaspermayone/sound-savvy) - something cool this way comes. Soon™ | (802) 494-1091
-- [ysws-api](https://github.com/jaspermayone/ysws-api) - 
+- [ysws-api](https://github.com/jaspermayone/ysws-api) - API for @hackclub's Onboard program | Built for @Limeskey
 - [metro](https://github.com/jaspermayone/metro) - An interactive map of Boston's transit system.
 - [slacky](https://github.com/jaspermayone/slacky) - Small Slack Bot to Private / Unprivate Slack Channels without need for workspace owner
 - [configs](https://github.com/jaspermayone/configs) - Project Configs (And other misc stuff)
@@ -27,7 +27,7 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 #### 🍴 My recent forks
 
 - [OnBoard](https://github.com/jaspermayone-forks/OnBoard) -  💡 Join 1,000 teenagers and make your first PCB with a $100 grant!
-- [arcadius](https://github.com/jaspermayone-forks/arcadius) - 
+- [arcadius](https://github.com/jaspermayone-forks/arcadius) - Helping hand @hackclub's Arcade
 - [mfa](https://github.com/jaspermayone-forks/mfa) - Hack Club's solution for sharing multi-factor authentication (MFA) codes for team accounts
 - [hackclub_cow2](https://github.com/jaspermayone-forks/hackclub_cow2) - Hack Club Cow 2.0 🐄 - a GPT-3 powered cow chatbot for Slack
 - [hackclub_cow](https://github.com/jaspermayone-forks/hackclub_cow) - The Hack Club Cow, a semi-intelligent chatbot that roams the Slack!
