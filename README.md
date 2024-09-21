@@ -2,19 +2,19 @@
 
 # Jasper Mayone (he/they)
 
-Jasper Mayone is a 17-year-old high school student from Vermont. They are a circus performer, a coder, and a photographer.
+Jasper Mayone is a 18-year-old post high school graduate from rural Vermont. They are a circus performer, a coder, and a photographer.
 
-A circus artist and a native Vermonter, Jasper is a high school graduate from the class of 2024! Graduating a full year early, they are currently taking a gap year to explore. Jasper tries to live by the quote “We’ve all got both light and dark inside us. What matters is the part we choose to act on...that’s who we really are.” from one of their favorite books, Harry Potter. Jasper’s hobbies include reading, being in the great outdoors, photography, computer programming, cooking, and running away to join the circus.
+A circus artist and a native Vermonter, Jasper is a high school graduate from the class of 2024! Having completed high school in just 3 years, they are currently taking a gap year to explore. Jasper tries to live by the quote “We’ve all got both light and dark inside us. What matters is the part we choose to act on...that’s who we really are.” from one of their favorite books, Harry Potter. Jasper’s hobbies include reading, being in the great outdoors, photography, computer programming, cooking, and running away to join the circus.
 
 Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (2 days ago)
-- [sound-savvy](https://github.com/jaspermayone/sound-savvy) - something cool this way comes. Soon™ | (802) 494-1091 (4 days ago)
-- [.github](https://github.com/thepurplebubble/.github) -  (4 days ago)
-- [goodbye-pb](https://github.com/thepurplebubble/goodbye-pb) - Jasper's letter to the PB community - 9/1/2024 (1 week ago)
-- [ysws-api](https://github.com/jaspermayone/ysws-api) - API for @hackclub's Onboard program | Built for @Limeskey (1 week ago)
+- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (1 day ago)
+- [public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers (4 days ago)
+- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (1 week ago)
+- [.github](https://github.com/phish-directory/.github) -  (1 week ago)
+- [slack-bot](https://github.com/phish-directory/slack-bot) -  (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -26,11 +26,11 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 🍴 My recent forks
 
+- [xcresulttool](https://github.com/jaspermayone-forks/xcresulttool) - A GitHub Action that generates a human-readable test report from the Xcode result bundle and shows it on GitHub Checks.
 - [OnBoard](https://github.com/jaspermayone-forks/OnBoard) -  💡 Join 1,000 teenagers and make your first PCB with a $100 grant!
 - [arcadius](https://github.com/jaspermayone-forks/arcadius) - Helping hand @hackclub's Arcade
 - [mfa](https://github.com/jaspermayone-forks/mfa) - Hack Club's solution for sharing multi-factor authentication (MFA) codes for team accounts
 - [hackclub_cow2](https://github.com/jaspermayone-forks/hackclub_cow2) - Hack Club Cow 2.0 🐄 - a GPT-3 powered cow chatbot for Slack
-- [hackclub_cow](https://github.com/jaspermayone-forks/hackclub_cow) - The Hack Club Cow, a semi-intelligent chatbot that roams the Slack!
 
 ---
 
