@@ -10,11 +10,11 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [server-node](https://github.com/thepurplebubble/server-node) -  (1 day ago)
-- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (3 days ago)
-- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (4 days ago)
+- [server-node](https://github.com/thepurplebubble/server-node) -  (2 days ago)
+- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (4 days ago)
+- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (5 days ago)
 - [public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers (1 week ago)
-- [slack-bot](https://github.com/phish-directory/slack-bot) -  (1 week ago)
+- [slack-bot](https://github.com/phish-directory/slack-bot) -  (2 weeks ago)
 
 #### 🌱 My latest projects
 
