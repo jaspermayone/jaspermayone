@@ -14,7 +14,7 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 - [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (6 days ago)
 - [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (1 week ago)
 - [public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers (1 week ago)
-- [slack-bot](https://github.com/phish-directory/slack-bot) -  (2 weeks ago)
+- [.github](https://github.com/phish-directory/.github) -  (2 weeks ago)
 
 #### 🌱 My latest projects
 
