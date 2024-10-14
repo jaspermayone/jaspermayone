@@ -12,9 +12,9 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 - [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (1 week ago)
 - [server-node](https://github.com/thepurplebubble/server-node) -  (2 weeks ago)
-- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (2 weeks ago)
+- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (3 weeks ago)
 - [public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers (3 weeks ago)
-- [slack-bot](https://github.com/phish-directory/slack-bot) -  (4 weeks ago)
+- [slack-bot](https://github.com/phish-directory/slack-bot) -  (1 month ago)
 
 #### 🌱 My latest projects
 
