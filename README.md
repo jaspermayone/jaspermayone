@@ -10,19 +10,19 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (3 days ago)
+- [loops-to-website](https://github.com/jaspermayone/loops-to-website) - Sending loops newsletter to my personal site at /blog (today)
 - [metro](https://github.com/jaspermayone/metro) - An interactive map of Boston's transit system. (3 days ago)
+- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (3 days ago)
 - [server-node](https://github.com/thepurplebubble/server-node) -  (3 weeks ago)
 - [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (3 weeks ago)
-- [public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers (1 month ago)
 
 #### 🌱 My latest projects
 
+- [loops-to-website](https://github.com/jaspermayone/loops-to-website) - Sending loops newsletter to my personal site at /blog
 - [sound-savvy](https://github.com/jaspermayone/sound-savvy) - something cool this way comes. Soon™ | (802) 494-1091
 - [ysws-api](https://github.com/jaspermayone/ysws-api) - API for @hackclub's Onboard program | Built for @Limeskey
 - [metro](https://github.com/jaspermayone/metro) - An interactive map of Boston's transit system.
 - [slacky](https://github.com/jaspermayone/slacky) - Small Slack Bot to Private / Unprivate Slack Channels without need for workspace owner
-- [configs](https://github.com/jaspermayone/configs) - Project Configs (And other misc stuff)
 
 #### 🍴 My recent forks
 
