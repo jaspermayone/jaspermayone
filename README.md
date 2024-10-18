@@ -10,9 +10,9 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [loops-to-website](https://github.com/jaspermayone/loops-to-website) - Sending loops newsletter to my personal site at /blog (today)
-- [metro](https://github.com/jaspermayone/metro) - An interactive map of Boston's transit system. (3 days ago)
-- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (3 days ago)
+- [loops-to-website](https://github.com/jaspermayone/loops-to-website) - Sending loops newsletter to my personal site at /blog (1 day ago)
+- [metro](https://github.com/jaspermayone/metro) - An interactive map of Boston's transit system. (4 days ago)
+- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (4 days ago)
 - [server-node](https://github.com/thepurplebubble/server-node) -  (3 weeks ago)
 - [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (3 weeks ago)
 
