@@ -10,10 +10,10 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [typescript-template](https://github.com/jaspermayone/typescript-template) -  (1 day ago)
-- [loops-to-website](https://github.com/jaspermayone/loops-to-website) - Sending loops newsletter to my personal site at /blog (1 day ago)
-- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (5 days ago)
-- [metro](https://github.com/jaspermayone/metro) - An interactive map of Boston's transit system. (5 days ago)
+- [typescript-template](https://github.com/jaspermayone/typescript-template) -  (2 days ago)
+- [loops-to-website](https://github.com/jaspermayone/loops-to-website) - Sending loops newsletter to my personal site at /blog (2 days ago)
+- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (6 days ago)
+- [metro](https://github.com/jaspermayone/metro) - An interactive map of Boston's transit system. (6 days ago)
 - [server-node](https://github.com/thepurplebubble/server-node) -  (3 weeks ago)
 
 #### 🌱 My latest projects
