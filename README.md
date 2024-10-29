@@ -10,11 +10,11 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
+- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (today)
 - [loops-to-website](https://github.com/jaspermayone/loops-to-website) - Sending loops newsletter to my personal site at /blog (1 week ago)
 - [typescript-template](https://github.com/jaspermayone/typescript-template) -  (1 week ago)
 - [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (2 weeks ago)
 - [metro](https://github.com/jaspermayone/metro) - An interactive map of Boston's transit system. (2 weeks ago)
-- [server-node](https://github.com/thepurplebubble/server-node) -  (1 month ago)
 
 #### 🌱 My latest projects
 
