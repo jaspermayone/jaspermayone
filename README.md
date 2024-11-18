@@ -14,7 +14,7 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 - [typescript-template](https://github.com/jaspermayone/typescript-template) -  (1 day ago)
 - [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (2 weeks ago)
 - [loops-to-website](https://github.com/jaspermayone/loops-to-website) - Sending loops newsletter to my personal site at /blog (1 month ago)
-- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (1 month ago)
+- [metro](https://github.com/jaspermayone/metro) - An interactive map of Boston's transit system. (1 month ago)
 
 #### 🌱 My latest projects
 
