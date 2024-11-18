@@ -10,8 +10,8 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [typescript-template](https://github.com/jaspermayone/typescript-template) -  (today)
-- [socialposter](https://github.com/jaspermayone/socialposter) - Posts to all your socials bc it's hard to manage them all (today)
+- [typescript-template](https://github.com/jaspermayone/typescript-template) -  (1 day ago)
+- [socialposter](https://github.com/jaspermayone/socialposter) - Posts to all your socials bc it's hard to manage them all (1 day ago)
 - [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (2 weeks ago)
 - [loops-to-website](https://github.com/jaspermayone/loops-to-website) - Sending loops newsletter to my personal site at /blog (1 month ago)
 - [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (1 month ago)
