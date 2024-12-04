@@ -10,7 +10,7 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [.github](https://github.com/thepurplebubble/.github) -  (2 days ago)
+- [.github](https://github.com/thepurplebubble/.github) -  (3 days ago)
 - [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (1 week ago)
 - [everywhere](https://github.com/jaspermayone/everywhere) - Posts to all your socials bc it's hard to manage them all (1 week ago)
 - [typescript-template](https://github.com/jaspermayone/typescript-template) -  (2 weeks ago)
