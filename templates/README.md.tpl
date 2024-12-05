@@ -2,9 +2,13 @@
 
 # Jasper Mayone (he/they)
 
-Jasper Mayone is a 18-year-old post high school graduate from rural Vermont. They are a circus performer, a coder, and a photographer.
+Jasper Mayone is a 18-year-old post high school graduate from rural Vermont. They are a circus performer, coder, and photographer.
 
-A circus artist and a native Vermonter, Jasper is a high school graduate from the class of 2024! Having completed high school in just 3 years, they are currently taking a gap year to explore. Jasper tries to live by the quote “We’ve all got both light and dark inside us. What matters is the part we choose to act on...that’s who we really are.” from one of their favorite books, Harry Potter. Jasper’s hobbies include reading, being in the great outdoors, photography, computer programming, cooking, and running away to join the circus.
+A circus artist and a native Vermonter, Jasper is currently pursuing a gap year after their successful completion of high school a full year early. Jasper tries to live by the quote "We've all got both light and dark inside us. What matters is the part we choose to act on...that's who we really are." Jasper's hobbies include reading, being in the great outdoors, photography, computer programming, cooking, and running away to join the circus.
+
+An avid organizer and big picture thinker, you can often find them scheming up some sort of business venture. From developing a small app to drafting large scale plans for a world domination scheme, Jasper is always looking for ways to combine their diverse interests and skills into enterprising projects. This knack for organization and leadership has opened doors for Jasper to take on exciting roles in various projects and adventures, both close to home and abroad.
+
+Recently, Jasper's adventures include a month-long trip to Rwanda, where they filmed a documentary and managed production for his fellow students' films. They also played a key role in the Waitsfield Elementary PTA's Annual Ski & Skate sale, co-coordinated large scale climate conferences called “See Change Sessions” with thousands of attendees, enjoyed concerts by Sammy Rae & the Friends, AJR, and Lake Street Dive.
 
 Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
