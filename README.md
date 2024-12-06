@@ -14,8 +14,8 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (today)
-- [.github](https://github.com/thepurplebubble/.github) -  (4 days ago)
+- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (1 day ago)
+- [.github](https://github.com/thepurplebubble/.github) -  (5 days ago)
 - [everywhere](https://github.com/jaspermayone/everywhere) - Posts to all your socials bc it's hard to manage them all (1 week ago)
 - [typescript-template](https://github.com/jaspermayone/typescript-template) -  (2 weeks ago)
 - [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (1 month ago)
