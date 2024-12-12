@@ -22,11 +22,11 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 🌱 My latest projects
 
+- [sf-lmp](https://github.com/jaspermayone/sf-lmp) - License Managment Portal (LMP) for Single Feather LLC Projects
 - [everywhere](https://github.com/jaspermayone/everywhere) - Posts to all your socials bc it's hard to manage them all
 - [loops-to-website](https://github.com/jaspermayone/loops-to-website) - Sending loops newsletter to my personal site at /blog
 - [sound-savvy](https://github.com/jaspermayone/sound-savvy) - something cool this way comes. Soon™ | (802) 494-1091
 - [ysws-api](https://github.com/jaspermayone/ysws-api) - API for @hackclub's Onboard program | Built for @Limeskey
-- [metro](https://github.com/jaspermayone/metro) - An interactive map of Boston's transit system.
 
 #### 🍴 My recent forks
 
