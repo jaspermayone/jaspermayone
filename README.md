@@ -14,11 +14,11 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (1 day ago)
+- [.github](https://github.com/jaspermayone/.github) -  (today)
 - [sf-lmp](https://github.com/jaspermayone/sf-lmp) - License Managment Portal (LMP) for Single Feather LLC Projects (1 day ago)
+- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (1 day ago)
 - [.github](https://github.com/thepurplebubble/.github) -  (1 week ago)
 - [everywhere](https://github.com/jaspermayone/everywhere) - Posts to all your socials bc it's hard to manage them all (2 weeks ago)
-- [typescript-template](https://github.com/jaspermayone/typescript-template) -  (3 weeks ago)
 
 #### 🌱 My latest projects
 
