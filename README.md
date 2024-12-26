@@ -15,8 +15,8 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 #### 👷 What I'm currently working on:
 
 - [.github](https://github.com/jaspermayone/.github) -  (1 week ago)
-- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (1 week ago)
-- [sf-lmp](https://github.com/jaspermayone/sf-lmp) - License Managment Portal (LMP) for Single Feather LLC Projects (1 week ago)
+- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (2 weeks ago)
+- [sf-lmp](https://github.com/jaspermayone/sf-lmp) - License Managment Portal (LMP) for Single Feather LLC Projects (2 weeks ago)
 - [.github](https://github.com/thepurplebubble/.github) -  (3 weeks ago)
 - [everywhere](https://github.com/jaspermayone/everywhere) - Posts to all your socials bc it's hard to manage them all (1 month ago)
 
