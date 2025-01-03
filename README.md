@@ -14,10 +14,10 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (1 day ago)
-- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (5 days ago)
-- [website](https://github.com/phish-directory/website) -  (5 days ago)
-- [.github](https://github.com/jaspermayone/.github) -  (2 weeks ago)
+- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (2 days ago)
+- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (6 days ago)
+- [website](https://github.com/phish-directory/website) -  (6 days ago)
+- [.github](https://github.com/jaspermayone/.github) -  (3 weeks ago)
 - [sf-lmp](https://github.com/jaspermayone/sf-lmp) - License Managment Portal (LMP) for Single Feather LLC Projects (3 weeks ago)
 
 #### 🌱 My latest projects
