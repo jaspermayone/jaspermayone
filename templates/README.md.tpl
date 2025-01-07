@@ -8,7 +8,7 @@ A circus artist and a native Vermonter, Jasper is currently pursuing a gap year 
 
 An avid organizer and big picture thinker, you can often find them scheming up some sort of business venture. From developing a small app to drafting large scale plans for a world domination scheme, Jasper is always looking for ways to combine their diverse interests and skills into enterprising projects. This knack for organization and leadership has opened doors for Jasper to take on exciting roles in various projects and adventures, both close to home and abroad.
 
-Recently, Jasper's adventures include a month-long trip to Rwanda, where they filmed a documentary and managed production for his fellow students' films. They also played a key role in the Waitsfield Elementary PTA's Annual Ski & Skate sale, co-coordinated large scale climate conferences called “See Change Sessions” with thousands of attendees, enjoyed concerts by Sammy Rae & the Friends, AJR, and Lake Street Dive.
+Recently, Jasper's adventures include a month-long trip to Rwanda, where they filmed a documentary and managed production for his fellow students' films. They also played a key role in the Waitsfield Elementary PTA's Annual Ski & Skate sale, co-coordinated large scale climate conferences called “See Change Sessions” with thousands of attendees, and enjoyed concerts by Sammy Rae & the Friends, AJR, and Lake Street Dive.
 
 Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
