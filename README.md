@@ -14,8 +14,8 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [domain-score-system](https://github.com/phish-directory/domain-score-system) -  (today)
-- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (5 days ago)
+- [domain-score-system](https://github.com/phish-directory/domain-score-system) -  (1 day ago)
+- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (6 days ago)
 - [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (1 week ago)
 - [website](https://github.com/phish-directory/website) -  (1 week ago)
 - [.github](https://github.com/jaspermayone/.github) -  (3 weeks ago)
