@@ -14,19 +14,19 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
+- [ocr-schedule-microservice](https://github.com/jaspermayone/ocr-schedule-microservice) - fast microservice to accompany n8n workflow (today)
 - [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (today)
 - [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (3 days ago)
 - [domain-score-system](https://github.com/phish-directory/domain-score-system) -  (3 days ago)
 - [website](https://github.com/phish-directory/website) -  (1 week ago)
-- [.github](https://github.com/jaspermayone/.github) -  (3 weeks ago)
 
 #### 🌱 My latest projects
 
+- [ocr-schedule-microservice](https://github.com/jaspermayone/ocr-schedule-microservice) - fast microservice to accompany n8n workflow
 - [next-components](https://github.com/jaspermayone/next-components) - 
 - [sf-lmp](https://github.com/jaspermayone/sf-lmp) - License Managment Portal (LMP) for Single Feather LLC Projects
 - [everywhere](https://github.com/jaspermayone/everywhere) - Posts to all your socials bc it's hard to manage them all
 - [loops-to-website](https://github.com/jaspermayone/loops-to-website) - Sending loops newsletter to my personal site at /blog
-- [sound-savvy](https://github.com/jaspermayone/sound-savvy) - something cool this way comes. Soon™ | (802) 494-1091
 
 #### 🍴 My recent forks
 
