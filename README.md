@@ -14,11 +14,11 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (2 days ago)
+- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (1 day ago)
+- [.github](https://github.com/phish-directory/.github) -  (1 day ago)
 - [ocr-schedule-microservice](https://github.com/jaspermayone/ocr-schedule-microservice) - fast microservice to accompany n8n workflow (4 days ago)
 - [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (1 week ago)
 - [domain-score-system](https://github.com/phish-directory/domain-score-system) -  (1 week ago)
-- [website](https://github.com/phish-directory/website) -  (2 weeks ago)
 
 #### 🌱 My latest projects
 
