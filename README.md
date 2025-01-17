@@ -14,11 +14,11 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (1 day ago)
-- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (1 day ago)
-- [scripts](https://github.com/phish-directory/scripts) - A collection of scripts phishdir uses (1 day ago)
-- [.github](https://github.com/phish-directory/.github) -  (3 days ago)
-- [ocr-schedule-microservice](https://github.com/jaspermayone/ocr-schedule-microservice) - fast microservice to accompany n8n workflow (6 days ago)
+- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (2 days ago)
+- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (2 days ago)
+- [scripts](https://github.com/phish-directory/scripts) - A collection of scripts phishdir uses (2 days ago)
+- [.github](https://github.com/phish-directory/.github) -  (4 days ago)
+- [ocr-schedule-microservice](https://github.com/jaspermayone/ocr-schedule-microservice) - fast microservice to accompany n8n workflow (1 week ago)
 
 #### 🌱 My latest projects
 
