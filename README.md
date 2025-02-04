@@ -14,7 +14,7 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [everywhere](https://github.com/jaspermayone/everywhere) - Posts to all your socials bc it's hard to manage them all (2 days ago)
+- [slack-bot](https://github.com/phish-directory/slack-bot) -  (2 days ago)
 - [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (2 days ago)
 - [logger](https://github.com/jaspermayone/logger) - Oooooh! Logs! Shiny! (2 days ago)
 - [website](https://github.com/phish-directory/website) -  (2 days ago)
