@@ -14,11 +14,11 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [everywhere](https://github.com/jaspermayone/everywhere) - Posts to all your socials bc it's hard to manage them all (1 day ago)
-- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (1 day ago)
-- [logger](https://github.com/jaspermayone/logger) - Oooooh! Logs! Shiny! (1 day ago)
-- [website](https://github.com/phish-directory/website) -  (1 day ago)
-- [metro](https://github.com/jaspermayone/metro) - An interactive map of Boston's transit system. (1 day ago)
+- [everywhere](https://github.com/jaspermayone/everywhere) - Posts to all your socials bc it's hard to manage them all (2 days ago)
+- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (2 days ago)
+- [logger](https://github.com/jaspermayone/logger) - Oooooh! Logs! Shiny! (2 days ago)
+- [website](https://github.com/phish-directory/website) -  (2 days ago)
+- [metro](https://github.com/jaspermayone/metro) - An interactive map of Boston's transit system. (2 days ago)
 
 #### 🌱 My latest projects
 
