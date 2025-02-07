@@ -14,27 +14,27 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [slack-bot](https://github.com/phish-directory/slack-bot) -  (5 days ago)
+- [pinit](https://github.com/jaspermayone/pinit) -  (today)
+- [metro](https://github.com/jaspermayone/metro) - An interactive map of Boston's transit system. (5 days ago)
+- [website](https://github.com/phish-directory/website) -  (5 days ago)
 - [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (5 days ago)
 - [loops-to-website](https://github.com/jaspermayone/loops-to-website) - Sending loops newsletter to my personal site at /blog (5 days ago)
-- [website](https://github.com/phish-directory/website) -  (5 days ago)
-- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (5 days ago)
 
 #### 🌱 My latest projects
 
+- [template](https://github.com/jaspermayone/template) - 
+- [pinit](https://github.com/jaspermayone/pinit) - 
 - [ocr-schedule-microservice](https://github.com/jaspermayone/ocr-schedule-microservice) - fast microservice to accompany n8n workflow
 - [next-components](https://github.com/jaspermayone/next-components) - 
 - [sf-lmp](https://github.com/jaspermayone/sf-lmp) - License Managment Portal (LMP) for Single Feather LLC Projects
-- [everywhere](https://github.com/jaspermayone/everywhere) - Posts to all your socials bc it's hard to manage them all
-- [loops-to-website](https://github.com/jaspermayone/loops-to-website) - Sending loops newsletter to my personal site at /blog
 
 #### 🍴 My recent forks
 
+- [temp-email](https://github.com/jaspermayone-forks/temp-email) - temporary email issuance for the @hackclub slack
 - [Maccy](https://github.com/jaspermayone-forks/Maccy) - Lightweight clipboard manager for macOS
 - [HardenAD](https://github.com/jaspermayone-forks/HardenAD) - Hardening Active Directory version 2
 - [uBlock](https://github.com/jaspermayone-forks/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [limeskey.com](https://github.com/jaspermayone-forks/limeskey.com) - Profile Page For LimesKey
-- [zphisher](https://github.com/jaspermayone-forks/zphisher) - An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
 
 ---
 
