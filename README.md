@@ -14,11 +14,11 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [slack-bot](https://github.com/phish-directory/slack-bot) -  (4 days ago)
-- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (4 days ago)
-- [loops-to-website](https://github.com/jaspermayone/loops-to-website) - Sending loops newsletter to my personal site at /blog (4 days ago)
-- [website](https://github.com/phish-directory/website) -  (4 days ago)
-- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (4 days ago)
+- [slack-bot](https://github.com/phish-directory/slack-bot) -  (5 days ago)
+- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (5 days ago)
+- [loops-to-website](https://github.com/jaspermayone/loops-to-website) - Sending loops newsletter to my personal site at /blog (5 days ago)
+- [website](https://github.com/phish-directory/website) -  (5 days ago)
+- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (5 days ago)
 
 #### 🌱 My latest projects
 
