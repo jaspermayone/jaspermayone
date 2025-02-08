@@ -14,11 +14,11 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [template](https://github.com/jaspermayone/template) -  (today)
-- [pinit](https://github.com/jaspermayone/pinit) -  (today)
-- [logger](https://github.com/jaspermayone/logger) - Oooooh! Logs! Shiny! (5 days ago)
-- [loops-to-website](https://github.com/jaspermayone/loops-to-website) - Sending loops newsletter to my personal site at /blog (5 days ago)
-- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (5 days ago)
+- [template](https://github.com/jaspermayone/template) -  (1 day ago)
+- [pinit](https://github.com/jaspermayone/pinit) -  (1 day ago)
+- [logger](https://github.com/jaspermayone/logger) - Oooooh! Logs! Shiny! (6 days ago)
+- [loops-to-website](https://github.com/jaspermayone/loops-to-website) - Sending loops newsletter to my personal site at /blog (6 days ago)
+- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (6 days ago)
 
 #### 🌱 My latest projects
 
