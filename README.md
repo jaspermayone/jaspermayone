@@ -16,9 +16,9 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 - [template](https://github.com/jaspermayone/template) -  (1 day ago)
 - [pinit](https://github.com/jaspermayone/pinit) -  (1 day ago)
-- [logger](https://github.com/jaspermayone/logger) - Oooooh! Logs! Shiny! (6 days ago)
-- [loops-to-website](https://github.com/jaspermayone/loops-to-website) - Sending loops newsletter to my personal site at /blog (6 days ago)
-- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (6 days ago)
+- [everywhere](https://github.com/jaspermayone/everywhere) - Posts to all your socials bc it's hard to manage them all (6 days ago)
+- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (6 days ago)
+- [website](https://github.com/phish-directory/website) -  (6 days ago)
 
 #### 🌱 My latest projects
 
