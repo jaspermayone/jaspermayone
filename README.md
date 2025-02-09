@@ -14,11 +14,11 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [template](https://github.com/jaspermayone/template) -  (1 day ago)
-- [pinit](https://github.com/jaspermayone/pinit) -  (1 day ago)
-- [everywhere](https://github.com/jaspermayone/everywhere) - Posts to all your socials bc it's hard to manage them all (6 days ago)
-- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (6 days ago)
-- [website](https://github.com/phish-directory/website) -  (6 days ago)
+- [template](https://github.com/jaspermayone/template) -  (2 days ago)
+- [pinit](https://github.com/jaspermayone/pinit) -  (2 days ago)
+- [everywhere](https://github.com/jaspermayone/everywhere) - Posts to all your socials bc it's hard to manage them all (1 week ago)
+- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (1 week ago)
+- [website](https://github.com/phish-directory/website) -  (1 week ago)
 
 #### 🌱 My latest projects
 
