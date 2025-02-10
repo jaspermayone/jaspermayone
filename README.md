@@ -17,8 +17,8 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 - [yoinkit](https://github.com/jaspermayone/yoinkit) - Yoiking media from the web (chrome extension) (today)
 - [template](https://github.com/jaspermayone/template) -  (3 days ago)
 - [pinit](https://github.com/jaspermayone/pinit) -  (3 days ago)
-- [everywhere](https://github.com/jaspermayone/everywhere) - Posts to all your socials bc it's hard to manage them all (1 week ago)
-- [website](https://github.com/phish-directory/website) -  (1 week ago)
+- [slack-bot](https://github.com/phish-directory/slack-bot) -  (1 week ago)
+- [logger](https://github.com/jaspermayone/logger) - Oooooh! Logs! Shiny! (1 week ago)
 
 #### 🌱 My latest projects
 
