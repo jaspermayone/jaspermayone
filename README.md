@@ -14,19 +14,19 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
+- [scripts](https://github.com/jaspermayone/scripts) -  (today)
 - [yoinkit](https://github.com/jaspermayone/yoinkit) - Yoiking media from the web (chrome extension) (today)
-- [template](https://github.com/jaspermayone/template) -  (3 days ago)
 - [pinit](https://github.com/jaspermayone/pinit) -  (3 days ago)
-- [slack-bot](https://github.com/phish-directory/slack-bot) -  (1 week ago)
-- [logger](https://github.com/jaspermayone/logger) - Oooooh! Logs! Shiny! (1 week ago)
+- [template](https://github.com/jaspermayone/template) -  (3 days ago)
+- [everywhere](https://github.com/jaspermayone/everywhere) - Posts to all your socials bc it's hard to manage them all (1 week ago)
 
 #### 🌱 My latest projects
 
+- [scripts](https://github.com/jaspermayone/scripts) - 
 - [yoinkit](https://github.com/jaspermayone/yoinkit) - Yoiking media from the web (chrome extension)
 - [template](https://github.com/jaspermayone/template) - 
 - [pinit](https://github.com/jaspermayone/pinit) - 
 - [ocr-schedule-microservice](https://github.com/jaspermayone/ocr-schedule-microservice) - fast microservice to accompany n8n workflow
-- [next-components](https://github.com/jaspermayone/next-components) - 
 
 #### 🍴 My recent forks
 
