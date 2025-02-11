@@ -17,8 +17,8 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 - [scripts](https://github.com/phish-directory/scripts) - A collection of scripts phishdir uses (1 day ago)
 - [scripts](https://github.com/jaspermayone/scripts) -  (1 day ago)
 - [yoinkit](https://github.com/jaspermayone/yoinkit) - Yoiking media from the web (chrome extension) (1 day ago)
-- [pinit](https://github.com/jaspermayone/pinit) -  (4 days ago)
 - [template](https://github.com/jaspermayone/template) -  (4 days ago)
+- [pinit](https://github.com/jaspermayone/pinit) -  (4 days ago)
 
 #### 🌱 My latest projects
 
