@@ -14,11 +14,11 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [scripts](https://github.com/phish-directory/scripts) - A collection of scripts phishdir uses (1 day ago)
-- [scripts](https://github.com/jaspermayone/scripts) -  (1 day ago)
-- [yoinkit](https://github.com/jaspermayone/yoinkit) - Yoiking media from the web (chrome extension) (1 day ago)
-- [pinit](https://github.com/jaspermayone/pinit) -  (4 days ago)
-- [template](https://github.com/jaspermayone/template) -  (4 days ago)
+- [scripts](https://github.com/phish-directory/scripts) - A collection of scripts phishdir uses (2 days ago)
+- [scripts](https://github.com/jaspermayone/scripts) -  (2 days ago)
+- [yoinkit](https://github.com/jaspermayone/yoinkit) - Yoiking media from the web (chrome extension) (2 days ago)
+- [pinit](https://github.com/jaspermayone/pinit) -  (5 days ago)
+- [template](https://github.com/jaspermayone/template) -  (5 days ago)
 
 #### 🌱 My latest projects
 
