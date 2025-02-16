@@ -14,10 +14,10 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (3 days ago)
-- [scripts](https://github.com/jaspermayone/scripts) -  (5 days ago)
-- [scripts](https://github.com/phish-directory/scripts) - A collection of scripts phishdir uses (5 days ago)
-- [yoinkit](https://github.com/jaspermayone/yoinkit) - Yoiking media from the web (chrome extension) (5 days ago)
+- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (4 days ago)
+- [scripts](https://github.com/jaspermayone/scripts) -  (6 days ago)
+- [scripts](https://github.com/phish-directory/scripts) - A collection of scripts phishdir uses (6 days ago)
+- [yoinkit](https://github.com/jaspermayone/yoinkit) - Yoiking media from the web (chrome extension) (6 days ago)
 - [template](https://github.com/jaspermayone/template) -  (1 week ago)
 
 #### 🌱 My latest projects
