@@ -16,9 +16,9 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 - [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (2 days ago)
 - [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (4 days ago)
-- [scripts](https://github.com/phish-directory/scripts) - A collection of scripts phishdir uses (1 week ago)
 - [yoinkit](https://github.com/jaspermayone/yoinkit) - Yoiking media from the web (chrome extension) (1 week ago)
 - [scripts](https://github.com/jaspermayone/scripts) -  (1 week ago)
+- [scripts](https://github.com/phish-directory/scripts) - A collection of scripts phishdir uses (1 week ago)
 
 #### 🌱 My latest projects
 
