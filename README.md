@@ -14,19 +14,19 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
+- [redirect](https://github.com/jaspermayone/redirect) - Redirecting things places (today)
 - [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (2 days ago)
 - [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (4 days ago)
 - [yoinkit](https://github.com/jaspermayone/yoinkit) - Yoiking media from the web (chrome extension) (1 week ago)
-- [scripts](https://github.com/jaspermayone/scripts) -  (1 week ago)
 - [scripts](https://github.com/phish-directory/scripts) - A collection of scripts phishdir uses (1 week ago)
 
 #### 🌱 My latest projects
 
+- [redirect](https://github.com/jaspermayone/redirect) - Redirecting things places
 - [scripts](https://github.com/jaspermayone/scripts) - 
 - [yoinkit](https://github.com/jaspermayone/yoinkit) - Yoiking media from the web (chrome extension)
 - [template](https://github.com/jaspermayone/template) - 
 - [pinit](https://github.com/jaspermayone/pinit) - 
-- [ocr-schedule-microservice](https://github.com/jaspermayone/ocr-schedule-microservice) - fast microservice to accompany n8n workflow
 
 #### 🍴 My recent forks
 
