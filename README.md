@@ -14,11 +14,11 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (1 day ago)
-- [slack-bot](https://github.com/phish-directory/slack-bot) - **VERY WORK IN PROGRES** (3 days ago)
-- [project-idea-ai-fine-tuning](https://github.com/jaspermayone/project-idea-ai-fine-tuning) - failed attempt at training an ai to recognize project ideas in slack (3 days ago)
-- [.github](https://github.com/phish-directory/.github) -  (3 days ago)
-- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (6 days ago)
+- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (2 days ago)
+- [slack-bot](https://github.com/phish-directory/slack-bot) - **VERY WORK IN PROGRES** (4 days ago)
+- [project-idea-ai-fine-tuning](https://github.com/jaspermayone/project-idea-ai-fine-tuning) - failed attempt at training an ai to recognize project ideas in slack (4 days ago)
+- [.github](https://github.com/phish-directory/.github) -  (4 days ago)
+- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (1 week ago)
 
 #### 🌱 My latest projects
 
