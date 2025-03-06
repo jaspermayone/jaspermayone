@@ -14,10 +14,10 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (1 day ago)
-- [yoinkit](https://github.com/jaspermayone/yoinkit) - Yoiking media from the web (chrome extension) (3 days ago)
-- [redirect](https://github.com/jaspermayone/redirect) - Redirecting things places (5 days ago)
-- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (5 days ago)
+- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (2 days ago)
+- [yoinkit](https://github.com/jaspermayone/yoinkit) - Yoiking media from the web (chrome extension) (4 days ago)
+- [redirect](https://github.com/jaspermayone/redirect) - Redirecting things places (6 days ago)
+- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (6 days ago)
 - [project-idea-ai-fine-tuning](https://github.com/jaspermayone/project-idea-ai-fine-tuning) - failed attempt at training an ai to recognize project ideas in slack (1 week ago)
 
 #### 🌱 My latest projects
