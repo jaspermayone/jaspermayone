@@ -30,11 +30,11 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 🍴 My recent forks
 
+- [disposable-email-detector](https://github.com/jaspermayone-forks/disposable-email-detector) - This repository contains a Node.js utility for detecting disposable email addresses. It helps identify whether an email address belongs to a disposable email provider, aiding in the prevention of spam and unwanted sign-ups.
 - [YouFeelWeFeel](https://github.com/jaspermayone-forks/YouFeelWeFeel) - An attempt to clone and recreate How We Feel
 - [temp-email](https://github.com/jaspermayone-forks/temp-email) - temporary email issuance for the @hackclub slack
 - [Maccy](https://github.com/jaspermayone-forks/Maccy) - Lightweight clipboard manager for macOS
 - [HardenAD](https://github.com/jaspermayone-forks/HardenAD) - Hardening Active Directory version 2
-- [uBlock](https://github.com/jaspermayone-forks/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 
 ---
 
