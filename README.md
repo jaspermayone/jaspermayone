@@ -14,11 +14,11 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [brand](https://github.com/phish-directory/brand) - Public Branding for Phish Directory (1 day ago)
 - [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (1 day ago)
+- [disposable-email-detector](https://github.com/jaspermayone-forks/disposable-email-detector) -  (1 day ago)
+- [brand](https://github.com/phish-directory/brand) - Public Branding for Phish Directory (1 day ago)
 - [yoinkit](https://github.com/jaspermayone/yoinkit) - Yoiking media from the web (chrome extension) (5 days ago)
 - [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (1 week ago)
-- [redirect](https://github.com/jaspermayone/redirect) - Redirecting things places (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -30,11 +30,11 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 🍴 My recent forks
 
-- [disposable-email-detector](https://github.com/jaspermayone-forks/disposable-email-detector) - This repository contains a Node.js utility for detecting disposable email addresses. It helps identify whether an email address belongs to a disposable email provider, aiding in the prevention of spam and unwanted sign-ups.
 - [YouFeelWeFeel](https://github.com/jaspermayone-forks/YouFeelWeFeel) - An attempt to clone and recreate How We Feel
 - [temp-email](https://github.com/jaspermayone-forks/temp-email) - temporary email issuance for the @hackclub slack
 - [Maccy](https://github.com/jaspermayone-forks/Maccy) - Lightweight clipboard manager for macOS
 - [HardenAD](https://github.com/jaspermayone-forks/HardenAD) - Hardening Active Directory version 2
+- [uBlock](https://github.com/jaspermayone-forks/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 
 ---
 
