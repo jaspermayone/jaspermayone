@@ -14,10 +14,10 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [disposable-email-detector](https://github.com/jaspermayone/disposable-email-detector) -  (1 day ago)
-- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (2 days ago)
-- [brand](https://github.com/phish-directory/brand) - Public Branding for Phish Directory (2 days ago)
-- [yoinkit](https://github.com/jaspermayone/yoinkit) - Yoiking media from the web (chrome extension) (6 days ago)
+- [disposable-email-detector](https://github.com/jaspermayone/disposable-email-detector) -  (2 days ago)
+- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (3 days ago)
+- [brand](https://github.com/phish-directory/brand) - Public Branding for Phish Directory (3 days ago)
+- [yoinkit](https://github.com/jaspermayone/yoinkit) - Yoiking media from the web (chrome extension) (1 week ago)
 - [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (1 week ago)
 
 #### 🌱 My latest projects
