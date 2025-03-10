@@ -22,11 +22,11 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 🌱 My latest projects
 
+- [obsidian-ai-tagger](https://github.com/jaspermayone/obsidian-ai-tagger) - Auto tagging notes w/ AI
 - [disposable-email-detector](https://github.com/jaspermayone/disposable-email-detector) - 
 - [redirect](https://github.com/jaspermayone/redirect) - Redirecting things places
 - [scripts](https://github.com/jaspermayone/scripts) - 
 - [yoinkit](https://github.com/jaspermayone/yoinkit) - Yoiking media from the web (chrome extension)
-- [template](https://github.com/jaspermayone/template) - 
 
 #### 🍴 My recent forks
 
