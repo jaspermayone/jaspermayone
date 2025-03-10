@@ -16,8 +16,8 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 - [ui](https://github.com/phish-directory/ui) - Core UI backed by phish-directory/api. Written with NextJS, tailwind, and typescript. (1 day ago)
 - [disposable-email-detector](https://github.com/jaspermayone/disposable-email-detector) -  (3 days ago)
-- [brand](https://github.com/phish-directory/brand) - Public Branding for Phish Directory (4 days ago)
 - [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (4 days ago)
+- [brand](https://github.com/phish-directory/brand) - Public Branding for Phish Directory (4 days ago)
 - [yoinkit](https://github.com/jaspermayone/yoinkit) - Yoiking media from the web (chrome extension) (1 week ago)
 
 #### 🌱 My latest projects
