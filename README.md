@@ -14,11 +14,11 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [obsidian-ai-tagger](https://github.com/jaspermayone/obsidian-ai-tagger) - Auto tagging notes w/ AI (today)
-- [ui](https://github.com/phish-directory/ui) - Core UI backed by phish-directory/api. Written with NextJS, tailwind, and typescript. (2 days ago)
-- [disposable-email-detector](https://github.com/jaspermayone/disposable-email-detector) -  (4 days ago)
-- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (5 days ago)
-- [brand](https://github.com/phish-directory/brand) - Public Branding for Phish Directory (5 days ago)
+- [obsidian-ai-tagger](https://github.com/jaspermayone/obsidian-ai-tagger) - Auto tagging notes w/ AI (1 day ago)
+- [ui](https://github.com/phish-directory/ui) - Core UI backed by phish-directory/api. Written with NextJS, tailwind, and typescript. (3 days ago)
+- [disposable-email-detector](https://github.com/jaspermayone/disposable-email-detector) -  (5 days ago)
+- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (6 days ago)
+- [brand](https://github.com/phish-directory/brand) - Public Branding for Phish Directory (6 days ago)
 
 #### 🌱 My latest projects
 
