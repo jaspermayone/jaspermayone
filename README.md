@@ -14,11 +14,11 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
+- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (today)
 - [obsidian-ai-tagger](https://github.com/jaspermayone/obsidian-ai-tagger) - Auto tagging notes w/ AI (6 days ago)
 - [ui](https://github.com/phish-directory/ui) - Core UI backed by phish-directory/api. Written with NextJS, tailwind, and typescript. (1 week ago)
 - [disposable-email-detector](https://github.com/jaspermayone/disposable-email-detector) -  (1 week ago)
 - [brand](https://github.com/phish-directory/brand) - Public Branding for Phish Directory (1 week ago)
-- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (1 week ago)
 
 #### 🌱 My latest projects
 
