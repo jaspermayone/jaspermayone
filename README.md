@@ -14,10 +14,10 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (1 day ago)
 - [receipt-printer-biz-card](https://github.com/jaspermayone/receipt-printer-biz-card) -  (1 day ago)
-- [redirect](https://github.com/jaspermayone/redirect) - Redirecting things places (1 day ago)
-- [metro](https://github.com/jaspermayone/metro) - An interactive map of Boston's transit system. (1 day ago)
+- [redirect](https://github.com/jaspermayone/redirect) - Redirecting things places (2 days ago)
+- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (2 days ago)
+- [metro](https://github.com/jaspermayone/metro) - An interactive map of Boston's transit system. (2 days ago)
 - [obsidian-ai-tagger](https://github.com/jaspermayone/obsidian-ai-tagger) - Auto tagging notes w/ AI (1 week ago)
 
 #### 🌱 My latest projects
