@@ -14,11 +14,11 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [receipt-printer-biz-card](https://github.com/jaspermayone/receipt-printer-biz-card) -  (1 day ago)
-- [redirect](https://github.com/jaspermayone/redirect) - Redirecting things places (2 days ago)
-- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (2 days ago)
-- [metro](https://github.com/jaspermayone/metro) - An interactive map of Boston's transit system. (2 days ago)
-- [obsidian-ai-tagger](https://github.com/jaspermayone/obsidian-ai-tagger) - Auto tagging notes w/ AI (1 week ago)
+- [slack-bot](https://github.com/phish-directory/slack-bot) - **VERY WORK IN PROGRES** (1 day ago)
+- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (1 day ago)
+- [ui](https://github.com/phish-directory/ui) - Core UI backed by phish-directory/api. Written with NextJS, tailwind, and typescript. (1 day ago)
+- [website](https://github.com/phish-directory/website) -  (1 day ago)
+- [scripts](https://github.com/phish-directory/scripts) - A collection of scripts phishdir uses (1 day ago)
 
 #### 🌱 My latest projects
 
