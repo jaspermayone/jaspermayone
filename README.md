@@ -14,11 +14,11 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [website](https://github.com/phish-directory/website) -  (today)
-- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (today)
-- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (2 days ago)
-- [redirect](https://github.com/jaspermayone/redirect) - Redirecting things places (2 days ago)
-- [ui](https://github.com/phish-directory/ui) - Core UI backed by phish-directory/api. Written with NextJS, tailwind, and typescript. (3 days ago)
+- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (1 day ago)
+- [website](https://github.com/phish-directory/website) -  (1 day ago)
+- [redirect](https://github.com/jaspermayone/redirect) - Redirecting things places (3 days ago)
+- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (3 days ago)
+- [ui](https://github.com/phish-directory/ui) - Core UI backed by phish-directory/api. Written with NextJS, tailwind, and typescript. (4 days ago)
 
 #### 🌱 My latest projects
 
