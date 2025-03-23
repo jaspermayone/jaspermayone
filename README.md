@@ -14,11 +14,11 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [obsidian-ai-tagger](https://github.com/jaspermayone/obsidian-ai-tagger) - Auto tagging notes w/ AI (today)
-- [scripts](https://github.com/phish-directory/scripts) - A collection of scripts phishdir uses (today)
-- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (1 day ago)
-- [website](https://github.com/phish-directory/website) -  (1 day ago)
-- [redirect](https://github.com/jaspermayone/redirect) - Redirecting things places (3 days ago)
+- [obsidian-ai-tagger](https://github.com/jaspermayone/obsidian-ai-tagger) - Auto tagging notes w/ AI (1 day ago)
+- [scripts](https://github.com/phish-directory/scripts) - A collection of scripts phishdir uses (1 day ago)
+- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (2 days ago)
+- [website](https://github.com/phish-directory/website) -  (2 days ago)
+- [redirect](https://github.com/jaspermayone/redirect) - Redirecting things places (4 days ago)
 
 #### 🌱 My latest projects
 
