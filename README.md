@@ -18,7 +18,7 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 - [obsidian-ai-tagger](https://github.com/jaspermayone/obsidian-ai-tagger) - Auto tagging notes w/ AI (2 days ago)
 - [scripts](https://github.com/phish-directory/scripts) - A collection of scripts phishdir uses (2 days ago)
 - [website](https://github.com/phish-directory/website) -  (3 days ago)
-- [redirect](https://github.com/jaspermayone/redirect) - Redirecting things places (5 days ago)
+- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (5 days ago)
 
 #### 🌱 My latest projects
 
