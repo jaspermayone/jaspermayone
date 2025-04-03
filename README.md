@@ -16,17 +16,17 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 - [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (today)
 - [redirect](https://github.com/jaspermayone/redirect) - Redirecting things places (today)
-- [waitlist](https://github.com/phish-directory/waitlist) -  (6 days ago)
 - [website](https://github.com/phish-directory/website) -  (6 days ago)
+- [waitlist](https://github.com/phish-directory/waitlist) -  (6 days ago)
 - [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (1 week ago)
 
 #### 🌱 My latest projects
 
+- [infra](https://github.com/jaspermayone/infra) - 
 - [receipt-printer-biz-card](https://github.com/jaspermayone/receipt-printer-biz-card) - 
 - [obsidian-ai-tagger](https://github.com/jaspermayone/obsidian-ai-tagger) - Auto tagging notes w/ AI
 - [disposable-email-detector](https://github.com/jaspermayone/disposable-email-detector) - 
 - [redirect](https://github.com/jaspermayone/redirect) - Redirecting things places
-- [scripts](https://github.com/jaspermayone/scripts) - 
 
 #### 🍴 My recent forks
 
