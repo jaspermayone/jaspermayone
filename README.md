@@ -14,9 +14,9 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [website](https://github.com/phish-directory/website) -  (5 days ago)
-- [waitlist](https://github.com/phish-directory/waitlist) -  (5 days ago)
-- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (6 days ago)
+- [website](https://github.com/phish-directory/website) -  (6 days ago)
+- [waitlist](https://github.com/phish-directory/waitlist) -  (6 days ago)
+- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (1 week ago)
 - [obsidian-ai-tagger](https://github.com/jaspermayone/obsidian-ai-tagger) - Auto tagging notes w/ AI (1 week ago)
 - [scripts](https://github.com/phish-directory/scripts) - A collection of scripts phishdir uses (1 week ago)
 
