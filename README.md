@@ -22,11 +22,11 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 🌱 My latest projects
 
-- [infra](https://github.com/jaspermayone/infra) - 
 - [receipt-printer-biz-card](https://github.com/jaspermayone/receipt-printer-biz-card) - 
 - [obsidian-ai-tagger](https://github.com/jaspermayone/obsidian-ai-tagger) - Auto tagging notes w/ AI
 - [disposable-email-detector](https://github.com/jaspermayone/disposable-email-detector) - 
 - [redirect](https://github.com/jaspermayone/redirect) - Redirecting things places
+- [scripts](https://github.com/jaspermayone/scripts) - 
 
 #### 🍴 My recent forks
 
