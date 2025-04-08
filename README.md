@@ -15,18 +15,18 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 #### 👷 What I'm currently working on:
 
 - [obsidian-ai-tagger](https://github.com/jaspermayone/obsidian-ai-tagger) - Auto tagging notes w/ AI (1 day ago)
-- [infra](https://github.com/phish-directory/infra) -  (4 days ago)
 - [slack-bot](https://github.com/phish-directory/slack-bot) - **VERY WORK IN PROGRES** (4 days ago)
-- [api](https://github.com/phish-directory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (4 days ago)
 - [issue-board](https://github.com/phish-directory/issue-board) -  (4 days ago)
+- [infra](https://github.com/phish-directory/infra) -  (4 days ago)
+- [waitlist](https://github.com/phish-directory/waitlist) -  (4 days ago)
 
 #### 🌱 My latest projects
 
+- [wit-minecraft-resource-pack](https://github.com/jaspermayone/wit-minecraft-resource-pack) - 
 - [receipt-printer-biz-card](https://github.com/jaspermayone/receipt-printer-biz-card) - 
 - [obsidian-ai-tagger](https://github.com/jaspermayone/obsidian-ai-tagger) - Auto tagging notes w/ AI
 - [disposable-email-detector](https://github.com/jaspermayone/disposable-email-detector) - 
 - [redirect](https://github.com/jaspermayone/redirect) - Redirecting things places
-- [scripts](https://github.com/jaspermayone/scripts) - 
 
 #### 🍴 My recent forks
 
