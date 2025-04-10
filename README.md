@@ -15,10 +15,10 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 #### 👷 What I'm currently working on:
 
 - [obsidian-ai-tagger](https://github.com/jaspermayone/obsidian-ai-tagger) - Auto tagging notes w/ AI (3 days ago)
-- [slack-bot](https://github.com/phish-directory/slack-bot) - **VERY WORK IN PROGRES** (6 days ago)
-- [issue-board](https://github.com/phish-directory/issue-board) -  (6 days ago)
-- [infra](https://github.com/phish-directory/infra) -  (6 days ago)
-- [waitlist](https://github.com/phish-directory/waitlist) -  (6 days ago)
+- [slack-bot](https://github.com/phishdirectory/slack-bot) - **VERY WORK IN PROGRES** (6 days ago)
+- [issue-board](https://github.com/phishdirectory/issue-board) -  (6 days ago)
+- [infra](https://github.com/phishdirectory/infra) -  (6 days ago)
+- [waitlist](https://github.com/phishdirectory/waitlist) -  (6 days ago)
 
 #### 🌱 My latest projects
 
