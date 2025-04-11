@@ -14,11 +14,11 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [obsidian-ai-tagger](https://github.com/jaspermayone/obsidian-ai-tagger) - Auto tagging notes w/ AI (4 days ago)
-- [slack-bot](https://github.com/phishdirectory/slack-bot) - **VERY WORK IN PROGRES** (1 week ago)
-- [issue-board](https://github.com/phishdirectory/issue-board) -  (1 week ago)
-- [infra](https://github.com/phishdirectory/infra) -  (1 week ago)
-- [waitlist](https://github.com/phishdirectory/waitlist) -  (1 week ago)
+- [api](https://github.com/phishdirectory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (today)
+- [scripts](https://github.com/phishdirectory/scripts) - A collection of scripts phishdir uses (today)
+- [momento](https://github.com/phishdirectory/momento) -  (today)
+- [issue-board](https://github.com/phishdirectory/issue-board) -  (today)
+- [waitlist](https://github.com/phishdirectory/waitlist) -  (today)
 
 #### 🌱 My latest projects
 
