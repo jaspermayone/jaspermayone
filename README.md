@@ -15,10 +15,10 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 #### 👷 What I'm currently working on:
 
 - [api](https://github.com/phishdirectory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (2 days ago)
-- [scripts](https://github.com/phishdirectory/scripts) - A collection of scripts phishdir uses (3 days ago)
-- [dashboard](https://github.com/phishdirectory/dashboard) -  (3 days ago)
-- [waitlist](https://github.com/phishdirectory/waitlist) -  (3 days ago)
 - [template](https://github.com/phishdirectory/template) -  (3 days ago)
+- [infra](https://github.com/phishdirectory/infra) -  (3 days ago)
+- [scripts](https://github.com/phishdirectory/scripts) - A collection of scripts phishdir uses (3 days ago)
+- [waitlist](https://github.com/phishdirectory/waitlist) -  (3 days ago)
 
 #### 🌱 My latest projects
 
