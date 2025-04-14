@@ -14,8 +14,8 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
+- [api](https://github.com/phishdirectory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (today)
 - [template](https://github.com/phishdirectory/template) -  (today)
-- [api](https://github.com/phishdirectory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (2 days ago)
 - [momento](https://github.com/phishdirectory/momento) -  (3 days ago)
 - [brand](https://github.com/phishdirectory/brand) - Public Branding for Phish Directory (3 days ago)
 - [dashboard](https://github.com/phishdirectory/dashboard) -  (3 days ago)
