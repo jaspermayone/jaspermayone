@@ -14,11 +14,11 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
+- [auth](https://github.com/phishdirectory/auth) - Microservice powering authentication for all phish.directory services (today)
+- [api](https://github.com/phishdirectory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (today)
+- [.github](https://github.com/phishdirectory/.github) -  (1 day ago)
 - [template](https://github.com/phishdirectory/template) -  (1 day ago)
 - [issue-board](https://github.com/phishdirectory/issue-board) -  (1 day ago)
-- [.github](https://github.com/phishdirectory/.github) -  (1 day ago)
-- [api](https://github.com/phishdirectory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (1 day ago)
-- [infra](https://github.com/phishdirectory/infra) -  (4 days ago)
 
 #### 🌱 My latest projects
 
