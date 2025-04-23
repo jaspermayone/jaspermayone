@@ -14,7 +14,7 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [auth](https://github.com/phishdirectory/auth) - Microservice powering authentication for all phish.directory services (1 day ago)
+- [auth](https://github.com/phishdirectory/auth) - Microservice powering authentication for all phish.directory services (today)
 - [style](https://github.com/phishdirectory/style) - Style Guide for phish.directory (2 days ago)
 - [issue-board](https://github.com/phishdirectory/issue-board) -  (6 days ago)
 - [template](https://github.com/phishdirectory/template) -  (1 week ago)
