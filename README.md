@@ -14,7 +14,7 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [veritas](https://github.com/phishdirectory/veritas) - Central authentication microservice for all phish.directory services. (2 days ago)
+- [veritas](https://github.com/phishdirectory/veritas) - Central authentication microservice for all phish.directory services. (today)
 - [style](https://github.com/phishdirectory/style) - Style Guide for phish.directory (5 days ago)
 - [issue-board](https://github.com/phishdirectory/issue-board) -  (1 week ago)
 - [template](https://github.com/phishdirectory/template) -  (1 week ago)
