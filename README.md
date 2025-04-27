@@ -17,8 +17,8 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 - [veritas](https://github.com/phishdirectory/veritas) - Central authentication microservice for all phish.directory services. (1 day ago)
 - [style](https://github.com/phishdirectory/style) - Style Guide for phish.directory (6 days ago)
 - [issue-board](https://github.com/phishdirectory/issue-board) -  (1 week ago)
-- [api](https://github.com/phishdirectory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (1 week ago)
 - [template](https://github.com/phishdirectory/template) -  (1 week ago)
+- [api](https://github.com/phishdirectory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (1 week ago)
 
 #### 🌱 My latest projects
 
