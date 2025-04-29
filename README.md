@@ -14,19 +14,19 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
+- [solarium](https://github.com/phishdirectory/solarium) -  (1 day ago)
 - [veritas](https://github.com/phishdirectory/veritas) - Central authentication microservice for all phish.directory services. (3 days ago)
 - [style](https://github.com/phishdirectory/style) - Style Guide for phish.directory (1 week ago)
 - [issue-board](https://github.com/phishdirectory/issue-board) -  (1 week ago)
-- [template](https://github.com/phishdirectory/template) -  (2 weeks ago)
 - [api](https://github.com/phishdirectory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [lumon-mdr](https://github.com/jaspermayone/lumon-mdr) - functional mdr workflow
 - [wit-minecraft-resource-pack](https://github.com/jaspermayone/wit-minecraft-resource-pack) - 
 - [receipt-printer-biz-card](https://github.com/jaspermayone/receipt-printer-biz-card) - 
 - [obsidian-ai-tagger](https://github.com/jaspermayone/obsidian-ai-tagger) - Auto tagging notes w/ AI
 - [disposable-email-detector](https://github.com/jaspermayone/disposable-email-detector) - 
-- [redirect](https://github.com/jaspermayone/redirect) - Redirecting things places
 
 #### 🍴 My recent forks
 
