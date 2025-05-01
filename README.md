@@ -14,19 +14,19 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
+- [template](https://github.com/jaspermayone/template) -  (1 day ago)
 - [lumon-mdr](https://github.com/jaspermayone/lumon-mdr) - functional mdr workflow (3 days ago)
 - [atrium](https://github.com/phishdirectory/atrium) - Atrium (3 days ago)
 - [veritas](https://github.com/phishdirectory/veritas) - Central authentication microservice for all phish.directory services. (5 days ago)
 - [style](https://github.com/phishdirectory/style) - Style Guide for phish.directory (1 week ago)
-- [issue-board](https://github.com/phishdirectory/issue-board) -  (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [ruby-rails-template](https://github.com/jaspermayone/ruby-rails-template) - 
 - [lumon-mdr](https://github.com/jaspermayone/lumon-mdr) - functional mdr workflow
 - [wit-minecraft-resource-pack](https://github.com/jaspermayone/wit-minecraft-resource-pack) - 
 - [receipt-printer-biz-card](https://github.com/jaspermayone/receipt-printer-biz-card) - 
 - [obsidian-ai-tagger](https://github.com/jaspermayone/obsidian-ai-tagger) - Auto tagging notes w/ AI
-- [disposable-email-detector](https://github.com/jaspermayone/disposable-email-detector) - 
 
 #### 🍴 My recent forks
 
