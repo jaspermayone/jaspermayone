@@ -14,10 +14,10 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [template](https://github.com/jaspermayone/template) -  (1 day ago)
-- [lumon-mdr](https://github.com/jaspermayone/lumon-mdr) - functional mdr workflow (3 days ago)
-- [atrium](https://github.com/phishdirectory/atrium) - Atrium (3 days ago)
-- [veritas](https://github.com/phishdirectory/veritas) - Central authentication microservice for all phish.directory services. (5 days ago)
+- [template](https://github.com/jaspermayone/template) -  (2 days ago)
+- [lumon-mdr](https://github.com/jaspermayone/lumon-mdr) - functional mdr workflow (4 days ago)
+- [atrium](https://github.com/phishdirectory/atrium) - Atrium (4 days ago)
+- [veritas](https://github.com/phishdirectory/veritas) - Central authentication microservice for all phish.directory services. (6 days ago)
 - [style](https://github.com/phishdirectory/style) - Style Guide for phish.directory (1 week ago)
 
 #### 🌱 My latest projects
