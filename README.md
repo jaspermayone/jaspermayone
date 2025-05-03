@@ -15,8 +15,8 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 #### 👷 What I'm currently working on:
 
 - [template](https://github.com/jaspermayone/template) -  (3 days ago)
-- [lumon-mdr](https://github.com/jaspermayone/lumon-mdr) - functional mdr workflow (5 days ago)
 - [atrium](https://github.com/phishdirectory/atrium) - Atrium (5 days ago)
+- [lumon-mdr](https://github.com/jaspermayone/lumon-mdr) - functional mdr workflow (5 days ago)
 - [veritas](https://github.com/phishdirectory/veritas) - Central authentication microservice for all phish.directory services. (1 week ago)
 - [style](https://github.com/phishdirectory/style) - Style Guide for phish.directory (1 week ago)
 
