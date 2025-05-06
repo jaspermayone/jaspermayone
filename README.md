@@ -14,19 +14,19 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [ruby-rails-template](https://github.com/phishdirectory/ruby-rails-template) -  (1 day ago)
-- [veritas](https://github.com/phishdirectory/veritas) - Central authentication microservice for all phish.directory services. (1 day ago)
 - [atrium](https://github.com/phishdirectory/atrium) -  (1 day ago)
-- [lumon-mdr](https://github.com/jaspermayone/lumon-mdr) - functional mdr workflow (1 day ago)
+- [ruby-rails-template](https://github.com/phishdirectory/ruby-rails-template) -  (1 day ago)
 - [ruby-rails-template](https://github.com/jaspermayone/ruby-rails-template) -  (1 day ago)
+- [veritas](https://github.com/phishdirectory/veritas) - Central authentication microservice for all phish.directory services. (1 day ago)
+- [brand](https://github.com/phishdirectory/brand) - Public Branding for Phish Directory (1 day ago)
 
 #### 🌱 My latest projects
 
 - [ruby-rails-template](https://github.com/jaspermayone/ruby-rails-template) - 
 - [lumon-mdr](https://github.com/jaspermayone/lumon-mdr) - functional mdr workflow
 - [wit-minecraft-resource-pack](https://github.com/jaspermayone/wit-minecraft-resource-pack) - 
-- [receipt-printer-biz-card](https://github.com/jaspermayone/receipt-printer-biz-card) - 
-- [obsidian-ai-tagger](https://github.com/jaspermayone/obsidian-ai-tagger) - Auto tagging notes w/ AI
+- [receipt-printer-biz-card](https://github.com/jaspermayone/receipt-printer-biz-card) - Making hacky biz cards w/ a receipt printer!
+- [obsidian-ai-tagger](https://github.com/jaspermayone/obsidian-ai-tagger) - Auto tagging obsidian notes w/ AI
 
 #### 🍴 My recent forks
 
@@ -43,7 +43,13 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 #### 🌱 Personal Projects:
 - [IT Tool](https://github.com/jaspermayone/ittool)
 - [@jaspermayone/logger](https://github.com/jaspermayone/logger) - Oooooh! Logs! Shiny!
-- [Phish Directory](https://github.com/jaspermayone/phish.directory) - A tool to help catch, prevent, and catalog phishing links & attempts.
+- [obsidian-ai-tagger](https://github.com/jaspermayone/obsidian-ai-tagger) - Auto tagging obsidian notes w/ AI
+- [metro](https://github.com/jaspermayone/metro) - An interactive map of Boston's transit system.
+
+#### <img src="https://raw.githubusercontent.com/phishdirectory/brand/main/phishdirectory.jpeg" width="20" height="20" />  phish.directory (making the internet a safer place!)
+- [@phishdirectory/api](https://github.com/phishdirectory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts.
+- [@phishdirectory/waitlist](https://github.com/phishdirectory/waitlist) - static landing site w/ email signup. designed to be adapted to waitlist different phish.directory projects.
+- [@phishdirectory/veritas](https://github.com/phishdirectory/veritas) - Central authentication microservice for all phish.directory services.
 
 #### <img src="https://raw.githubusercontent.com/thepurplebubble/brand/main/public/logo.png" width="20" height="20" />  Purple Bubble:
 - [Magic Mirror](https://github.com/thepurplebubble/magic-mirror) - Mirroring Slack Channels Between Workspaces
