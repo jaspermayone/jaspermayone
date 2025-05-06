@@ -14,11 +14,11 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [atrium](https://github.com/phishdirectory/atrium) -  (1 day ago)
 - [ruby-rails-template](https://github.com/phishdirectory/ruby-rails-template) -  (1 day ago)
-- [ruby-rails-template](https://github.com/jaspermayone/ruby-rails-template) -  (1 day ago)
 - [veritas](https://github.com/phishdirectory/veritas) - Central authentication microservice for all phish.directory services. (1 day ago)
-- [waitlist](https://github.com/phishdirectory/waitlist) -  (3 days ago)
+- [atrium](https://github.com/phishdirectory/atrium) -  (1 day ago)
+- [lumon-mdr](https://github.com/jaspermayone/lumon-mdr) - functional mdr workflow (1 day ago)
+- [ruby-rails-template](https://github.com/jaspermayone/ruby-rails-template) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -45,7 +45,7 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 - [@jaspermayone/logger](https://github.com/jaspermayone/logger) - Oooooh! Logs! Shiny!
 - [Phish Directory](https://github.com/jaspermayone/phish.directory) - A tool to help catch, prevent, and catalog phishing links & attempts.
 
-#### <img src="https://cdn.purplebubble.org/logo.png" width="20" height="20" /> Purple Bubble:
+#### <img src="https://raw.githubusercontent.com/thepurplebubble/brand/main/public/logo.png" width="20" height="20" />  Purple Bubble:
 - [Magic Mirror](https://github.com/thepurplebubble/magic-mirror) - Mirroring Slack Channels Between Workspaces
 
 #### <img src="https://assets.hackclub.com/icon-progress-rounded.png" width="20" height="20" /> Hack Club Projects:
