@@ -14,11 +14,11 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [api](https://github.com/phishdirectory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (today)
-- [waitlist](https://github.com/phishdirectory/waitlist) - static landing site w/ email signup. designed to be adapted to waitlist different phish.directory projects. (today)
-- [brand](https://github.com/phishdirectory/brand) - Public Branding for Phish Directory (today)
-- [veritas](https://github.com/phishdirectory/veritas) - Central authentication microservice for all phish.directory services. (today)
-- [website](https://github.com/phishdirectory/website) -  (today)
+- [api](https://github.com/phishdirectory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (1 day ago)
+- [waitlist](https://github.com/phishdirectory/waitlist) - static landing site w/ email signup. designed to be adapted to waitlist different phish.directory projects. (1 day ago)
+- [brand](https://github.com/phishdirectory/brand) - Public Branding for Phish Directory (1 day ago)
+- [veritas](https://github.com/phishdirectory/veritas) - Central authentication microservice for all phish.directory services. (1 day ago)
+- [website](https://github.com/phishdirectory/website) -  (1 day ago)
 
 #### 🌱 My latest projects
 
