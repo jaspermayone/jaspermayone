@@ -14,11 +14,11 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [ruby-rails-template](https://github.com/jaspermayone/ruby-rails-template) -  (today)
 - [ruby-rails-template](https://github.com/phishdirectory/ruby-rails-template) -  (today)
+- [atrium](https://github.com/phishdirectory/atrium) -  (today)
+- [ruby-rails-template](https://github.com/jaspermayone/ruby-rails-template) -  (today)
 - [veritas](https://github.com/phishdirectory/veritas) - Central authentication microservice for all phish.directory services. (1 day ago)
-- [issue-board](https://github.com/phishdirectory/issue-board) -  (2 days ago)
-- [brand](https://github.com/phishdirectory/brand) - Public Branding for Phish Directory (2 days ago)
+- [api](https://github.com/phishdirectory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (2 days ago)
 
 #### 🌱 My latest projects
 
