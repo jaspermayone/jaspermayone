@@ -14,11 +14,11 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [ruby-rails-template](https://github.com/phishdirectory/ruby-rails-template) -  (today)
-- [ruby-rails-template](https://github.com/jaspermayone/ruby-rails-template) -  (1 day ago)
-- [momento](https://github.com/phishdirectory/momento) -  (1 day ago)
-- [style](https://github.com/phishdirectory/style) - Style Guide for phish.directory (1 day ago)
-- [website](https://github.com/phishdirectory/website) -  (1 day ago)
+- [ruby-rails-template](https://github.com/phishdirectory/ruby-rails-template) -  (1 day ago)
+- [ruby-rails-template](https://github.com/jaspermayone/ruby-rails-template) -  (2 days ago)
+- [momento](https://github.com/phishdirectory/momento) -  (2 days ago)
+- [style](https://github.com/phishdirectory/style) - Style Guide for phish.directory (2 days ago)
+- [website](https://github.com/phishdirectory/website) -  (2 days ago)
 
 #### 🌱 My latest projects
 
