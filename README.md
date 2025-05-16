@@ -14,9 +14,9 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [ruby-rails-template](https://github.com/phishdirectory/ruby-rails-template) -  (today)
-- [atrium](https://github.com/phishdirectory/atrium) -  (today)
-- [ruby-rails-template](https://github.com/jaspermayone/ruby-rails-template) -  (3 days ago)
+- [ruby-rails-template](https://github.com/phishdirectory/ruby-rails-template) -  (1 day ago)
+- [atrium](https://github.com/phishdirectory/atrium) -  (1 day ago)
+- [ruby-rails-template](https://github.com/jaspermayone/ruby-rails-template) -  (4 days ago)
 - [veritas-samples](https://github.com/phishdirectory/veritas-samples) - Auth Client Samples for Veritas Auth (1 week ago)
 - [veritas](https://github.com/phishdirectory/veritas) - Central authentication microservice for all phish.directory services. (1 week ago)
 
