@@ -14,7 +14,7 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [veritas](https://github.com/phishdirectory/veritas) - Central authentication microservice for all phish.directory services. (3 days ago)
+- [veritas](https://github.com/phishdirectory/veritas) - Central authentication microservice for all phish.directory services. (4 days ago)
 - [redirect](https://github.com/jaspermayone/redirect) - Redirecting things places (1 week ago)
 - [ruby-rails-template](https://github.com/phishdirectory/ruby-rails-template) -  (1 week ago)
 - [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (1 week ago)
