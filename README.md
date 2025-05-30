@@ -30,11 +30,11 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 🍴 My recent forks
 
+- [upscayl](https://github.com/jaspermayone-forks/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [hackathon.zip](https://github.com/jaspermayone-forks/hackathon.zip) - 🧰 We're building hackathon infrastructure that just works.
 - [invite-dia](https://github.com/jaspermayone-forks/invite-dia) - 
 - [hcb](https://github.com/jaspermayone-forks/hcb) - 🏦 The only (not) bank brave enough to say "poggers"
 - [YouFeelWeFeel](https://github.com/jaspermayone-forks/YouFeelWeFeel) - An attempt to clone and recreate How We Feel
-- [temp-email](https://github.com/jaspermayone-forks/temp-email) - temporary email issuance for the @hackclub slack
 
 ---
 
