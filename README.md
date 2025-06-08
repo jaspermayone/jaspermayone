@@ -14,19 +14,19 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
+- [website](https://github.com/phishdirectory/website) -  (1 day ago)
+- [nimbis](https://github.com/jaspermayone/nimbis) - email archiving solution (1 day ago)
 - [veritas](https://github.com/phishdirectory/veritas) - Central authentication microservice for all phish.directory services. (2 days ago)
-- [website](https://github.com/phishdirectory/website) -  (5 days ago)
 - [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (1 week ago)
 - [redirect](https://github.com/jaspermayone/redirect) - Redirecting things places (2 weeks ago)
-- [ruby-rails-template](https://github.com/phishdirectory/ruby-rails-template) -  (3 weeks ago)
 
 #### 🌱 My latest projects
 
+- [nimbis](https://github.com/jaspermayone/nimbis) - email archiving solution
 - [ruby-rails-template](https://github.com/jaspermayone/ruby-rails-template) - 
 - [lumon-mdr](https://github.com/jaspermayone/lumon-mdr) - functional mdr workflow
 - [wit-minecraft-resource-pack](https://github.com/jaspermayone/wit-minecraft-resource-pack) - 
 - [receipt-printer-biz-card](https://github.com/jaspermayone/receipt-printer-biz-card) - Making hacky biz cards w/ a receipt printer!
-- [obsidian-ai-tagger](https://github.com/jaspermayone/obsidian-ai-tagger) - Auto tagging obsidian notes w/ AI
 
 #### 🍴 My recent forks
 
