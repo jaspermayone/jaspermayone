@@ -30,11 +30,11 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 🍴 My recent forks
 
+- [thread-it](https://github.com/jaspermayone-forks/thread-it) - 🧵 A Discord bot that keeps channels clean by converting replies into threads.
 - [hackclub-theseus](https://github.com/jaspermayone-forks/hackclub-theseus) - hack club's new warehouse & letter mail system!
 - [slashpages](https://github.com/jaspermayone-forks/slashpages) - A guide to common pages you can add to your website
 - [upscayl](https://github.com/jaspermayone-forks/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [hackathon.zip](https://github.com/jaspermayone-forks/hackathon.zip) - 🧰 We're building hackathon infrastructure that just works.
-- [invite-dia](https://github.com/jaspermayone-forks/invite-dia) - 
 
 ---
 
