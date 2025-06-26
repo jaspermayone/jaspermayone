@@ -14,11 +14,11 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
+- [scripts](https://github.com/jaspermayone/scripts) -  (today)
 - [veritas](https://github.com/phishdirectory/veritas) - Central authentication microservice for all phish.directory services. (1 week ago)
 - [api](https://github.com/phishdirectory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (2 weeks ago)
 - [website](https://github.com/phishdirectory/website) -  (2 weeks ago)
 - [nimbis](https://github.com/jaspermayone/nimbis) - email archiving solution (2 weeks ago)
-- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (3 weeks ago)
 
 #### 🌱 My latest projects
 
