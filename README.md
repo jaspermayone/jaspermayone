@@ -14,10 +14,10 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
+- [veritas](https://github.com/phishdirectory/veritas) - Central authentication microservice for all phish.directory services. (1 day ago)
 - [scripts](https://github.com/jaspermayone/scripts) -  (1 day ago)
 - [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (3 days ago)
 - [api](https://github.com/phishdirectory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (1 week ago)
-- [veritas](https://github.com/phishdirectory/veritas) - Central authentication microservice for all phish.directory services. (1 week ago)
 - [website](https://github.com/phishdirectory/website) -  (4 weeks ago)
 
 #### 🌱 My latest projects
