@@ -14,10 +14,10 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [scripts](https://github.com/jaspermayone/scripts) -  (today)
-- [metro](https://github.com/jaspermayone/metro) - An interactive map of Boston's transit system. (today)
-- [veritas](https://github.com/phishdirectory/veritas) - Central authentication microservice for all phish.directory services. (4 days ago)
-- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (6 days ago)
+- [scripts](https://github.com/jaspermayone/scripts) -  (1 day ago)
+- [metro](https://github.com/jaspermayone/metro) - An interactive map of Boston's transit system. (1 day ago)
+- [veritas](https://github.com/phishdirectory/veritas) - Central authentication microservice for all phish.directory services. (5 days ago)
+- [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (1 week ago)
 - [api](https://github.com/phishdirectory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (1 week ago)
 
 #### 🌱 My latest projects
