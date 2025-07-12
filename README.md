@@ -14,9 +14,9 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [scripts](https://github.com/jaspermayone/scripts) -  (2 days ago)
-- [metro](https://github.com/jaspermayone/metro) - An interactive map of Boston's transit system. (2 days ago)
-- [veritas](https://github.com/phishdirectory/veritas) - Central authentication microservice for all phish.directory services. (6 days ago)
+- [scripts](https://github.com/jaspermayone/scripts) -  (3 days ago)
+- [metro](https://github.com/jaspermayone/metro) - An interactive map of Boston's transit system. (3 days ago)
+- [veritas](https://github.com/phishdirectory/veritas) - Central authentication microservice for all phish.directory services. (1 week ago)
 - [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (1 week ago)
 - [api](https://github.com/phishdirectory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (1 week ago)
 
