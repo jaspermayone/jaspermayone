@@ -14,9 +14,9 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [scripts](https://github.com/jaspermayone/scripts) -  (5 days ago)
-- [metro](https://github.com/jaspermayone/metro) - An interactive map of Boston's transit system. (5 days ago)
-- [obsidian-limitless-lifelogs](https://github.com/Maclean-D/obsidian-limitless-lifelogs) - Sync your Limitless AI lifelog entries directly into Obsidian markdown files. (6 days ago)
+- [scripts](https://github.com/jaspermayone/scripts) -  (6 days ago)
+- [metro](https://github.com/jaspermayone/metro) - An interactive map of Boston's transit system. (6 days ago)
+- [obsidian-limitless-lifelogs](https://github.com/Maclean-D/obsidian-limitless-lifelogs) - Sync your Limitless AI lifelog entries directly into Obsidian markdown files. (1 week ago)
 - [veritas](https://github.com/phishdirectory/veritas) - Central authentication microservice for all phish.directory services. (1 week ago)
 - [website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (1 week ago)
 
