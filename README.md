@@ -16,8 +16,8 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 - [veritas](https://github.com/phishdirectory/veritas) - Central authentication microservice for all phish.directory services. (1 week ago)
 - [api](https://github.com/phishdirectory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (1 week ago)
-- [scripts](https://github.com/jaspermayone/scripts) -  (2 weeks ago)
-- [metro](https://github.com/jaspermayone/metro) - An interactive map of Boston's transit system. (2 weeks ago)
+- [scripts](https://github.com/jaspermayone/scripts) -  (3 weeks ago)
+- [metro](https://github.com/jaspermayone/metro) - An interactive map of Boston's transit system. (3 weeks ago)
 - [obsidian-limitless-lifelogs](https://github.com/Maclean-D/obsidian-limitless-lifelogs) - Sync your Limitless AI lifelog entries directly into Obsidian markdown files. (3 weeks ago)
 
 #### 🌱 My latest projects
