@@ -14,11 +14,11 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
+- [dns](https://github.com/patchworklabsorg/dns) -  (today)
 - [veritas](https://github.com/phishdirectory/veritas) - Central authentication microservice for all phish.directory services. (2 weeks ago)
 - [api](https://github.com/phishdirectory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (2 weeks ago)
-- [scripts](https://github.com/jaspermayone/scripts) -  (4 weeks ago)
 - [metro](https://github.com/jaspermayone/metro) - An interactive map of Boston's transit system. (4 weeks ago)
-- [obsidian-limitless-lifelogs](https://github.com/Maclean-D/obsidian-limitless-lifelogs) - Sync your Limitless AI lifelog entries directly into Obsidian markdown files. (4 weeks ago)
+- [scripts](https://github.com/jaspermayone/scripts) -  (4 weeks ago)
 
 #### 🌱 My latest projects
 
