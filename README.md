@@ -14,11 +14,11 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [core](https://github.com/patchworklabsorg/core) - Services and other configuration on the Core VM running NixOS (today)
-- [dns](https://github.com/patchworklabsorg/dns) - OctoDNS + CoreDNS managed DNS config (1 day ago)
+- [core](https://github.com/patchworklabsorg/core) - Services and other configuration on the Core VM running NixOS (1 day ago)
+- [dns](https://github.com/patchworklabsorg/dns) - OctoDNS + CoreDNS managed DNS config (2 days ago)
 - [veritas](https://github.com/phishdirectory/veritas) - Central authentication microservice for all phish.directory services. (2 weeks ago)
 - [api](https://github.com/phishdirectory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (2 weeks ago)
-- [metro](https://github.com/jaspermayone/metro) - An interactive map of Boston's transit system. (4 weeks ago)
+- [metro](https://github.com/jaspermayone/metro) - An interactive map of Boston's transit system. (1 month ago)
 
 #### 🌱 My latest projects
 
