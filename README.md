@@ -14,9 +14,9 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [dots](https://github.com/jaspermayone/dots) -  (today)
-- [core](https://github.com/patchworklabsorg/core) - Services and other configuration on the Core VM running NixOS (1 day ago)
-- [dns](https://github.com/patchworklabsorg/dns) - OctoDNS + CoreDNS managed DNS config (2 days ago)
+- [dots](https://github.com/jaspermayone/dots) -  (1 day ago)
+- [core](https://github.com/patchworklabsorg/core) - Services and other configuration on the Core VM running NixOS (2 days ago)
+- [dns](https://github.com/patchworklabsorg/dns) - OctoDNS + CoreDNS managed DNS config (3 days ago)
 - [veritas](https://github.com/phishdirectory/veritas) - Central authentication microservice for all phish.directory services. (2 weeks ago)
 - [api](https://github.com/phishdirectory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts. (2 weeks ago)
 
