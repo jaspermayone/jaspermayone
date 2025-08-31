@@ -14,12 +14,12 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 {{range recentContributions 5}}
-- [{{.Repo.Owner}}{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+- [@{{.Repo.Owner}}/{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 🌱 My latest projects
 {{range recentCreatedRepos "jaspermayone" 5}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
+- [@{{.Owner}}/{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
 #### 🍴 My recent forks
