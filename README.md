@@ -14,19 +14,19 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 
-- [patchworklabsorgdns](https://github.com/patchworklabsorg/dns) - OctoDNS + CoreDNS managed DNS config (1 day ago)
-- [jaspermayonewebsite](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (2 days ago)
-- [jaspermayonedots](https://github.com/jaspermayone/dots) -  (3 weeks ago)
-- [patchworklabsorgcore](https://github.com/patchworklabsorg/core) - Services and other configuration on the Core VM running NixOS (3 weeks ago)
-- [phishdirectoryveritas](https://github.com/phishdirectory/veritas) - Central authentication microservice for all phish.directory services. (1 month ago)
+- [@patchworklabsorg/dns](https://github.com/patchworklabsorg/dns) - OctoDNS + CoreDNS managed DNS config (1 day ago)
+- [@jaspermayone/website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (2 days ago)
+- [@jaspermayone/dots](https://github.com/jaspermayone/dots) -  (3 weeks ago)
+- [@patchworklabsorg/core](https://github.com/patchworklabsorg/core) - Services and other configuration on the Core VM running NixOS (3 weeks ago)
+- [@phishdirectory/veritas](https://github.com/phishdirectory/veritas) - Central authentication microservice for all phish.directory services. (1 month ago)
 
 #### 🌱 My latest projects
 
-- [dots](https://github.com/jaspermayone/dots) - 
-- [nimbis](https://github.com/jaspermayone/nimbis) - email archiving solution
-- [ruby-rails-template](https://github.com/jaspermayone/ruby-rails-template) - 
-- [lumon-mdr](https://github.com/jaspermayone/lumon-mdr) - functional mdr workflow
-- [wit-minecraft-resource-pack](https://github.com/jaspermayone/wit-minecraft-resource-pack) - 
+- [@jaspermayone/dots](https://github.com/jaspermayone/dots) - 
+- [@jaspermayone/nimbis](https://github.com/jaspermayone/nimbis) - email archiving solution
+- [@jaspermayone/ruby-rails-template](https://github.com/jaspermayone/ruby-rails-template) - 
+- [@jaspermayone/lumon-mdr](https://github.com/jaspermayone/lumon-mdr) - functional mdr workflow
+- [@jaspermayone/wit-minecraft-resource-pack](https://github.com/jaspermayone/wit-minecraft-resource-pack) - 
 
 #### 🍴 My recent forks
 
