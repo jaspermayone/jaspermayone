@@ -10,24 +10,35 @@ An avid organizer and big picture thinker, you can often find them scheming up s
 
 Recently they've been focusing their time (outside of their degree) on [Major League Hacking (aka MLH)](https://mlh.io/) where they currently contract as a Coach, as well as at [Patchwork Labs](https://github.com/patchworklabsorg), a nonprofit they started with the mission to "Provide fiscal sponsorship and administrative support for hackathons and STEM projects, enabling individuals and teams to organize educational events and develop technology-based solutions that benefit the community."
 
-Previously, Jasper's adventures included working at [MLH](https://mlh.io/) as the Summer '24 engineering intern, a month-long trip to Rwanda, where they filmed a documentary and managed production for his fellow students' films. They also played a key role in the Waitsfield Elementary PTA's Annual Ski & Skate sale, co-coordinated large scale climate conferences called “See Change Sessions” with thousands of attendees, and enjoyed concerts by Sammy Rae & the Friends, AJR, and Lake Street Dive.
+Previously, Jasper's adventures included working at [MLH](https://mlh.io/) as the Summer '24 engineering intern, a month-long trip to Rwanda, where they filmed a documentary and managed production for his fellow students' films. They also played a key role in the Waitsfield Elementary PTA's Annual Ski & Skate sale, co-coordinated large scale climate conferences called “See Change Sessions” with thousands of attendees, and enjoyed concerts by AJR, Sammy Rae & the Friends, and Lake Street Dive.
 
-Check out their website at [jaspermayone.com](https://jaspermayone.com).
+You should check out their website at [jaspermayone.com](https://jaspermayone.com).
 
-#### 👷 What I'm currently working on:
-{{range recentContributions 5}}
-- [@{{.Repo.Owner}}/{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+---
+
+#### 👷 The latest repos I've pushed to
+{{range recentContributions 8}}
+- [`@{{.Repo.Owner}}/{{.Repo.Name}}`]({{.Repo.URL}}) - _"{{.Repo.Description}}"_ **({{humanize .OccurredAt}})**
 {{- end}}
 
 #### 🌱 My latest projects
-{{range recentCreatedRepos "jaspermayone" 5}}
-- [@{{.Owner}}/{{.Name}}]({{.URL}}) - {{.Description}}
+{{range recentCreatedRepos "jaspermayone" 4}}
+- [`@{{.Owner}}/{{.Name}}`]({{.URL}}) - _"{{.Description}}"_
 {{- end}}
 
 #### 🍴 My recent forks
 {{range recentForkedRepos "jaspermayone-forks" 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
+
+#### 📡 my _`wakatime`_ stats from the last week
+
+```text
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+
+Total: {{ wakatimeData.HumanReadableTotal }}
+```
+
 
 ---
 
@@ -57,3 +68,5 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 - [@kcoderhtml/slackbot-ultimate-template](https://github.com/kcoderhtml/slackbot-ultimate-template?tab=readme-ov-file#template-example)
 
 <sup><sub>🍴Check out my forks [here!](https://github.com/jaspermayone-forks/why)</sub></sup>
+
+_readme auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
