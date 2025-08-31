@@ -1,10 +1,10 @@
-![cosi](https://github.com/jaspermayone/jaspermayone/assets/65788728/0597adb6-37c9-4db7-b6d8-1d7107b7bdd8)
+![vt_mountains](https://github.com/jaspermayone/jaspermayone/assets/65788728/0597adb6-37c9-4db7-b6d8-1d7107b7bdd8)
 
 # Jasper Mayone (he/they)
 
-Jasper Mayone is a 18-year-old post high school graduate from rural Vermont. They are a circus performer, coder, and photographer.
+Jasper Mayone is a 19-year-old college student from rural Vermont, currently residing in Boston.
 
-A circus artist and a native Vermonter, Jasper is currently pursuing a gap year after their successful completion of high school a full year early. Jasper tries to live by the quote "We've all got both light and dark inside us. What matters is the part we choose to act on...that's who we really are." Jasper's hobbies include reading, being in the great outdoors, photography, computer programming, cooking, and running away to join the circus.
+A circus artist and a native Vermonter, Jasper is currently pursuing a Computer Science Major at Wentworth Institute of Technology in Boston Massachusets. Jasper tries to live by the quote "We've all got both light and dark inside us. What matters is the part we choose to act on...that's who we really are." Jasper's hobbies include reading, being in the great outdoors, photography, computer programming, cooking, and running away to join the circus.
 
 An avid organizer and big picture thinker, you can often find them scheming up some sort of business venture. From developing a small app to drafting large scale plans for a world domination scheme, Jasper is always looking for ways to combine their diverse interests and skills into enterprising projects. This knack for organization and leadership has opened doors for Jasper to take on exciting roles in various projects and adventures, both close to home and abroad.
 
@@ -19,7 +19,7 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 🌱 My latest projects
 {{range recentCreatedRepos "jaspermayone" 5}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
+- [{{.Organization}}//{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
 #### 🍴 My recent forks
