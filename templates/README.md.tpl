@@ -14,17 +14,17 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 
 #### 👷 What I'm currently working on:
 {{range recentContributions 5}}
-- [{{.Owner}}{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+- [{{.Repo.Owner}}{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 🌱 My latest projects
 {{range recentCreatedRepos "jaspermayone" 5}}
-- [{{.Owner}}//{{.Name}}]({{.URL}}) - {{.Description}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
 #### 🍴 My recent forks
 {{range recentForkedRepos "jaspermayone-forks" 5}}
-- [{{.Owner}}{{.Name}}]({{.URL}}) - {{.Description}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
 ---
