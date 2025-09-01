@@ -18,8 +18,8 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(today)**
-- [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(1 day ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 day ago)**
+- [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(2 days ago)**
 - [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(3 weeks ago)**
 - [`@patchworklabsorg/core`](https://github.com/patchworklabsorg/core) - _"Services and other configuration on the Core VM running NixOS"_ **(3 weeks ago)**
 - [`@phishdirectory/veritas`](https://github.com/phishdirectory/veritas) - _"Central authentication microservice for all phish.directory services."_ **(1 month ago)**
@@ -46,20 +46,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown        9h 10m 20s   █████████████████████░░░░  81.87%
-YAML           45m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.80%
-TSX            40m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.02%
-Smarty         31m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.66%
-TypeScript     3m 48s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.57%
+unknown        9h 31m 31s   █████████████████████░░░░  81.91%
+YAML           45m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.55%
+TSX            40m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.80%
+Smarty         31m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.49%
+TypeScript     3m 48s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.54%
 
 💼 Projects:
-dns            3h 36m 58s   █████████░░░░░░░░░░░░░░░░  32.27%
-unknown        3h 20m 40s   ████████░░░░░░░░░░░░░░░░░  29.85%
-jaspermayone   2h 14m 3s    █████░░░░░░░░░░░░░░░░░░░░  19.94%
-website        1h 36m 34s   ████░░░░░░░░░░░░░░░░░░░░░  14.36%
-mlh/core       24m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.57%
+dns            3h 36m 58s   ████████░░░░░░░░░░░░░░░░░  31.09%
+unknown        3h 20m 40s   ████████░░░░░░░░░░░░░░░░░  28.76%
+jaspermayone   2h 30m 5s    ██████░░░░░░░░░░░░░░░░░░░  21.51%
+website        1h 36m 34s   ████░░░░░░░░░░░░░░░░░░░░░  13.84%
+mlh/core       24m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.44%
 
-Total: 11 hrs 12 mins
+Total: 11 hrs 38 mins
 ```
 
 
