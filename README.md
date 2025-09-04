@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(3 days ago)**
-- [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(4 days ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(4 days ago)**
+- [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(5 days ago)**
 - [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(3 weeks ago)**
-- [`@patchworklabsorg/core`](https://github.com/patchworklabsorg/core) - _"Services and other configuration on the Core VM running NixOS"_ **(3 weeks ago)**
+- [`@patchworklabsorg/core`](https://github.com/patchworklabsorg/core) - _"Services and other configuration on the Core VM running NixOS"_ **(4 weeks ago)**
 - [`@phishdirectory/veritas`](https://github.com/phishdirectory/veritas) - _"Central authentication microservice for all phish.directory services."_ **(1 month ago)**
 - [`@phishdirectory/api`](https://github.com/phishdirectory/api) - _"API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts."_ **(1 month ago)**
 - [`@jaspermayone/scripts`](https://github.com/jaspermayone/scripts) - _""_ **(1 month ago)**
