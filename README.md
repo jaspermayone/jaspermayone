@@ -18,9 +18,9 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(4 days ago)**
-- [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(5 days ago)**
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(3 weeks ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(5 days ago)**
+- [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(6 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(4 weeks ago)**
 - [`@patchworklabsorg/core`](https://github.com/patchworklabsorg/core) - _"Services and other configuration on the Core VM running NixOS"_ **(4 weeks ago)**
 - [`@phishdirectory/veritas`](https://github.com/phishdirectory/veritas) - _"Central authentication microservice for all phish.directory services."_ **(1 month ago)**
 - [`@phishdirectory/api`](https://github.com/phishdirectory/api) - _"API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts."_ **(1 month ago)**
@@ -46,20 +46,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown        15h 5m 52s   ███████████████████░░░░░░  74.22%
-Ruby           1h 49m 50s   ███░░░░░░░░░░░░░░░░░░░░░░  9.00%
-YAML           47m 46s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.91%
-ERB            41m 13s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.38%
-TSX            40m 29s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.32%
+unknown        14h 40m 42s   ███████████████████░░░░░░  74.85%
+Ruby           1h 49m 50s    ███░░░░░░░░░░░░░░░░░░░░░░  9.34%
+ERB            41m 13s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.50%
+TSX            40m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.44%
+Smarty         31m 18s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.66%
 
 💼 Projects:
-idp            5h 7m 43s    ███████░░░░░░░░░░░░░░░░░░  25.21%
-unknown        4h 20m 12s   ██████░░░░░░░░░░░░░░░░░░░  21.32%
-mlh/core       3h 37m 28s   █████░░░░░░░░░░░░░░░░░░░░  17.82%
-dns            2h 57m 55s   ████░░░░░░░░░░░░░░░░░░░░░  14.58%
-jaspermayone   2h 30m 5s    ████░░░░░░░░░░░░░░░░░░░░░  12.30%
+idp            5h 7m 43s     ███████░░░░░░░░░░░░░░░░░░  26.15%
+unknown        4h 20m 12s    ██████░░░░░░░░░░░░░░░░░░░  22.11%
+mlh/core       3h 37m 28s    █████░░░░░░░░░░░░░░░░░░░░  18.48%
+jaspermayone   2h 30m 5s     ████░░░░░░░░░░░░░░░░░░░░░  12.75%
+dns            2h 14m 1s     ███░░░░░░░░░░░░░░░░░░░░░░  11.39%
 
-Total: 20 hrs 21 mins
+Total: 19 hrs 37 mins
 ```
 
 
