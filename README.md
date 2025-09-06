@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(5 days ago)**
-- [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(6 days ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(6 days ago)**
+- [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(1 week ago)**
 - [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(4 weeks ago)**
-- [`@patchworklabsorg/core`](https://github.com/patchworklabsorg/core) - _"Services and other configuration on the Core VM running NixOS"_ **(4 weeks ago)**
+- [`@patchworklabsorg/core`](https://github.com/patchworklabsorg/core) - _"Services and other configuration on the Core VM running NixOS"_ **(1 month ago)**
 - [`@phishdirectory/veritas`](https://github.com/phishdirectory/veritas) - _"Central authentication microservice for all phish.directory services."_ **(1 month ago)**
 - [`@phishdirectory/api`](https://github.com/phishdirectory/api) - _"API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts."_ **(1 month ago)**
 - [`@jaspermayone/scripts`](https://github.com/jaspermayone/scripts) - _""_ **(1 month ago)**
@@ -46,20 +46,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown        14h 22m 0s   ████████████████████░░░░░  76.63%
-Ruby           1h 49m 50s   ███░░░░░░░░░░░░░░░░░░░░░░  9.76%
-ERB            41m 13s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.66%
-Smarty         31m 18s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.78%
-YAML           29m 3s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.58%
+unknown        14h 8m 23s   ████████████████████░░░░░  76.35%
+Ruby           1h 49m 50s   ███░░░░░░░░░░░░░░░░░░░░░░  9.88%
+ERB            41m 13s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.71%
+Smarty         31m 18s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.82%
+YAML           29m 3s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.61%
 
 💼 Projects:
-idp            5h 7m 43s    ███████░░░░░░░░░░░░░░░░░░  27.35%
-unknown        5h 4m 0s     ███████░░░░░░░░░░░░░░░░░░  27.02%
-mlh/core       3h 37m 28s   █████░░░░░░░░░░░░░░░░░░░░  19.33%
-jaspermayone   2h 30m 5s    ████░░░░░░░░░░░░░░░░░░░░░  13.34%
-dns            1h 44m 53s   ███░░░░░░░░░░░░░░░░░░░░░░  9.32%
+idp            5h 7m 43s    ███████░░░░░░░░░░░░░░░░░░  27.69%
+unknown        5h 4m 0s     ███████░░░░░░░░░░░░░░░░░░  27.35%
+mlh/core       3h 37m 28s   █████░░░░░░░░░░░░░░░░░░░░  19.57%
+jaspermayone   2h 30m 5s    ████░░░░░░░░░░░░░░░░░░░░░  13.50%
+dns            1h 44m 53s   ███░░░░░░░░░░░░░░░░░░░░░░  9.44%
 
-Total: 18 hrs 45 mins
+Total: 18 hrs 31 mins
 ```
 
 
