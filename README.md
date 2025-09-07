@@ -18,6 +18,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory "_ **(today)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 week ago)**
 - [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(1 week ago)**
 - [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(1 month ago)**
@@ -25,7 +26,6 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 - [`@phishdirectory/veritas`](https://github.com/phishdirectory/veritas) - _"Central authentication microservice for all phish.directory services."_ **(1 month ago)**
 - [`@phishdirectory/api`](https://github.com/phishdirectory/api) - _"DEPRECATED. SEE @phishdirectory/core. ==== API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts."_ **(1 month ago)**
 - [`@jaspermayone/scripts`](https://github.com/jaspermayone/scripts) - _""_ **(2 months ago)**
-- [`@jaspermayone/metro`](https://github.com/jaspermayone/metro) - _"An interactive map of Boston's transit system."_ **(2 months ago)**
 
 #### 🌱 My latest projects
 
@@ -46,20 +46,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown        13h 23m 47s   ████████████████████░░░░░  76.83%
-Ruby           2h 6m 25s     ████░░░░░░░░░░░░░░░░░░░░░  12.08%
-ERB            41m 13s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.94%
-YAML           20m 55s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.00%
+unknown        13h 16m 33s   ███████████████████░░░░░░  75.66%
+Ruby           2h 18m 24s    ████░░░░░░░░░░░░░░░░░░░░░  13.15%
+ERB            42m 4s        █░░░░░░░░░░░░░░░░░░░░░░░░  4.00%
+YAML           21m 4s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.00%
 INI            8m 16s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.79%
 
 💼 Projects:
-unknown        6h 18m 26s    ██████████░░░░░░░░░░░░░░░  36.16%
-idp            5h 7m 43s     ████████░░░░░░░░░░░░░░░░░  29.40%
-mlh/core       4h 31m 0s     ███████░░░░░░░░░░░░░░░░░░  25.90%
-jaspermayone   1h 18m 41s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.52%
+unknown        6h 18m 26s    █████████░░░░░░░░░░░░░░░░  35.94%
+idp            5h 7m 43s     ████████░░░░░░░░░░░░░░░░░  29.22%
+mlh/core       4h 58m 41s    ████████░░░░░░░░░░░░░░░░░  28.36%
+jaspermayone   57m 35s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.47%
 gemini-demo    6m 7s         █░░░░░░░░░░░░░░░░░░░░░░░░  0.58%
 
-Total: 17 hrs 26 mins
+Total: 17 hrs 33 mins
 ```
 
 
