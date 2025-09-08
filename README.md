@@ -18,7 +18,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory "_ **(1 day ago)**
+- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory "_ **(today)**
 - [`@patchworklabsorg/policies`](https://github.com/patchworklabsorg/policies) - _""_ **(1 day ago)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 week ago)**
 - [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(1 week ago)**
@@ -46,20 +46,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown      12h 34m 34s   █████████████████░░░░░░░░  67.08%
-Ruby         4h 20m 0s     ██████░░░░░░░░░░░░░░░░░░░  23.11%
-ERB          35m 57s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.20%
-YAML         18m 53s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.68%
-TypeScript   18m 48s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.67%
+unknown      12h 26m 38s   ██████████████████░░░░░░░  68.92%
+Ruby         3h 57m 48s    ██████░░░░░░░░░░░░░░░░░░░  21.95%
+ERB          20m 50s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.92%
+TypeScript   19m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.78%
+YAML         18m 53s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.74%
 
 💼 Projects:
-mlh/core     9h 20m 13s    █████████████░░░░░░░░░░░░  49.79%
-unknown      6h 13m 59s    █████████░░░░░░░░░░░░░░░░  33.24%
-idp          2h 48m 17s    ████░░░░░░░░░░░░░░░░░░░░░  14.96%
-api          20m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.83%
+mlh/core     9h 37m 35s    ██████████████░░░░░░░░░░░  53.31%
+unknown      6h 13m 43s    █████████░░░░░░░░░░░░░░░░  34.49%
+idp          1h 49m 6s     ███░░░░░░░░░░░░░░░░░░░░░░  10.07%
+api          21m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.94%
 jsp          2m 5s         █░░░░░░░░░░░░░░░░░░░░░░░░  0.19%
 
-Total: 18 hrs 45 mins
+Total: 18 hrs 4 mins
 ```
 
 
