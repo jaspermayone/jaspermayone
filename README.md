@@ -18,8 +18,8 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory "_ **(today)**
 - [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(1 day ago)**
-- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory "_ **(1 day ago)**
 - [`@patchworklabsorg/policies`](https://github.com/patchworklabsorg/policies) - _""_ **(2 days ago)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 week ago)**
 - [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(1 month ago)**
@@ -46,20 +46,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown        12h 26m 44s   ██████████████████░░░░░░░  71.36%
-Ruby           3h 23m 25s    █████░░░░░░░░░░░░░░░░░░░░  19.44%
-YAML           22m 45s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.17%
-TypeScript     19m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.84%
-HTTP Request   11m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.06%
+unknown        12h 34m 42s   ██████████████████░░░░░░░  71.28%
+Ruby           3h 23m 25s    █████░░░░░░░░░░░░░░░░░░░░  19.21%
+YAML           27m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.55%
+TypeScript     19m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.82%
+HTTP Request   11m 19s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.07%
 
 💼 Projects:
-mlh/core       9h 22m 34s    ██████████████░░░░░░░░░░░  53.75%
-unknown        6h 8m 24s     █████████░░░░░░░░░░░░░░░░  35.20%
-website        1h 32m 34s    ███░░░░░░░░░░░░░░░░░░░░░░  8.84%
-api            21m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.01%
-jsp            2m 5s         █░░░░░░░░░░░░░░░░░░░░░░░░  0.20%
+mlh/core       9h 27m 39s    ██████████████░░░░░░░░░░░  53.60%
+unknown        6h 8m 24s     █████████░░░░░░░░░░░░░░░░  34.79%
+website        1h 32m 34s    ███░░░░░░░░░░░░░░░░░░░░░░  8.74%
+api            21m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.98%
+dns            7m 21s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.69%
 
-Total: 17 hrs 27 mins
+Total: 17 hrs 39 mins
 ```
 
 
