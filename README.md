@@ -18,9 +18,9 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory "_ **(today)**
-- [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(1 day ago)**
-- [`@patchworklabsorg/policies`](https://github.com/patchworklabsorg/policies) - _""_ **(2 days ago)**
+- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory "_ **(1 day ago)**
+- [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(2 days ago)**
+- [`@patchworklabsorg/policies`](https://github.com/patchworklabsorg/policies) - _""_ **(3 days ago)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 week ago)**
 - [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(1 month ago)**
 - [`@patchworklabsorg/core`](https://github.com/patchworklabsorg/core) - _"Services and other configuration on the Core VM running NixOS"_ **(1 month ago)**
@@ -46,20 +46,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown        11h 50m 25s   █████████████████░░░░░░░░  67.05%
-Ruby           3h 23m 51s    █████░░░░░░░░░░░░░░░░░░░░  19.24%
-YAML           36m 30s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.45%
-TypeScript     19m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.82%
-Bash           11m 46s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.11%
+unknown        12h 17m 48s   █████████████████░░░░░░░░  67.79%
+Ruby           3h 23m 51s    █████░░░░░░░░░░░░░░░░░░░░  18.73%
+YAML           36m 30s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.35%
+TypeScript     19m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.77%
+Bash           13m 20s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.23%
 
 💼 Projects:
-mlh/core       7h 46m 27s    ████████████░░░░░░░░░░░░░  44.01%
-unknown        6h 8m 24s     █████████░░░░░░░░░░░░░░░░  34.76%
-website        1h 32m 34s    ███░░░░░░░░░░░░░░░░░░░░░░  8.73%
-helium-macos   52m 53s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.99%
-dns            36m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.46%
+mlh/core       7h 33m 53s    ███████████░░░░░░░░░░░░░░  41.69%
+unknown        6h 10m 10s    █████████░░░░░░░░░░░░░░░░  34.00%
+helium-macos   1h 32m 39s    ███░░░░░░░░░░░░░░░░░░░░░░  8.51%
+website        1h 32m 34s    ███░░░░░░░░░░░░░░░░░░░░░░  8.50%
+dns            36m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.36%
 
-Total: 17 hrs 40 mins
+Total: 18 hrs 9 mins
 ```
 
 
