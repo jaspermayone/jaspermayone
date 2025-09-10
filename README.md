@@ -49,8 +49,8 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 unknown        11h 47m 29s   █████████████████░░░░░░░░  66.49%
 Ruby           3h 23m 51s    █████░░░░░░░░░░░░░░░░░░░░  19.16%
 YAML           36m 30s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.43%
-TypeScript     19m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.81%
 Bash           19m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.81%
+TypeScript     19m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.81%
 
 💼 Projects:
 mlh/core       6h 57m 53s    ██████████░░░░░░░░░░░░░░░  39.26%
