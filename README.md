@@ -18,11 +18,11 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@WIT-Coding-Club/.github`](https://github.com/WIT-Coding-Club/.github) - _""_ **(today)**
-- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory "_ **(4 days ago)**
-- [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(5 days ago)**
-- [`@patchworklabsorg/policies`](https://github.com/patchworklabsorg/policies) - _""_ **(6 days ago)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 week ago)**
+- [`@WIT-Coding-Club/.github`](https://github.com/WIT-Coding-Club/.github) - _""_ **(1 day ago)**
+- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory "_ **(5 days ago)**
+- [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(6 days ago)**
+- [`@patchworklabsorg/policies`](https://github.com/patchworklabsorg/policies) - _""_ **(1 week ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(2 weeks ago)**
 - [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(1 month ago)**
 - [`@patchworklabsorg/core`](https://github.com/patchworklabsorg/core) - _"Services and other configuration on the Core VM running NixOS"_ **(1 month ago)**
 - [`@phishdirectory/veritas`](https://github.com/phishdirectory/veritas) - _"Central authentication microservice for all phish.directory services."_ **(1 month ago)**
@@ -46,20 +46,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown        10h 55m 21s   ██████████████░░░░░░░░░░░  55.96%
-Ruby           3h 23m 51s    █████░░░░░░░░░░░░░░░░░░░░  17.41%
-Diff           1h 44m 31s    ███░░░░░░░░░░░░░░░░░░░░░░  8.93%
-YAML           47m 21s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.04%
-Bash           35m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.99%
+unknown        10h 53m 2s   ██████████████░░░░░░░░░░░  55.88%
+Ruby           3h 23m 51s   █████░░░░░░░░░░░░░░░░░░░░  17.44%
+Diff           1h 44m 31s   ███░░░░░░░░░░░░░░░░░░░░░░  8.94%
+YAML           47m 21s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.05%
+Bash           35m 2s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.00%
 
 💼 Projects:
-mlh/core       6h 53m 51s    █████████░░░░░░░░░░░░░░░░  35.33%
-macos          3h 48m 4s     █████░░░░░░░░░░░░░░░░░░░░  19.47%
-chromium       2h 10m 37s    ███░░░░░░░░░░░░░░░░░░░░░░  11.15%
-helium-macos   1h 41m 55s    ███░░░░░░░░░░░░░░░░░░░░░░  8.70%
-website        1h 32m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.90%
+mlh/core       6h 53m 51s   █████████░░░░░░░░░░░░░░░░  35.40%
+macos          3h 48m 4s    █████░░░░░░░░░░░░░░░░░░░░  19.51%
+chromium       2h 10m 37s   ███░░░░░░░░░░░░░░░░░░░░░░  11.17%
+helium-macos   1h 41m 55s   ███░░░░░░░░░░░░░░░░░░░░░░  8.72%
+website        1h 32m 33s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.92%
 
-Total: 19 hrs 31 mins
+Total: 19 hrs 29 mins
 ```
 
 
