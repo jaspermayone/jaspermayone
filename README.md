@@ -29,10 +29,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 🌱 My latest projects
 
+- [`@jaspermayone/fern`](https://github.com/jaspermayone/fern) - _""_
 - [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_
 - [`@jaspermayone/nimbis`](https://github.com/jaspermayone/nimbis) - _"email archiving solution"_
 - [`@jaspermayone/ruby-rails-template`](https://github.com/jaspermayone/ruby-rails-template) - _""_
-- [`@jaspermayone/lumon-mdr`](https://github.com/jaspermayone/lumon-mdr) - _"functional mdr workflow"_
 
 #### 🍴 My recent forks
 
@@ -46,20 +46,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown          10h 12m 8s   ███████████████████░░░░░░  75.31%
-Diff             1h 50m 50s   ████░░░░░░░░░░░░░░░░░░░░░  13.64%
-Bash             29m 54s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.68%
-YAML             18m 20s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.26%
-Markdown         13m 21s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.64%
+unknown          9h 44m 7s    ███████████████████░░░░░░  72.04%
+Diff             1h 50m 50s   ████░░░░░░░░░░░░░░░░░░░░░  13.67%
+Bash             29m 54s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.69%
+Swift            26m 45s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.30%
+YAML             17m 37s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.17%
 
 💼 Projects:
-macos            4h 18m 37s   ████████░░░░░░░░░░░░░░░░░  31.81%
-dns              3h 27m 18s   ███████░░░░░░░░░░░░░░░░░░  25.50%
-chromium         2h 10m 37s   █████░░░░░░░░░░░░░░░░░░░░  16.07%
-crane-chromium   2h 2m 15s    ████░░░░░░░░░░░░░░░░░░░░░  15.04%
-helium-macos     1h 34m 7s    ███░░░░░░░░░░░░░░░░░░░░░░  11.58%
+macos            4h 18m 43s   ████████░░░░░░░░░░░░░░░░░  31.90%
+dns              3h 22m 22s   ███████░░░░░░░░░░░░░░░░░░  24.95%
+chromium         2h 10m 37s   █████░░░░░░░░░░░░░░░░░░░░  16.11%
+crane-chromium   2h 2m 15s    ████░░░░░░░░░░░░░░░░░░░░░  15.08%
+helium-macos     58m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.19%
 
-Total: 13 hrs 33 mins
+Total: 13 hrs 31 mins
 ```
 
 
