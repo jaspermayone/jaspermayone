@@ -18,8 +18,8 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(1 day ago)**
-- [`@WIT-Coding-Club/.github`](https://github.com/WIT-Coding-Club/.github) - _""_ **(3 days ago)**
+- [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(2 days ago)**
+- [`@WIT-Coding-Club/.github`](https://github.com/WIT-Coding-Club/.github) - _""_ **(4 days ago)**
 - [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory "_ **(1 week ago)**
 - [`@patchworklabsorg/policies`](https://github.com/patchworklabsorg/policies) - _""_ **(1 week ago)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(2 weeks ago)**
@@ -46,20 +46,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown          9h 23m 47s   ███████████████████░░░░░░  72.04%
-Diff             1h 50m 50s   ████░░░░░░░░░░░░░░░░░░░░░  14.16%
-Swift            26m 45s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.42%
-Bash             21m 58s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.81%
-YAML             17m 37s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.25%
+unknown          9h 1m 46s    ██████████████████░░░░░░░  70.88%
+Diff             1h 50m 50s   ████░░░░░░░░░░░░░░░░░░░░░  14.50%
+Swift            30m 34s      █░░░░░░░░░░░░░░░░░░░░░░░░  4.00%
+Bash             21m 58s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.87%
+YAML             17m 37s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.30%
 
 💼 Projects:
-macos            4h 18m 43s   █████████░░░░░░░░░░░░░░░░  33.06%
-dns              3h 4m 57s    ██████░░░░░░░░░░░░░░░░░░░  23.63%
-chromium         2h 10m 37s   █████░░░░░░░░░░░░░░░░░░░░  16.69%
-crane-chromium   2h 2m 15s    ████░░░░░░░░░░░░░░░░░░░░░  15.62%
-helium-macos     47m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.06%
+macos            4h 18m 43s   █████████░░░░░░░░░░░░░░░░  33.84%
+dns              3h 4m 57s    ███████░░░░░░░░░░░░░░░░░░  24.19%
+chromium         2h 10m 37s   █████░░░░░░░░░░░░░░░░░░░░  17.09%
+crane-chromium   2h 2m 15s    ████░░░░░░░░░░░░░░░░░░░░░  15.99%
+Fern             1h 2m 5s     ███░░░░░░░░░░░░░░░░░░░░░░  8.12%
 
-Total: 13 hrs 3 mins
+Total: 12 hrs 44 mins
 ```
 
 
