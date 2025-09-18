@@ -18,6 +18,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@jaspermayone/wit-cs1000-pa2`](https://github.com/jaspermayone/wit-cs1000-pa2) - _""_ **(today)**
 - [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(3 days ago)**
 - [`@WIT-Coding-Club/.github`](https://github.com/WIT-Coding-Club/.github) - _""_ **(5 days ago)**
 - [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory "_ **(1 week ago)**
@@ -25,7 +26,6 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(2 weeks ago)**
 - [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(1 month ago)**
 - [`@patchworklabsorg/core`](https://github.com/patchworklabsorg/core) - _"Services and other configuration on the Core VM running NixOS"_ **(1 month ago)**
-- [`@phishdirectory/veritas`](https://github.com/phishdirectory/veritas) - _"Central authentication microservice for all phish.directory services."_ **(1 month ago)**
 
 #### 🌱 My latest projects
 
@@ -46,20 +46,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown          9h 24m 30s   ███████████████████████░░  88.76%
-Swift            30m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.81%
-Diff             15m 45s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.48%
-YAML             12m 6s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.90%
-Markdown         6m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.99%
+unknown          9h 17m 19s   ███████████████████████░░  88.63%
+Swift            30m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.86%
+Diff             15m 45s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.50%
+YAML             12m 6s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.92%
+Markdown         6m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.00%
 
 💼 Projects:
-dns              3h 4m 39s    ████████░░░░░░░░░░░░░░░░░  29.03%
-macos            2h 19m 50s   ██████░░░░░░░░░░░░░░░░░░░  21.99%
-Fern             2h 16m 8s    ██████░░░░░░░░░░░░░░░░░░░  21.40%
-crane-chromium   2h 0m 19s    █████░░░░░░░░░░░░░░░░░░░░  18.92%
-pa2              39m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.23%
+dns              3h 4m 39s    ████████░░░░░░░░░░░░░░░░░  29.36%
+macos            2h 19m 50s   ██████░░░░░░░░░░░░░░░░░░░  22.24%
+Fern             2h 16m 8s    ██████░░░░░░░░░░░░░░░░░░░  21.65%
+crane-chromium   2h 0m 19s    █████░░░░░░░░░░░░░░░░░░░░  19.13%
+pa2              45m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.30%
 
-Total: 10 hrs 36 mins
+Total: 10 hrs 29 mins
 ```
 
 
