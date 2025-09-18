@@ -29,10 +29,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 🌱 My latest projects
 
+- [`@jaspermayone/wit-cs1000-pa2`](https://github.com/jaspermayone/wit-cs1000-pa2) - _""_
 - [`@jaspermayone/fern`](https://github.com/jaspermayone/fern) - _""_
 - [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_
 - [`@jaspermayone/nimbis`](https://github.com/jaspermayone/nimbis) - _"email archiving solution"_
-- [`@jaspermayone/ruby-rails-template`](https://github.com/jaspermayone/ruby-rails-template) - _""_
 
 #### 🍴 My recent forks
 
@@ -46,20 +46,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown          8h 57m 5s    ██████████████████████░░░  85.63%
-Diff             30m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.88%
-Swift            30m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.87%
-YAML             12m 6s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.93%
-Markdown         6m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.00%
+unknown          9h 6m 31s   ██████████████████████░░░  85.85%
+Diff             30m 36s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.81%
+Swift            30m 34s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.80%
+YAML             12m 6s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.90%
+Markdown         6m 17s      █░░░░░░░░░░░░░░░░░░░░░░░░  0.99%
 
 💼 Projects:
-dns              3h 4m 39s    ████████░░░░░░░░░░░░░░░░░  29.44%
-macos            2h 32m 15s   ███████░░░░░░░░░░░░░░░░░░  24.27%
-Fern             2h 13m 44s   ██████░░░░░░░░░░░░░░░░░░░  21.32%
-crane-chromium   2h 0m 19s    █████░░░░░░░░░░░░░░░░░░░░  19.18%
-chromium         36m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.78%
+dns              3h 4m 39s   ████████░░░░░░░░░░░░░░░░░  29.00%
+macos            2h 28m 5s   ██████░░░░░░░░░░░░░░░░░░░  23.26%
+Fern             2h 16m 8s   ██████░░░░░░░░░░░░░░░░░░░  21.38%
+crane-chromium   2h 0m 19s   █████░░░░░░░░░░░░░░░░░░░░  18.90%
+chromium         36m 16s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.70%
 
-Total: 10 hrs 27 mins
+Total: 10 hrs 37 mins
 ```
 
 
