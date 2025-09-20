@@ -18,9 +18,9 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/wit-cs1000-pa2`](https://github.com/jaspermayone/wit-cs1000-pa2) - _""_ **(1 day ago)**
-- [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(4 days ago)**
-- [`@WIT-Coding-Club/.github`](https://github.com/WIT-Coding-Club/.github) - _""_ **(6 days ago)**
+- [`@jaspermayone/wit-cs1000-pa2`](https://github.com/jaspermayone/wit-cs1000-pa2) - _""_ **(2 days ago)**
+- [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(5 days ago)**
+- [`@WIT-Coding-Club/.github`](https://github.com/WIT-Coding-Club/.github) - _""_ **(1 week ago)**
 - [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory "_ **(1 week ago)**
 - [`@patchworklabsorg/policies`](https://github.com/patchworklabsorg/policies) - _""_ **(1 week ago)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(2 weeks ago)**
@@ -46,20 +46,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown          8h 43m 57s   ███████████████████████░░  89.89%
-Swift            30m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.24%
-Diff             13m 14s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.27%
-YAML             10m 42s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.84%
-Markdown         3m 51s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.66%
+unknown          8h 57m 20s   ███████████████████████░░  90.12%
+Swift            30m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.13%
+Diff             13m 14s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.22%
+YAML             10m 42s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.79%
+Markdown         3m 51s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.65%
 
 💼 Projects:
-dns              3h 4m 39s    ████████░░░░░░░░░░░░░░░░░  31.68%
-Fern             2h 15m 45s   ██████░░░░░░░░░░░░░░░░░░░  23.29%
-crane-chromium   1h 53m 40s   █████░░░░░░░░░░░░░░░░░░░░  19.50%
-pa2              1h 51m 35s   █████░░░░░░░░░░░░░░░░░░░░  19.14%
-macos            37m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.38%
+dns              3h 4m 39s    ████████░░░░░░░░░░░░░░░░░  30.97%
+Fern             2h 15m 45s   ██████░░░░░░░░░░░░░░░░░░░  22.77%
+pa2              2h 4m 58s    ██████░░░░░░░░░░░░░░░░░░░  20.96%
+crane-chromium   1h 53m 40s   █████░░░░░░░░░░░░░░░░░░░░  19.06%
+macos            37m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.24%
 
-Total: 9 hrs 43 mins
+Total: 9 hrs 56 mins
 ```
 
 
