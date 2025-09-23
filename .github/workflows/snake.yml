@@ -61,6 +61,6 @@ jobs:
             assets/snake/ocean.gif
           commit_user_name: jasperbot 🤖
           commit_user_email: robot+github@jaspermayone.com
-          commit_author: jasperbot 🤖 <robot+github@jaspermayone.com>
+          commit_author: jasperbot[snake] 🤖 <robot+github@jaspermayone.com>
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
