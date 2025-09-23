@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown        6h 58m 53s   ████████████████████████░  92.21%
-Swift          30m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.73%
-Diff           2m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.47%
+unknown        6h 56m 34s   ████████████████████████░  92.17%
+Swift          30m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.76%
+Diff           2m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.48%
 Markdown       2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.44%
 Python         23s          █░░░░░░░░░░░░░░░░░░░░░░░░  0.08%
 
 💼 Projects:
-pa2            2h 42m 10s   █████████░░░░░░░░░░░░░░░░  35.70%
-Fern           2h 15m 45s   ████████░░░░░░░░░░░░░░░░░  29.89%
-task-manager   2h 4m 45s    ███████░░░░░░░░░░░░░░░░░░  27.46%
-dns            18m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.08%
-macos          10m 51s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.39%
+pa2            2h 42m 10s   █████████░░░░░░░░░░░░░░░░  35.89%
+Fern           2h 15m 45s   ████████░░░░░░░░░░░░░░░░░  30.04%
+task-manager   2h 4m 45s    ███████░░░░░░░░░░░░░░░░░░  27.61%
+dns            16m 14s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.59%
+macos          10m 51s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.40%
 
-Total: 7 hrs 34 mins
+Total: 7 hrs 32 mins
 ```
 
 
@@ -74,11 +74,10 @@ Total: 7 hrs 34 mins
 #### Attributions:
 - [@kcoderhtml/slackbot-ultimate-template](https://github.com/kcoderhtml/slackbot-ultimate-template?tab=readme-ov-file#template-example)
 
-<sup><sub>_readme auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_ </sub></sup>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/snake/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/snake/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="assets/snake/github-contribution-grid-snake.svg" />
 </picture>
+<sup><sub>_readme auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_</sub></sup>
 
