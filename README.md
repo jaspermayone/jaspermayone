@@ -79,5 +79,9 @@ Total: 7 hrs 32 mins
   <source media="(prefers-color-scheme: light)" srcset="assets/snake/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="assets/snake/github-contribution-grid-snake.svg" />
 </picture>
-<sup><sub>_readme auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_</sub></sup>
 
+<sup><em>readme auto updates on the hour via
+  <a href="https://github.com/taciturnaxolotl/markscribe">
+    <code>taciturnaxolotl/markscribe</code>
+  </a>
+</em></sup>
