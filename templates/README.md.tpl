@@ -62,7 +62,8 @@ Total: {{ wakatimeData.HumanReadableTotal }}
 <sup><sub>_readme auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_ </sub></sup>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/snake/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/snake/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="assets/snake/github-contribution-grid-snake.svg" />
 </picture>
+
