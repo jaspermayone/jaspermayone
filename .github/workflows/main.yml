@@ -1,19 +1,29 @@
-name: Main ReadMe CI
+# .github/workflows/main.yml
+
+name: update readne
 
 on:
-  # push:
+  push:
   schedule:
     - cron: "0 */1 * * *"
   workflow_dispatch:
 
 jobs:
   markscribe:
+    # Skip on pushes by any "jasperbot" variant
+    if: github.event_name != 'push' || (
+      !contains(github.actor, 'jasperbot') &&
+      !contains(github.actor, '🤖'))
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@master
+      - uses: actions/checkout@v4
 
-      - uses: "actions-go/go-install@main"
+      - uses: actions/setup-go@v5
+        with:
+          go-version: 'stable'
+
+      - uses: actions-go/go-install@main
         id: install
         with:
           module: "github.com/taciturnaxolotl/markscribe@HEAD"
@@ -31,6 +41,6 @@ jobs:
         with:
           commit_message: Update generated README
           branch: main
-          commit_user_name: readme-scribe 🤖
-          commit_user_email: actions@github.com
-          commit_author: readme-scribe 🤖 <actions@github.com>
+          commit_user_name: jasperbot[markscribe] 🤖
+          commit_user_email: robot+github@jaspermayone.com
+          commit_author: jasperbot 🤖 <robot+github@jaspermayone.com>
