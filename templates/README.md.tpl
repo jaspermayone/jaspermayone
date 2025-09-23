@@ -17,17 +17,17 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 ---
 
 #### 👷 The latest repos I've pushed to
-{{range recentContributions 8}}
+{{range recentContributions 4}}
 - [`@{{.Repo.Owner}}/{{.Repo.Name}}`]({{.Repo.URL}}) - _"{{.Repo.Description}}"_ **({{humanize .OccurredAt}})**
 {{- end}}
 
 #### 🌱 My latest projects
-{{range recentCreatedRepos "jaspermayone" 4}}
+{{range recentCreatedRepos "jaspermayone" 3}}
 - [`@{{.Owner}}/{{.Name}}`]({{.URL}}) - _"{{.Description}}"_
 {{- end}}
 
 #### 🍴 My recent forks
-{{range recentForkedRepos "jaspermayone-forks" 5}}
+{{range recentForkedRepos "jaspermayone-forks" 2}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
@@ -50,14 +50,6 @@ Total: {{ wakatimeData.HumanReadableTotal }}
 - [obsidian-ai-tagger](https://github.com/jaspermayone/obsidian-ai-tagger) - Auto tagging obsidian notes w/ AI
 - [metro](https://github.com/jaspermayone/metro) - An interactive map of Boston's transit system.
 
-#### <img src="https://raw.githubusercontent.com/phishdirectory/brand/main/phishdirectory.jpeg" width="20" height="20" />  phish.directory (making the internet a safer place!)
-- [api](https://github.com/phishdirectory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts.
-- [waitlist](https://github.com/phishdirectory/waitlist) - static landing site w/ email signup. designed to be adapted to waitlist different phish.directory projects.
-- [veritas](https://github.com/phishdirectory/veritas) - Central authentication microservice for all phish.directory services.
-
-#### <img src="https://raw.githubusercontent.com/thepurplebubble/brand/main/public/logo.png" width="20" height="20" />  Purple Bubble:
-- [Magic Mirror](https://github.com/thepurplebubble/magic-mirror) - Mirroring Slack Channels Between Workspaces
-
 #### <img src="https://assets.hackclub.com/icon-progress-rounded.png" width="20" height="20" /> Hack Club Projects:
 - [Pizza Fund](https://github.com/hackclub/pizza-fund) - Orpheus the delivery dino is ready to deliver your $100 pizza grants!
 - [Professor Bloom](https://github.com/hackclub/professor-bloom) - The beloved bot powering welcome-commitee @ Hack Club
@@ -67,6 +59,10 @@ Total: {{ wakatimeData.HumanReadableTotal }}
 #### Attributions:
 - [@kcoderhtml/slackbot-ultimate-template](https://github.com/kcoderhtml/slackbot-ultimate-template?tab=readme-ov-file#template-example)
 
-<sup><sub>🍴Check out my forks [here!](https://github.com/jaspermayone-forks/why)</sub></sup>
+<sup><sub>_readme auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_ </sub></sup>
 
-_readme auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
