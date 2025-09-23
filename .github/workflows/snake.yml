@@ -1,17 +1,10 @@
-
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
+# .github/workflows/snake.yml
 name: Generate Snake
 
-# Controls when the action will run.
 on:
   schedule:
-    # every 12 hours
     - cron: "0 */12 * * *"
-
-  # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
-
-  # Also run on every push on the main branch
   push:
     branches:
       - main
@@ -19,21 +12,17 @@ on:
 permissions:
   contents: write
 
-# The sequence of runs in this workflow:
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - name: Clone repo
-        uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Generate the snake files in './dist/'
+      - name: Generate snake files
         uses: Platane/snk@v3
-        id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -43,14 +32,28 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Show build status
-        run: git status
+      - name: Stage assets to tracked folder
+        run: |
+          mkdir -p assets/snake
+          cp -f dist/github-contribution-grid-snake.svg assets/snake/github-contribution-grid-snake.svg
+          cp -f dist/github-contribution-grid-snake-dark.svg assets/snake/github-contribution-grid-snake-dark.svg
+          cp -f dist/github-contribution-grid-snake.gif assets/snake/github-contribution-grid-snake.gif
 
-      - name: Push new files to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Set timestamp
+        id: ts
+        run: echo "iso=$(date -u +'%Y-%m-%dT%H:%M:%SZ')" >> "$GITHUB_OUTPUT"
+
+      - name: Commit only changed snake assets
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          target_branch: snake
-          build_dir: dist
-          commit_message: Update snake animations at ${{ github.run_id }} · $(date -u +'%Y-%m-%dT%H:%M:%SZ')
+          commit_message: "chore(snake): update animations at ${{ steps.ts.outputs.iso }}"
+          branch: main
+          file_pattern: |
+            assets/snake/github-contribution-grid-snake.svg
+            assets/snake/github-contribution-grid-snake-dark.svg
+            assets/snake/github-contribution-grid-snake.gif
+          commit_user_name: jasperbot 🤖
+          commit_user_email: robot+github@jaspermayone.com
+          commit_author: jasperbot 🤖 <robot+github@jaspermayone.com>
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
