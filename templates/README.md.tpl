@@ -59,11 +59,10 @@ Total: {{ wakatimeData.HumanReadableTotal }}
 #### Attributions:
 - [@kcoderhtml/slackbot-ultimate-template](https://github.com/kcoderhtml/slackbot-ultimate-template?tab=readme-ov-file#template-example)
 
-<sup><sub>_readme auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_ </sub></sup>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/snake/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/snake/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="assets/snake/github-contribution-grid-snake.svg" />
 </picture>
+<sup><sub>_readme auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_</sub></sup>
 
