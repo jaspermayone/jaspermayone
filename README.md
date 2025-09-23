@@ -4,39 +4,64 @@
 
 Jasper Mayone is a 19-year-old college student from rural Vermont, currently residing in Boston.
 
-A circus artist and a native Vermonter, Jasper is currently pursuing a Computer Science Major at Wentworth Institute of Technology in Boston Massachusets. Jasper tries to live by the quote "We've all got both light and dark inside us. What matters is the part we choose to act on...that's who we really are." Jasper's hobbies include reading, being in the great outdoors, photography, computer programming, cooking, and running away to join the circus.
+A circus artist and a native Vermonter, Jasper is currently pursuing a Computer Science Major at [Wentworth Institute of Technology](https://wit.edu) in Boston Massachusetts. When not in school or at work, Jasper's hobbies include reading, being in the great outdoors, photography, computer programming, cooking, and running away to join the circus.
 
 An avid organizer and big picture thinker, you can often find them scheming up some sort of business venture. From developing a small app to drafting large scale plans for a world domination scheme, Jasper is always looking for ways to combine their diverse interests and skills into enterprising projects. This knack for organization and leadership has opened doors for Jasper to take on exciting roles in various projects and adventures, both close to home and abroad.
 
-Recently they've been focusing their time (outside of their degree) on [Major League Hacking (aka MLH)](https://mlh.io/) where they currently contract as a Coach, as well as at [Patchwork Labs](https://github.com/patchworklabsorg), a nonprofit they started with the mission to "Provide fiscal sponsorship and administrative support for hackathons and STEM projects, enabling individuals and teams to organize educational events and develop technology-based solutions that benefit the community."
+Recently they've been focusing their time (outside of their degree) on [MLH (aka Major League Hacking)](https://mlh.io/) where they currently contract as a Coach, as well as at [Patchwork Labs](https://github.com/patchworklabsorg), a nonprofit they started with the mission to "Provide fiscal sponsorship and administrative support for hackathons and STEM projects, enabling individuals and teams to organize educational events and develop technology-based solutions that benefit the community."
 
-Previously, Jasper's adventures included working at [MLH](https://mlh.io/) as the Summer '24 engineering intern, a month-long trip to Rwanda, where they filmed a documentary and managed production for his fellow students' films. They also played a key role in the Waitsfield Elementary PTA's Annual Ski & Skate sale, co-coordinated large scale climate conferences called “See Change Sessions” with thousands of attendees, and enjoyed concerts by Sammy Rae & the Friends, AJR, and Lake Street Dive.
+Previously, Jasper's adventures included working at [MLH](https://mlh.io/) as the Summer 2025 engineering intern, a month-long trip to Rwanda, where they filmed a documentary and managed production for their fellow students' films. They also played a key role in the Waitsfield Elementary PTA's Annual Ski & Skate sale, co-coordinated large scale climate conferences called “See Change Sessions” with thousands of attendees, and enjoyed concerts by AJR, Sammy Rae & the Friends, and Lake Street Dive.
 
-Check out their website at [jaspermayone.com](https://jaspermayone.com).
+You should check out their website at [jaspermayone.com](https://jaspermayone.com).
 
-#### 👷 What I'm currently working on:
+---
 
-- [@patchworklabsorg/dns](https://github.com/patchworklabsorg/dns) - OctoDNS + CoreDNS managed DNS config (1 day ago)
-- [@jaspermayone/website](https://github.com/jaspermayone/website) - Personal Website for @jaspermayone. (2 days ago)
-- [@jaspermayone/dots](https://github.com/jaspermayone/dots) -  (3 weeks ago)
-- [@patchworklabsorg/core](https://github.com/patchworklabsorg/core) - Services and other configuration on the Core VM running NixOS (3 weeks ago)
-- [@phishdirectory/veritas](https://github.com/phishdirectory/veritas) - Central authentication microservice for all phish.directory services. (1 month ago)
+#### 👷 The latest repos I've pushed to
+
+- [`@michw3i/Task-Manager`](https://github.com/michw3i/Task-Manager) - _""_ **(3 days ago)**
+- [`@jaspermayone/wit-cs1000-pa2`](https://github.com/jaspermayone/wit-cs1000-pa2) - _""_ **(5 days ago)**
+- [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(1 week ago)**
+- [`@WIT-Coding-Club/.github`](https://github.com/WIT-Coding-Club/.github) - _""_ **(1 week ago)**
+- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory "_ **(2 weeks ago)**
+- [`@patchworklabsorg/policies`](https://github.com/patchworklabsorg/policies) - _""_ **(2 weeks ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(3 weeks ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(1 month ago)**
 
 #### 🌱 My latest projects
 
-- [@jaspermayone/dots](https://github.com/jaspermayone/dots) - 
-- [@jaspermayone/nimbis](https://github.com/jaspermayone/nimbis) - email archiving solution
-- [@jaspermayone/ruby-rails-template](https://github.com/jaspermayone/ruby-rails-template) - 
-- [@jaspermayone/lumon-mdr](https://github.com/jaspermayone/lumon-mdr) - functional mdr workflow
-- [@jaspermayone/wit-minecraft-resource-pack](https://github.com/jaspermayone/wit-minecraft-resource-pack) - 
+- [`@jaspermayone/wit-cs1000-pa2`](https://github.com/jaspermayone/wit-cs1000-pa2) - _""_
+- [`@jaspermayone/fern`](https://github.com/jaspermayone/fern) - _""_
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_
+- [`@jaspermayone/nimbis`](https://github.com/jaspermayone/nimbis) - _"email archiving solution"_
 
 #### 🍴 My recent forks
 
+- [steelhacks_projects-Task-Manager](https://github.com/jaspermayone-forks/steelhacks_projects-Task-Manager) - 
 - [obsidian-limitless-lifelogs](https://github.com/jaspermayone-forks/obsidian-limitless-lifelogs) - Sync your Limitless AI lifelog entries directly into Obsidian markdown files.
 - [espanso](https://github.com/jaspermayone-forks/espanso) - Cross-platform Text Expander written in Rust
 - [thread-it](https://github.com/jaspermayone-forks/thread-it) - 🧵 A Discord bot that keeps channels clean by converting replies into threads.
 - [hackclub-theseus](https://github.com/jaspermayone-forks/hackclub-theseus) - hack club's new warehouse & letter mail system!
-- [slashpages](https://github.com/jaspermayone-forks/slashpages) - A guide to common pages you can add to your website
+
+#### 📡 my _`wakatime`_ stats from the last week
+
+```text
+💾 Languages:
+unknown        6h 58m 46s   ████████████████████████░  92.21%
+Swift          30m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.73%
+Diff           2m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.47%
+Markdown       2m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.44%
+Python         23s          █░░░░░░░░░░░░░░░░░░░░░░░░  0.08%
+
+💼 Projects:
+pa2            2h 42m 10s   █████████░░░░░░░░░░░░░░░░  35.71%
+Fern           2h 15m 45s   ████████░░░░░░░░░░░░░░░░░  29.89%
+task-manager   2h 2m 38s    ███████░░░░░░░░░░░░░░░░░░  27.01%
+dns            20m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.53%
+macos          10m 51s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.39%
+
+Total: 7 hrs 34 mins
+```
+
 
 ---
 
@@ -66,3 +91,5 @@ Check out their website at [jaspermayone.com](https://jaspermayone.com).
 - [@kcoderhtml/slackbot-ultimate-template](https://github.com/kcoderhtml/slackbot-ultimate-template?tab=readme-ov-file#template-example)
 
 <sup><sub>🍴Check out my forks [here!](https://github.com/jaspermayone-forks/why)</sub></sup>
+
+_readme auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
