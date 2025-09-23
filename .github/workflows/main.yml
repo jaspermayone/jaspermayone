@@ -1,6 +1,6 @@
 # .github/workflows/main.yml
 
-name: update readne
+name: update readme
 
 on:
   push:
