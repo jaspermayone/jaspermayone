@@ -22,25 +22,17 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 - [`@jaspermayone/wit-cs1000-pa2`](https://github.com/jaspermayone/wit-cs1000-pa2) - _""_ **(5 days ago)**
 - [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(1 week ago)**
 - [`@WIT-Coding-Club/.github`](https://github.com/WIT-Coding-Club/.github) - _""_ **(1 week ago)**
-- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory "_ **(2 weeks ago)**
-- [`@patchworklabsorg/policies`](https://github.com/patchworklabsorg/policies) - _""_ **(2 weeks ago)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(3 weeks ago)**
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(1 month ago)**
 
 #### 🌱 My latest projects
 
 - [`@jaspermayone/wit-cs1000-pa2`](https://github.com/jaspermayone/wit-cs1000-pa2) - _""_
 - [`@jaspermayone/fern`](https://github.com/jaspermayone/fern) - _""_
 - [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_
-- [`@jaspermayone/nimbis`](https://github.com/jaspermayone/nimbis) - _"email archiving solution"_
 
 #### 🍴 My recent forks
 
 - [steelhacks_projects-Task-Manager](https://github.com/jaspermayone-forks/steelhacks_projects-Task-Manager) - 
 - [obsidian-limitless-lifelogs](https://github.com/jaspermayone-forks/obsidian-limitless-lifelogs) - Sync your Limitless AI lifelog entries directly into Obsidian markdown files.
-- [espanso](https://github.com/jaspermayone-forks/espanso) - Cross-platform Text Expander written in Rust
-- [thread-it](https://github.com/jaspermayone-forks/thread-it) - 🧵 A Discord bot that keeps channels clean by converting replies into threads.
-- [hackclub-theseus](https://github.com/jaspermayone-forks/hackclub-theseus) - hack club's new warehouse & letter mail system!
 
 #### 📡 my _`wakatime`_ stats from the last week
 
@@ -73,14 +65,6 @@ Total: 7 hrs 34 mins
 - [obsidian-ai-tagger](https://github.com/jaspermayone/obsidian-ai-tagger) - Auto tagging obsidian notes w/ AI
 - [metro](https://github.com/jaspermayone/metro) - An interactive map of Boston's transit system.
 
-#### <img src="https://raw.githubusercontent.com/phishdirectory/brand/main/phishdirectory.jpeg" width="20" height="20" />  phish.directory (making the internet a safer place!)
-- [api](https://github.com/phishdirectory/api) - API for phish.directory, a community-driven anti-phishing tool. Helping catch, prevent, and catalog phishing links & attempts.
-- [waitlist](https://github.com/phishdirectory/waitlist) - static landing site w/ email signup. designed to be adapted to waitlist different phish.directory projects.
-- [veritas](https://github.com/phishdirectory/veritas) - Central authentication microservice for all phish.directory services.
-
-#### <img src="https://raw.githubusercontent.com/thepurplebubble/brand/main/public/logo.png" width="20" height="20" />  Purple Bubble:
-- [Magic Mirror](https://github.com/thepurplebubble/magic-mirror) - Mirroring Slack Channels Between Workspaces
-
 #### <img src="https://assets.hackclub.com/icon-progress-rounded.png" width="20" height="20" /> Hack Club Projects:
 - [Pizza Fund](https://github.com/hackclub/pizza-fund) - Orpheus the delivery dino is ready to deliver your $100 pizza grants!
 - [Professor Bloom](https://github.com/hackclub/professor-bloom) - The beloved bot powering welcome-commitee @ Hack Club
@@ -90,6 +74,11 @@ Total: 7 hrs 34 mins
 #### Attributions:
 - [@kcoderhtml/slackbot-ultimate-template](https://github.com/kcoderhtml/slackbot-ultimate-template?tab=readme-ov-file#template-example)
 
-<sup><sub>🍴Check out my forks [here!](https://github.com/jaspermayone-forks/why)</sub></sup>
+<sup><sub>_readme auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_ </sub></sup>
 
-_readme auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/snake/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/snake/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="assets/snake/github-contribution-grid-snake.svg" />
+</picture>
+
