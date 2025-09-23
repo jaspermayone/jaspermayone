@@ -1,7 +1,7 @@
 name: Main ReadMe CI
 
 on:
-  push:
+  # push:
   schedule:
     - cron: "0 */1 * * *"
   workflow_dispatch:
