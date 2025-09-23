@@ -3,7 +3,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "15 */12 * * *"  # run at minute 15, every 12 hours (UTC)
+    - cron: "15 */12 * * *"  # minute 15, every 12 hours (UTC)
   workflow_dispatch:
 
 permissions:
@@ -13,32 +13,42 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout main
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          ref: main
 
       - name: Generate snake files
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: List dist contents (debug)
+        run: ls -la dist
 
       - name: Stage assets to tracked folder
         run: |
           mkdir -p assets/snake
-          cp -f dist/github-contribution-grid-snake.svg assets/snake/github-contribution-grid-snake.svg
-          cp -f dist/github-contribution-grid-snake-dark.svg assets/snake/github-contribution-grid-snake-dark.svg
-          cp -f dist/github-contribution-grid-snake.gif assets/snake/github-contribution-grid-snake.gif
+          cp -f dist/github-snake.svg assets/snake/github-snake.svg
+          cp -f dist/github-snake-dark.svg assets/snake/github-snake-dark.svg
+          cp -f dist/ocean.gif assets/snake/ocean.gif
 
-      - name: Set timestamp
+      - name: Set timestamp (ISO-8601 UTC)
         id: ts
         run: echo "iso=$(date -u +'%Y-%m-%dT%H:%M:%SZ')" >> "$GITHUB_OUTPUT"
+
+      - name: Sync local main with origin/main (merge to avoid non-fast-forward)
+        run: |
+          git config user.name "jasperbot 🤖"
+          git config user.email "robot+github@jaspermayone.com"
+          git pull --no-rebase origin main
 
       - name: Commit only changed snake assets
         uses: stefanzweifel/git-auto-commit-action@v4
@@ -46,9 +56,9 @@ jobs:
           commit_message: "chore(snake): update animations at ${{ steps.ts.outputs.iso }}"
           branch: main
           file_pattern: |
-            assets/snake/github-contribution-grid-snake.svg
-            assets/snake/github-contribution-grid-snake-dark.svg
-            assets/snake/github-contribution-grid-snake.gif
+            assets/snake/github-snake.svg
+            assets/snake/github-snake-dark.svg
+            assets/snake/ocean.gif
           commit_user_name: jasperbot 🤖
           commit_user_email: robot+github@jaspermayone.com
           commit_author: jasperbot 🤖 <robot+github@jaspermayone.com>
