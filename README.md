@@ -20,14 +20,14 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 - [`@taciturnaxolotl/zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(today)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(today)**
+- [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(today)**
 - [`@jaspermayone/wit-cs1000-pa2`](https://github.com/jaspermayone/wit-cs1000-pa2) - _""_ **(5 days ago)**
-- [`@michw3i/Task-Manager`](https://github.com/michw3i/Task-Manager) - _""_ **(1 week ago)**
 
 #### 🌱 My latest projects
 
+- [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_
 - [`@jaspermayone/wit-cs1000-pa2`](https://github.com/jaspermayone/wit-cs1000-pa2) - _""_
 - [`@jaspermayone/fern`](https://github.com/jaspermayone/fern) - _""_
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_
 
 #### 🍴 My recent forks
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown        5h 31m 40s   ███████████████████░░░░░░  75.59%
-TSX            1h 7m 17s    ████░░░░░░░░░░░░░░░░░░░░░  15.33%
-Markdown       11m 55s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.72%
-TypeScript     9m 58s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.27%
-Ruby           4m 46s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.09%
+unknown             5h 56m 38s   ███████████████████░░░░░░  73.74%
+TSX                 1h 12m 8s    ████░░░░░░░░░░░░░░░░░░░░░  14.91%
+TypeScript          14m 40s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.03%
+Markdown            12m 57s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.68%
+Ruby                4m 46s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.99%
 
 💼 Projects:
-mlh/core       2h 33m 29s   █████████░░░░░░░░░░░░░░░░  34.98%
-website        1h 35m 7s    ██████░░░░░░░░░░░░░░░░░░░  21.68%
-jsp            1h 16m 42s   █████░░░░░░░░░░░░░░░░░░░░  17.48%
-task-manager   1h 7m 11s    ████░░░░░░░░░░░░░░░░░░░░░  15.31%
-zera           26m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.15%
+mlh/core            2h 33m 29s   ████████░░░░░░░░░░░░░░░░░  31.73%
+website             1h 51m 42s   ██████░░░░░░░░░░░░░░░░░░░  23.09%
+jsp                 1h 16m 42s   ████░░░░░░░░░░░░░░░░░░░░░  15.85%
+task-manager        1h 7m 11s    ████░░░░░░░░░░░░░░░░░░░░░  13.89%
+slack-profile-cli   28m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.96%
 
-Total: 7 hrs 19 mins
+Total: 8 hrs 4 mins
 ```
 
 
