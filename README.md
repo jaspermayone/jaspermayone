@@ -8,7 +8,7 @@ A circus artist and a native Vermonter, Jasper is currently pursuing a Computer 
 
 An avid organizer and big picture thinker, you can often find them scheming up some sort of business venture. From developing a small app to drafting large scale plans for a world domination scheme, Jasper is always looking for ways to combine their diverse interests and skills into enterprising projects. This knack for organization and leadership has opened doors for Jasper to take on exciting roles in various projects and adventures, both close to home and abroad.
 
-Recently they've been focusing their time (outside of their degree) on [MLH (aka Major League Hacking)](https://mlh.io/) where they currently contract as a Coach, as well as at [Patchwork Labs](https://github.com/patchworklabsorg), a nonprofit they started with the mission to "Provide fiscal sponsorship and administrative support for hackathons and STEM projects, enabling individuals and teams to organize educational events and develop technology-based solutions that benefit the community."
+Recently they've been focusing their time (outside of their degree) on [Patchwork Labs](https://github.com/patchworklabsorg), a nonprofit they started with the mission to "Provide fiscal sponsorship and administrative support for hackathons and STEM projects, enabling individuals and teams to organize educational events and develop technology-based solutions that benefit the community."
 
 Previously, Jasper's adventures included working at [MLH](https://mlh.io/) as the Summer 2025 engineering intern, a month-long trip to Rwanda, where they filmed a documentary and managed production for their fellow students' films. They also played a key role in the Waitsfield Elementary PTA's Annual Ski & Skate sale, co-coordinated large scale climate conferences called “See Change Sessions” with thousands of attendees, and enjoyed concerts by AJR, Sammy Rae & the Friends, and Lake Street Dive.
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown             6h 7m 20s    ███████████████████░░░░░░  72.88%
-TSX                 1h 10m 58s   ████░░░░░░░░░░░░░░░░░░░░░  14.08%
-TypeScript          14m 40s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.91%
-Markdown            14m 10s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.81%
-YAML                11m 24s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.26%
+unknown        6h 20m 49s   ███████████████████░░░░░░  73.59%
+TSX            1h 10m 58s   ████░░░░░░░░░░░░░░░░░░░░░  13.71%
+TypeScript     14m 40s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.83%
+Markdown       14m 10s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.74%
+YAML           11m 24s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.20%
 
 💼 Projects:
-mlh/core            2h 33m 29s   ████████░░░░░░░░░░░░░░░░░  30.45%
-website             1h 51m 38s   ██████░░░░░░░░░░░░░░░░░░░  22.14%
-jsp                 1h 16m 42s   ████░░░░░░░░░░░░░░░░░░░░░  15.21%
-task-manager        1h 7m 11s    ████░░░░░░░░░░░░░░░░░░░░░  13.33%
-slack-profile-cli   28m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.72%
+mlh/core       2h 33m 29s   ████████░░░░░░░░░░░░░░░░░  29.65%
+website        1h 52m 39s   ██████░░░░░░░░░░░░░░░░░░░  21.76%
+jsp            1h 16m 42s   ████░░░░░░░░░░░░░░░░░░░░░  14.82%
+task-manager   1h 7m 11s    ████░░░░░░░░░░░░░░░░░░░░░  12.98%
+dns            28m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.60%
 
-Total: 8 hrs 24 mins
+Total: 8 hrs 38 mins
 ```
 
 
