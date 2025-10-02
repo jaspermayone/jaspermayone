@@ -20,14 +20,14 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(today)**
 - [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(today)**
-- [`@taciturnaxolotl/zera`](https://github.com/taciturnaxolotl/zera) - _"my new site v4?"_ **(3 days ago)**
+- [`@jaspermayone/slack-profile-cli`](https://github.com/jaspermayone/slack-profile-cli) - _"CLI tool to preform some slack admin actions"_ **(today)**
 - [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(3 days ago)**
 
 #### 🌱 My latest projects
 
+- [`@jaspermayone/slack-profile-cli`](https://github.com/jaspermayone/slack-profile-cli) - _"CLI tool to preform some slack admin actions"_
 - [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_
 - [`@jaspermayone/wit-cs1000-pa2`](https://github.com/jaspermayone/wit-cs1000-pa2) - _""_
-- [`@jaspermayone/fern`](https://github.com/jaspermayone/fern) - _""_
 
 #### 🍴 My recent forks
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown      6h 25m 28s   ████████████████░░░░░░░░░  60.30%
-TSX          1h 22m 56s   ████░░░░░░░░░░░░░░░░░░░░░  12.97%
-TypeScript   48m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.62%
-Swift        30m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.72%
-TeX          26m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.20%
+unknown      6h 46m 40s   ████████████████░░░░░░░░░  61.39%
+TSX          1h 22m 56s   ████░░░░░░░░░░░░░░░░░░░░░  12.52%
+TypeScript   48m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.35%
+Swift        30m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.55%
+TeX          26m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.05%
 
 💼 Projects:
-website      3h 38m 39s   █████████░░░░░░░░░░░░░░░░  34.20%
-catower      1h 53m 19s   █████░░░░░░░░░░░░░░░░░░░░  17.72%
-jsp          1h 16m 16s   ███░░░░░░░░░░░░░░░░░░░░░░  11.93%
-cv           1h 10m 53s   ███░░░░░░░░░░░░░░░░░░░░░░  11.09%
-mlh/core     1h 2m 9s     ███░░░░░░░░░░░░░░░░░░░░░░  9.72%
+website      3h 56m 0s    █████████░░░░░░░░░░░░░░░░  35.62%
+catower      1h 53m 19s   █████░░░░░░░░░░░░░░░░░░░░  17.10%
+jsp          1h 16m 16s   ███░░░░░░░░░░░░░░░░░░░░░░  11.51%
+cv           1h 10m 53s   ███░░░░░░░░░░░░░░░░░░░░░░  10.70%
+mlh/core     1h 2m 9s     ███░░░░░░░░░░░░░░░░░░░░░░  9.38%
 
-Total: 10 hrs 39 mins
+Total: 11 hrs 3 mins
 ```
 
 
