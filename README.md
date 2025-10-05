@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(today)**
-- [`@patchworklabsorg/site`](https://github.com/patchworklabsorg/site) - _"Website for Patchwork"_ **(today)**
-- [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(2 days ago)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(2 days ago)**
+- [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(1 day ago)**
+- [`@patchworklabsorg/site`](https://github.com/patchworklabsorg/site) - _"Website for Patchwork"_ **(1 day ago)**
+- [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(3 days ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(3 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown             7h 19m 2s    ████████████████░░░░░░░░░  61.48%
-TSX                 1h 26m 29s   ████░░░░░░░░░░░░░░░░░░░░░  12.11%
-TypeScript          48m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.82%
-Swift               36m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.13%
-TeX                 26m 50s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.76%
+unknown             7h 16m 5s    ████████████████░░░░░░░░░  61.32%
+TSX                 1h 26m 29s   ████░░░░░░░░░░░░░░░░░░░░░  12.16%
+TypeScript          48m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.85%
+Swift               36m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.15%
+TeX                 26m 50s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.77%
 
 💼 Projects:
-website             5h 15m 37s   ████████████░░░░░░░░░░░░░  44.19%
-catower             1h 53m 18s   ████░░░░░░░░░░░░░░░░░░░░░  15.86%
-cv                  1h 10m 53s   ███░░░░░░░░░░░░░░░░░░░░░░  9.92%
-slack-profile-cli   57m 50s      ███░░░░░░░░░░░░░░░░░░░░░░  8.10%
-jsp                 54m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.64%
+website             5h 15m 37s   ████████████░░░░░░░░░░░░░  44.37%
+catower             1h 53m 18s   ████░░░░░░░░░░░░░░░░░░░░░  15.93%
+cv                  1h 10m 53s   ███░░░░░░░░░░░░░░░░░░░░░░  9.97%
+slack-profile-cli   57m 50s      ███░░░░░░░░░░░░░░░░░░░░░░  8.13%
+jsp                 51m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.25%
 
-Total: 11 hrs 54 mins
+Total: 11 hrs 51 mins
 ```
 
 
