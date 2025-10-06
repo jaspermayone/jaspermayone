@@ -18,16 +18,16 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(1 day ago)**
-- [`@patchworklabsorg/site`](https://github.com/patchworklabsorg/site) - _"Website for Patchwork"_ **(1 day ago)**
-- [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(3 days ago)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(3 days ago)**
+- [`@jaspermayone/slack-profile-cli`](https://github.com/jaspermayone/slack-profile-cli) - _"CLI tool to preform some slack admin actions"_ **(1 day ago)**
+- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _""_ **(1 day ago)**
+- [`@patchworklabsorg/site`](https://github.com/patchworklabsorg/site) - _"Website for Patchwork"_ **(2 days ago)**
+- [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(2 days ago)**
 
 #### 🌱 My latest projects
 
+- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _""_
 - [`@jaspermayone/slack-profile-cli`](https://github.com/jaspermayone/slack-profile-cli) - _"CLI tool to preform some slack admin actions"_
 - [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_
-- [`@jaspermayone/fern`](https://github.com/jaspermayone/fern) - _""_
 
 #### 🍴 My recent forks
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown             6h 53m 27s   ████████████████░░░░░░░░░  60.05%
-TSX                 1h 26m 29s   ████░░░░░░░░░░░░░░░░░░░░░  12.56%
-TypeScript          48m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.07%
-Swift               36m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.32%
-TeX                 26m 50s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.90%
+unknown             6h 46m 54s   ███████████████░░░░░░░░░░  58.17%
+TSX                 1h 26m 29s   ████░░░░░░░░░░░░░░░░░░░░░  12.36%
+TypeScript          48m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.96%
+Swift               36m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.23%
+TeX                 26m 50s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.84%
 
 💼 Projects:
-website             5h 15m 36s   ████████████░░░░░░░░░░░░░  45.83%
-catower             1h 53m 18s   █████░░░░░░░░░░░░░░░░░░░░  16.45%
-cv                  1h 10m 53s   ███░░░░░░░░░░░░░░░░░░░░░░  10.29%
-slack-profile-cli   57m 50s      ███░░░░░░░░░░░░░░░░░░░░░░  8.40%
-dns                 41m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.07%
+website             5h 15m 36s   ████████████░░░░░░░░░░░░░  45.11%
+catower             1h 53m 18s   █████░░░░░░░░░░░░░░░░░░░░  16.19%
+slack-profile-cli   1h 19m 55s   ███░░░░░░░░░░░░░░░░░░░░░░  11.42%
+cv                  1h 10m 53s   ███░░░░░░░░░░░░░░░░░░░░░░  10.13%
+dns                 41m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.97%
 
-Total: 11 hrs 29 mins
+Total: 11 hrs 40 mins
 ```
 
 
