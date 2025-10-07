@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/metro`](https://github.com/jaspermayone/metro) - _"An interactive map of Boston's transit system."_ **(today)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(today)**
-- [`@jaspermayone/slack-profile-cli`](https://github.com/jaspermayone/slack-profile-cli) - _"CLI tool to preform some slack admin actions"_ **(1 day ago)**
-- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _""_ **(1 day ago)**
+- [`@jaspermayone/metro`](https://github.com/jaspermayone/metro) - _"An interactive map of Boston's transit system."_ **(1 day ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 day ago)**
+- [`@jaspermayone/slack-profile-cli`](https://github.com/jaspermayone/slack-profile-cli) - _"CLI tool to preform some slack admin actions"_ **(2 days ago)**
+- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _""_ **(2 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown             4h 34m 34s   █████████████████░░░░░░░░  67.01%
-Swift               36m 36s      ███░░░░░░░░░░░░░░░░░░░░░░  8.93%
-TypeScript          33m 37s      ███░░░░░░░░░░░░░░░░░░░░░░  8.20%
-TSX                 20m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.07%
-Markdown            14m 6s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.44%
+unknown             4h 6m 47s    ██████████████████░░░░░░░  69.33%
+TypeScript          33m 37s      ███░░░░░░░░░░░░░░░░░░░░░░  9.44%
+TSX                 20m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.84%
+Markdown            14m 6s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.96%
+Swift               13m 27s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.78%
 
 💼 Projects:
-website             2h 54m 20s   ███████████░░░░░░░░░░░░░░  42.54%
-catower             1h 53m 13s   ███████░░░░░░░░░░░░░░░░░░  27.63%
-slack-profile-cli   56m 20s      ████░░░░░░░░░░░░░░░░░░░░░  13.75%
-Fern                33m 55s      ███░░░░░░░░░░░░░░░░░░░░░░  8.28%
-pa3                 13m 18s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.25%
+website             2h 54m 20s   █████████████░░░░░░░░░░░░  48.97%
+catower             1h 0m 23s    █████░░░░░░░░░░░░░░░░░░░░  16.96%
+slack-profile-cli   56m 20s      ████░░░░░░░░░░░░░░░░░░░░░  15.82%
+Fern                31m 55s      ███░░░░░░░░░░░░░░░░░░░░░░  8.97%
+pa3                 13m 18s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.74%
 
-Total: 6 hrs 50 mins
+Total: 5 hrs 56 mins
 ```
 
 
