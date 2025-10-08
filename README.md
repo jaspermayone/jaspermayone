@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/metro`](https://github.com/jaspermayone/metro) - _"An interactive map of Boston's transit system."_ **(1 day ago)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 day ago)**
-- [`@jaspermayone/slack-profile-cli`](https://github.com/jaspermayone/slack-profile-cli) - _"CLI tool to preform some slack admin actions"_ **(2 days ago)**
-- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _""_ **(2 days ago)**
+- [`@jaspermayone/metro`](https://github.com/jaspermayone/metro) - _"An interactive map of Boston's transit system."_ **(2 days ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(2 days ago)**
+- [`@jaspermayone/slack-profile-cli`](https://github.com/jaspermayone/slack-profile-cli) - _"CLI tool to preform some slack admin actions"_ **(3 days ago)**
+- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _""_ **(3 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,7 +38,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown             3h 57m 51s   ██████████████████░░░░░░░  69.48%
+unknown             3h 57m 52s   ██████████████████░░░░░░░  69.48%
 TypeScript          33m 37s      ███░░░░░░░░░░░░░░░░░░░░░░  9.82%
 TSX                 20m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.07%
 Markdown            14m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.12%
