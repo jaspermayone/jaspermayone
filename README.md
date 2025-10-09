@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/metro`](https://github.com/jaspermayone/metro) - _"An interactive map of Boston's transit system."_ **(2 days ago)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(2 days ago)**
-- [`@jaspermayone/slack-profile-cli`](https://github.com/jaspermayone/slack-profile-cli) - _"CLI tool to preform some slack admin actions"_ **(3 days ago)**
-- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _""_ **(3 days ago)**
+- [`@jaspermayone/metro`](https://github.com/jaspermayone/metro) - _"An interactive map of Boston's transit system."_ **(3 days ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(3 days ago)**
+- [`@jaspermayone/slack-profile-cli`](https://github.com/jaspermayone/slack-profile-cli) - _"CLI tool to preform some slack admin actions"_ **(4 days ago)**
+- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _""_ **(4 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown             4h 23m 58s   ██████████████████░░░░░░░  71.38%
-TypeScript          33m 37s      ███░░░░░░░░░░░░░░░░░░░░░░  9.09%
-TSX                 20m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.62%
-Markdown            14m 6s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.81%
+unknown             4h 22m 54s   ██████████████████░░░░░░░  71.30%
+TypeScript          33m 37s      ███░░░░░░░░░░░░░░░░░░░░░░  9.12%
+TSX                 20m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.64%
+Markdown            14m 6s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.82%
 JSON                8m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.42%
 
 💼 Projects:
-website             2h 54m 20s   ████████████░░░░░░░░░░░░░  47.14%
-slack-profile-cli   56m 20s      ████░░░░░░░░░░░░░░░░░░░░░  15.23%
-unknown             38m 31s      ███░░░░░░░░░░░░░░░░░░░░░░  10.42%
-ESS                 33m 30s      ███░░░░░░░░░░░░░░░░░░░░░░  9.06%
-Fern                31m 54s      ███░░░░░░░░░░░░░░░░░░░░░░  8.63%
+website             2h 54m 20s   ████████████░░░░░░░░░░░░░  47.28%
+slack-profile-cli   56m 20s      ████░░░░░░░░░░░░░░░░░░░░░  15.28%
+unknown             39m 27s      ███░░░░░░░░░░░░░░░░░░░░░░  10.70%
+ESS                 33m 30s      ███░░░░░░░░░░░░░░░░░░░░░░  9.09%
+Fern                31m 54s      ███░░░░░░░░░░░░░░░░░░░░░░  8.65%
 
-Total: 6 hrs 10 mins
+Total: 6 hrs 9 mins
 ```
 
 
