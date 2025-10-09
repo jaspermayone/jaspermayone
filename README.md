@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(today)**
 - [`@jaspermayone/metro`](https://github.com/jaspermayone/metro) - _"An interactive map of Boston's transit system."_ **(3 days ago)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(3 days ago)**
-- [`@jaspermayone/slack-profile-cli`](https://github.com/jaspermayone/slack-profile-cli) - _"CLI tool to preform some slack admin actions"_ **(4 days ago)**
 - [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _""_ **(4 days ago)**
+- [`@jaspermayone/slack-profile-cli`](https://github.com/jaspermayone/slack-profile-cli) - _"CLI tool to preform some slack admin actions"_ **(4 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown    3h 52m 26s   █████████████████████░░░░  80.57%
-Markdown   13m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.71%
-YAML       9m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.13%
-TSX        7m 10s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.48%
-Ruby       7m 7s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.47%
+unknown    3h 51m 56s   ████████████████████░░░░░  78.11%
+Markdown   13m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.57%
+TSX        10m 49s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.64%
+YAML       9m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.04%
+Ruby       7m 7s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.40%
 
 💼 Projects:
-website    1h 16m 27s   ███████░░░░░░░░░░░░░░░░░░  26.50%
-unknown    1h 0m 12s    ██████░░░░░░░░░░░░░░░░░░░  20.87%
-ESS        33m 30s      ███░░░░░░░░░░░░░░░░░░░░░░  11.61%
-Fern       31m 54s      ███░░░░░░░░░░░░░░░░░░░░░░  11.06%
-dns        31m 39s      ███░░░░░░░░░░░░░░░░░░░░░░  10.97%
+website    1h 12m 56s   ███████░░░░░░░░░░░░░░░░░░  24.56%
+unknown    1h 6m 55s    ██████░░░░░░░░░░░░░░░░░░░  22.54%
+dns        36m 54s      ████░░░░░░░░░░░░░░░░░░░░░  12.43%
+ESS        33m 30s      ███░░░░░░░░░░░░░░░░░░░░░░  11.28%
+Fern       31m 54s      ███░░░░░░░░░░░░░░░░░░░░░░  10.74%
 
-Total: 4 hrs 48 mins
+Total: 4 hrs 57 mins
 ```
 
 
