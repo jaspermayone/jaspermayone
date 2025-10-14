@@ -18,9 +18,9 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@jaspermayone/obsidian-ai-tagger`](https://github.com/jaspermayone/obsidian-ai-tagger) - _"Auto tagging obsidian notes w/ AI"_ **(today)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(5 days ago)**
 - [`@jaspermayone/metro`](https://github.com/jaspermayone/metro) - _"An interactive map of Boston's transit system."_ **(1 week ago)**
-- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _""_ **(1 week ago)**
 - [`@jaspermayone/slack-profile-cli`](https://github.com/jaspermayone/slack-profile-cli) - _"CLI tool to preform some slack admin actions"_ **(1 week ago)**
 
 #### 🌱 My latest projects
@@ -38,19 +38,19 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown   3h 0m 33s    ███████████████████████░░  89.29%
-YAML      7m 50s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.87%
-Bash      5m 18s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.62%
-JSON      4m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.41%
-TSX       3m 39s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.81%
+unknown   3h 4m 47s    ███████████████████████░░  89.51%
+YAML      7m 50s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.79%
+Bash      5m 18s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.57%
+JSON      4m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.36%
+TSX       3m 39s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.77%
 
 💼 Projects:
-dns       1h 32m 59s   ████████████░░░░░░░░░░░░░  45.98%
-unknown   1h 6m 0s     █████████░░░░░░░░░░░░░░░░  32.64%
-ESS       33m 30s      █████░░░░░░░░░░░░░░░░░░░░  16.57%
-website   9m 45s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.82%
+dns       1h 37m 13s   ████████████░░░░░░░░░░░░░  47.09%
+unknown   1h 6m 0s     ████████░░░░░░░░░░░░░░░░░  31.97%
+ESS       33m 30s      █████░░░░░░░░░░░░░░░░░░░░  16.23%
+website   9m 45s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.72%
 
-Total: 3 hrs 22 mins
+Total: 3 hrs 26 mins
 ```
 
 
