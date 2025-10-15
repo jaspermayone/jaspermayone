@@ -18,8 +18,8 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/obsidian-ai-tagger`](https://github.com/jaspermayone/obsidian-ai-tagger) - _"Auto tagging obsidian notes w/ AI"_ **(today)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(5 days ago)**
+- [`@jaspermayone/obsidian-ai-tagger`](https://github.com/jaspermayone/obsidian-ai-tagger) - _"Auto tagging obsidian notes w/ AI"_ **(1 day ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(6 days ago)**
 - [`@jaspermayone/metro`](https://github.com/jaspermayone/metro) - _"An interactive map of Boston's transit system."_ **(1 week ago)**
 - [`@jaspermayone/slack-profile-cli`](https://github.com/jaspermayone/slack-profile-cli) - _"CLI tool to preform some slack admin actions"_ **(1 week ago)**
 
@@ -38,18 +38,19 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown   2h 55m 3s    ███████████████████████░░  91.25%
-YAML      7m 50s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.08%
-Bash      5m 18s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.76%
-TSX       3m 39s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.90%
+unknown        2h 52m 49s   ███████████████████████░░  89.57%
+YAML           7m 50s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.06%
+Bash           5m 18s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.75%
+TSX            3m 39s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.89%
+HTTP Request   3m 20s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.73%
 
 💼 Projects:
-dns       1h 39m 13s   █████████████░░░░░░░░░░░░  51.72%
-unknown   1h 6m 0s     █████████░░░░░░░░░░░░░░░░  34.40%
-ESS       16m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  8.80%
-website   9m 45s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.08%
+dns            1h 42m 33s   ██████████████░░░░░░░░░░░  53.15%
+unknown        1h 6m 0s     █████████░░░░░░░░░░░░░░░░  34.21%
+ESS            14m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.59%
+website        9m 45s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.05%
 
-Total: 3 hrs 12 mins
+Total: 3 hrs 13 mins
 ```
 
 
