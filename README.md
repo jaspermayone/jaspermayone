@@ -18,7 +18,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/obsidian-ai-tagger`](https://github.com/jaspermayone/obsidian-ai-tagger) - _"Auto tagging obsidian notes w/ AI"_ **(1 day ago)**
+- [`@jaspermayone/obsidian-ai-tagger`](https://github.com/jaspermayone/obsidian-ai-tagger) - _"Auto tagging obsidian notes w/ AI"_ **(today)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(6 days ago)**
 - [`@jaspermayone/metro`](https://github.com/jaspermayone/metro) - _"An interactive map of Boston's transit system."_ **(1 week ago)**
 - [`@jaspermayone/slack-profile-cli`](https://github.com/jaspermayone/slack-profile-cli) - _"CLI tool to preform some slack admin actions"_ **(1 week ago)**
@@ -38,19 +38,19 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown        2h 41m 12s   ███████████████████████░░  88.91%
-YAML           7m 50s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.32%
-Bash           5m 18s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.92%
-TSX            3m 39s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.01%
-HTTP Request   3m 20s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.84%
+unknown        2h 53m 41s   ██████████████████████░░░  86.69%
+YAML           6m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.24%
+JSON           5m 55s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.95%
+HTTP Request   5m 19s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.65%
+Bash           5m 18s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.65%
 
 💼 Projects:
-dns            1h 42m 33s   ███████████████░░░░░░░░░░  56.55%
-unknown        1h 6m 0s     ██████████░░░░░░░░░░░░░░░  36.39%
-website        9m 45s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.38%
-ESS            3m 3s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.68%
+dns            1h 49m 58s   ██████████████░░░░░░░░░░░  54.88%
+unknown        1h 18m 30s   ██████████░░░░░░░░░░░░░░░  39.18%
+website        9m 45s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.87%
+ai-tagger      2m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.07%
 
-Total: 3 hrs 1 mins
+Total: 3 hrs 20 mins
 ```
 
 
