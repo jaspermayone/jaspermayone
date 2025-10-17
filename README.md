@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/obsidian-ai-tagger`](https://github.com/jaspermayone/obsidian-ai-tagger) - _"Auto tagging obsidian notes w/ AI"_ **(1 day ago)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 week ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 day ago)**
+- [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(1 day ago)**
+- [`@jaspermayone/obsidian-ai-tagger`](https://github.com/jaspermayone/obsidian-ai-tagger) - _"Auto tagging obsidian notes w/ AI"_ **(2 days ago)**
 - [`@jaspermayone/metro`](https://github.com/jaspermayone/metro) - _"An interactive map of Boston's transit system."_ **(1 week ago)**
-- [`@jaspermayone/slack-profile-cli`](https://github.com/jaspermayone/slack-profile-cli) - _"CLI tool to preform some slack admin actions"_ **(1 week ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown        3h 22m 41s   █████████████████████░░░░  81.78%
-JSON           24m 43s      ███░░░░░░░░░░░░░░░░░░░░░░  9.97%
-Bash           7m 18s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.95%
-Java           5m 39s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.28%
-HTTP Request   5m 19s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.15%
+unknown        3h 26m 44s   █████████████████████░░░░  80.12%
+JSON           24m 43s      ███░░░░░░░░░░░░░░░░░░░░░░  9.58%
+Bash           7m 18s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.83%
+Java           5m 39s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.19%
+HTTP Request   5m 19s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.06%
 
 💼 Projects:
-unknown        1h 21m 1s    █████████░░░░░░░░░░░░░░░░  32.69%
-dns            1h 16m 32s   ████████░░░░░░░░░░░░░░░░░  30.88%
-pa3            38m 20s      ████░░░░░░░░░░░░░░░░░░░░░  15.47%
-ai-tagger      29m 45s      ███░░░░░░░░░░░░░░░░░░░░░░  12.00%
-cv             21m 4s       ███░░░░░░░░░░░░░░░░░░░░░░  8.50%
+unknown        1h 21m 1s    ████████░░░░░░░░░░░░░░░░░  31.40%
+dns            1h 16m 32s   ████████░░░░░░░░░░░░░░░░░  29.66%
+pa3            42m 23s      █████░░░░░░░░░░░░░░░░░░░░  16.43%
+ai-tagger      29m 45s      ███░░░░░░░░░░░░░░░░░░░░░░  11.53%
+cv             27m 13s      ███░░░░░░░░░░░░░░░░░░░░░░  10.55%
 
-Total: 4 hrs 8 mins
+Total: 4 hrs 18 mins
 ```
 
 
