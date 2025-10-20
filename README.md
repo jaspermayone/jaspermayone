@@ -18,16 +18,16 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(3 days ago)**
-- [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(3 days ago)**
-- [`@jaspermayone/obsidian-ai-tagger`](https://github.com/jaspermayone/obsidian-ai-tagger) - _"Auto tagging obsidian notes w/ AI"_ **(4 days ago)**
-- [`@jaspermayone/metro`](https://github.com/jaspermayone/metro) - _"An interactive map of Boston's transit system."_ **(1 week ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(4 days ago)**
+- [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(4 days ago)**
+- [`@jaspermayone/obsidian-ai-tagger`](https://github.com/jaspermayone/obsidian-ai-tagger) - _"Auto tagging obsidian notes w/ AI"_ **(5 days ago)**
+- [`@jaspermayone/metro`](https://github.com/jaspermayone/metro) - _"An interactive map of Boston's transit system."_ **(2 weeks ago)**
 
 #### 🌱 My latest projects
 
+- [`@jaspermayone/rails-template`](https://github.com/jaspermayone/rails-template) - _"My ruby on rails template"_
 - [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _""_
 - [`@jaspermayone/slack-profile-cli`](https://github.com/jaspermayone/slack-profile-cli) - _"CLI tool to preform some slack admin actions"_
-- [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_
 
 #### 🍴 My recent forks
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown     3h 53m 28s   ███████████████████░░░░░░  73.56%
-Bash        30m 0s       ███░░░░░░░░░░░░░░░░░░░░░░  9.45%
-JSON        24m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.79%
-Java        9m 27s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.98%
-Markdown    8m 19s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.62%
+unknown          4h 0m 17s    ███████████████░░░░░░░░░░  56.36%
+Ruby             1h 35m 31s   ██████░░░░░░░░░░░░░░░░░░░  22.41%
+Bash             30m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.04%
+JSON             24m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.81%
+Markdown         10m 19s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.42%
 
 💼 Projects:
-unknown     1h 40m 14s   ████████░░░░░░░░░░░░░░░░░  31.59%
-cv          54m 36s      █████░░░░░░░░░░░░░░░░░░░░  17.21%
-dns         52m 53s      █████░░░░░░░░░░░░░░░░░░░░  16.66%
-pa3         44m 18s      ████░░░░░░░░░░░░░░░░░░░░░  13.96%
-ai-tagger   29m 45s      ███░░░░░░░░░░░░░░░░░░░░░░  9.38%
+unknown          1h 40m 14s   ██████░░░░░░░░░░░░░░░░░░░  23.52%
+rails-template   1h 26m 57s   ██████░░░░░░░░░░░░░░░░░░░  20.40%
+cv               54m 36s      ████░░░░░░░░░░░░░░░░░░░░░  12.81%
+dns              52m 53s      ████░░░░░░░░░░░░░░░░░░░░░  12.41%
+pa3              44m 18s      ███░░░░░░░░░░░░░░░░░░░░░░  10.39%
 
-Total: 5 hrs 17 mins
+Total: 7 hrs 6 mins
 ```
 
 
