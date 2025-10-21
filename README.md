@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/rails-template`](https://github.com/jaspermayone/rails-template) - _"My ruby on rails template"_ **(today)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(4 days ago)**
-- [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(4 days ago)**
-- [`@jaspermayone/obsidian-ai-tagger`](https://github.com/jaspermayone/obsidian-ai-tagger) - _"Auto tagging obsidian notes w/ AI"_ **(5 days ago)**
+- [`@jaspermayone/rails-template`](https://github.com/jaspermayone/rails-template) - _"My ruby on rails template"_ **(1 day ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(5 days ago)**
+- [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(5 days ago)**
+- [`@jaspermayone/obsidian-ai-tagger`](https://github.com/jaspermayone/obsidian-ai-tagger) - _"Auto tagging obsidian notes w/ AI"_ **(6 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown          3h 58m 2s    ██████████████░░░░░░░░░░░  54.23%
-Ruby             1h 47m 55s   ███████░░░░░░░░░░░░░░░░░░  24.59%
-Bash             30m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.84%
-JSON             24m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.64%
-Markdown         10m 19s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.35%
+unknown          3h 59m 49s   ██████████████░░░░░░░░░░░  53.63%
+Ruby             1h 49m 55s   ███████░░░░░░░░░░░░░░░░░░  24.58%
+Bash             30m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.71%
+JSON             24m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.53%
+Markdown         10m 19s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.31%
 
 💼 Projects:
-rails-template   2h 11m 27s   ████████░░░░░░░░░░░░░░░░░  29.96%
-unknown          1h 42m 14s   ██████░░░░░░░░░░░░░░░░░░░  23.30%
-cv               54m 27s      ████░░░░░░░░░░░░░░░░░░░░░  12.41%
-pa3              44m 18s      ███░░░░░░░░░░░░░░░░░░░░░░  10.10%
-ai-tagger        29m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.78%
+rails-template   2h 13m 31s   ████████░░░░░░░░░░░░░░░░░  29.86%
+unknown          1h 42m 14s   ██████░░░░░░░░░░░░░░░░░░░  22.87%
+cv               54m 27s      ████░░░░░░░░░░░░░░░░░░░░░  12.18%
+pa3              44m 18s      ███░░░░░░░░░░░░░░░░░░░░░░  9.91%
+ai-tagger        29m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.65%
 
-Total: 7 hrs 19 mins
+Total: 7 hrs 27 mins
 ```
 
 
