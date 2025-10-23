@@ -18,16 +18,16 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(today)**
+- [`@jaspermayone/redirects`](https://github.com/jaspermayone/redirects) - _""_ **(today)**
 - [`@jaspermayone/raycast-linkace`](https://github.com/jaspermayone/raycast-linkace) - _"Raycast Extension to send links to a Linkace instance. (https://linkace.org)"_ **(today)**
-- [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(1 day ago)**
 - [`@jaspermayone/rails-template`](https://github.com/jaspermayone/rails-template) - _"My ruby on rails template"_ **(3 days ago)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 week ago)**
 
 #### 🌱 My latest projects
 
+- [`@jaspermayone/redirects`](https://github.com/jaspermayone/redirects) - _""_
 - [`@jaspermayone/raycast-linkace`](https://github.com/jaspermayone/raycast-linkace) - _"Raycast Extension to send links to a Linkace instance. (https://linkace.org)"_
 - [`@jaspermayone/rails-template`](https://github.com/jaspermayone/rails-template) - _"My ruby on rails template"_
-- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _""_
 
 #### 🍴 My recent forks
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown          5h 25m 11s   █████████████░░░░░░░░░░░░  51.62%
-Ruby             1h 58m 12s   █████░░░░░░░░░░░░░░░░░░░░  18.76%
-Java             33m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.28%
-YAML             31m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.93%
-Bash             29m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.64%
+unknown          5h 21m 3s    █████████████░░░░░░░░░░░░  50.29%
+Ruby             1h 58m 12s   █████░░░░░░░░░░░░░░░░░░░░  18.51%
+YAML             34m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.41%
+Java             33m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.21%
+Bash             29m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.58%
 
 💼 Projects:
-rails-template   2h 12m 31s   ██████░░░░░░░░░░░░░░░░░░░  21.04%
-COMP1000         1h 22m 48s   ████░░░░░░░░░░░░░░░░░░░░░  13.15%
-mlh/core         49m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.92%
-pa5              47m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.57%
-idp              42m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.77%
+rails-template   2h 12m 31s   ██████░░░░░░░░░░░░░░░░░░░  20.76%
+COMP1000         1h 22m 48s   ████░░░░░░░░░░░░░░░░░░░░░  12.97%
+mlh/core         49m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.81%
+pa5              47m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.47%
+idp              42m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.68%
 
-Total: 10 hrs 30 mins
+Total: 10 hrs 38 mins
 ```
 
 
