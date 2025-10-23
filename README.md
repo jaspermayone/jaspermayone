@@ -18,9 +18,9 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/rails-template`](https://github.com/jaspermayone/rails-template) - _"My ruby on rails template"_ **(2 days ago)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(6 days ago)**
-- [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(6 days ago)**
+- [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(1 day ago)**
+- [`@jaspermayone/rails-template`](https://github.com/jaspermayone/rails-template) - _"My ruby on rails template"_ **(3 days ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 week ago)**
 - [`@jaspermayone/obsidian-ai-tagger`](https://github.com/jaspermayone/obsidian-ai-tagger) - _"Auto tagging obsidian notes w/ AI"_ **(1 week ago)**
 
 #### 🌱 My latest projects
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown          5h 23m 32s   ███████████████░░░░░░░░░░  58.30%
-Ruby             1h 58m 12s   ██████░░░░░░░░░░░░░░░░░░░  21.30%
-Bash             36m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.58%
-Java             18m 21s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.31%
-YAML             16m 22s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.95%
+unknown          5h 22m 58s   ███████████████░░░░░░░░░░  57.01%
+Ruby             1h 58m 12s   ██████░░░░░░░░░░░░░░░░░░░  20.86%
+Bash             36m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.45%
+YAML             28m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.04%
+Java             18m 21s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.24%
 
 💼 Projects:
-rails-template   2h 12m 31s   ██████░░░░░░░░░░░░░░░░░░░  23.89%
-COMP1000         1h 22m 48s   ████░░░░░░░░░░░░░░░░░░░░░  14.92%
-cv               54m 27s      ███░░░░░░░░░░░░░░░░░░░░░░  9.81%
-mlh/core         49m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  8.99%
-pa3              47m 21s      ███░░░░░░░░░░░░░░░░░░░░░░  8.53%
+rails-template   2h 12m 31s   ██████░░░░░░░░░░░░░░░░░░░  23.40%
+COMP1000         1h 22m 48s   ████░░░░░░░░░░░░░░░░░░░░░  14.62%
+cv               54m 27s      ███░░░░░░░░░░░░░░░░░░░░░░  9.61%
+mlh/core         49m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  8.81%
+pa3              47m 21s      ███░░░░░░░░░░░░░░░░░░░░░░  8.36%
 
-Total: 9 hrs 15 mins
+Total: 9 hrs 26 mins
 ```
 
 
