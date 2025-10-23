@@ -18,16 +18,16 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@jaspermayone/raycast-linkace`](https://github.com/jaspermayone/raycast-linkace) - _"Raycast Extension to send links to a Linkace instance. (https://linkace.org)"_ **(today)**
 - [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(1 day ago)**
 - [`@jaspermayone/rails-template`](https://github.com/jaspermayone/rails-template) - _"My ruby on rails template"_ **(3 days ago)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 week ago)**
-- [`@jaspermayone/obsidian-ai-tagger`](https://github.com/jaspermayone/obsidian-ai-tagger) - _"Auto tagging obsidian notes w/ AI"_ **(1 week ago)**
 
 #### 🌱 My latest projects
 
+- [`@jaspermayone/raycast-linkace`](https://github.com/jaspermayone/raycast-linkace) - _"Raycast Extension to send links to a Linkace instance. (https://linkace.org)"_
 - [`@jaspermayone/rails-template`](https://github.com/jaspermayone/rails-template) - _"My ruby on rails template"_
 - [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _""_
-- [`@jaspermayone/slack-profile-cli`](https://github.com/jaspermayone/slack-profile-cli) - _"CLI tool to preform some slack admin actions"_
 
 #### 🍴 My recent forks
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown          5h 12m 0s    ██████████████░░░░░░░░░░░  52.31%
-Ruby             1h 58m 12s   █████░░░░░░░░░░░░░░░░░░░░  19.82%
-Java             33m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.57%
-YAML             31m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.21%
-Bash             29m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.90%
+unknown          5h 12m 19s   █████████████░░░░░░░░░░░░  51.30%
+Ruby             1h 58m 12s   █████░░░░░░░░░░░░░░░░░░░░  19.41%
+Java             33m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.46%
+YAML             31m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.11%
+Bash             29m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.80%
 
 💼 Projects:
-rails-template   2h 12m 31s   ██████░░░░░░░░░░░░░░░░░░░  22.22%
-COMP1000         1h 22m 48s   ████░░░░░░░░░░░░░░░░░░░░░  13.88%
-mlh/core         49m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  8.36%
-pa5              47m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  8.00%
-pa3              42m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.18%
+rails-template   2h 12m 31s   ██████░░░░░░░░░░░░░░░░░░░  21.77%
+COMP1000         1h 22m 48s   ████░░░░░░░░░░░░░░░░░░░░░  13.60%
+mlh/core         49m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  8.19%
+pa5              47m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.84%
+idp              42m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.00%
 
-Total: 9 hrs 56 mins
+Total: 10 hrs 9 mins
 ```
 
 
