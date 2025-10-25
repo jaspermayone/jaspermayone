@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/didactic-eureka`](https://github.com/jaspermayone/didactic-eureka) - _""_ **(today)**
-- [`@jaspermayone/raycast-linkace`](https://github.com/jaspermayone/raycast-linkace) - _"Raycast Extension to send links to a Linkace instance. (https://linkace.org)"_ **(1 day ago)**
-- [`@jaspermayone/redirects`](https://github.com/jaspermayone/redirects) - _""_ **(1 day ago)**
-- [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(1 day ago)**
+- [`@jaspermayone/didactic-eureka`](https://github.com/jaspermayone/didactic-eureka) - _""_ **(1 day ago)**
+- [`@jaspermayone/raycast-linkace`](https://github.com/jaspermayone/raycast-linkace) - _"Raycast Extension to send links to a Linkace instance. (https://linkace.org)"_ **(2 days ago)**
+- [`@jaspermayone/redirects`](https://github.com/jaspermayone/redirects) - _""_ **(2 days ago)**
+- [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(2 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown          5h 32m 51s   █████████████░░░░░░░░░░░░  48.10%
-Ruby             2h 10m 19s   █████░░░░░░░░░░░░░░░░░░░░  18.83%
-YAML             34m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.99%
-Java             33m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.80%
-Bash             29m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.22%
+unknown          5h 32m 51s   ████████████░░░░░░░░░░░░░  47.58%
+Ruby             2h 14m 58s   █████░░░░░░░░░░░░░░░░░░░░  19.29%
+YAML             34m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.94%
+Java             33m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.75%
+HTTP Request     29m 28s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.21%
 
 💼 Projects:
-rails-template   2h 12m 31s   █████░░░░░░░░░░░░░░░░░░░░  19.15%
-COMP1000         1h 22m 48s   ███░░░░░░░░░░░░░░░░░░░░░░  11.97%
-mlh/core         49m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.21%
-pa5              47m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.89%
-idp              42m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.16%
+rails-template   2h 12m 31s   █████░░░░░░░░░░░░░░░░░░░░  18.94%
+COMP1000         1h 22m 48s   ███░░░░░░░░░░░░░░░░░░░░░░  11.84%
+mlh/core         49m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.13%
+pa5              47m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.82%
+idp              42m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.09%
 
-Total: 11 hrs 32 mins
+Total: 11 hrs 40 mins
 ```
 
 
