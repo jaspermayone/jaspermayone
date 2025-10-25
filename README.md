@@ -18,9 +18,9 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(today)**
+- [`@jaspermayone/redirects`](https://github.com/jaspermayone/redirects) - _""_ **(today)**
 - [`@jaspermayone/didactic-eureka`](https://github.com/jaspermayone/didactic-eureka) - _""_ **(1 day ago)**
-- [`@jaspermayone/raycast-linkace`](https://github.com/jaspermayone/raycast-linkace) - _"Raycast Extension to send links to a Linkace instance. (https://linkace.org)"_ **(2 days ago)**
-- [`@jaspermayone/redirects`](https://github.com/jaspermayone/redirects) - _""_ **(2 days ago)**
 - [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(2 days ago)**
 
 #### 🌱 My latest projects
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown                5h 37m 40s   ████████████░░░░░░░░░░░░░  47.79%
-Ruby                   2h 15m 4s    █████░░░░░░░░░░░░░░░░░░░░  19.11%
-YAML                   34m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.89%
-Java                   33m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.71%
-HTTP Request           29m 28s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.17%
+unknown          5h 40m 19s   ███████████░░░░░░░░░░░░░░  43.96%
+Ruby             2h 15m 4s    █████░░░░░░░░░░░░░░░░░░░░  17.45%
+TSX              52m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.76%
+YAML             35m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.57%
+Java             33m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.29%
 
 💼 Projects:
-rails-template         2h 12m 31s   █████░░░░░░░░░░░░░░░░░░░░  18.75%
-COMP1000               1h 22m 48s   ███░░░░░░░░░░░░░░░░░░░░░░  11.72%
-mlh/core               49m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.06%
-pa5                    47m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.75%
-wit-calendar-backend   43m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.20%
+rails-template   2h 12m 31s   █████░░░░░░░░░░░░░░░░░░░░  17.12%
+website          1h 45m 21s   ████░░░░░░░░░░░░░░░░░░░░░  13.61%
+COMP1000         1h 22m 48s   ███░░░░░░░░░░░░░░░░░░░░░░  10.69%
+mlh/core         49m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.44%
+pa5              47m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.16%
 
-Total: 11 hrs 47 mins
+Total: 12 hrs 54 mins
 ```
 
 
