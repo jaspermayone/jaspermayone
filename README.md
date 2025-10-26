@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(today)**
-- [`@jaspermayone/redirects`](https://github.com/jaspermayone/redirects) - _""_ **(today)**
-- [`@jaspermayone/didactic-eureka`](https://github.com/jaspermayone/didactic-eureka) - _""_ **(1 day ago)**
-- [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(2 days ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 day ago)**
+- [`@jaspermayone/redirects`](https://github.com/jaspermayone/redirects) - _""_ **(1 day ago)**
+- [`@jaspermayone/didactic-eureka`](https://github.com/jaspermayone/didactic-eureka) - _""_ **(2 days ago)**
+- [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(3 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown          6h 5m 8s     ███████████░░░░░░░░░░░░░░  42.68%
-Ruby             2h 29m 37s   █████░░░░░░░░░░░░░░░░░░░░  17.49%
-TSX              1h 22m 45s   ███░░░░░░░░░░░░░░░░░░░░░░  9.67%
-YAML             37m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.37%
-Java             33m 15s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.89%
+unknown          6h 11m 9s    ███████████░░░░░░░░░░░░░░  42.97%
+Ruby             2h 30m 19s   █████░░░░░░░░░░░░░░░░░░░░  17.40%
+TSX              1h 22m 45s   ███░░░░░░░░░░░░░░░░░░░░░░  9.58%
+YAML             37m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.33%
+Java             33m 15s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.85%
 
 💼 Projects:
-website          2h 45m 8s    █████░░░░░░░░░░░░░░░░░░░░  19.30%
-rails-template   2h 12m 31s   ████░░░░░░░░░░░░░░░░░░░░░  15.49%
-COMP1000         1h 22m 48s   ███░░░░░░░░░░░░░░░░░░░░░░  9.68%
-idp              1h 2m 13s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.27%
-mlh/core         49m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.83%
+website          2h 45m 8s    █████░░░░░░░░░░░░░░░░░░░░  19.12%
+rails-template   2h 12m 31s   ████░░░░░░░░░░░░░░░░░░░░░  15.34%
+COMP1000         1h 22m 48s   ███░░░░░░░░░░░░░░░░░░░░░░  9.59%
+idp              1h 9m 46s    ███░░░░░░░░░░░░░░░░░░░░░░  8.08%
+mlh/core         49m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.77%
 
-Total: 14 hrs 16 mins
+Total: 14 hrs 24 mins
 ```
 
 
