@@ -18,16 +18,16 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@jaspermayone/witcc-calendar-backend`](https://github.com/jaspermayone/witcc-calendar-backend) - _""_ **(today)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 day ago)**
 - [`@jaspermayone/redirects`](https://github.com/jaspermayone/redirects) - _""_ **(1 day ago)**
 - [`@jaspermayone/didactic-eureka`](https://github.com/jaspermayone/didactic-eureka) - _""_ **(2 days ago)**
-- [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(3 days ago)**
 
 #### 🌱 My latest projects
 
+- [`@jaspermayone/witcc-calendar-backend`](https://github.com/jaspermayone/witcc-calendar-backend) - _""_
 - [`@jaspermayone/didactic-eureka`](https://github.com/jaspermayone/didactic-eureka) - _""_
 - [`@jaspermayone/redirects`](https://github.com/jaspermayone/redirects) - _""_
-- [`@jaspermayone/raycast-linkace`](https://github.com/jaspermayone/raycast-linkace) - _"Raycast Extension to send links to a Linkace instance. (https://linkace.org)"_
 
 #### 🍴 My recent forks
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown          6h 14m 15s   ████████████░░░░░░░░░░░░░  44.85%
-Ruby             2h 32m 12s   █████░░░░░░░░░░░░░░░░░░░░  18.24%
-TSX              1h 22m 45s   ███░░░░░░░░░░░░░░░░░░░░░░  9.92%
-YAML             37m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.48%
-JSON             32m 1s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.84%
+unknown          6h 15m 9s    ████████████░░░░░░░░░░░░░  44.36%
+Ruby             2h 38m 12s   █████░░░░░░░░░░░░░░░░░░░░  18.71%
+TSX              1h 22m 45s   ███░░░░░░░░░░░░░░░░░░░░░░  9.79%
+YAML             37m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.42%
+HTTP Request     33m 51s      █░░░░░░░░░░░░░░░░░░░░░░░░  4.00%
 
 💼 Projects:
-website          2h 56m 16s   ██████░░░░░░░░░░░░░░░░░░░  21.12%
-rails-template   2h 12m 31s   ████░░░░░░░░░░░░░░░░░░░░░  15.88%
-COMP1000         1h 18m 30s   ███░░░░░░░░░░░░░░░░░░░░░░  9.41%
-idp              1h 9m 46s    ███░░░░░░░░░░░░░░░░░░░░░░  8.36%
-mlh/core         51m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.22%
+website          2h 59m 41s   ██████░░░░░░░░░░░░░░░░░░░  21.25%
+rails-template   2h 12m 31s   ████░░░░░░░░░░░░░░░░░░░░░  15.67%
+COMP1000         1h 18m 30s   ███░░░░░░░░░░░░░░░░░░░░░░  9.28%
+idp              1h 9m 46s    ███░░░░░░░░░░░░░░░░░░░░░░  8.25%
+mlh/core         54m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.45%
 
-Total: 13 hrs 54 mins
+Total: 14 hrs 6 mins
 ```
 
 
