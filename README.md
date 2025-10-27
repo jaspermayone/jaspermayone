@@ -18,16 +18,16 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/witcc-calendar-backend`](https://github.com/jaspermayone/witcc-calendar-backend) - _""_ **(1 day ago)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(2 days ago)**
 - [`@jaspermayone/redirects`](https://github.com/jaspermayone/redirects) - _""_ **(2 days ago)**
 - [`@jaspermayone/didactic-eureka`](https://github.com/jaspermayone/didactic-eureka) - _""_ **(3 days ago)**
+- [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(4 days ago)**
 
 #### 🌱 My latest projects
 
-- [`@jaspermayone/witcc-calendar-backend`](https://github.com/jaspermayone/witcc-calendar-backend) - _""_
 - [`@jaspermayone/didactic-eureka`](https://github.com/jaspermayone/didactic-eureka) - _""_
 - [`@jaspermayone/redirects`](https://github.com/jaspermayone/redirects) - _""_
+- [`@jaspermayone/raycast-linkace`](https://github.com/jaspermayone/raycast-linkace) - _"Raycast Extension to send links to a Linkace instance. (https://linkace.org)"_
 
 #### 🍴 My recent forks
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown            6h 19m 48s   ███████████░░░░░░░░░░░░░░  41.88%
-Ruby               3h 18m 56s   ██████░░░░░░░░░░░░░░░░░░░  21.93%
-TSX                1h 22m 45s   ███░░░░░░░░░░░░░░░░░░░░░░  9.12%
-HTTP Request       54m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.02%
-YAML               32m 47s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.61%
+unknown            6h 25m 59s   ███████████░░░░░░░░░░░░░░  41.47%
+Ruby               3h 27m 53s   ██████░░░░░░░░░░░░░░░░░░░  22.34%
+TSX                1h 22m 45s   ███░░░░░░░░░░░░░░░░░░░░░░  8.89%
+HTTP Request       54m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.86%
+YAML               35m 56s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.86%
 
 💼 Projects:
-calendar-backend   3h 8m 25s    ██████░░░░░░░░░░░░░░░░░░░  20.77%
-website            2h 59m 41s   █████░░░░░░░░░░░░░░░░░░░░  19.81%
-COMP1000           1h 18m 30s   ███░░░░░░░░░░░░░░░░░░░░░░  8.65%
-idp                1h 9m 46s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.69%
-mlh/core           57m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.34%
+calendar-backend   3h 28m 43s   ██████░░░░░░░░░░░░░░░░░░░  22.42%
+website            2h 59m 41s   █████░░░░░░░░░░░░░░░░░░░░  19.30%
+COMP1000           1h 18m 30s   ███░░░░░░░░░░░░░░░░░░░░░░  8.43%
+idp                1h 9m 45s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.49%
+mlh/core           57m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.18%
 
-Total: 15 hrs 7 mins
+Total: 15 hrs 31 mins
 ```
 
 
