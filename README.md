@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(2 days ago)**
-- [`@jaspermayone/redirects`](https://github.com/jaspermayone/redirects) - _""_ **(2 days ago)**
-- [`@jaspermayone/didactic-eureka`](https://github.com/jaspermayone/didactic-eureka) - _""_ **(3 days ago)**
-- [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(4 days ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(3 days ago)**
+- [`@jaspermayone/redirects`](https://github.com/jaspermayone/redirects) - _""_ **(3 days ago)**
+- [`@jaspermayone/didactic-eureka`](https://github.com/jaspermayone/didactic-eureka) - _""_ **(4 days ago)**
+- [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(5 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown            6h 16m 52s   █████████░░░░░░░░░░░░░░░░  32.84%
-Ruby               5h 17m 3s    ███████░░░░░░░░░░░░░░░░░░  27.63%
-HTTP Request       1h 51m 27s   ███░░░░░░░░░░░░░░░░░░░░░░  9.71%
-TSX                1h 22m 45s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.21%
-YAML               46m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.06%
+unknown            6h 12m 58s   ████████░░░░░░░░░░░░░░░░░  31.78%
+Ruby               5h 25m 45s   ███████░░░░░░░░░░░░░░░░░░  27.76%
+HTTP Request       2h 10m 55s   ███░░░░░░░░░░░░░░░░░░░░░░  11.15%
+TSX                1h 22m 45s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.05%
+YAML               43m 2s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.67%
 
 💼 Projects:
-calendar-backend   7h 3m 57s    ██████████░░░░░░░░░░░░░░░  36.94%
-website            2h 59m 41s   ████░░░░░░░░░░░░░░░░░░░░░  15.66%
-COMP1000           1h 18m 30s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.84%
-idp                1h 12m 20s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.30%
-mlh/core           57m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.01%
+calendar-backend   7h 40m 48s   ██████████░░░░░░░░░░░░░░░  39.26%
+website            2h 59m 41s   ████░░░░░░░░░░░░░░░░░░░░░  15.31%
+COMP1000           1h 18m 30s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.69%
+idp                1h 3m 40s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.42%
+mlh/core           57m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.90%
 
-Total: 19 hrs 8 mins
+Total: 19 hrs 34 mins
 ```
 
 
