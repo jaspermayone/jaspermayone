@@ -18,16 +18,16 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(3 days ago)**
+- [`@jaspermayone/inventory-scripts`](https://github.com/jaspermayone/inventory-scripts) - _""_ **(today)**
 - [`@jaspermayone/redirects`](https://github.com/jaspermayone/redirects) - _""_ **(3 days ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(3 days ago)**
 - [`@jaspermayone/didactic-eureka`](https://github.com/jaspermayone/didactic-eureka) - _""_ **(4 days ago)**
-- [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(5 days ago)**
 
 #### 🌱 My latest projects
 
 - [`@jaspermayone/didactic-eureka`](https://github.com/jaspermayone/didactic-eureka) - _""_
+- [`@jaspermayone/inventory-scripts`](https://github.com/jaspermayone/inventory-scripts) - _""_
 - [`@jaspermayone/redirects`](https://github.com/jaspermayone/redirects) - _""_
-- [`@jaspermayone/raycast-linkace`](https://github.com/jaspermayone/raycast-linkace) - _"Raycast Extension to send links to a Linkace instance. (https://linkace.org)"_
 
 #### 🍴 My recent forks
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown                6h 15m 15s   ████████░░░░░░░░░░░░░░░░░  31.34%
-Ruby                   5h 41m 29s   ████████░░░░░░░░░░░░░░░░░  28.52%
+unknown                6h 13m 9s    ████████░░░░░░░░░░░░░░░░░  31.17%
+Ruby                   5h 43m 29s   ████████░░░░░░░░░░░░░░░░░  28.69%
 HTTP Request           2h 12m 46s   ███░░░░░░░░░░░░░░░░░░░░░░  11.09%
 TSX                    1h 22m 45s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.91%
 YAML                   43m 1s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.59%
 
 💼 Projects:
-calendar-backend       8h 33m 40s   ███████████░░░░░░░░░░░░░░  42.89%
-website                2h 59m 41s   ████░░░░░░░░░░░░░░░░░░░░░  15.00%
-COMP1000               1h 18m 30s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.55%
-mlh/core               57m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.80%
+calendar-backend       8h 35m 40s   ███████████░░░░░░░░░░░░░░  43.06%
+website                2h 59m 41s   ████░░░░░░░░░░░░░░░░░░░░░  15.01%
+COMP1000               1h 18m 30s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.56%
+mlh/core               55m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.63%
 wit-calendar-backend   43m 43s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.65%
 
-Total: 19 hrs 58 mins
+Total: 19 hrs 57 mins
 ```
 
 
