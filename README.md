@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/raycast-linkace`](https://github.com/jaspermayone/raycast-linkace) - _"Raycast Extension to send links to a Linkace instance. (https://linkace.org)"_ **(2 days ago)**
-- [`@jaspermayone/inventory-scripts`](https://github.com/jaspermayone/inventory-scripts) - _""_ **(3 days ago)**
-- [`@jaspermayone/redirects`](https://github.com/jaspermayone/redirects) - _""_ **(6 days ago)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(6 days ago)**
+- [`@jaspermayone/raycast-linkace`](https://github.com/jaspermayone/raycast-linkace) - _"Raycast Extension to send links to a Linkace instance. (https://linkace.org)"_ **(3 days ago)**
+- [`@jaspermayone/inventory-scripts`](https://github.com/jaspermayone/inventory-scripts) - _""_ **(4 days ago)**
+- [`@jaspermayone/redirects`](https://github.com/jaspermayone/redirects) - _""_ **(1 week ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 week ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-Ruby                   9h 2m 57s     ████████████░░░░░░░░░░░░░  44.41%
-unknown                3h 55m 28s    █████░░░░░░░░░░░░░░░░░░░░  19.26%
-HTTP Request           2h 27m 4s     ████░░░░░░░░░░░░░░░░░░░░░  12.03%
-TSX                    1h 16m 50s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.28%
-ERB                    51m 25s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.21%
+Ruby               9h 18m 7s    ████████████░░░░░░░░░░░░░  44.46%
+unknown            3h 49m 15s   █████░░░░░░░░░░░░░░░░░░░░  18.26%
+HTTP Request       2h 25m 4s    ███░░░░░░░░░░░░░░░░░░░░░░  11.56%
+ERB                1h 17m 13s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.15%
+TSX                1h 16m 50s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.12%
 
 💼 Projects:
-calendar-backend       14h 22m 40s   ██████████████████░░░░░░░  70.55%
-website                2h 23m 20s    ███░░░░░░░░░░░░░░░░░░░░░░  11.72%
-lectures               1h 37m 0s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.93%
-idp                    34m 33s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.83%
-wit-calendar-backend   24m 36s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.01%
+calendar-backend   15h 6m 16s   ███████████████████░░░░░░  72.18%
+website            2h 23m 20s   ███░░░░░░░░░░░░░░░░░░░░░░  11.42%
+lectures           1h 37m 0s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.73%
+idp                34m 33s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.75%
+la3                23m 3s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.84%
 
-Total: 20 hrs 23 mins
+Total: 20 hrs 56 mins
 ```
 
 
