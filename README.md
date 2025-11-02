@@ -18,8 +18,8 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/raycast-linkace`](https://github.com/jaspermayone/raycast-linkace) - _"Raycast Extension to send links to a Linkace instance. (https://linkace.org)"_ **(3 days ago)**
-- [`@jaspermayone/inventory-scripts`](https://github.com/jaspermayone/inventory-scripts) - _""_ **(4 days ago)**
+- [`@jaspermayone/raycast-linkace`](https://github.com/jaspermayone/raycast-linkace) - _"Raycast Extension to send links to a Linkace instance. (https://linkace.org)"_ **(4 days ago)**
+- [`@jaspermayone/inventory-scripts`](https://github.com/jaspermayone/inventory-scripts) - _""_ **(5 days ago)**
 - [`@jaspermayone/redirects`](https://github.com/jaspermayone/redirects) - _""_ **(1 week ago)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 week ago)**
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-Ruby               9h 0m 9s      █████████████░░░░░░░░░░░░  49.39%
-unknown            3h 11m 2s     █████░░░░░░░░░░░░░░░░░░░░  17.47%
-HTTP Request       2h 25m 4s     ████░░░░░░░░░░░░░░░░░░░░░  13.27%
-ERB                1h 15m 31s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.91%
-Java               47m 56s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.38%
+Ruby               8h 57m 27s    █████████████░░░░░░░░░░░░  49.63%
+unknown            3h 5m 1s      █████░░░░░░░░░░░░░░░░░░░░  17.08%
+HTTP Request       2h 25m 4s     ████░░░░░░░░░░░░░░░░░░░░░  13.40%
+ERB                1h 14m 54s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.92%
+Java               47m 56s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.43%
 
 💼 Projects:
-calendar-backend   15h 11m 40s   █████████████████████░░░░  83.34%
-lectures           1h 37m 0s     ███░░░░░░░░░░░░░░░░░░░░░░  8.87%
-la3                23m 3s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.11%
-idp                14m 58s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.37%
-website            14m 33s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.33%
+calendar-backend   15h 11m 40s   ██████████████████████░░░  84.16%
+lectures           1h 37m 0s     ███░░░░░░░░░░░░░░░░░░░░░░  8.95%
+la3                23m 3s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.13%
+website            14m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.30%
+wit-calendar       10m 25s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.96%
 
-Total: 18 hrs 14 mins
+Total: 18 hrs 3 mins
 ```
 
 
