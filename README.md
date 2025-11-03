@@ -18,16 +18,16 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@jaspermayone/witcc-calendar-backend`](https://github.com/jaspermayone/witcc-calendar-backend) - _"Backend for WITCodingClub/calendar. Written in Ruby on Rails."_ **(1 day ago)**
+- [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _""_ **(1 day ago)**
 - [`@jaspermayone/raycast-linkace`](https://github.com/jaspermayone/raycast-linkace) - _"Raycast Extension to send links to a Linkace instance. (https://linkace.org)"_ **(5 days ago)**
 - [`@jaspermayone/inventory-scripts`](https://github.com/jaspermayone/inventory-scripts) - _""_ **(6 days ago)**
-- [`@jaspermayone/redirects`](https://github.com/jaspermayone/redirects) - _""_ **(1 week ago)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 week ago)**
 
 #### 🌱 My latest projects
 
+- [`@jaspermayone/witcc-calendar-backend`](https://github.com/jaspermayone/witcc-calendar-backend) - _"Backend for WITCodingClub/calendar. Written in Ruby on Rails."_
 - [`@jaspermayone/didactic-eureka`](https://github.com/jaspermayone/didactic-eureka) - _""_
 - [`@jaspermayone/inventory-scripts`](https://github.com/jaspermayone/inventory-scripts) - _""_
-- [`@jaspermayone/redirects`](https://github.com/jaspermayone/redirects) - _""_
 
 #### 🍴 My recent forks
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-Ruby               9h 21m 44s   ██████████████░░░░░░░░░░░  53.37%
-unknown            2h 33m 36s   ████░░░░░░░░░░░░░░░░░░░░░  14.59%
-HTTP Request       2h 1m 57s    ███░░░░░░░░░░░░░░░░░░░░░░  11.59%
-ERB                1h 13m 5s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.94%
-Java               47m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.55%
+Ruby               8h 54m 56s    █████████████░░░░░░░░░░░░  51.17%
+unknown            2h 29m 25s    ████░░░░░░░░░░░░░░░░░░░░░  14.29%
+HTTP Request       1h 59m 57s    ███░░░░░░░░░░░░░░░░░░░░░░  11.47%
+ERB                1h 13m 5s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.99%
+Java               47m 56s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.59%
 
 💼 Projects:
-calendar-backend   15h 2m 44s   ██████████████████████░░░  85.74%
-lectures           1h 37m 0s    ███░░░░░░░░░░░░░░░░░░░░░░  9.21%
-la3                23m 3s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.19%
-wit-calendar       10m 25s      █░░░░░░░░░░░░░░░░░░░░░░░░  0.99%
-unknown            8m 31s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.81%
+calendar-backend   14h 35m 29s   █████████████████████░░░░  83.72%
+lectures           1h 37m 0s     ███░░░░░░░░░░░░░░░░░░░░░░  9.28%
+unknown            28m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.73%
+la3                23m 3s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.20%
+wit-calendar       10m 25s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.00%
 
-Total: 17 hrs 33 mins
+Total: 17 hrs 26 mins
 ```
 
 
