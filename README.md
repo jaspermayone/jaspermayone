@@ -18,8 +18,8 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _""_ **(today)**
 - [`@jaspermayone/witcc-calendar-backend`](https://github.com/jaspermayone/witcc-calendar-backend) - _"Backend for WITCodingClub/calendar. Written in Ruby on Rails."_ **(1 day ago)**
-- [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _""_ **(1 day ago)**
 - [`@raycast/extensions`](https://github.com/raycast/extensions) - _"Everything you need to extend Raycast."_ **(1 day ago)**
 - [`@jaspermayone/raycast-linkace`](https://github.com/jaspermayone/raycast-linkace) - _"Raycast Extension to send links to a Linkace instance. (https://linkace.org)"_ **(6 days ago)**
 
@@ -38,17 +38,17 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-Ruby               7h 56m 50s    ██████████████░░░░░░░░░░░  53.46%
-unknown            1h 49m 14s    ████░░░░░░░░░░░░░░░░░░░░░  12.25%
+Ruby               7h 56m 50s    ██████████████░░░░░░░░░░░  53.48%
+unknown            1h 45m 2s     ███░░░░░░░░░░░░░░░░░░░░░░  11.78%
 Java               57m 9s        ██░░░░░░░░░░░░░░░░░░░░░░░  6.41%
-ERB                57m 7s        ██░░░░░░░░░░░░░░░░░░░░░░░  6.40%
+ERB                57m 7s        ██░░░░░░░░░░░░░░░░░░░░░░░  6.41%
 YAML               46m 32s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.22%
 
 💼 Projects:
-calendar-backend   11h 34m 30s   ████████████████████░░░░░  77.82%
-lectures           1h 41m 55s    ███░░░░░░░░░░░░░░░░░░░░░░  11.42%
+calendar-backend   11h 30m 18s   ████████████████████░░░░░  77.39%
+lectures           1h 41m 55s    ███░░░░░░░░░░░░░░░░░░░░░░  11.43%
 unknown            38m 55s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.36%
-calendar           27m 26s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.07%
+calendar           31m 13s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.50%
 la3                23m 3s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.58%
 
 Total: 14 hrs 52 mins
