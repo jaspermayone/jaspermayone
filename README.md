@@ -18,8 +18,8 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@jaspermayone/witcc-calendar-backend`](https://github.com/jaspermayone/witcc-calendar-backend) - _"Backend for WITCodingClub/calendar. Written in Ruby on Rails."_ **(today)**
 - [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _""_ **(today)**
-- [`@jaspermayone/witcc-calendar-backend`](https://github.com/jaspermayone/witcc-calendar-backend) - _"Backend for WITCodingClub/calendar. Written in Ruby on Rails."_ **(1 day ago)**
 - [`@raycast/extensions`](https://github.com/raycast/extensions) - _"Everything you need to extend Raycast."_ **(1 day ago)**
 - [`@jaspermayone/raycast-linkace`](https://github.com/jaspermayone/raycast-linkace) - _"Raycast Extension to send links to a Linkace instance. (https://linkace.org)"_ **(6 days ago)**
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-Ruby               7h 47m 2s     ██████████████░░░░░░░░░░░  52.40%
-unknown            1h 44m 45s    ███░░░░░░░░░░░░░░░░░░░░░░  11.75%
-Java               57m 9s        ██░░░░░░░░░░░░░░░░░░░░░░░  6.41%
-ERB                57m 7s        ██░░░░░░░░░░░░░░░░░░░░░░░  6.41%
-YAML               53m 9s        ██░░░░░░░░░░░░░░░░░░░░░░░  5.96%
+Ruby               7h 49m 54s    ██████████████░░░░░░░░░░░  52.14%
+unknown            1h 46m 51s    ███░░░░░░░░░░░░░░░░░░░░░░  11.86%
+YAML               58m 5s        ██░░░░░░░░░░░░░░░░░░░░░░░  6.45%
+Java               57m 9s        ██░░░░░░░░░░░░░░░░░░░░░░░  6.34%
+ERB                57m 7s        ██░░░░░░░░░░░░░░░░░░░░░░░  6.34%
 
 💼 Projects:
-calendar-backend   11h 26m 46s   ████████████████████░░░░░  77.02%
-lectures           1h 41m 55s    ███░░░░░░░░░░░░░░░░░░░░░░  11.43%
-unknown            38m 55s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.36%
-calendar           34m 26s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.86%
-la3                23m 3s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.59%
+calendar-backend   11h 36m 41s   ████████████████████░░░░░  77.27%
+lectures           1h 41m 55s    ███░░░░░░░░░░░░░░░░░░░░░░  11.30%
+unknown            38m 55s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.32%
+calendar           34m 26s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.82%
+la3                23m 3s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.56%
 
-Total: 14 hrs 52 mins
+Total: 15 hrs 2 mins
 ```
 
 
