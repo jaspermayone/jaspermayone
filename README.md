@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _""_ **(today)**
-- [`@jaspermayone/witcc-calendar-backend`](https://github.com/jaspermayone/witcc-calendar-backend) - _"Backend for WITCodingClub/calendar. Written in Ruby on Rails."_ **(today)**
-- [`@WITCodingClub/dns`](https://github.com/WITCodingClub/dns) - _"WITCC's DNS - declaratively configured via yaml & octodns"_ **(1 day ago)**
-- [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(1 day ago)**
+- [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _""_ **(1 day ago)**
+- [`@jaspermayone/witcc-calendar-backend`](https://github.com/jaspermayone/witcc-calendar-backend) - _"Backend for WITCodingClub/calendar. Written in Ruby on Rails."_ **(1 day ago)**
+- [`@WITCodingClub/dns`](https://github.com/WITCodingClub/dns) - _"WITCC's DNS - declaratively configured via yaml & octodns"_ **(2 days ago)**
+- [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(2 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-Ruby               7h 45m 6s    █████████████░░░░░░░░░░░░  50.08%
-YAML               2h 12m 43s   ████░░░░░░░░░░░░░░░░░░░░░  14.29%
-unknown            1h 18m 54s   ███░░░░░░░░░░░░░░░░░░░░░░  8.50%
-ERB                58m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.35%
-Java               36m 4s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.88%
+Ruby               7h 27m 33s    █████████████░░░░░░░░░░░░  49.72%
+YAML               2h 14m 11s    ████░░░░░░░░░░░░░░░░░░░░░  14.91%
+unknown            1h 18m 54s    ███░░░░░░░░░░░░░░░░░░░░░░  8.77%
+ERB                51m 2s        ██░░░░░░░░░░░░░░░░░░░░░░░  5.67%
+Java               36m 4s        ██░░░░░░░░░░░░░░░░░░░░░░░  4.01%
 
 💼 Projects:
-calendar-backend   11h 7m 40s   ██████████████████░░░░░░░  71.87%
-dns                1h 38m 44s   ███░░░░░░░░░░░░░░░░░░░░░░  10.63%
-calendar           46m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.00%
-lectures           45m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.91%
-unknown            38m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.19%
+calendar-backend   10h 37m 41s   ██████████████████░░░░░░░  70.81%
+dns                1h 38m 44s    ███░░░░░░░░░░░░░░░░░░░░░░  10.96%
+calendar           46m 25s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.15%
+lectures           45m 36s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.06%
+unknown            40m 23s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.48%
 
-Total: 15 hrs 29 mins
+Total: 15 hrs 1 mins
 ```
 
 
