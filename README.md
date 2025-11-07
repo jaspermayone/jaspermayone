@@ -18,7 +18,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/witcc-calendar-backend`](https://github.com/jaspermayone/witcc-calendar-backend) - _"Backend for WITCodingClub/calendar. Written in Ruby on Rails."_ **(1 day ago)**
+- [`@jaspermayone/witcc-calendar-backend`](https://github.com/jaspermayone/witcc-calendar-backend) - _"Backend for WITCodingClub/calendar. Written in Ruby on Rails."_ **(today)**
 - [`@WITCodingClub/dns`](https://github.com/WITCodingClub/dns) - _"WITCC's DNS - declaratively configured via yaml & octodns"_ **(1 day ago)**
 - [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _""_ **(2 days ago)**
 - [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(3 days ago)**
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-Ruby               7h 58m 22s    █████████████░░░░░░░░░░░░  50.94%
-YAML               2h 11m 52s    ████░░░░░░░░░░░░░░░░░░░░░  14.04%
+Ruby               7h 57m 24s    █████████████░░░░░░░░░░░░  50.89%
+YAML               2h 11m 52s    ████░░░░░░░░░░░░░░░░░░░░░  14.06%
 unknown            57m 50s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.16%
-ERB                52m 2s        ██░░░░░░░░░░░░░░░░░░░░░░░  5.54%
-Java               44m 21s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.72%
+ERB                52m 2s        ██░░░░░░░░░░░░░░░░░░░░░░░  5.55%
+Java               44m 21s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.73%
 
 💼 Projects:
-calendar-backend   10h 32m 21s   █████████████████░░░░░░░░  67.30%
-dns                1h 44m 44s    ███░░░░░░░░░░░░░░░░░░░░░░  11.15%
-calendar           46m 25s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.94%
+calendar-backend   10h 31m 22s   █████████████████░░░░░░░░  67.27%
+dns                1h 44m 44s    ███░░░░░░░░░░░░░░░░░░░░░░  11.16%
+calendar           46m 25s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.95%
 lectures           43m 33s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.64%
 pa7                41m 42s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.44%
 
-Total: 15 hrs 40 mins
+Total: 15 hrs 39 mins
 ```
 
 
