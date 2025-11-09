@@ -18,9 +18,9 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _""_ **(1 day ago)**
 - [`@jaspermayone/witcc-calendar-backend`](https://github.com/jaspermayone/witcc-calendar-backend) - _"Backend for WITCodingClub/calendar. Written in Ruby on Rails."_ **(1 day ago)**
 - [`@WITCodingClub/dns`](https://github.com/WITCodingClub/dns) - _"WITCC's DNS - declaratively configured via yaml & octodns"_ **(2 days ago)**
-- [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _""_ **(4 days ago)**
 - [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(5 days ago)**
 
 #### 🌱 My latest projects
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-Ruby               7h 28m 10s   █████████████░░░░░░░░░░░░  48.64%
-YAML               2h 44m 28s   █████░░░░░░░░░░░░░░░░░░░░  17.85%
-unknown            58m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.39%
-Java               44m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.83%
-JAVA               43m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.71%
+Ruby               7h 28m 10s   █████████████░░░░░░░░░░░░  48.36%
+YAML               2h 44m 28s   █████░░░░░░░░░░░░░░░░░░░░  17.75%
+unknown            1h 1m 29s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.63%
+Java               44m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.80%
+JAVA               43m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.68%
 
 💼 Projects:
-calendar-backend   9h 30m 54s   ████████████████░░░░░░░░░  61.93%
-dns                1h 48m 50s   ███░░░░░░░░░░░░░░░░░░░░░░  11.81%
-calendar           46m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.04%
-unknown            46m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.03%
-lectures           43m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.72%
+calendar-backend   9h 36m 12s   ████████████████░░░░░░░░░  62.15%
+dns                1h 48m 50s   ███░░░░░░░░░░░░░░░░░░░░░░  11.74%
+calendar           46m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.01%
+unknown            46m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.00%
+lectures           43m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.70%
 
-Total: 15 hrs 22 mins
+Total: 15 hrs 27 mins
 ```
 
 
