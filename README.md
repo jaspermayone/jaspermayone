@@ -19,8 +19,8 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 #### 👷 The latest repos I've pushed to
 
 - [`@jaspermayone/witcc-calendar-backend`](https://github.com/jaspermayone/witcc-calendar-backend) - _"Backend for WITCodingClub/calendar. Written in Ruby on Rails."_ **(today)**
+- [`@WITCodingClub/dns`](https://github.com/WITCodingClub/dns) - _"WITCC's DNS - declaratively configured via yaml & octodns"_ **(today)**
 - [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _""_ **(1 day ago)**
-- [`@WITCodingClub/dns`](https://github.com/WITCodingClub/dns) - _"WITCC's DNS - declaratively configured via yaml & octodns"_ **(3 days ago)**
 - [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(6 days ago)**
 
 #### 🌱 My latest projects
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-Ruby               5h 56m 34s   ████████████░░░░░░░░░░░░░  45.90%
-YAML               2h 15m 54s   █████░░░░░░░░░░░░░░░░░░░░  17.50%
-unknown            52m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.72%
-Java               42m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.45%
-Markdown           32m 1s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.12%
+Ruby               5h 52m 34s   ████████████░░░░░░░░░░░░░  46.10%
+YAML               2h 11m 54s   █████░░░░░░░░░░░░░░░░░░░░  17.25%
+unknown            52m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.82%
+Java               42m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.54%
+Markdown           32m 1s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.19%
 
 💼 Projects:
-calendar-backend   7h 43m 47s   ███████████████░░░░░░░░░░  59.68%
-dns                1h 54m 5s    ████░░░░░░░░░░░░░░░░░░░░░  14.68%
-calendar           46m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.97%
-pa7                41m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.37%
-lectures           30m 20s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.90%
+calendar-backend   7h 37m 47s   ███████████████░░░░░░░░░░  59.83%
+dns                1h 54m 5s    ████░░░░░░░░░░░░░░░░░░░░░  14.91%
+calendar           46m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.07%
+pa7                41m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.45%
+lectures           30m 20s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.96%
 
-Total: 12 hrs 57 mins
+Total: 12 hrs 45 mins
 ```
 
 
