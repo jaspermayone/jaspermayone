@@ -18,8 +18,8 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@jaspermayone/witcc-calendar-backend`](https://github.com/jaspermayone/witcc-calendar-backend) - _"Backend for WITCodingClub/calendar. Written in Ruby on Rails."_ **(today)**
 - [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _""_ **(1 day ago)**
-- [`@jaspermayone/witcc-calendar-backend`](https://github.com/jaspermayone/witcc-calendar-backend) - _"Backend for WITCodingClub/calendar. Written in Ruby on Rails."_ **(1 day ago)**
 - [`@WITCodingClub/dns`](https://github.com/WITCodingClub/dns) - _"WITCC's DNS - declaratively configured via yaml & octodns"_ **(3 days ago)**
 - [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(6 days ago)**
 
@@ -42,7 +42,7 @@ Ruby               5h 56m 34s   ████████████░░░░
 YAML               2h 15m 54s   █████░░░░░░░░░░░░░░░░░░░░  17.50%
 unknown            52m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.72%
 Java               42m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.45%
-JAVA               32m 1s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.12%
+Markdown           32m 1s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.12%
 
 💼 Projects:
 calendar-backend   7h 43m 47s   ███████████████░░░░░░░░░░  59.68%
