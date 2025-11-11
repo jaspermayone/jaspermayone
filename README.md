@@ -20,7 +20,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 - [`@jaspermayone/witcc-calendar-backend`](https://github.com/jaspermayone/witcc-calendar-backend) - _"Backend for WITCodingClub/calendar. Written in Ruby on Rails."_ **(1 day ago)**
 - [`@WITCodingClub/dns`](https://github.com/WITCodingClub/dns) - _"WITCC's DNS - declaratively configured via yaml & octodns"_ **(1 day ago)**
-- [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a chrome extension that makes adding your classes to your calendar easy & quick! In the future you will also be able to find "best times" to meet with fellow students, easily register for classes, and more! Backend repo: https://github.com/jaspermayone/witcc-calendar-backend"_ **(2 days ago)**
+- [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick! In the future you will also be able to find "best times" to meet with fellow students, easily register for classes, and more! Backend repo: https://github.com/jaspermayone/witcc-calendar-backend"_ **(2 days ago)**
 - [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(1 week ago)**
 
 #### 🌱 My latest projects
