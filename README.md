@@ -18,7 +18,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(2 days ago)**
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(today)**
 - [`@WITCodingClub/dns`](https://github.com/WITCodingClub/dns) - _"WITCC's DNS - declaratively configured via yaml & octodns"_ **(2 days ago)**
 - [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick! Backend repo: https://github.com/jaspermayone/witcc-calendar-backend"_ **(3 days ago)**
 - [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(1 week ago)**
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-Ruby               4h 19m 52s   █████████████░░░░░░░░░░░░  49.87%
-Java               53m 39s      ███░░░░░░░░░░░░░░░░░░░░░░  10.30%
-YAML               49m 44s      ███░░░░░░░░░░░░░░░░░░░░░░  9.54%
-JAVA               35m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.83%
-unknown            31m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.09%
+Ruby               4h 27m 20s   █████████████░░░░░░░░░░░░  50.34%
+Java               56m 12s      ███░░░░░░░░░░░░░░░░░░░░░░  10.58%
+YAML               49m 44s      ███░░░░░░░░░░░░░░░░░░░░░░  9.36%
+JAVA               35m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.70%
+unknown            31m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.98%
 
 💼 Projects:
-calendar-backend   5h 39m 57s   █████████████████░░░░░░░░  65.21%
-lectures           45m 39s      ███░░░░░░░░░░░░░░░░░░░░░░  8.76%
-pa7                41m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  8.00%
-COMP1000           25m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.88%
-unknown            17m 58s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.45%
+calendar-backend   5h 47m 25s   █████████████████░░░░░░░░  65.39%
+lectures           48m 12s      ███░░░░░░░░░░░░░░░░░░░░░░  9.07%
+pa7                41m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.85%
+COMP1000           25m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.78%
+unknown            17m 58s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.38%
 
-Total: 8 hrs 41 mins
+Total: 8 hrs 51 mins
 ```
 
 
