@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@rknightuk/slashpages`](https://github.com/rknightuk/slashpages) - _"A guide to common pages you can add to your website"_ **(today)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 day ago)**
 - [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(5 days ago)**
 - [`@WITCodingClub/dns`](https://github.com/WITCodingClub/dns) - _"WITCC's DNS - declaratively configured via yaml & octodns"_ **(1 week ago)**
-- [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(1 week ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown            3h 54m 23s   ██████████░░░░░░░░░░░░░░░  37.52%
-SQL                1h 2m 55s    ███░░░░░░░░░░░░░░░░░░░░░░  10.07%
-TypeScript         1h 2m 27s    ███░░░░░░░░░░░░░░░░░░░░░░  10.00%
-Java               55m 41s      ███░░░░░░░░░░░░░░░░░░░░░░  8.91%
-Ruby               49m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.86%
+unknown            3h 54m 23s   ██████████░░░░░░░░░░░░░░░  38.01%
+SQL                1h 2m 55s    ███░░░░░░░░░░░░░░░░░░░░░░  10.20%
+TypeScript         1h 2m 27s    ███░░░░░░░░░░░░░░░░░░░░░░  10.13%
+Java               51m 41s      ███░░░░░░░░░░░░░░░░░░░░░░  8.38%
+Ruby               45m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.32%
 
 💼 Projects:
-calendar           2h 46m 16s   ███████░░░░░░░░░░░░░░░░░░  26.61%
-wes-pta            2h 25m 42s   ██████░░░░░░░░░░░░░░░░░░░  23.32%
-website            1h 27m 38s   ████░░░░░░░░░░░░░░░░░░░░░  14.03%
-calendar-backend   1h 1m 31s    ███░░░░░░░░░░░░░░░░░░░░░░  9.85%
-unknown            40m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.55%
+calendar           2h 46m 16s   ███████░░░░░░░░░░░░░░░░░░  26.96%
+wes-pta            2h 25m 42s   ██████░░░░░░░░░░░░░░░░░░░  23.62%
+website            1h 27m 38s   ████░░░░░░░░░░░░░░░░░░░░░  14.21%
+calendar-backend   57m 31s      ███░░░░░░░░░░░░░░░░░░░░░░  9.33%
+unknown            40m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.63%
 
-Total: 10 hrs 25 mins
+Total: 10 hrs 17 mins
 ```
 
 
