@@ -1,4 +1,5 @@
-![vt_mountains](https://github.com/jaspermayone/jaspermayone/assets/65788728/0597adb6-37c9-4db7-b6d8-1d7107b7bdd8)
+![IMG_0567](https://github.com/user-attachments/assets/14acf257-a138-449e-92d7-96579ea608ab)
+
 
 # Jasper Mayone (he/they)
 
