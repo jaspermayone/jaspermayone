@@ -1,4 +1,4 @@
-![IMG_0567](https://github.com/user-attachments/assets/14acf257-a138-449e-92d7-96579ea608ab)
+![IMG_0567 copy](https://github.com/user-attachments/assets/b88e1cf5-be57-45a1-b691-4f79c45ea997)
 
 
 # Jasper Mayone (he/they)
