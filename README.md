@@ -18,16 +18,16 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(today)**
-- [`@rknightuk/slashpages`](https://github.com/rknightuk/slashpages) - _"A guide to common pages you can add to your website"_ **(1 day ago)**
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(6 days ago)**
-- [`@WITCodingClub/dns`](https://github.com/WITCodingClub/dns) - _"WITCC's DNS - declaratively configured via yaml & octodns"_ **(1 week ago)**
+- [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(1 day ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 day ago)**
+- [`@jaspermayone/wit-robotics-2025`](https://github.com/jaspermayone/wit-robotics-2025) - _""_ **(1 day ago)**
+- [`@rknightuk/slashpages`](https://github.com/rknightuk/slashpages) - _"A guide to common pages you can add to your website"_ **(2 days ago)**
 
 #### 🌱 My latest projects
 
+- [`@jaspermayone/wit-robotics-2025`](https://github.com/jaspermayone/wit-robotics-2025) - _""_
 - [`@jaspermayone/didactic-eureka`](https://github.com/jaspermayone/didactic-eureka) - _""_
 - [`@jaspermayone/inventory-scripts`](https://github.com/jaspermayone/inventory-scripts) - _""_
-- [`@jaspermayone/redirects`](https://github.com/jaspermayone/redirects) - _""_
 
 #### 🍴 My recent forks
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown            5h 37m 59s   ███████████░░░░░░░░░░░░░░  41.97%
-TSX                1h 6m 9s     ███░░░░░░░░░░░░░░░░░░░░░░  8.21%
-TypeScript         1h 3m 20s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.86%
-SQL                1h 2m 55s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.81%
-Ruby               1h 1m 39s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.65%
+unknown            5h 44m 56s   ███████████░░░░░░░░░░░░░░  42.46%
+TSX                1h 6m 9s     ███░░░░░░░░░░░░░░░░░░░░░░  8.14%
+TypeScript         1h 3m 20s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.80%
+SQL                1h 2m 55s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.75%
+Ruby               1h 1m 39s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.59%
 
 💼 Projects:
-website            4h 15m 8s    ████████░░░░░░░░░░░░░░░░░  31.67%
-calendar           2h 46m 16s   ██████░░░░░░░░░░░░░░░░░░░  20.64%
-wes-pta            2h 25m 28s   █████░░░░░░░░░░░░░░░░░░░░  18.06%
-calendar-backend   1h 18m 6s    ███░░░░░░░░░░░░░░░░░░░░░░  9.70%
-unknown            38m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.83%
+website            4h 22m 5s    █████████░░░░░░░░░░░░░░░░  32.26%
+calendar           2h 46m 16s   ██████░░░░░░░░░░░░░░░░░░░  20.46%
+wes-pta            2h 25m 28s   █████░░░░░░░░░░░░░░░░░░░░  17.90%
+calendar-backend   1h 18m 6s    ███░░░░░░░░░░░░░░░░░░░░░░  9.61%
+unknown            38m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.79%
 
-Total: 13 hrs 26 mins
+Total: 13 hrs 33 mins
 ```
 
 
