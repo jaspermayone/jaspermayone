@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/wit-robotics-2025`](https://github.com/jaspermayone/wit-robotics-2025) - _""_ **(2 days ago)**
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(3 days ago)**
-- [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(3 days ago)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(4 days ago)**
+- [`@jaspermayone/wit-robotics-2025`](https://github.com/jaspermayone/wit-robotics-2025) - _""_ **(3 days ago)**
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(4 days ago)**
+- [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(4 days ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(5 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown            4h 57m 26s   ███████████░░░░░░░░░░░░░░  41.09%
-Image (svg)        1h 10m 50s   ███░░░░░░░░░░░░░░░░░░░░░░  9.79%
-TSX                1h 6m 9s     ███░░░░░░░░░░░░░░░░░░░░░░  9.14%
-Ruby               56m 1s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.74%
-Java               50m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.97%
+unknown            4h 53m 9s    ██████████░░░░░░░░░░░░░░░  36.90%
+Image (svg)        2h 25m 45s   █████░░░░░░░░░░░░░░░░░░░░  18.34%
+TSX                1h 6m 9s     ███░░░░░░░░░░░░░░░░░░░░░░  8.33%
+Ruby               56m 1s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.05%
+Java               50m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.35%
 
 💼 Projects:
-website            5h 2m 0s     ███████████░░░░░░░░░░░░░░  41.71%
-pa9                2h 20m 46s   █████░░░░░░░░░░░░░░░░░░░░  19.44%
-calendar-backend   1h 20m 17s   ███░░░░░░░░░░░░░░░░░░░░░░  11.09%
-exam2              36m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.10%
-Battlebot          35m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.89%
+website            5h 2m 0s     ██████████░░░░░░░░░░░░░░░  38.00%
+pa9                2h 20m 46s   █████░░░░░░░░░░░░░░░░░░░░  17.71%
+Maccy              1h 26m 16s   ███░░░░░░░░░░░░░░░░░░░░░░  10.86%
+calendar-backend   1h 20m 17s   ███░░░░░░░░░░░░░░░░░░░░░░  10.10%
+exam2              36m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.65%
 
-Total: 12 hrs 4 mins
+Total: 13 hrs 15 mins
 ```
 
 
