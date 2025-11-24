@@ -18,7 +18,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/wit-robotics-2025`](https://github.com/jaspermayone/wit-robotics-2025) - _""_ **(1 day ago)**
+- [`@jaspermayone/wit-robotics-2025`](https://github.com/jaspermayone/wit-robotics-2025) - _""_ **(today)**
 - [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(5 days ago)**
 - [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(5 days ago)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(6 days ago)**
@@ -38,17 +38,17 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown            4h 30m 9s    █████████░░░░░░░░░░░░░░░░  35.41%
-Image (svg)        4h 1m 39s    ████████░░░░░░░░░░░░░░░░░  31.67%
-Ruby               56m 1s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.34%
-Java               43m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.71%
+unknown            4h 36m 54s   ██████████░░░░░░░░░░░░░░░  36.30%
+Image (svg)        4h 3m 53s    ████████░░░░░░░░░░░░░░░░░  31.97%
+Ruby               48m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.37%
+Java               43m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.72%
 JAVA               38m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.03%
 
 💼 Projects:
-Maccy              3h 41m 5s    ████████░░░░░░░░░░░░░░░░░  28.97%
-website            2h 51m 21s   ██████░░░░░░░░░░░░░░░░░░░  22.45%
+Maccy              3h 49m 46s   ████████░░░░░░░░░░░░░░░░░  30.12%
+website            2h 51m 21s   ██████░░░░░░░░░░░░░░░░░░░  22.46%
 pa9                2h 20m 46s   █████░░░░░░░░░░░░░░░░░░░░  18.45%
-calendar-backend   1h 20m 17s   ███░░░░░░░░░░░░░░░░░░░░░░  10.52%
+calendar-backend   1h 11m 5s    ███░░░░░░░░░░░░░░░░░░░░░░  9.32%
 exam2              36m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.84%
 
 Total: 12 hrs 43 mins
