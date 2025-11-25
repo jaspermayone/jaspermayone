@@ -21,7 +21,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 - [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(today)**
 - [`@jaspermayone/scripts`](https://github.com/jaspermayone/scripts) - _""_ **(today)**
 - [`@WITCodingClub/hackwit`](https://github.com/WITCodingClub/hackwit) - _"Website to host information and registration for WITCC's HackWIT event in March 2026."_ **(today)**
-- [`@WITCodingClub/calendar-home`](https://github.com/WITCodingClub/calendar-home) - _"The landing page for WIT-Calendar: https://calendar.witcc.dev"_ **(today)**
+- [`@WITCodingClub/calendar-home`](https://github.com/WITCodingClub/calendar-home) - _"The landing page for WIT-Calendar"_ **(today)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown            5h 26m 50s   ███████████░░░░░░░░░░░░░░  40.90%
-Image (svg)        4h 3m 52s    ████████░░░░░░░░░░░░░░░░░  30.52%
-Java               43m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.46%
-YAML               38m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.85%
-JAVA               38m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.81%
+unknown            5h 1m 2s     ██████████░░░░░░░░░░░░░░░  38.93%
+Image (svg)        4h 3m 52s    ████████░░░░░░░░░░░░░░░░░  31.54%
+Java               43m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.64%
+YAML               38m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.01%
+JAVA               38m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.97%
 
 💼 Projects:
-Maccy              3h 49m 46s   ████████░░░░░░░░░░░░░░░░░  28.75%
-pa9                2h 20m 46s   █████░░░░░░░░░░░░░░░░░░░░  17.61%
-website            1h 59m 36s   ████░░░░░░░░░░░░░░░░░░░░░  14.96%
-calendar-backend   51m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.43%
-registry           38m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.81%
+Maccy              3h 49m 46s   ████████░░░░░░░░░░░░░░░░░  29.71%
+pa9                2h 20m 46s   █████░░░░░░░░░░░░░░░░░░░░  18.20%
+website            1h 33m 49s   ████░░░░░░░░░░░░░░░░░░░░░  12.13%
+calendar-backend   51m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.65%
+registry           38m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.98%
 
-Total: 13 hrs 19 mins
+Total: 12 hrs 53 mins
 ```
 
 
