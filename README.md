@@ -18,14 +18,14 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(1 day ago)**
-- [`@jaspermayone/scripts`](https://github.com/jaspermayone/scripts) - _""_ **(1 day ago)**
-- [`@WITCodingClub/hackwit`](https://github.com/WITCodingClub/hackwit) - _"Website to host information and registration for WITCC's HackWIT event in March 2026."_ **(1 day ago)**
+- [`@jaspermayone/vcf-cli`](https://github.com/jaspermayone/vcf-cli) - _"A terminal UI for browsing, editing, and cleaning up VCF (vCard) contact files."_ **(today)**
 - [`@WITCodingClub/calendar-home`](https://github.com/WITCodingClub/calendar-home) - _"The landing page for WIT-Calendar"_ **(1 day ago)**
+- [`@WITCodingClub/hackwit`](https://github.com/WITCodingClub/hackwit) - _"Website to host information and registration for WITCC's HackWIT event in March 2026."_ **(1 day ago)**
+- [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(1 day ago)**
 
 #### 🌱 My latest projects
 
-- [`@jaspermayone/vcf-cli`](https://github.com/jaspermayone/vcf-cli) - _""_
+- [`@jaspermayone/vcf-cli`](https://github.com/jaspermayone/vcf-cli) - _"A terminal UI for browsing, editing, and cleaning up VCF (vCard) contact files."_
 - [`@jaspermayone/wit-robotics-2025`](https://github.com/jaspermayone/wit-robotics-2025) - _""_
 - [`@jaspermayone/didactic-eureka`](https://github.com/jaspermayone/didactic-eureka) - _""_
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown            4h 11m 57s   █████████░░░░░░░░░░░░░░░░  32.19%
-Image (svg)        4h 3m 32s    ████████░░░░░░░░░░░░░░░░░  31.12%
-Ruby               1h 11m 24s   ███░░░░░░░░░░░░░░░░░░░░░░  9.12%
-YAML               42m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.38%
-Java               41m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.31%
+unknown       4h 22m 58s   █████████░░░░░░░░░░░░░░░░  33.90%
+Image (svg)   4h 3m 32s    ████████░░░░░░░░░░░░░░░░░  31.39%
+Ruby          1h 1m 2s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.87%
+Java          41m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.36%
+YAML          34m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.46%
 
 💼 Projects:
-Maccy              3h 49m 46s   ████████░░░░░░░░░░░░░░░░░  29.35%
-pa9                2h 20m 46s   █████░░░░░░░░░░░░░░░░░░░░  17.98%
-Greenhouse         1h 7m 44s    ███░░░░░░░░░░░░░░░░░░░░░░  8.65%
-calendar-backend   48m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.24%
-registry           40m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.17%
+Maccy         3h 49m 46s   ████████░░░░░░░░░░░░░░░░░  29.61%
+pa9           2h 20m 46s   █████░░░░░░░░░░░░░░░░░░░░  18.14%
+Greenhouse    1h 17m 41s   ███░░░░░░░░░░░░░░░░░░░░░░  10.01%
+registry      40m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.22%
+2025          37m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.81%
 
-Total: 13 hrs 3 mins
+Total: 12 hrs 56 mins
 ```
 
 
