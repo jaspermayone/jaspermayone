@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 day ago)**
 - [`@jaspermayone/vcf-cli`](https://github.com/jaspermayone/vcf-cli) - _"A terminal UI for browsing, editing, and cleaning up VCF (vCard) contact files."_ **(1 day ago)**
 - [`@WITCodingClub/calendar-home`](https://github.com/WITCodingClub/calendar-home) - _"The landing page for WIT-Calendar"_ **(2 days ago)**
 - [`@WITCodingClub/hackwit`](https://github.com/WITCodingClub/hackwit) - _"Website to host information and registration for WITCC's HackWIT event in March 2026."_ **(2 days ago)**
-- [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(2 days ago)**
 
 #### 🌱 My latest projects
 
@@ -31,27 +31,27 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 🍴 My recent forks
 
+- [overengineering](https://github.com/jaspermayone-forks/overengineering) - a webring of interesting people
 - [adapter-extension](https://github.com/jaspermayone-forks/adapter-extension) - Svelte adapter that makes chrome extension support easier
-- [zera](https://github.com/jaspermayone-forks/zera) - 
 
 #### 📡 my _`wakatime`_ stats from the last week
 
 ```text
 💾 Languages:
-unknown       4h 18m 24s   █████████░░░░░░░░░░░░░░░░  35.82%
-Image (svg)   4h 3m 32s    █████████░░░░░░░░░░░░░░░░  33.76%
-Ruby          42m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.92%
+unknown       4h 19m 43s   ██████████░░░░░░░░░░░░░░░  36.01%
+Image (svg)   4h 3m 32s    █████████░░░░░░░░░░░░░░░░  33.77%
 Java          41m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.76%
-YAML          32m 4s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.44%
+Ruby          41m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.71%
+YAML          32m 4s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.45%
 
 💼 Projects:
-Maccy         3h 49m 46s   ████████░░░░░░░░░░░░░░░░░  31.84%
+Maccy         3h 49m 46s   ████████░░░░░░░░░░░░░░░░░  31.85%
 pa9           2h 20m 46s   █████░░░░░░░░░░░░░░░░░░░░  19.51%
-Greenhouse    1h 32m 9s    ████░░░░░░░░░░░░░░░░░░░░░  12.77%
+Greenhouse    1h 33m 27s   ████░░░░░░░░░░░░░░░░░░░░░  12.95%
 registry      40m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.61%
 2025          37m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.17%
 
-Total: 12 hrs 2 mins
+Total: 12 hrs 1 mins
 ```
 
 
