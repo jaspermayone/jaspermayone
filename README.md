@@ -20,8 +20,8 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 day ago)**
 - [`@jaspermayone/vcf-cli`](https://github.com/jaspermayone/vcf-cli) - _"A terminal UI for browsing, editing, and cleaning up VCF (vCard) contact files."_ **(1 day ago)**
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
 - [`@WITCodingClub/calendar-home`](https://github.com/WITCodingClub/calendar-home) - _"The landing page for WIT-Calendar"_ **(2 days ago)**
-- [`@WITCodingClub/hackwit`](https://github.com/WITCodingClub/hackwit) - _"Website to host information and registration for WITCC's HackWIT event in March 2026."_ **(2 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown       4h 19m 43s   ██████████░░░░░░░░░░░░░░░  36.01%
-Image (svg)   4h 3m 32s    █████████░░░░░░░░░░░░░░░░  33.77%
-Java          41m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.76%
-Ruby          41m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.71%
-YAML          32m 4s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.45%
+unknown       4h 37m 13s   ██████████░░░░░░░░░░░░░░░  37.03%
+Image (svg)   4h 3m 32s    █████████░░░░░░░░░░░░░░░░  32.53%
+Ruby          48m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.51%
+Java          41m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.55%
+YAML          32m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.31%
 
 💼 Projects:
-Maccy         3h 49m 46s   ████████░░░░░░░░░░░░░░░░░  31.85%
-pa9           2h 20m 46s   █████░░░░░░░░░░░░░░░░░░░░  19.51%
-Greenhouse    1h 33m 27s   ████░░░░░░░░░░░░░░░░░░░░░  12.95%
-registry      40m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.61%
-2025          37m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.17%
+Maccy         3h 49m 46s   ████████░░░░░░░░░░░░░░░░░  30.69%
+pa9           2h 20m 46s   █████░░░░░░░░░░░░░░░░░░░░  18.80%
+Greenhouse    1h 39m 3s    ████░░░░░░░░░░░░░░░░░░░░░  13.23%
+registry      40m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.41%
+2025          37m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.98%
 
-Total: 12 hrs 1 mins
+Total: 12 hrs 29 mins
 ```
 
 
