@@ -18,16 +18,16 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@jaspermayone/admin_tools`](https://github.com/jaspermayone/admin_tools) - _"A lightweight Rails gem for conditionally rendering admin-only content in views. Wrap any content in an `admin_tool` block and it only renders for admin users."_ **(today)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 day ago)**
-- [`@jaspermayone/vcf-cli`](https://github.com/jaspermayone/vcf-cli) - _"A terminal UI for browsing, editing, and cleaning up VCF (vCard) contact files."_ **(1 day ago)**
 - [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
-- [`@WITCodingClub/calendar-home`](https://github.com/WITCodingClub/calendar-home) - _"The landing page for WIT-Calendar"_ **(2 days ago)**
+- [`@jaspermayone/vcf-cli`](https://github.com/jaspermayone/vcf-cli) - _"A terminal UI for browsing, editing, and cleaning up VCF (vCard) contact files."_ **(1 day ago)**
 
 #### 🌱 My latest projects
 
+- [`@jaspermayone/admin_tools`](https://github.com/jaspermayone/admin_tools) - _"A lightweight Rails gem for conditionally rendering admin-only content in views. Wrap any content in an `admin_tool` block and it only renders for admin users."_
 - [`@jaspermayone/vcf-cli`](https://github.com/jaspermayone/vcf-cli) - _"A terminal UI for browsing, editing, and cleaning up VCF (vCard) contact files."_
 - [`@jaspermayone/wit-robotics-2025`](https://github.com/jaspermayone/wit-robotics-2025) - _""_
-- [`@jaspermayone/didactic-eureka`](https://github.com/jaspermayone/didactic-eureka) - _""_
 
 #### 🍴 My recent forks
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown       4h 37m 13s   ██████████░░░░░░░░░░░░░░░  37.03%
-Image (svg)   4h 3m 32s    █████████░░░░░░░░░░░░░░░░  32.53%
-Ruby          48m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.51%
-Java          41m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.55%
-YAML          32m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.31%
+unknown       4h 41m 50s   ██████████░░░░░░░░░░░░░░░  37.06%
+Image (svg)   4h 3m 32s    █████████░░░░░░░░░░░░░░░░  32.03%
+Ruby          56m 1s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.37%
+Java          41m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.46%
+YAML          32m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.25%
 
 💼 Projects:
-Maccy         3h 49m 46s   ████████░░░░░░░░░░░░░░░░░  30.69%
-pa9           2h 20m 46s   █████░░░░░░░░░░░░░░░░░░░░  18.80%
-Greenhouse    1h 39m 3s    ████░░░░░░░░░░░░░░░░░░░░░  13.23%
-registry      40m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.41%
-2025          37m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.98%
+Maccy         3h 49m 46s   ████████░░░░░░░░░░░░░░░░░  30.21%
+pa9           2h 20m 46s   █████░░░░░░░░░░░░░░░░░░░░  18.51%
+Greenhouse    1h 43m 10s   ████░░░░░░░░░░░░░░░░░░░░░  13.56%
+registry      40m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.32%
+2025          37m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.90%
 
-Total: 12 hrs 29 mins
+Total: 12 hrs 41 mins
 ```
 
 
