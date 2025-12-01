@@ -18,9 +18,9 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(4 days ago)**
+- [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(1 day ago)**
 - [`@jaspermayone/admin_tools`](https://github.com/jaspermayone/admin_tools) - _"A lightweight Rails gem for conditionally rendering admin-only content in views. Wrap any content in an `admin_tool` block and it only renders for admin users."_ **(4 days ago)**
-- [`@jaspermayone/vcf-cli`](https://github.com/jaspermayone/vcf-cli) - _"A terminal UI for browsing, editing, and cleaning up VCF (vCard) contact files."_ **(5 days ago)**
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(4 days ago)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(5 days ago)**
 
 #### 🌱 My latest projects
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown       4h 12m 22s   ██████████████░░░░░░░░░░░  54.52%
-Ruby          1h 19m 32s   █████░░░░░░░░░░░░░░░░░░░░  17.18%
-YAML          54m 4s       ███░░░░░░░░░░░░░░░░░░░░░░  11.68%
-ERB           39m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  8.62%
-Image (svg)   10m 14s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.21%
+unknown       4h 24m 23s   ██████████████░░░░░░░░░░░  55.08%
+Ruby          1h 24m 21s   █████░░░░░░░░░░░░░░░░░░░░  17.57%
+YAML          54m 4s       ███░░░░░░░░░░░░░░░░░░░░░░  11.26%
+ERB           39m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  8.31%
+Image (svg)   10m 14s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.13%
 
 💼 Projects:
-Greenhouse    3h 11m 40s   ███████████░░░░░░░░░░░░░░  41.39%
-registry      40m 29s      ███░░░░░░░░░░░░░░░░░░░░░░  8.74%
-2025          37m 18s      ███░░░░░░░░░░░░░░░░░░░░░░  8.05%
-Maccy         35m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.57%
-greenhouse    30m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.50%
+Greenhouse    3h 28m 46s   ███████████░░░░░░░░░░░░░░  43.47%
+registry      40m 29s      ███░░░░░░░░░░░░░░░░░░░░░░  8.43%
+2025          37m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.77%
+Maccy         33m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.88%
+greenhouse    30m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.26%
 
-Total: 7 hrs 43 mins
+Total: 8 hrs 0 mins
 ```
 
 
