@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(today)**
 - [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(1 day ago)**
 - [`@jaspermayone/admin_tools`](https://github.com/jaspermayone/admin_tools) - _"A lightweight Rails gem for conditionally rendering admin-only content in views. Wrap any content in an `admin_tool` block and it only renders for admin users."_ **(4 days ago)**
 - [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(4 days ago)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(5 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown      4h 24m 29s   █████████████░░░░░░░░░░░░  50.29%
-Ruby         1h 54m 41s   ██████░░░░░░░░░░░░░░░░░░░  21.80%
-YAML         54m 4s       ███░░░░░░░░░░░░░░░░░░░░░░  10.28%
-ERB          39m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.58%
-Java         12m 23s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.35%
+unknown      4h 17m 35s   █████████████░░░░░░░░░░░░  49.65%
+Ruby         1h 54m 41s   ██████░░░░░░░░░░░░░░░░░░░  22.11%
+YAML         54m 4s       ███░░░░░░░░░░░░░░░░░░░░░░  10.42%
+ERB          39m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.69%
+Java         12m 23s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.39%
 
 💼 Projects:
-Greenhouse   3h 29m 48s   ██████████░░░░░░░░░░░░░░░  39.87%
-aoc          54m 50s      ███░░░░░░░░░░░░░░░░░░░░░░  10.42%
-registry     40m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.69%
-2025         37m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.09%
-greenhouse   30m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.72%
+Greenhouse   3h 29m 48s   ███████████░░░░░░░░░░░░░░  40.42%
+aoc          54m 50s      ███░░░░░░░░░░░░░░░░░░░░░░  10.56%
+registry     40m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.80%
+2025         34m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.69%
+greenhouse   30m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.80%
 
-Total: 8 hrs 46 mins
+Total: 8 hrs 39 mins
 ```
 
 
