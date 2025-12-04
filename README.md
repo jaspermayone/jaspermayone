@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/wit-robotics-2025`](https://github.com/jaspermayone/wit-robotics-2025) - _""_ **(today)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(2 days ago)**
-- [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(3 days ago)**
-- [`@jaspermayone/admin_tools`](https://github.com/jaspermayone/admin_tools) - _"A lightweight Rails gem for conditionally rendering admin-only content in views. Wrap any content in an `admin_tool` block and it only renders for admin users."_ **(6 days ago)**
+- [`@jaspermayone/wit-robotics-2025`](https://github.com/jaspermayone/wit-robotics-2025) - _""_ **(1 day ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(3 days ago)**
+- [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(4 days ago)**
+- [`@jaspermayone/admin_tools`](https://github.com/jaspermayone/admin_tools) - _"A lightweight Rails gem for conditionally rendering admin-only content in views. Wrap any content in an `admin_tool` block and it only renders for admin users."_ **(1 week ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-Ruby          3h 20m 3s    █████████░░░░░░░░░░░░░░░░  32.83%
-unknown       3h 13m 54s   ████████░░░░░░░░░░░░░░░░░  31.82%
-Python        1h 41m 33s   █████░░░░░░░░░░░░░░░░░░░░  16.67%
-YAML          24m 10s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.97%
-ERB           18m 29s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.03%
+Ruby          3h 20m 3s    ████████░░░░░░░░░░░░░░░░░  31.56%
+unknown       3h 13m 54s   ████████░░░░░░░░░░░░░░░░░  30.59%
+Python        2h 6m 1s     █████░░░░░░░░░░░░░░░░░░░░  19.88%
+YAML          24m 10s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.81%
+ERB           18m 29s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.92%
 
 💼 Projects:
-aoc           4h 20m 44s   ███████████░░░░░░░░░░░░░░  42.77%
-2025          2h 0m 37s    █████░░░░░░░░░░░░░░░░░░░░  19.79%
-Greenhouse    2h 0m 1s     █████░░░░░░░░░░░░░░░░░░░░  19.69%
-admin_tools   30m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.93%
-lectures      27m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.55%
+aoc           4h 20m 44s   ███████████░░░░░░░░░░░░░░  41.12%
+2025          2h 25m 5s    ██████░░░░░░░░░░░░░░░░░░░  22.88%
+Greenhouse    2h 0m 1s     █████░░░░░░░░░░░░░░░░░░░░  18.93%
+admin_tools   30m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.74%
+lectures      27m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.37%
 
-Total: 10 hrs 10 mins
+Total: 10 hrs 34 mins
 ```
 
 
