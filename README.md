@@ -18,9 +18,9 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/wit-robotics-2025`](https://github.com/jaspermayone/wit-robotics-2025) - _""_ **(2 days ago)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(4 days ago)**
-- [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(5 days ago)**
+- [`@jaspermayone/wit-robotics-2025`](https://github.com/jaspermayone/wit-robotics-2025) - _""_ **(3 days ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(5 days ago)**
+- [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(6 days ago)**
 - [`@jaspermayone/admin_tools`](https://github.com/jaspermayone/admin_tools) - _"A lightweight Rails gem for conditionally rendering admin-only content in views. Wrap any content in an `admin_tool` block and it only renders for admin users."_ **(1 week ago)**
 
 #### 🌱 My latest projects
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-Ruby         4h 5m 54s    █████████░░░░░░░░░░░░░░░░  32.75%
-unknown      3h 11m 2s    ███████░░░░░░░░░░░░░░░░░░  25.44%
-Python       2h 20m 8s    █████░░░░░░░░░░░░░░░░░░░░  18.66%
-Java         29m 13s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.89%
-Markdown     24m 12s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.22%
+Ruby         4h 2m 48s    █████████░░░░░░░░░░░░░░░░  33.07%
+unknown      3h 7m 34s    ███████░░░░░░░░░░░░░░░░░░  25.55%
+Python       2h 20m 8s    █████░░░░░░░░░░░░░░░░░░░░  19.09%
+Java         29m 13s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.98%
+Markdown     24m 12s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.30%
 
 💼 Projects:
-aoc          5h 58m 57s   ████████████░░░░░░░░░░░░░  47.79%
-2025         3h 11m 24s   ███████░░░░░░░░░░░░░░░░░░  25.48%
-Greenhouse   1h 49m 19s   ████░░░░░░░░░░░░░░░░░░░░░  14.55%
-lectures     29m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.86%
-la6          26m 18s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.50%
+aoc          5h 58m 57s   █████████████░░░░░░░░░░░░  48.87%
+2025         3h 11m 24s   ███████░░░░░░░░░░░░░░░░░░  26.06%
+Greenhouse   1h 34m 46s   ████░░░░░░░░░░░░░░░░░░░░░  12.90%
+lectures     29m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.95%
+la6          26m 18s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.58%
 
-Total: 12 hrs 31 mins
+Total: 12 hrs 14 mins
 ```
 
 
