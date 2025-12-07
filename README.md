@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(today)**
-- [`@patchworklabsorg/site`](https://github.com/patchworklabsorg/site) - _"Website for Patchwork"_ **(today)**
-- [`@patchworklabsorg/patchworklabs.org`](https://github.com/patchworklabsorg/patchworklabs.org) - _""_ **(today)**
-- [`@phishdirectory/waitlist`](https://github.com/phishdirectory/waitlist) - _"static landing site w/ email signup. designed to be adapted to waitlist different phish.directory projects."_ **(today)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 day ago)**
+- [`@patchworklabsorg/site`](https://github.com/patchworklabsorg/site) - _"Website for Patchwork"_ **(1 day ago)**
+- [`@patchworklabsorg/patchworklabs.org`](https://github.com/patchworklabsorg/patchworklabs.org) - _""_ **(1 day ago)**
+- [`@phishdirectory/waitlist`](https://github.com/phishdirectory/waitlist) - _"static landing site w/ email signup. designed to be adapted to waitlist different phish.directory projects."_ **(1 day ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-Ruby         4h 20m 47s   █████████░░░░░░░░░░░░░░░░  34.45%
-unknown      3h 18m 33s   ███████░░░░░░░░░░░░░░░░░░  26.23%
-Python       2h 19m 58s   █████░░░░░░░░░░░░░░░░░░░░  18.49%
-Java         29m 13s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.86%
-Markdown     28m 10s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.72%
+Ruby         4h 20m 47s   █████████░░░░░░░░░░░░░░░░  33.92%
+unknown      3h 19m 5s    ███████░░░░░░░░░░░░░░░░░░  25.90%
+Python       2h 28m 18s   █████░░░░░░░░░░░░░░░░░░░░  19.29%
+Java         29m 13s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.80%
+Markdown     28m 10s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.66%
 
 💼 Projects:
-aoc          6h 46m 6s    ██████████████░░░░░░░░░░░  53.63%
-2025         3h 11m 13s   ███████░░░░░░░░░░░░░░░░░░  25.25%
-Greenhouse   1h 2m 59s    ███░░░░░░░░░░░░░░░░░░░░░░  8.32%
-lectures     29m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.83%
-la6          26m 18s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.47%
+aoc          6h 46m 6s    ██████████████░░░░░░░░░░░  52.80%
+2025         3h 19m 33s   ███████░░░░░░░░░░░░░░░░░░  25.95%
+Greenhouse   1h 2m 59s    ███░░░░░░░░░░░░░░░░░░░░░░  8.19%
+lectures     29m 0s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.77%
+la6          26m 18s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.42%
 
-Total: 12 hrs 37 mins
+Total: 12 hrs 49 mins
 ```
 
 
