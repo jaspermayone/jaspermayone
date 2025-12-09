@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/wit-robotics-2025`](https://github.com/jaspermayone/wit-robotics-2025) - _""_ **(2 days ago)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(2 days ago)**
-- [`@patchworklabsorg/patchworklabs.org`](https://github.com/patchworklabsorg/patchworklabs.org) - _""_ **(2 days ago)**
-- [`@patchworklabsorg/site`](https://github.com/patchworklabsorg/site) - _"Website for Patchwork"_ **(2 days ago)**
+- [`@aramshiva/website`](https://github.com/aramshiva/website) - _"🏡 My corner on the internet."_ **(1 day ago)**
+- [`@jaspermayone/wit-robotics-2025`](https://github.com/jaspermayone/wit-robotics-2025) - _""_ **(3 days ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(3 days ago)**
+- [`@patchworklabsorg/patchworklabs.org`](https://github.com/patchworklabsorg/patchworklabs.org) - _""_ **(3 days ago)**
 
 #### 🌱 My latest projects
 
@@ -31,27 +31,27 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 🍴 My recent forks
 
+- [ashiva-website](https://github.com/jaspermayone-forks/ashiva-website) - 🏡 My corner on the internet.
 - [overengineering](https://github.com/jaspermayone-forks/overengineering) - a webring of interesting people
-- [adapter-extension](https://github.com/jaspermayone-forks/adapter-extension) - Svelte adapter that makes chrome extension support easier
 
 #### 📡 my _`wakatime`_ stats from the last week
 
 ```text
 💾 Languages:
-Ruby          5h 31m 37s   ███████████░░░░░░░░░░░░░░  41.37%
-unknown       3h 11m 52s   ██████░░░░░░░░░░░░░░░░░░░  23.93%
-Python        2h 22m 38s   █████░░░░░░░░░░░░░░░░░░░░  17.79%
-Markdown      24m 59s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.12%
-Image (svg)   21m 50s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.72%
+Ruby          5h 31m 37s   ███████████░░░░░░░░░░░░░░  42.49%
+unknown       3h 19m 12s   ███████░░░░░░░░░░░░░░░░░░  25.52%
+Python        1h 54m 3s    ████░░░░░░░░░░░░░░░░░░░░░  14.61%
+Markdown      24m 59s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.20%
+Image (svg)   21m 50s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.80%
 
 💼 Projects:
-aoc           7h 11m 6s    ██████████████░░░░░░░░░░░  53.76%
-2025          3h 13m 27s   ███████░░░░░░░░░░░░░░░░░░  24.12%
-Pebble        1h 0m 50s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.59%
-aoc-2025      38m 30s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.80%
-la6           26m 18s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.28%
+aoc           7h 22m 32s   ███████████████░░░░░░░░░░  56.69%
+2025          2h 40m 47s   ██████░░░░░░░░░░░░░░░░░░░  20.60%
+Pebble        1h 0m 50s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.79%
+aoc-2025      38m 30s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.93%
+la6           26m 18s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.37%
 
-Total: 13 hrs 22 mins
+Total: 13 hrs 1 mins
 ```
 
 
