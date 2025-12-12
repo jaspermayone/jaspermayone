@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/aoc`](https://github.com/jaspermayone/aoc) - _"My advent of code solutions"_ **(1 day ago)**
-- [`@aramshiva/website`](https://github.com/aramshiva/website) - _"🏡 My corner on the internet."_ **(3 days ago)**
-- [`@patchworklabsorg/patchworklabs.org`](https://github.com/patchworklabsorg/patchworklabs.org) - _""_ **(5 days ago)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(5 days ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 day ago)**
+- [`@patchworklabsorg/site`](https://github.com/patchworklabsorg/site) - _"Website for Patchwork"_ **(1 day ago)**
+- [`@jaspermayone/scripts`](https://github.com/jaspermayone/scripts) - _""_ **(1 day ago)**
+- [`@jaspermayone/aoc`](https://github.com/jaspermayone/aoc) - _"My advent of code solutions"_ **(2 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-Ruby             4h 21m 50s   █████████████░░░░░░░░░░░░  50.04%
-unknown          2h 47m 13s   ████████░░░░░░░░░░░░░░░░░  31.96%
-Markdown         28m 30s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.45%
-Python           25m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.86%
-YAML             9m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.81%
+Ruby             4h 21m 50s   █████████████░░░░░░░░░░░░  48.17%
+unknown          3h 5m 36s    █████████░░░░░░░░░░░░░░░░  34.14%
+Markdown         28m 30s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.24%
+Python           25m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.68%
+YAML             9m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.74%
 
 💼 Projects:
-aoc              4h 47m 50s   ██████████████░░░░░░░░░░░  55.00%
-Pebble           1h 0m 47s    ███░░░░░░░░░░░░░░░░░░░░░░  11.61%
-rails-template   54m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  10.49%
-aoc-2025         38m 30s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.36%
-2025             37m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.17%
+aoc              4h 47m 50s   ██████████████░░░░░░░░░░░  52.94%
+rails-template   1h 10m 50s   ████░░░░░░░░░░░░░░░░░░░░░  13.03%
+Pebble           1h 0m 47s    ███░░░░░░░░░░░░░░░░░░░░░░  11.18%
+aoc-2025         38m 30s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.08%
+2025             37m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.91%
 
-Total: 8 hrs 43 mins
+Total: 9 hrs 4 mins
 ```
 
 
