@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(today)**
-- [`@jaspermayone/boxcar`](https://github.com/jaspermayone/boxcar) - _"My opinionated ruby on rails template"_ **(today)**
-- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _""_ **(today)**
-- [`@jaspermayone/scripts`](https://github.com/jaspermayone/scripts) - _""_ **(1 day ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 day ago)**
+- [`@jaspermayone/boxcar`](https://github.com/jaspermayone/boxcar) - _"My opinionated ruby on rails template"_ **(1 day ago)**
+- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _""_ **(1 day ago)**
+- [`@jaspermayone/scripts`](https://github.com/jaspermayone/scripts) - _""_ **(2 days ago)**
 
 #### 🌱 My latest projects
 
@@ -39,7 +39,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 ```text
 💾 Languages:
 Ruby             4h 2m 1s     ████████████░░░░░░░░░░░░░  44.44%
-unknown          3h 22m 17s   ██████████░░░░░░░░░░░░░░░  37.15%
+unknown          3h 22m 18s   ██████████░░░░░░░░░░░░░░░  37.15%
 Markdown         27m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.07%
 Python           25m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.67%
 YAML             13m 16s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.44%
