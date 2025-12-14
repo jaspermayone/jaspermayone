@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(today)**
 - [`@jaspermayone/aoc`](https://github.com/jaspermayone/aoc) - _"My advent of code solutions"_ **(1 day ago)**
 - [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _""_ **(2 days ago)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(2 days ago)**
-- [`@jaspermayone/boxcar`](https://github.com/jaspermayone/boxcar) - _"My opinionated ruby on rails template"_ **(2 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown          2h 23m 0s    ████████████░░░░░░░░░░░░░  44.32%
-Ruby             2h 15m 56s   ███████████░░░░░░░░░░░░░░  42.13%
-Markdown         21m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.70%
-YAML             10m 16s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.18%
-PLAIN_TEXT       2m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.89%
+unknown          2h 15m 18s   ███████████░░░░░░░░░░░░░░  43.81%
+Ruby             2h 13m 7s    ███████████░░░░░░░░░░░░░░  43.11%
+Markdown         21m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.00%
+YAML             7m 8s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.31%
+PLAIN_TEXT       2m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.93%
 
 💼 Projects:
-aoc              2h 26m 13s   ████████████░░░░░░░░░░░░░  45.30%
-rails-template   1h 26m 58s   ███████░░░░░░░░░░░░░░░░░░  26.95%
-website          39m 36s      ████░░░░░░░░░░░░░░░░░░░░░  12.27%
-Pebble           19m 21s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.00%
-homebrew-tap     12m 19s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.82%
+aoc              2h 26m 13s   ████████████░░░░░░░░░░░░░  47.33%
+rails-template   1h 26m 58s   ████████░░░░░░░░░░░░░░░░░  28.15%
+website          39m 36s      ████░░░░░░░░░░░░░░░░░░░░░  12.82%
+homebrew-tap     12m 19s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.99%
+Pebble           9m 30s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.08%
 
-Total: 5 hrs 23 mins
+Total: 5 hrs 9 mins
 ```
 
 
