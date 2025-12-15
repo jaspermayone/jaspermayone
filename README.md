@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
+- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(today)**
 - [`@jaspermayone/ysws-api`](https://github.com/jaspermayone/ysws-api) - _"API for @hackclub's Onboard program | Built for @Limeskey"_ **(1 day ago)**
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(3 days ago)**
-- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _""_ **(3 days ago)**
 
 #### 🌱 My latest projects
 
@@ -31,27 +31,27 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 🍴 My recent forks
 
+- [wtfis](https://github.com/jaspermayone-forks/wtfis) - Passive hostname, domain and IP lookup tool for non-robots
 - [hop](https://github.com/jaspermayone-forks/hop) - 
-- [ashiva-website](https://github.com/jaspermayone-forks/ashiva-website) - 🏡 My corner on the internet.
 
 #### 📡 my _`wakatime`_ stats from the last week
 
 ```text
 💾 Languages:
-unknown          3h 9m 5s     ███████████░░░░░░░░░░░░░░  41.61%
-Ruby             2h 30m 56s   █████████░░░░░░░░░░░░░░░░  33.21%
-YAML             48m 42s      ███░░░░░░░░░░░░░░░░░░░░░░  10.72%
-Markdown         27m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.97%
-ERB              14m 4s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.10%
+unknown          3h 26m 45s   ███████████░░░░░░░░░░░░░░  42.12%
+Ruby             2h 32m 28s   ████████░░░░░░░░░░░░░░░░░  31.06%
+YAML             1h 3m 29s    ████░░░░░░░░░░░░░░░░░░░░░  12.93%
+Markdown         27m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.53%
+ERB              14m 4s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.87%
 
 💼 Projects:
-aoc              2h 44m 22s   ██████████░░░░░░░░░░░░░░░  36.16%
-rails-template   1h 26m 58s   █████░░░░░░░░░░░░░░░░░░░░  19.13%
-unknown          52m 52s      ███░░░░░░░░░░░░░░░░░░░░░░  11.63%
-website          39m 36s      ███░░░░░░░░░░░░░░░░░░░░░░  8.71%
-PhishDirectory   24m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.30%
+aoc              2h 44m 22s   █████████░░░░░░░░░░░░░░░░  33.47%
+rails-template   1h 26m 58s   █████░░░░░░░░░░░░░░░░░░░░  17.71%
+unknown          1h 10m 55s   ████░░░░░░░░░░░░░░░░░░░░░  14.44%
+PhishDirectory   40m 30s      ███░░░░░░░░░░░░░░░░░░░░░░  8.25%
+website          39m 36s      ███░░░░░░░░░░░░░░░░░░░░░░  8.06%
 
-Total: 7 hrs 35 mins
+Total: 8 hrs 11 mins
 ```
 
 
