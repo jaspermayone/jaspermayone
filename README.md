@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(today)**
-- [`@jaspermayone/boxcar`](https://github.com/jaspermayone/boxcar) - _"My opinionated ruby on rails template"_ **(2 days ago)**
-- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _""_ **(2 days ago)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(2 days ago)**
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
+- [`@jaspermayone/boxcar`](https://github.com/jaspermayone/boxcar) - _"My opinionated ruby on rails template"_ **(3 days ago)**
+- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _""_ **(3 days ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(3 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown          2h 15m 18s   ████████████░░░░░░░░░░░░░  45.06%
-Ruby             2h 9m 42s    ███████████░░░░░░░░░░░░░░  43.20%
-Markdown         21m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.20%
-YAML             3m 47s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.26%
-PLAIN_TEXT       2m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.95%
+Ruby             2h 9m 42s    ████████████░░░░░░░░░░░░░  44.09%
+unknown          2h 9m 15s    ███████████░░░░░░░░░░░░░░  43.93%
+Markdown         21m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.35%
+YAML             3m 47s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.29%
+PLAIN_TEXT       2m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.97%
 
 💼 Projects:
-aoc              2h 26m 13s   █████████████░░░░░░░░░░░░  48.68%
-rails-template   1h 26m 58s   ████████░░░░░░░░░░░░░░░░░  28.96%
-website          39m 36s      ████░░░░░░░░░░░░░░░░░░░░░  13.18%
-homebrew-tap     12m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.10%
-thirdrail        9m 25s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.14%
+aoc              2h 24m 11s   █████████████░░░░░░░░░░░░  48.99%
+rails-template   1h 26m 58s   ████████░░░░░░░░░░░░░░░░░  29.55%
+website          39m 36s      ████░░░░░░░░░░░░░░░░░░░░░  13.46%
+homebrew-tap     12m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.19%
+thirdrail        9m 25s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.20%
 
-Total: 5 hrs 0 mins
+Total: 4 hrs 54 mins
 ```
 
 
