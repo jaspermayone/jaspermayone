@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(2 days ago)**
-- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(2 days ago)**
-- [`@jaspermayone/ysws-api`](https://github.com/jaspermayone/ysws-api) - _"API for @hackclub's Onboard program | Built for @Limeskey"_ **(3 days ago)**
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(3 days ago)**
+- [`@jaspermayone/boxcar`](https://github.com/jaspermayone/boxcar) - _"My opinionated ruby on rails template"_ **(1 day ago)**
+- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(1 day ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(3 days ago)**
+- [`@jaspermayone/ysws-api`](https://github.com/jaspermayone/ysws-api) - _"API for @hackclub's Onboard program | Built for @Limeskey"_ **(4 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown          3h 22m 50s   ████████████░░░░░░░░░░░░░  44.20%
-Ruby             1h 59m 3s    ███████░░░░░░░░░░░░░░░░░░  25.94%
-YAML             1h 3m 29s    ████░░░░░░░░░░░░░░░░░░░░░  13.83%
-Markdown         24m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.42%
-ERB              14m 27s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.15%
+unknown          3h 31m 20s   ████████████░░░░░░░░░░░░░  45.62%
+Ruby             1h 43m 35s   ██████░░░░░░░░░░░░░░░░░░░  22.36%
+YAML             1h 13m 10s   ████░░░░░░░░░░░░░░░░░░░░░  15.80%
+Markdown         26m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.82%
+ERB              14m 27s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.12%
 
 💼 Projects:
-rails-template   1h 26m 58s   █████░░░░░░░░░░░░░░░░░░░░  18.94%
-aoc              1h 15m 26s   █████░░░░░░░░░░░░░░░░░░░░  16.43%
-unknown          1h 10m 55s   ████░░░░░░░░░░░░░░░░░░░░░  15.44%
-website          1h 8m 11s    ████░░░░░░░░░░░░░░░░░░░░░  14.85%
-PhishDirectory   40m 30s      ███░░░░░░░░░░░░░░░░░░░░░░  8.82%
+rails-template   1h 26m 58s   █████░░░░░░░░░░░░░░░░░░░░  18.77%
+unknown          1h 13m 17s   ████░░░░░░░░░░░░░░░░░░░░░  15.81%
+website          1h 10m 11s   ████░░░░░░░░░░░░░░░░░░░░░  15.14%
+aoc              55m 25s      ███░░░░░░░░░░░░░░░░░░░░░░  11.96%
+PhishDirectory   44m 18s      ███░░░░░░░░░░░░░░░░░░░░░░  9.56%
 
-Total: 7 hrs 39 mins
+Total: 7 hrs 43 mins
 ```
 
 
