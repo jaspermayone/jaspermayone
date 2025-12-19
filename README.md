@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(today)**
 - [`@jaspermayone/boxcar`](https://github.com/jaspermayone/boxcar) - _"My opinionated ruby on rails template"_ **(1 day ago)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(3 days ago)**
-- [`@jaspermayone/ysws-api`](https://github.com/jaspermayone/ysws-api) - _"API for @hackclub's Onboard program | Built for @Limeskey"_ **(4 days ago)**
+- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(1 day ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(4 days ago)**
+- [`@jaspermayone/ysws-api`](https://github.com/jaspermayone/ysws-api) - _"API for @hackclub's Onboard program | Built for @Limeskey"_ **(5 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown          4h 11m 40s   █████████████░░░░░░░░░░░░  50.19%
-YAML             1h 26m 44s   █████░░░░░░░░░░░░░░░░░░░░  17.30%
-Ruby             1h 4m 10s    ████░░░░░░░░░░░░░░░░░░░░░  12.80%
-TSX              24m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.87%
-ERB              14m 27s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.88%
+unknown          3h 55m 28s   ████████████░░░░░░░░░░░░░  47.08%
+YAML             1h 31m 33s   █████░░░░░░░░░░░░░░░░░░░░  18.31%
+Ruby             1h 15m 47s   ████░░░░░░░░░░░░░░░░░░░░░  15.15%
+TSX              24m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.88%
+ERB              14m 27s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.89%
 
 💼 Projects:
-unknown          2h 12m 47s   ███████░░░░░░░░░░░░░░░░░░  26.47%
-website          1h 9m 45s    ████░░░░░░░░░░░░░░░░░░░░░  13.90%
-PhishDirectory   51m 58s      ███░░░░░░░░░░░░░░░░░░░░░░  10.36%
-aoc              51m 40s      ███░░░░░░░░░░░░░░░░░░░░░░  10.30%
-joebobbers       39m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.89%
+unknown          2h 17m 42s   ███████░░░░░░░░░░░░░░░░░░  27.52%
+website          1h 3m 18s    ████░░░░░░░░░░░░░░░░░░░░░  12.65%
+PhishDirectory   59m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  11.99%
+aoc              51m 40s      ███░░░░░░░░░░░░░░░░░░░░░░  10.33%
+joebobbers       39m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.91%
 
-Total: 8 hrs 22 mins
+Total: 8 hrs 20 mins
 ```
 
 
