@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/boxcar`](https://github.com/jaspermayone/boxcar) - _"My opinionated ruby on rails template"_ **(1 day ago)**
-- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(1 day ago)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(4 days ago)**
-- [`@jaspermayone/ysws-api`](https://github.com/jaspermayone/ysws-api) - _"API for @hackclub's Onboard program | Built for @Limeskey"_ **(5 days ago)**
+- [`@jaspermayone/metro`](https://github.com/jaspermayone/metro) - _"An interactive map of Boston's transit system."_ **(1 day ago)**
+- [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(1 day ago)**
+- [`@jaspermayone/logger`](https://github.com/jaspermayone/logger) - _"Oooooh! Logs! Shiny!"_ **(1 day ago)**
+- [`@jaspermayone/yoinkit`](https://github.com/jaspermayone/yoinkit) - _"Yoiking media from the web (chrome extension)"_ **(1 day ago)**
 
 #### 🌱 My latest projects
 
@@ -31,27 +31,27 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 🍴 My recent forks
 
+- [choosealicense.com](https://github.com/jaspermayone-forks/choosealicense.com) - A site to provide non-judgmental guidance on choosing a license for your open source project
 - [wtfis](https://github.com/jaspermayone-forks/wtfis) - Passive hostname, domain and IP lookup tool for non-robots
-- [hop](https://github.com/jaspermayone-forks/hop) - 
 
 #### 📡 my _`wakatime`_ stats from the last week
 
 ```text
 💾 Languages:
-unknown          3h 55m 28s   ████████████░░░░░░░░░░░░░  47.08%
-YAML             1h 31m 33s   █████░░░░░░░░░░░░░░░░░░░░  18.31%
-Ruby             1h 15m 47s   ████░░░░░░░░░░░░░░░░░░░░░  15.15%
-TSX              24m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.88%
-ERB              14m 27s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.89%
+unknown          4h 0m 36s    ████████████░░░░░░░░░░░░░  45.71%
+Ruby             1h 32m 55s   █████░░░░░░░░░░░░░░░░░░░░  17.65%
+YAML             1h 31m 33s   █████░░░░░░░░░░░░░░░░░░░░  17.39%
+TSX              24m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.64%
+Markdown         16m 52s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.20%
 
 💼 Projects:
-unknown          2h 17m 42s   ███████░░░░░░░░░░░░░░░░░░  27.52%
-website          1h 3m 18s    ████░░░░░░░░░░░░░░░░░░░░░  12.65%
-PhishDirectory   59m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  11.99%
-aoc              51m 40s      ███░░░░░░░░░░░░░░░░░░░░░░  10.33%
-joebobbers       39m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.91%
+unknown          2h 17m 41s   ███████░░░░░░░░░░░░░░░░░░  26.15%
+PhishDirectory   1h 17m 18s   ████░░░░░░░░░░░░░░░░░░░░░  14.68%
+website          1h 4m 47s    ████░░░░░░░░░░░░░░░░░░░░░  12.30%
+aoc              51m 40s      ███░░░░░░░░░░░░░░░░░░░░░░  9.81%
+joebobbers       39m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.52%
 
-Total: 8 hrs 20 mins
+Total: 8 hrs 47 mins
 ```
 
 
