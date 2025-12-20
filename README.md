@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(today)**
-- [`@jaspermayone/scripts`](https://github.com/jaspermayone/scripts) - _""_ **(today)**
-- [`@jaspermayone/admin_tools`](https://github.com/jaspermayone/admin_tools) - _"A lightweight Rails gem for conditionally rendering admin-only content in views. Wrap any content in an `admin_tool` block and it only renders for admin users."_ **(today)**
-- [`@jaspermayone/boxcar`](https://github.com/jaspermayone/boxcar) - _"My opinionated ruby on rails template"_ **(today)**
+- [`@jaspermayone/boxcar`](https://github.com/jaspermayone/boxcar) - _"My opinionated ruby on rails template"_ **(1 day ago)**
+- [`@jaspermayone/scripts`](https://github.com/jaspermayone/scripts) - _""_ **(1 day ago)**
+- [`@jaspermayone/admin_tools`](https://github.com/jaspermayone/admin_tools) - _"A lightweight Rails gem for conditionally rendering admin-only content in views. Wrap any content in an `admin_tool` block and it only renders for admin users."_ **(1 day ago)**
+- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(1 day ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown          3h 29m 12s   ██████████░░░░░░░░░░░░░░░  38.98%
-Ruby             1h 42m 27s   █████░░░░░░░░░░░░░░░░░░░░  19.09%
-YAML             1h 33m 11s   █████░░░░░░░░░░░░░░░░░░░░  17.36%
-ERB              45m 31s      ███░░░░░░░░░░░░░░░░░░░░░░  8.48%
-TSX              23m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.44%
+unknown          3h 39m 13s   ██████████░░░░░░░░░░░░░░░  39.08%
+Ruby             1h 46m 27s   █████░░░░░░░░░░░░░░░░░░░░  18.98%
+YAML             1h 43m 25s   █████░░░░░░░░░░░░░░░░░░░░  18.44%
+ERB              45m 31s      ███░░░░░░░░░░░░░░░░░░░░░░  8.12%
+TSX              23m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.24%
 
 💼 Projects:
-unknown          2h 27m 27s   ███████░░░░░░░░░░░░░░░░░░  27.47%
-PhishDirectory   1h 17m 18s   ████░░░░░░░░░░░░░░░░░░░░░  14.40%
-mlh/core         1h 6m 47s    ████░░░░░░░░░░░░░░░░░░░░░  12.44%
-aoc              51m 40s      ███░░░░░░░░░░░░░░░░░░░░░░  9.62%
-joebobbers       39m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.37%
+unknown          2h 46m 30s   ████████░░░░░░░░░░░░░░░░░  29.67%
+PhishDirectory   1h 17m 18s   ████░░░░░░░░░░░░░░░░░░░░░  13.78%
+mlh/core         1h 10m 47s   ████░░░░░░░░░░░░░░░░░░░░░  12.62%
+aoc              51m 40s      ███░░░░░░░░░░░░░░░░░░░░░░  9.21%
+dns              39m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.08%
 
-Total: 8 hrs 57 mins
+Total: 9 hrs 21 mins
 ```
 
 
