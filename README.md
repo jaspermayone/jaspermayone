@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/boxcar`](https://github.com/jaspermayone/boxcar) - _"My opinionated ruby on rails template"_ **(1 day ago)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 day ago)**
-- [`@jaspermayone/scripts`](https://github.com/jaspermayone/scripts) - _""_ **(1 day ago)**
 - [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(1 day ago)**
+- [`@jaspermayone/boxcar`](https://github.com/jaspermayone/boxcar) - _"My opinionated ruby on rails template"_ **(2 days ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(2 days ago)**
+- [`@jaspermayone/scripts`](https://github.com/jaspermayone/scripts) - _""_ **(2 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,14 +38,14 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown          3h 49m 18s   ██████████░░░░░░░░░░░░░░░  39.99%
-YAML             1h 46m 13s   █████░░░░░░░░░░░░░░░░░░░░  18.53%
+unknown          3h 49m 20s   ██████████░░░░░░░░░░░░░░░  40.00%
+YAML             1h 46m 14s   █████░░░░░░░░░░░░░░░░░░░░  18.53%
 Ruby             1h 43m 24s   █████░░░░░░░░░░░░░░░░░░░░  18.03%
 ERB              45m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.94%
 TSX              23m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.15%
 
 💼 Projects:
-unknown          2h 46m 44s   ████████░░░░░░░░░░░░░░░░░  29.07%
+unknown          2h 46m 45s   ████████░░░░░░░░░░░░░░░░░  29.07%
 PhishDirectory   1h 14m 14s   ████░░░░░░░░░░░░░░░░░░░░░  12.94%
 mlh/core         1h 10m 47s   ████░░░░░░░░░░░░░░░░░░░░░  12.34%
 aoc              51m 40s      ███░░░░░░░░░░░░░░░░░░░░░░  9.01%
