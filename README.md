@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(today)**
 - [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
 - [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(2 days ago)**
 - [`@jaspermayone/admin_tools`](https://github.com/jaspermayone/admin_tools) - _"A lightweight Rails gem for conditionally rendering admin-only content in views. Wrap any content in an `admin_tool` block and it only renders for admin users."_ **(3 days ago)**
-- [`@jaspermayone/scripts`](https://github.com/jaspermayone/scripts) - _""_ **(3 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown          3h 42m 57s   ████████████░░░░░░░░░░░░░  44.03%
-Ruby             1h 24m 1s    █████░░░░░░░░░░░░░░░░░░░░  16.59%
-YAML             1h 23m 56s   █████░░░░░░░░░░░░░░░░░░░░  16.58%
-ERB              36m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.15%
-TSX              23m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.70%
+unknown          3h 44m 56s   ████████████░░░░░░░░░░░░░  44.25%
+Ruby             1h 24m 1s    █████░░░░░░░░░░░░░░░░░░░░  16.53%
+YAML             1h 23m 56s   █████░░░░░░░░░░░░░░░░░░░░  16.51%
+ERB              36m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.12%
+TSX              23m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.68%
 
 💼 Projects:
-unknown          2h 57m 19s   █████████░░░░░░░░░░░░░░░░  35.01%
-PhishDirectory   1h 14m 14s   ████░░░░░░░░░░░░░░░░░░░░░  14.66%
-mlh/core         1h 10m 47s   ████░░░░░░░░░░░░░░░░░░░░░  13.97%
-joebobbers       39m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.81%
-website          31m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.25%
+unknown          2h 57m 19s   █████████░░░░░░░░░░░░░░░░  34.87%
+PhishDirectory   1h 14m 14s   ████░░░░░░░░░░░░░░░░░░░░░  14.60%
+mlh/core         1h 10m 47s   ████░░░░░░░░░░░░░░░░░░░░░  13.92%
+joebobbers       39m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.78%
+website          31m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.22%
 
-Total: 8 hrs 27 mins
+Total: 8 hrs 29 mins
 ```
 
 
