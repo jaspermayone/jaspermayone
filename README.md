@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(today)**
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(today)**
-- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(2 days ago)**
-- [`@jaspermayone/admin_tools`](https://github.com/jaspermayone/admin_tools) - _"A lightweight Rails gem for conditionally rendering admin-only content in views. Wrap any content in an `admin_tool` block and it only renders for admin users."_ **(3 days ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 day ago)**
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
+- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(3 days ago)**
+- [`@jaspermayone/admin_tools`](https://github.com/jaspermayone/admin_tools) - _"A lightweight Rails gem for conditionally rendering admin-only content in views. Wrap any content in an `admin_tool` block and it only renders for admin users."_ **(4 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown            3h 48m 44s   ███████████░░░░░░░░░░░░░░  43.42%
-Ruby               1h 13m 27s   ████░░░░░░░░░░░░░░░░░░░░░  13.94%
-YAML               51m 28s      ███░░░░░░░░░░░░░░░░░░░░░░  9.77%
-TSX                51m 1s       ███░░░░░░░░░░░░░░░░░░░░░░  9.69%
-ERB                33m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.39%
+unknown            3h 39m 56s   ███████████░░░░░░░░░░░░░░  41.92%
+Ruby               1h 13m 27s   ████░░░░░░░░░░░░░░░░░░░░░  14.00%
+YAML               51m 28s      ███░░░░░░░░░░░░░░░░░░░░░░  9.81%
+TSX                51m 1s       ███░░░░░░░░░░░░░░░░░░░░░░  9.72%
+ERB                36m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.90%
 
 💼 Projects:
-website            2h 11m 21s   ███████░░░░░░░░░░░░░░░░░░  24.93%
-unknown            2h 4m 52s    ██████░░░░░░░░░░░░░░░░░░░  23.70%
-mlh/core           1h 8m 54s    ████░░░░░░░░░░░░░░░░░░░░░  13.08%
-calendar-backend   57m 18s      ███░░░░░░░░░░░░░░░░░░░░░░  10.88%
-joebobbers         39m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.51%
+website            2h 11m 21s   ███████░░░░░░░░░░░░░░░░░░  25.03%
+unknown            2h 4m 52s    ██████░░░░░░░░░░░░░░░░░░░  23.80%
+mlh/core           1h 8m 54s    ████░░░░░░░░░░░░░░░░░░░░░  13.13%
+calendar-backend   1h 2m 15s    ███░░░░░░░░░░░░░░░░░░░░░░  11.86%
+joebobbers         39m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.54%
 
-Total: 8 hrs 47 mins
+Total: 8 hrs 45 mins
 ```
 
 
