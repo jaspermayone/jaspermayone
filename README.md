@@ -18,8 +18,8 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(today)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 day ago)**
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
 - [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(3 days ago)**
 - [`@jaspermayone/admin_tools`](https://github.com/jaspermayone/admin_tools) - _"A lightweight Rails gem for conditionally rendering admin-only content in views. Wrap any content in an `admin_tool` block and it only renders for admin users."_ **(4 days ago)**
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown            3h 32m 39s   ███████████░░░░░░░░░░░░░░  41.48%
-Ruby               1h 13m 27s   ████░░░░░░░░░░░░░░░░░░░░░  14.33%
-YAML               51m 28s      ███░░░░░░░░░░░░░░░░░░░░░░  10.04%
-TSX                48m 11s      ███░░░░░░░░░░░░░░░░░░░░░░  9.40%
-ERB                36m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.07%
+unknown            3h 32m 39s   ███████████░░░░░░░░░░░░░░  41.16%
+Ruby               1h 13m 27s   ████░░░░░░░░░░░░░░░░░░░░░  14.22%
+YAML               51m 28s      ███░░░░░░░░░░░░░░░░░░░░░░  9.96%
+TSX                48m 11s      ███░░░░░░░░░░░░░░░░░░░░░░  9.33%
+ERB                36m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.01%
 
 💼 Projects:
-website            2h 6m 37s    ███████░░░░░░░░░░░░░░░░░░  24.70%
-unknown            2h 4m 40s    ███████░░░░░░░░░░░░░░░░░░  24.32%
-mlh/core           1h 8m 54s    ████░░░░░░░░░░░░░░░░░░░░░  13.44%
-calendar-backend   1h 2m 16s    ████░░░░░░░░░░░░░░░░░░░░░  12.14%
-joebobbers         39m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.72%
+website            2h 6m 37s    ███████░░░░░░░░░░░░░░░░░░  24.50%
+unknown            2h 4m 40s    ███████░░░░░░░░░░░░░░░░░░  24.13%
+mlh/core           1h 8m 54s    ████░░░░░░░░░░░░░░░░░░░░░  13.33%
+calendar-backend   1h 2m 16s    ████░░░░░░░░░░░░░░░░░░░░░  12.05%
+joebobbers         39m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.66%
 
-Total: 8 hrs 33 mins
+Total: 8 hrs 37 mins
 ```
 
 
