@@ -19,15 +19,15 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 #### 👷 The latest repos I've pushed to
 
 - [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(today)**
+- [`@jaspermayone/serviceberry-ios`](https://github.com/jaspermayone/serviceberry-ios) - _"IOS Companion for @LimesKey/Serviceberry"_ **(today)**
 - [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(4 days ago)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(5 days ago)**
-- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(1 week ago)**
 
 #### 🌱 My latest projects
 
+- [`@jaspermayone/serviceberry-ios`](https://github.com/jaspermayone/serviceberry-ios) - _"IOS Companion for @LimesKey/Serviceberry"_
 - [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_
 - [`@jaspermayone/admin_tools`](https://github.com/jaspermayone/admin_tools) - _"A lightweight Rails gem for conditionally rendering admin-only content in views. Wrap any content in an `admin_tool` block and it only renders for admin users."_
-- [`@jaspermayone/vcf-cli`](https://github.com/jaspermayone/vcf-cli) - _"A terminal UI for browsing, editing, and cleaning up VCF (vCard) contact files."_
 
 #### 🍴 My recent forks
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown            4h 31m 39s   ████████████░░░░░░░░░░░░░  45.89%
-Nix                2h 7m 6s     ██████░░░░░░░░░░░░░░░░░░░  21.47%
-HTTP Request       45m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.72%
-Ruby               37m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.31%
-YAML               28m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.75%
+unknown            4h 58m 57s   ████████████░░░░░░░░░░░░░  47.39%
+Nix                2h 7m 6s     ██████░░░░░░░░░░░░░░░░░░░  20.15%
+HTTP Request       45m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.24%
+Ruby               37m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.92%
+YAML               28m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.45%
 
 💼 Projects:
-dots               4h 43m 10s   ████████████░░░░░░░░░░░░░  47.82%
-website            1h 39m 43s   █████░░░░░░░░░░░░░░░░░░░░  16.84%
-calendar-backend   1h 16m 50s   ████░░░░░░░░░░░░░░░░░░░░░  12.97%
-dns                35m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.93%
-unknown            29m 4s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.91%
+dots               4h 43m 10s   ████████████░░░░░░░░░░░░░  44.88%
+website            1h 39m 43s   ████░░░░░░░░░░░░░░░░░░░░░  15.80%
+calendar-backend   1h 16m 50s   ████░░░░░░░░░░░░░░░░░░░░░  12.18%
+ios                35m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.61%
+dns                35m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.57%
 
-Total: 9 hrs 52 mins
+Total: 10 hrs 31 mins
 ```
 
 
