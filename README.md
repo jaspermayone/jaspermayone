@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(today)**
-- [`@jaspermayone/serviceberry-ios`](https://github.com/jaspermayone/serviceberry-ios) - _"IOS Companion for @LimesKey/Serviceberry"_ **(today)**
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(4 days ago)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(5 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(1 day ago)**
+- [`@jaspermayone/serviceberry-ios`](https://github.com/jaspermayone/serviceberry-ios) - _"IOS Companion for @LimesKey/Serviceberry"_ **(1 day ago)**
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(5 days ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(6 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown            5h 41m 49s   █████████████░░░░░░░░░░░░  49.66%
-Nix                2h 7m 6s     █████░░░░░░░░░░░░░░░░░░░░  18.46%
-HTTP Request       45m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.64%
-Ruby               37m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.42%
-Swift              28m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.10%
+unknown            6h 11m 20s   █████████████░░░░░░░░░░░░  51.90%
+Nix                2h 7m 6s     █████░░░░░░░░░░░░░░░░░░░░  17.76%
+HTTP Request       45m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.39%
+Ruby               37m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.22%
+Swift              28m 19s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.96%
 
 💼 Projects:
-dots               4h 43m 10s   ███████████░░░░░░░░░░░░░░  41.13%
-website            1h 39m 43s   ████░░░░░░░░░░░░░░░░░░░░░  14.48%
-ios                1h 32m 53s   ████░░░░░░░░░░░░░░░░░░░░░  13.49%
-calendar-backend   1h 16m 50s   ███░░░░░░░░░░░░░░░░░░░░░░  11.16%
-dns                35m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.10%
+dots               4h 43m 10s   ██████████░░░░░░░░░░░░░░░  39.57%
+ios                2h 2m 27s    █████░░░░░░░░░░░░░░░░░░░░  17.11%
+website            1h 39m 43s   ████░░░░░░░░░░░░░░░░░░░░░  13.93%
+calendar-backend   1h 16m 50s   ███░░░░░░░░░░░░░░░░░░░░░░  10.74%
+dns                35m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.91%
 
-Total: 11 hrs 28 mins
+Total: 11 hrs 56 mins
 ```
 
 
