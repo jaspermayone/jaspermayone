@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _""_ **(1 day ago)**
-- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(1 day ago)**
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(1 day ago)**
-- [`@jaspermayone/boxcar`](https://github.com/jaspermayone/boxcar) - _"My opinionated ruby on rails template"_ **(1 day ago)**
+- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _""_ **(2 days ago)**
+- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(2 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(2 days ago)**
+- [`@jaspermayone/boxcar`](https://github.com/jaspermayone/boxcar) - _"My opinionated ruby on rails template"_ **(2 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown        5h 39m 45s   ██████████████░░░░░░░░░░░  54.73%
-Nix            2h 29m 50s   ███████░░░░░░░░░░░░░░░░░░  24.14%
-Swift          42m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.83%
-YAML           20m 28s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.30%
-Ruby           19m 27s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.13%
+unknown        5h 39m 15s   ██████████████░░░░░░░░░░░  55.37%
+Nix            2h 30m 5s    ███████░░░░░░░░░░░░░░░░░░  24.50%
+Swift          42m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.92%
+YAML           20m 28s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.34%
+HTTP Request   16m 14s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.65%
 
 💼 Projects:
-dots           5h 25m 4s    ██████████████░░░░░░░░░░░  52.35%
-ios            2h 9m 7s     ██████░░░░░░░░░░░░░░░░░░░  20.79%
-dns            31m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.11%
-homebrew-tap   31m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.04%
-symbolr        23m 3s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.71%
+dots           5h 25m 54s   ██████████████░░░░░░░░░░░  53.18%
+ios            2h 9m 7s     ██████░░░░░░░░░░░░░░░░░░░  21.07%
+dns            31m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.18%
+homebrew-tap   31m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.11%
+symbolr        23m 3s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.76%
 
-Total: 10 hrs 21 mins
+Total: 10 hrs 13 mins
 ```
 
 
