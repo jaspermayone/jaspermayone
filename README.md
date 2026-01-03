@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(1 day ago)**
-- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _""_ **(4 days ago)**
-- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(4 days ago)**
-- [`@jaspermayone/boxcar`](https://github.com/jaspermayone/boxcar) - _"My opinionated ruby on rails template"_ **(4 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(2 days ago)**
+- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _""_ **(5 days ago)**
+- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(5 days ago)**
+- [`@jaspermayone/boxcar`](https://github.com/jaspermayone/boxcar) - _"My opinionated ruby on rails template"_ **(5 days ago)**
 
 #### 🌱 My latest projects
 
@@ -31,27 +31,27 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 🍴 My recent forks
 
+- [xarf-spec](https://github.com/jaspermayone-forks/xarf-spec) - XARF v4 Specification - Schemas, documentation, and samples for the eXtended Abuse Reporting Format
 - [pds](https://github.com/jaspermayone-forks/pds) - Bluesky PDS (Personal Data Server) container image, compose file, and documentation
-- [Serviceberry](https://github.com/jaspermayone-forks/Serviceberry) - An iOS utility for surveying and improving public geolocation data for databases supporting the MLS/Ichnaea API
 
 #### 📡 my _`wakatime`_ stats from the last week
 
 ```text
 💾 Languages:
-unknown        4h 19m 19s   █████████████████░░░░░░░░  64.22%
-Nix            56m 11s      ████░░░░░░░░░░░░░░░░░░░░░  13.91%
-Swift          42m 25s      ███░░░░░░░░░░░░░░░░░░░░░░  10.50%
-YAML           11m 12s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.77%
-HTTP Request   9m 23s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.32%
+unknown        4h 49m 9s    █████████████████░░░░░░░░  66.68%
+Nix            56m 11s      ████░░░░░░░░░░░░░░░░░░░░░  12.96%
+Swift          42m 25s      ███░░░░░░░░░░░░░░░░░░░░░░  9.78%
+YAML           11m 12s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.58%
+HTTP Request   9m 23s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.16%
 
 💼 Projects:
-ios            2h 9m 7s     ████████░░░░░░░░░░░░░░░░░  31.97%
-dots           1h 56m 52s   ████████░░░░░░░░░░░░░░░░░  28.94%
-homebrew-tap   1h 6m 45s    █████░░░░░░░░░░░░░░░░░░░░  16.53%
-symbolr        23m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.71%
-dns            22m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.56%
+dots           2h 26m 42s   █████████░░░░░░░░░░░░░░░░  33.83%
+ios            2h 9m 7s     ████████░░░░░░░░░░░░░░░░░  29.77%
+homebrew-tap   1h 6m 45s    ████░░░░░░░░░░░░░░░░░░░░░  15.39%
+symbolr        23m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.31%
+dns            22m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.18%
 
-Total: 6 hrs 44 mins
+Total: 7 hrs 14 mins
 ```
 
 
