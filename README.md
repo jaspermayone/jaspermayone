@@ -20,7 +20,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 - [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(1 day ago)**
 - [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(3 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(1 day ago)**
 - [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _""_ **(6 days ago)**
 
 #### 🌱 My latest projects
@@ -31,27 +31,27 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 🍴 My recent forks
 
+- [rust-fp](https://github.com/jaspermayone-forks/rust-fp) - Fingerprint library, dbus interface, CLI, and PAM module for unlocking Linux with fingerprint sensors. Currently for Chromebooks.
 - [xarf-spec](https://github.com/jaspermayone-forks/xarf-spec) - XARF v4 Specification - Schemas, documentation, and samples for the eXtended Abuse Reporting Format
-- [pds](https://github.com/jaspermayone-forks/pds) - Bluesky PDS (Personal Data Server) container image, compose file, and documentation
 
 #### 📡 my _`wakatime`_ stats from the last week
 
 ```text
 💾 Languages:
-unknown        2h 51m 1s   █████████████████░░░░░░░░  65.38%
-Nix            33m 9s      ████░░░░░░░░░░░░░░░░░░░░░  12.67%
-Swift          14m 6s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.39%
-YAML           9m 26s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.61%
-HTTP Request   9m 23s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.59%
+unknown        2h 50m 11s   █████████████████░░░░░░░░  65.78%
+Nix            33m 9s       ████░░░░░░░░░░░░░░░░░░░░░  12.81%
+Swift          14m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.45%
+YAML           9m 26s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.65%
+HTTP Request   9m 23s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.63%
 
 💼 Projects:
-dots           1h 56m 1s   ████████████░░░░░░░░░░░░░  44.34%
-homebrew-tap   1h 6m 31s   ███████░░░░░░░░░░░░░░░░░░  25.42%
-symbolr        23m 3s      ███░░░░░░░░░░░░░░░░░░░░░░  8.81%
-unknown        17m 16s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.60%
-Maccy          15m 40s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.99%
+dots           1h 55m 20s   ████████████░░░░░░░░░░░░░  44.56%
+homebrew-tap   1h 6m 31s    ███████░░░░░░░░░░░░░░░░░░  25.70%
+unknown        25m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  10.00%
+symbolr        21m 3s       ███░░░░░░░░░░░░░░░░░░░░░░  8.13%
+Maccy          15m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.05%
 
-Total: 4 hrs 22 mins
+Total: 4 hrs 19 mins
 ```
 
 
