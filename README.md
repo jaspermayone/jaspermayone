@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(today)**
 - [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(1 day ago)**
 - [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
 - [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(1 day ago)**
-- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _""_ **(6 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown        2h 52m 30s   █████████████████░░░░░░░░  66.08%
-Nix            33m 9s       ████░░░░░░░░░░░░░░░░░░░░░  12.70%
-Swift          14m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.40%
-YAML           9m 26s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.61%
-HTTP Request   9m 23s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.59%
+unknown        2h 52m 30s   █████████████████░░░░░░░░  65.58%
+Nix            33m 9s       ████░░░░░░░░░░░░░░░░░░░░░  12.60%
+Swift          14m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.36%
+YAML           9m 26s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.59%
+HTTP Request   9m 23s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.57%
 
 💼 Projects:
-dots           1h 55m 20s   ████████████░░░░░░░░░░░░░  44.16%
-homebrew-tap   1h 6m 31s    ███████░░░░░░░░░░░░░░░░░░  25.47%
-unknown        25m 54s      ███░░░░░░░░░░░░░░░░░░░░░░  9.92%
-symbolr        21m 3s       ███░░░░░░░░░░░░░░░░░░░░░░  8.06%
-Maccy          15m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.00%
+dots           1h 55m 20s   ███████████░░░░░░░░░░░░░░  43.82%
+homebrew-tap   1h 6m 31s    ███████░░░░░░░░░░░░░░░░░░  25.27%
+unknown        25m 54s      ███░░░░░░░░░░░░░░░░░░░░░░  9.84%
+symbolr        21m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  8.00%
+Maccy          15m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.95%
 
-Total: 4 hrs 21 mins
+Total: 4 hrs 23 mins
 ```
 
 
