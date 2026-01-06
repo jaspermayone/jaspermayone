@@ -19,9 +19,9 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 #### 👷 The latest repos I've pushed to
 
 - [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(1 day ago)**
-- [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(1 day ago)**
-- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(2 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(2 days ago)**
+- [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(2 days ago)**
+- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(3 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown        3h 18m 43s   █████████████████████░░░░  81.54%
-YAML           23m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  9.83%
-Nix            10m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.23%
-Ruby           8m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.38%
-Markdown       2m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.02%
+unknown        3h 29m 39s   █████████████████████░░░░  82.33%
+YAML           23m 58s      ███░░░░░░░░░░░░░░░░░░░░░░  9.41%
+Nix            10m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.05%
+Ruby           8m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.23%
+Markdown       2m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.98%
 
 💼 Projects:
-dots           1h 12m 1s    ████████░░░░░░░░░░░░░░░░░  29.55%
-homebrew-tap   45m 15s      █████░░░░░░░░░░░░░░░░░░░░  18.57%
-frontend       44m 14s      █████░░░░░░░░░░░░░░░░░░░░  18.15%
-unknown        23m 50s      ███░░░░░░░░░░░░░░░░░░░░░░  9.78%
-backend        22m 31s      ███░░░░░░░░░░░░░░░░░░░░░░  9.24%
+dots           1h 12m 1s    ████████░░░░░░░░░░░░░░░░░  28.28%
+homebrew-tap   45m 15s      █████░░░░░░░░░░░░░░░░░░░░  17.77%
+frontend       44m 14s      █████░░░░░░░░░░░░░░░░░░░░  17.37%
+unknown        23m 50s      ███░░░░░░░░░░░░░░░░░░░░░░  9.36%
+backend        22m 36s      ███░░░░░░░░░░░░░░░░░░░░░░  8.88%
 
-Total: 4 hrs 4 mins
+Total: 4 hrs 15 mins
 ```
 
 
