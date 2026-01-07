@@ -31,8 +31,8 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 🍴 My recent forks
 
+- [WIT-Historic-VR-Resources](https://github.com/jaspermayone-forks/WIT-Historic-VR-Resources) - Public resources for recreating historic spaces for VR centered in our project recreating Boston's West End
 - [Apple-Intelligence-API](https://github.com/jaspermayone-forks/Apple-Intelligence-API) - A Web API for Apple Intelligence
-- [rust-fp](https://github.com/jaspermayone-forks/rust-fp) - Fingerprint library, dbus interface, CLI, and PAM module for unlocking Linux with fingerprint sensors. Currently for Chromebooks.
 
 #### 📡 my _`wakatime`_ stats from the last week
 
