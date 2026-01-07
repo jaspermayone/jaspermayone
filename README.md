@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(today)**
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(today)**
-- [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(today)**
-- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(3 days ago)**
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(1 day ago)**
+- [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(1 day ago)**
+- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(4 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown        3h 46m 3s    ████████████████████░░░░░  77.96%
-YAML           25m 26s      ███░░░░░░░░░░░░░░░░░░░░░░  8.77%
-Nix            12m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.25%
-JSON           10m 28s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.61%
-Ruby           8m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.84%
+unknown        3h 44m 0s    ████████████████████░░░░░  77.80%
+YAML           25m 26s      ███░░░░░░░░░░░░░░░░░░░░░░  8.83%
+Nix            12m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.28%
+JSON           10m 28s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.64%
+Ruby           8m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.86%
 
 💼 Projects:
-dots           1h 24m 16s   ████████░░░░░░░░░░░░░░░░░  29.06%
-frontend       1h 5m 49s    ██████░░░░░░░░░░░░░░░░░░░  22.70%
-homebrew-tap   35m 20s      ████░░░░░░░░░░░░░░░░░░░░░  12.19%
-mfc-billing    26m 23s      ███░░░░░░░░░░░░░░░░░░░░░░  9.10%
-unknown        23m 50s      ███░░░░░░░░░░░░░░░░░░░░░░  8.22%
+dots           1h 24m 16s   ████████░░░░░░░░░░░░░░░░░  29.27%
+frontend       1h 5m 49s    ██████░░░░░░░░░░░░░░░░░░░  22.86%
+homebrew-tap   33m 17s      ███░░░░░░░░░░░░░░░░░░░░░░  11.56%
+mfc-billing    26m 23s      ███░░░░░░░░░░░░░░░░░░░░░░  9.16%
+unknown        23m 50s      ███░░░░░░░░░░░░░░░░░░░░░░  8.28%
 
-Total: 4 hrs 50 mins
+Total: 4 hrs 48 mins
 ```
 
 
