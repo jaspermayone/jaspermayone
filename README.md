@@ -18,7 +18,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(today)**
 - [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(1 day ago)**
 - [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(1 day ago)**
 - [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(4 days ago)**
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown        3h 42m 30s   ████████████████████░░░░░  77.69%
-YAML           25m 26s      ███░░░░░░░░░░░░░░░░░░░░░░  8.88%
-Nix            12m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.30%
-JSON           10m 28s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.65%
-Ruby           8m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.87%
+unknown        3h 44m 32s   ████████████████████░░░░░  77.85%
+YAML           25m 26s      ███░░░░░░░░░░░░░░░░░░░░░░  8.82%
+Nix            12m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.27%
+JSON           10m 28s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.63%
+Ruby           8m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.85%
 
 💼 Projects:
-dots           1h 24m 16s   ████████░░░░░░░░░░░░░░░░░  29.42%
-frontend       1h 8m 21s    ██████░░░░░░░░░░░░░░░░░░░  23.86%
-homebrew-tap   29m 15s      ███░░░░░░░░░░░░░░░░░░░░░░  10.21%
-mfc-billing    26m 23s      ███░░░░░░░░░░░░░░░░░░░░░░  9.21%
-unknown        23m 50s      ███░░░░░░░░░░░░░░░░░░░░░░  8.32%
+dots           1h 24m 16s   ████████░░░░░░░░░░░░░░░░░  29.21%
+frontend       1h 10m 23s   ███████░░░░░░░░░░░░░░░░░░  24.40%
+homebrew-tap   29m 15s      ███░░░░░░░░░░░░░░░░░░░░░░  10.14%
+mfc-billing    26m 23s      ███░░░░░░░░░░░░░░░░░░░░░░  9.15%
+unknown        23m 50s      ███░░░░░░░░░░░░░░░░░░░░░░  8.26%
 
-Total: 4 hrs 46 mins
+Total: 4 hrs 48 mins
 ```
 
 
