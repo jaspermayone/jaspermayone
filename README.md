@@ -18,8 +18,8 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(today)**
 - [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(1 day ago)**
 - [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(3 days ago)**
 - [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(6 days ago)**
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown        3h 18m 25s   █████████████████░░░░░░░░  67.16%
-YAML           30m 6s       ███░░░░░░░░░░░░░░░░░░░░░░  10.19%
-Nix            12m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.15%
-HTTP Request   11m 8s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.77%
-JSON           10m 28s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.54%
+unknown        3h 24m 25s   █████████████████░░░░░░░░  67.81%
+YAML           30m 6s       ███░░░░░░░░░░░░░░░░░░░░░░  9.99%
+Nix            12m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.07%
+HTTP Request   11m 8s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.69%
+JSON           10m 28s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.47%
 
 💼 Projects:
-dots           1h 17m 11s   ███████░░░░░░░░░░░░░░░░░░  26.12%
-frontend       1h 14m 22s   ███████░░░░░░░░░░░░░░░░░░  25.17%
-backend        26m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  9.10%
-mfc-billing    26m 23s      ███░░░░░░░░░░░░░░░░░░░░░░  8.93%
-unknown        23m 50s      ███░░░░░░░░░░░░░░░░░░░░░░  8.07%
+dots           1h 17m 11s   ███████░░░░░░░░░░░░░░░░░░  25.60%
+frontend       1h 14m 22s   ███████░░░░░░░░░░░░░░░░░░  24.67%
+backend        26m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  8.92%
+mfc-billing    26m 23s      ███░░░░░░░░░░░░░░░░░░░░░░  8.75%
+unknown        23m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.91%
 
-Total: 4 hrs 55 mins
+Total: 5 hrs 1 mins
 ```
 
 
