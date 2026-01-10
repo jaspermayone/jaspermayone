@@ -19,7 +19,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 #### 👷 The latest repos I've pushed to
 
 - [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(today)**
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(1 day ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(today)**
 - [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(4 days ago)**
 - [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(1 week ago)**
 
@@ -46,9 +46,9 @@ Java          11m 45s      ██░░░░░░░░░░░░░░░�
 
 💼 Projects:
 frontend      1h 14m 22s   ███████░░░░░░░░░░░░░░░░░░  27.41%
-dots          33m 44s      ████░░░░░░░░░░░░░░░░░░░░░  12.43%
+dots          33m 45s      ████░░░░░░░░░░░░░░░░░░░░░  12.44%
 backend       30m 27s      ███░░░░░░░░░░░░░░░░░░░░░░  11.22%
-mfc-billing   26m 23s      ███░░░░░░░░░░░░░░░░░░░░░░  9.73%
+mfc-billing   26m 23s      ███░░░░░░░░░░░░░░░░░░░░░░  9.72%
 practice      26m 3s       ███░░░░░░░░░░░░░░░░░░░░░░  9.60%
 
 Total: 4 hrs 31 mins
