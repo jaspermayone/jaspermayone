@@ -18,9 +18,9 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(today)**
 - [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(1 day ago)**
-- [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(5 days ago)**
+- [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(1 day ago)**
 - [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(1 week ago)**
 
 #### 🌱 My latest projects
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown       2h 42m 59s   ████████████████░░░░░░░░░  61.82%
-YAML          22m 6s       ███░░░░░░░░░░░░░░░░░░░░░░  8.38%
-JSON          14m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.63%
-Markdown      14m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.33%
-Nix           12m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.65%
+unknown       2h 49m 8s   ████████████████░░░░░░░░░  62.89%
+YAML          23m 16s     ███░░░░░░░░░░░░░░░░░░░░░░  8.65%
+JSON          14m 50s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.52%
+Nix           12m 16s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.56%
+Markdown      12m 3s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.48%
 
 💼 Projects:
-frontend      1h 12m 4s    ███████░░░░░░░░░░░░░░░░░░  27.33%
-dots          41m 1s       ████░░░░░░░░░░░░░░░░░░░░░  15.56%
-backend       30m 27s      ███░░░░░░░░░░░░░░░░░░░░░░  11.55%
-mfc-billing   26m 23s      ███░░░░░░░░░░░░░░░░░░░░░░  10.01%
-practice      26m 3s       ███░░░░░░░░░░░░░░░░░░░░░░  9.88%
+frontend      1h 10m 3s   ███████░░░░░░░░░░░░░░░░░░  26.05%
+dots          46m 11s     █████░░░░░░░░░░░░░░░░░░░░  17.17%
+backend       30m 27s     ███░░░░░░░░░░░░░░░░░░░░░░  11.32%
+mfc-billing   26m 23s     ███░░░░░░░░░░░░░░░░░░░░░░  9.81%
+practice      26m 3s      ███░░░░░░░░░░░░░░░░░░░░░░  9.69%
 
-Total: 4 hrs 24 mins
+Total: 4 hrs 29 mins
 ```
 
 
