@@ -31,8 +31,8 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 🍴 My recent forks
 
+- [AudioPriorityBar](https://github.com/jaspermayone-forks/AudioPriorityBar) - A native macOS menu bar app for managing audio device priorities
 - [WIT-Historic-VR-Resources](https://github.com/jaspermayone-forks/WIT-Historic-VR-Resources) - Public resources for recreating historic spaces for VR centered in our project recreating Boston's West End
-- [Apple-Intelligence-API](https://github.com/jaspermayone-forks/Apple-Intelligence-API) - A Web API for Apple Intelligence
 
 #### 📡 my _`wakatime`_ stats from the last week
 
