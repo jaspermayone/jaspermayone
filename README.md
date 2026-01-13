@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/strings`](https://github.com/jaspermayone/strings) - _"simple strings server for the wentworth coding club"_ **(today)**
 - [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(today)**
+- [`@jaspermayone/strings`](https://github.com/jaspermayone/strings) - _"simple strings server for the wentworth coding club"_ **(today)**
+- [`@WITCodingClub/dns`](https://github.com/WITCodingClub/dns) - _"WITCC's DNS - declaratively configured via yaml & octodns"_ **(today)**
 - [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
-- [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(3 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown       1h 43m 20s   █████████████░░░░░░░░░░░░  48.99%
-Python        30m 12s      ████░░░░░░░░░░░░░░░░░░░░░  14.32%
-Markdown      17m 12s      ███░░░░░░░░░░░░░░░░░░░░░░  8.15%
-Nix           13m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.50%
-Java          11m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.57%
+unknown       1h 53m 27s   █████████████░░░░░░░░░░░░  48.83%
+Python        30m 12s      ████░░░░░░░░░░░░░░░░░░░░░  13.00%
+Nix           17m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.73%
+Markdown      17m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.40%
+YAML          14m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.44%
 
 💼 Projects:
-accelerlock   44m 39s      ██████░░░░░░░░░░░░░░░░░░░  21.16%
-dots          42m 31s      ██████░░░░░░░░░░░░░░░░░░░  20.15%
-practice      26m 3s       ████░░░░░░░░░░░░░░░░░░░░░  12.35%
-unknown       23m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  11.35%
-COMP1050      20m 27s      ███░░░░░░░░░░░░░░░░░░░░░░  9.69%
+dots          46m 46s      ██████░░░░░░░░░░░░░░░░░░░  20.12%
+accelerlock   44m 39s      █████░░░░░░░░░░░░░░░░░░░░  19.21%
+unknown       32m 4s       ████░░░░░░░░░░░░░░░░░░░░░  13.80%
+practice      26m 3s       ███░░░░░░░░░░░░░░░░░░░░░░  11.21%
+COMP1050      20m 27s      ███░░░░░░░░░░░░░░░░░░░░░░  8.80%
 
-Total: 3 hrs 31 mins
+Total: 3 hrs 52 mins
 ```
 
 
