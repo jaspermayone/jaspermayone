@@ -18,16 +18,16 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(1 day ago)**
+- [`@jaspermayone/strings`](https://github.com/jaspermayone/strings) - _"simple strings server for the wentworth coding club"_ **(today)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(today)**
 - [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
 - [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(3 days ago)**
-- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(1 week ago)**
 
 #### 🌱 My latest projects
 
+- [`@jaspermayone/strings`](https://github.com/jaspermayone/strings) - _"simple strings server for the wentworth coding club"_
 - [`@jaspermayone/serviceberry-ios`](https://github.com/jaspermayone/serviceberry-ios) - _"IOS Companion for @LimesKey/Serviceberry"_
 - [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_
-- [`@jaspermayone/admin_tools`](https://github.com/jaspermayone/admin_tools) - _"A lightweight Rails gem for conditionally rendering admin-only content in views. Wrap any content in an `admin_tool` block and it only renders for admin users."_
 
 #### 🍴 My recent forks
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown       1h 30m 27s   █████████████░░░░░░░░░░░░  48.35%
-Python        30m 12s      █████░░░░░░░░░░░░░░░░░░░░  16.14%
-Nix           12m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.78%
-Markdown      12m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.59%
-Java          11m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.28%
+unknown       1h 43m 20s   █████████████░░░░░░░░░░░░  48.99%
+Python        30m 12s      ████░░░░░░░░░░░░░░░░░░░░░  14.32%
+Markdown      17m 12s      ███░░░░░░░░░░░░░░░░░░░░░░  8.15%
+Nix           13m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.50%
+Java          11m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.57%
 
 💼 Projects:
-dots          40m 17s      ██████░░░░░░░░░░░░░░░░░░░  21.53%
-accelerlock   38m 17s      ██████░░░░░░░░░░░░░░░░░░░  20.46%
-practice      26m 3s       ████░░░░░░░░░░░░░░░░░░░░░  13.92%
-COMP1050      20m 27s      ███░░░░░░░░░░░░░░░░░░░░░░  10.93%
-unknown       19m 50s      ███░░░░░░░░░░░░░░░░░░░░░░  10.60%
+accelerlock   44m 39s      ██████░░░░░░░░░░░░░░░░░░░  21.16%
+dots          42m 31s      ██████░░░░░░░░░░░░░░░░░░░  20.15%
+practice      26m 3s       ████░░░░░░░░░░░░░░░░░░░░░  12.35%
+unknown       23m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  11.35%
+COMP1050      20m 27s      ███░░░░░░░░░░░░░░░░░░░░░░  9.69%
 
-Total: 3 hrs 7 mins
+Total: 3 hrs 31 mins
 ```
 
 
