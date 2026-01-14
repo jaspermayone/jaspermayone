@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(today)**
-- [`@jaspermayone/strings`](https://github.com/jaspermayone/strings) - _"simple strings server for the wentworth coding club"_ **(today)**
-- [`@WITCodingClub/dns`](https://github.com/WITCodingClub/dns) - _"WITCC's DNS - declaratively configured via yaml & octodns"_ **(today)**
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(1 day ago)**
+- [`@jaspermayone/strings`](https://github.com/jaspermayone/strings) - _"simple strings server for the wentworth coding club"_ **(1 day ago)**
+- [`@WITCodingClub/dns`](https://github.com/WITCodingClub/dns) - _"WITCC's DNS - declaratively configured via yaml & octodns"_ **(1 day ago)**
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(2 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown       1h 53m 39s   ████████████░░░░░░░░░░░░░  44.92%
-Python        30m 12s      ███░░░░░░░░░░░░░░░░░░░░░░  11.94%
-Java          28m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  11.46%
-Nix           17m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.10%
-Markdown      17m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.80%
+unknown       1h 53m 39s   ███████████░░░░░░░░░░░░░░  40.98%
+Python        43m 25s      ████░░░░░░░░░░░░░░░░░░░░░  15.65%
+Java          39m 48s      ████░░░░░░░░░░░░░░░░░░░░░  14.35%
+Nix           17m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.48%
+Markdown      17m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.20%
 
 💼 Projects:
-dots          46m 46s      █████░░░░░░░░░░░░░░░░░░░░  18.48%
-accelerlock   44m 39s      █████░░░░░░░░░░░░░░░░░░░░  17.64%
-unknown       32m 4s       ████░░░░░░░░░░░░░░░░░░░░░  12.67%
-practice      26m 3s       ███░░░░░░░░░░░░░░░░░░░░░░  10.29%
-COMP1050      20m 27s      ███░░░░░░░░░░░░░░░░░░░░░░  8.08%
+dots          46m 46s      █████░░░░░░░░░░░░░░░░░░░░  16.86%
+accelerlock   44m 39s      █████░░░░░░░░░░░░░░░░░░░░  16.09%
+unknown       32m 4s       ███░░░░░░░░░░░░░░░░░░░░░░  11.56%
+test          29m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  10.68%
+practice      26m 3s       ███░░░░░░░░░░░░░░░░░░░░░░  9.39%
 
-Total: 4 hrs 13 mins
+Total: 4 hrs 37 mins
 ```
 
 
