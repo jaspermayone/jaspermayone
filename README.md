@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(today)**
+- [`@WITCodingClub/dns`](https://github.com/WITCodingClub/dns) - _"WITCC's DNS - declaratively configured via yaml & octodns"_ **(1 day ago)**
 - [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(1 day ago)**
 - [`@jaspermayone/strings`](https://github.com/jaspermayone/strings) - _"simple strings server for the wentworth coding club"_ **(1 day ago)**
-- [`@WITCodingClub/dns`](https://github.com/WITCodingClub/dns) - _"WITCC's DNS - declaratively configured via yaml & octodns"_ **(1 day ago)**
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(2 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown       1h 49m 6s   ██████████░░░░░░░░░░░░░░░  39.99%
-Python        43m 28s     ████░░░░░░░░░░░░░░░░░░░░░  15.93%
-Java          39m 48s     ████░░░░░░░░░░░░░░░░░░░░░  14.59%
-Nix           17m 58s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.59%
-Markdown      17m 12s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.30%
+unknown       1h 47m 6s   ██████████░░░░░░░░░░░░░░░  38.65%
+Python        47m 28s     █████░░░░░░░░░░░░░░░░░░░░  17.13%
+Java          39m 48s     ████░░░░░░░░░░░░░░░░░░░░░  14.36%
+Markdown      19m 29s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.03%
+Nix           17m 58s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.48%
 
 💼 Projects:
-dots          46m 43s     █████░░░░░░░░░░░░░░░░░░░░  17.12%
-accelerlock   44m 39s     █████░░░░░░░░░░░░░░░░░░░░  16.36%
-unknown       32m 4s      ███░░░░░░░░░░░░░░░░░░░░░░  11.75%
-test          29m 38s     ███░░░░░░░░░░░░░░░░░░░░░░  10.86%
-practice      26m 3s      ███░░░░░░░░░░░░░░░░░░░░░░  9.55%
+dots          46m 43s     █████░░░░░░░░░░░░░░░░░░░░  16.86%
+accelerlock   44m 39s     █████░░░░░░░░░░░░░░░░░░░░  16.11%
+unknown       34m 21s     ████░░░░░░░░░░░░░░░░░░░░░  12.39%
+test          29m 38s     ███░░░░░░░░░░░░░░░░░░░░░░  10.69%
+practice      26m 3s      ███░░░░░░░░░░░░░░░░░░░░░░  9.40%
 
-Total: 4 hrs 33 mins
+Total: 4 hrs 37 mins
 ```
 
 
