@@ -18,7 +18,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(today)**
 - [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(1 day ago)**
 - [`@WITCodingClub/dns`](https://github.com/WITCodingClub/dns) - _"WITCC's DNS - declaratively configured via yaml & octodns"_ **(2 days ago)**
 - [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(2 days ago)**
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown       1h 45m 20s   █████████░░░░░░░░░░░░░░░░  32.12%
-Python        1h 31m 22s   ███████░░░░░░░░░░░░░░░░░░  27.86%
-Java          39m 48s      ████░░░░░░░░░░░░░░░░░░░░░  12.14%
-Markdown      25m 23s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.74%
-YAML          16m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.17%
+unknown       1h 52m 33s   █████████░░░░░░░░░░░░░░░░  34.01%
+Python        1h 31m 22s   ███████░░░░░░░░░░░░░░░░░░  27.61%
+Java          39m 48s      ████░░░░░░░░░░░░░░░░░░░░░  12.03%
+Markdown      25m 23s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.67%
+YAML          16m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.13%
 
 💼 Projects:
-accelerlock   1h 30m 39s   ███████░░░░░░░░░░░░░░░░░░  27.64%
-dots          39m 45s      ████░░░░░░░░░░░░░░░░░░░░░  12.12%
-unknown       34m 21s      ███░░░░░░░░░░░░░░░░░░░░░░  10.47%
-test          29m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  9.03%
-practice      26m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.94%
+accelerlock   1h 30m 39s   ███████░░░░░░░░░░░░░░░░░░  27.38%
+dots          37m 45s      ███░░░░░░░░░░░░░░░░░░░░░░  11.40%
+unknown       34m 21s      ███░░░░░░░░░░░░░░░░░░░░░░  10.38%
+test          29m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  8.95%
+practice      26m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.87%
 
-Total: 5 hrs 28 mins
+Total: 5 hrs 31 mins
 ```
 
 
