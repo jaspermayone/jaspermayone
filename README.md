@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(today)**
-- [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(today)**
-- [`@WITCodingClub/dns`](https://github.com/WITCodingClub/dns) - _"WITCC's DNS - declaratively configured via yaml & octodns"_ **(1 day ago)**
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(1 day ago)**
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
+- [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(1 day ago)**
+- [`@WITCodingClub/dns`](https://github.com/WITCodingClub/dns) - _"WITCC's DNS - declaratively configured via yaml & octodns"_ **(2 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(2 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown       1h 47m 8s   ██████████░░░░░░░░░░░░░░░  37.15%
-Python        47m 28s     █████░░░░░░░░░░░░░░░░░░░░  16.46%
-Java          39m 48s     ████░░░░░░░░░░░░░░░░░░░░░  13.80%
-Markdown      25m 29s     ███░░░░░░░░░░░░░░░░░░░░░░  8.84%
-Nix           17m 58s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.23%
+unknown       1h 49m 16s   █████████░░░░░░░░░░░░░░░░  32.66%
+Python        1h 30m 54s   ███████░░░░░░░░░░░░░░░░░░  27.17%
+Java          39m 48s      ███░░░░░░░░░░░░░░░░░░░░░░  11.90%
+Markdown      25m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.62%
+Nix           18m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.48%
 
 💼 Projects:
-dots          46m 43s     █████░░░░░░░░░░░░░░░░░░░░  16.20%
-accelerlock   44m 39s     ████░░░░░░░░░░░░░░░░░░░░░  15.48%
-unknown       34m 21s     ███░░░░░░░░░░░░░░░░░░░░░░  11.91%
-test          29m 38s     ███░░░░░░░░░░░░░░░░░░░░░░  10.27%
-practice      26m 3s      ███░░░░░░░░░░░░░░░░░░░░░░  9.03%
+accelerlock   1h 28m 11s   ███████░░░░░░░░░░░░░░░░░░  26.35%
+dots          47m 5s       ████░░░░░░░░░░░░░░░░░░░░░  14.07%
+unknown       34m 21s      ███░░░░░░░░░░░░░░░░░░░░░░  10.26%
+test          29m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  8.86%
+practice      26m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.78%
 
-Total: 4 hrs 48 mins
+Total: 5 hrs 35 mins
 ```
 
 
