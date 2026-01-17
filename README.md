@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
-- [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(2 days ago)**
-- [`@WITCodingClub/dns`](https://github.com/WITCodingClub/dns) - _"WITCC's DNS - declaratively configured via yaml & octodns"_ **(3 days ago)**
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(3 days ago)**
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(2 days ago)**
+- [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(3 days ago)**
+- [`@WITCodingClub/dns`](https://github.com/WITCodingClub/dns) - _"WITCC's DNS - declaratively configured via yaml & octodns"_ **(4 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(4 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown                                      2h 9m 18s    █████████░░░░░░░░░░░░░░░░  34.92%
-Python                                       1h 31m 22s   ███████░░░░░░░░░░░░░░░░░░  24.68%
-Java                                         52m 22s      ████░░░░░░░░░░░░░░░░░░░░░  14.14%
-JAVA                                         24m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.75%
-Markdown                                     23m 23s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.32%
+unknown                                      2h 27m 14s   ██████████░░░░░░░░░░░░░░░  37.92%
+Python                                       1h 31m 22s   ██████░░░░░░░░░░░░░░░░░░░  23.53%
+Java                                         52m 22s      ████░░░░░░░░░░░░░░░░░░░░░  13.49%
+JAVA                                         24m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.43%
+Markdown                                     23m 26s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.04%
 
 💼 Projects:
-accelerlock                                  1h 30m 39s   ███████░░░░░░░░░░░░░░░░░░  24.48%
-CS2 ~ Module 01 ~ DMR ~ 2026-01-13 Tu 0943   35m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  9.72%
-unknown                                      34m 21s      ███░░░░░░░░░░░░░░░░░░░░░░  9.28%
-dns                                          33m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  9.15%
-test                                         29m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  8.00%
+accelerlock                                  1h 30m 39s   ██████░░░░░░░░░░░░░░░░░░░  23.34%
+CS2 ~ Module 01 ~ DMR ~ 2026-01-13 Tu 0943   35m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  9.26%
+unknown                                      34m 21s      ███░░░░░░░░░░░░░░░░░░░░░░  8.84%
+dns                                          33m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  8.72%
+test                                         29m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.63%
 
-Total: 6 hrs 10 mins
+Total: 6 hrs 28 mins
 ```
 
 
