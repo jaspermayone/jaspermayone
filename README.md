@@ -19,9 +19,9 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 #### 👷 The latest repos I've pushed to
 
 - [`@jaspermayone/wit-humn4330_ppm`](https://github.com/jaspermayone/wit-humn4330_ppm) - _"An interactive visualization mapping life milestones to atmospheric CO2 levels, presented as organic tree rings."_ **(today)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(today)**
 - [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(4 days ago)**
 - [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(5 days ago)**
-- [`@WITCodingClub/dns`](https://github.com/WITCodingClub/dns) - _"WITCC's DNS - declaratively configured via yaml & octodns"_ **(6 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown                                      3h 8m 4s     ████████████░░░░░░░░░░░░░  45.35%
-Python                                       1h 31m 22s   ██████░░░░░░░░░░░░░░░░░░░  22.03%
-Java                                         52m 22s      ████░░░░░░░░░░░░░░░░░░░░░  12.63%
-JAVA                                         24m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.02%
-Markdown                                     18m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.55%
+unknown                                      3h 10m 4s    ████████████░░░░░░░░░░░░░  45.61%
+Python                                       1h 31m 22s   ██████░░░░░░░░░░░░░░░░░░░  21.92%
+Java                                         52m 22s      ████░░░░░░░░░░░░░░░░░░░░░  12.57%
+JAVA                                         24m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.00%
+Markdown                                     18m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.53%
 
 💼 Projects:
-accelerlock                                  1h 30m 39s   ██████░░░░░░░░░░░░░░░░░░░  21.85%
-linkedin-applies                             1h 15m 51s   █████░░░░░░░░░░░░░░░░░░░░  18.28%
-dns                                          36m 3s       ███░░░░░░░░░░░░░░░░░░░░░░  8.69%
-CS2 ~ Module 01 ~ DMR ~ 2026-01-13 Tu 0943   35m 58s      ███░░░░░░░░░░░░░░░░░░░░░░  8.67%
-test                                         29m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.14%
+accelerlock                                  1h 30m 39s   ██████░░░░░░░░░░░░░░░░░░░  21.75%
+linkedin-applies                             1h 15m 51s   █████░░░░░░░░░░░░░░░░░░░░  18.20%
+dns                                          36m 3s       ███░░░░░░░░░░░░░░░░░░░░░░  8.65%
+CS2 ~ Module 01 ~ DMR ~ 2026-01-13 Tu 0943   35m 58s      ███░░░░░░░░░░░░░░░░░░░░░░  8.63%
+test                                         29m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.11%
 
-Total: 6 hrs 55 mins
+Total: 6 hrs 57 mins
 ```
 
 
