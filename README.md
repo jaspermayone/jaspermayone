@@ -18,16 +18,16 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/wit-humn4330_ppm`](https://github.com/jaspermayone/wit-humn4330_ppm) - _"An interactive visualization mapping life milestones to atmospheric CO2 levels, presented as organic tree rings."_ **(1 day ago)**
 - [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(1 day ago)**
 - [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(5 days ago)**
 - [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(6 days ago)**
+- [`@WITCodingClub/dns`](https://github.com/WITCodingClub/dns) - _"WITCC's DNS - declaratively configured via yaml & octodns"_ **(1 week ago)**
 
 #### 🌱 My latest projects
 
-- [`@jaspermayone/wit-humn4330_ppm`](https://github.com/jaspermayone/wit-humn4330_ppm) - _"An interactive visualization mapping life milestones to atmospheric CO2 levels, presented as organic tree rings."_
 - [`@jaspermayone/strings`](https://github.com/jaspermayone/strings) - _"simple strings server for the wentworth coding club"_
 - [`@jaspermayone/serviceberry-ios`](https://github.com/jaspermayone/serviceberry-ios) - _"IOS Companion for @LimesKey/Serviceberry"_
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_
 
 #### 🍴 My recent forks
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown                                      3h 10m 45s   █████████████░░░░░░░░░░░░  49.01%
-Python                                       1h 3m 10s    █████░░░░░░░░░░░░░░░░░░░░  16.23%
-Java                                         52m 22s      ████░░░░░░░░░░░░░░░░░░░░░  13.45%
-JAVA                                         24m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.42%
-Markdown                                     18m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.85%
+unknown                                      3h 1m 11s    █████████████░░░░░░░░░░░░  49.49%
+Python                                       1h 3m 10s    █████░░░░░░░░░░░░░░░░░░░░  17.25%
+Java                                         52m 22s      ████░░░░░░░░░░░░░░░░░░░░░  14.30%
+JAVA                                         24m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.82%
+YAML                                         14m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.01%
 
 💼 Projects:
-linkedin-applies                             1h 14m 22s   █████░░░░░░░░░░░░░░░░░░░░  19.10%
-accelerlock                                  50m 11s      ████░░░░░░░░░░░░░░░░░░░░░  12.89%
-dns                                          36m 3s       ███░░░░░░░░░░░░░░░░░░░░░░  9.26%
-CS2 ~ Module 01 ~ DMR ~ 2026-01-13 Tu 0943   35m 58s      ███░░░░░░░░░░░░░░░░░░░░░░  9.24%
-co2-rings-site                               32m 36s      ███░░░░░░░░░░░░░░░░░░░░░░  8.37%
+linkedin-applies                             1h 14m 22s   ██████░░░░░░░░░░░░░░░░░░░  20.31%
+accelerlock                                  46m 0s       ████░░░░░░░░░░░░░░░░░░░░░  12.56%
+dns                                          36m 3s       ███░░░░░░░░░░░░░░░░░░░░░░  9.84%
+CS2 ~ Module 01 ~ DMR ~ 2026-01-13 Tu 0943   35m 58s      ███░░░░░░░░░░░░░░░░░░░░░░  9.82%
+co2-rings-site                               34m 35s      ███░░░░░░░░░░░░░░░░░░░░░░  9.44%
 
-Total: 6 hrs 29 mins
+Total: 6 hrs 6 mins
 ```
 
 
