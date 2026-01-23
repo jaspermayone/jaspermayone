@@ -18,9 +18,9 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/wit_robotics_2025`](https://github.com/jaspermayone/wit_robotics_2025) - _""_ **(today)**
-- [`@jaspermayone/obsidian-ai-tagger`](https://github.com/jaspermayone/obsidian-ai-tagger) - _"Auto tagging obsidian notes w/ AI"_ **(1 day ago)**
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(3 days ago)**
+- [`@jaspermayone/wit_robotics_2025`](https://github.com/jaspermayone/wit_robotics_2025) - _""_ **(1 day ago)**
+- [`@jaspermayone/obsidian-ai-tagger`](https://github.com/jaspermayone/obsidian-ai-tagger) - _"Auto tagging obsidian notes w/ AI"_ **(2 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(4 days ago)**
 - [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 week ago)**
 
 #### 🌱 My latest projects
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown            3h 57m 33s   █████████████████░░░░░░░░  65.11%
-C                  32m 32s      ███░░░░░░░░░░░░░░░░░░░░░░  8.92%
-Java               26m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.34%
-JAVA               21m 28s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.88%
-Markdown           19m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.32%
+unknown            3h 50m 33s   █████████████████░░░░░░░░  64.42%
+C                  32m 32s      ███░░░░░░░░░░░░░░░░░░░░░░  9.09%
+Java               26m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.48%
+JAVA               21m 28s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.00%
+Markdown           19m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.43%
 
 💼 Projects:
-2025               1h 47m 57s   ████████░░░░░░░░░░░░░░░░░  29.58%
-linkedin-applies   1h 14m 22s   ██████░░░░░░░░░░░░░░░░░░░  20.38%
-co2-rings-site     34m 35s      ███░░░░░░░░░░░░░░░░░░░░░░  9.48%
-01                 32m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  8.92%
-la1                25m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.03%
+2025               1h 47m 57s   ████████░░░░░░░░░░░░░░░░░  30.16%
+linkedin-applies   1h 14m 22s   ██████░░░░░░░░░░░░░░░░░░░  20.77%
+co2-rings-site     34m 35s      ███░░░░░░░░░░░░░░░░░░░░░░  9.66%
+01                 32m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  9.10%
+la1                25m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.17%
 
-Total: 6 hrs 5 mins
+Total: 5 hrs 58 mins
 ```
 
 
