@@ -18,9 +18,9 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(1 day ago)**
-- [`@jaspermayone/wit_robotics_2025`](https://github.com/jaspermayone/wit_robotics_2025) - _""_ **(2 days ago)**
-- [`@jaspermayone/obsidian-ai-tagger`](https://github.com/jaspermayone/obsidian-ai-tagger) - _"Auto tagging obsidian notes w/ AI"_ **(3 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(2 days ago)**
+- [`@jaspermayone/wit_robotics_2025`](https://github.com/jaspermayone/wit_robotics_2025) - _""_ **(3 days ago)**
+- [`@jaspermayone/obsidian-ai-tagger`](https://github.com/jaspermayone/obsidian-ai-tagger) - _"Auto tagging obsidian notes w/ AI"_ **(4 days ago)**
 - [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 week ago)**
 
 #### 🌱 My latest projects
@@ -38,18 +38,18 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown            2h 43m 18s   ██████████████░░░░░░░░░░░  55.92%
-C                  32m 32s      ███░░░░░░░░░░░░░░░░░░░░░░  11.14%
-Java               30m 39s      ███░░░░░░░░░░░░░░░░░░░░░░  10.50%
-Markdown           19m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.63%
-YAML               8m 48s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.01%
+unknown            2h 43m 42s   ███████████████░░░░░░░░░░  56.16%
+C                  32m 32s      ███░░░░░░░░░░░░░░░░░░░░░░  11.16%
+Java               29m 43s      ███░░░░░░░░░░░░░░░░░░░░░░  10.19%
+Markdown           19m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.64%
+YAML               8m 48s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.02%
 
 💼 Projects:
-2025               2h 5m 1s     ███████████░░░░░░░░░░░░░░  42.79%
-co2-rings-site     34m 35s      ███░░░░░░░░░░░░░░░░░░░░░░  11.84%
-linkedin-applies   34m 20s      ███░░░░░░░░░░░░░░░░░░░░░░  11.75%
-01                 32m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  11.15%
-workspace          10m 48s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.70%
+2025               2h 5m 1s     ███████████░░░░░░░░░░░░░░  42.87%
+co2-rings-site     34m 35s      ███░░░░░░░░░░░░░░░░░░░░░░  11.86%
+linkedin-applies   34m 20s      ███░░░░░░░░░░░░░░░░░░░░░░  11.77%
+01                 32m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  11.17%
+workspace          10m 15s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.52%
 
 Total: 4 hrs 52 mins
 ```
