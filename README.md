@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(today)**
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(2 days ago)**
-- [`@jaspermayone/wit_robotics_2025`](https://github.com/jaspermayone/wit_robotics_2025) - _""_ **(3 days ago)**
-- [`@jaspermayone/obsidian-ai-tagger`](https://github.com/jaspermayone/obsidian-ai-tagger) - _"Auto tagging obsidian notes w/ AI"_ **(4 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(1 day ago)**
+- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(1 day ago)**
+- [`@jaspermayone/wit_robotics_2025`](https://github.com/jaspermayone/wit_robotics_2025) - _""_ **(4 days ago)**
+- [`@jaspermayone/obsidian-ai-tagger`](https://github.com/jaspermayone/obsidian-ai-tagger) - _"Auto tagging obsidian notes w/ AI"_ **(5 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown            2h 35m 41s   ██████████████░░░░░░░░░░░  54.92%
-C                  32m 32s      ███░░░░░░░░░░░░░░░░░░░░░░  11.48%
-Java               29m 43s      ███░░░░░░░░░░░░░░░░░░░░░░  10.48%
-Markdown           19m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.83%
-YAML               8m 48s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.10%
+unknown          2h 34m 0s   ████████████░░░░░░░░░░░░░  47.85%
+C                32m 32s     ███░░░░░░░░░░░░░░░░░░░░░░  10.11%
+Java             29m 43s     ███░░░░░░░░░░░░░░░░░░░░░░  9.23%
+HTTP Request     26m 26s     ███░░░░░░░░░░░░░░░░░░░░░░  8.21%
+Markdown         19m 22s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.02%
 
 💼 Projects:
-2025               2h 5m 1s     ████████████░░░░░░░░░░░░░  44.08%
-co2-rings-site     34m 35s      ████░░░░░░░░░░░░░░░░░░░░░  12.20%
-01                 32m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  11.48%
-linkedin-applies   26m 19s      ███░░░░░░░░░░░░░░░░░░░░░░  9.28%
-workspace          10m 15s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.61%
+2025             2h 5m 1s    ██████████░░░░░░░░░░░░░░░  38.83%
+mlh/core         36m 51s     ███░░░░░░░░░░░░░░░░░░░░░░  11.45%
+co2-rings-site   34m 35s     ███░░░░░░░░░░░░░░░░░░░░░░  10.74%
+01               32m 34s     ███░░░░░░░░░░░░░░░░░░░░░░  10.12%
+workspace        14m 15s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.43%
 
-Total: 4 hrs 44 mins
+Total: 5 hrs 22 mins
 ```
 
 
