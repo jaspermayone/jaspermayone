@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(today)**
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(1 day ago)**
-- [`@jaspermayone/wit_robotics_2025`](https://github.com/jaspermayone/wit_robotics_2025) - _""_ **(4 days ago)**
-- [`@jaspermayone/obsidian-ai-tagger`](https://github.com/jaspermayone/obsidian-ai-tagger) - _"Auto tagging obsidian notes w/ AI"_ **(5 days ago)**
+- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(1 day ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(2 days ago)**
+- [`@jaspermayone/wit_robotics_2025`](https://github.com/jaspermayone/wit_robotics_2025) - _""_ **(5 days ago)**
+- [`@jaspermayone/obsidian-ai-tagger`](https://github.com/jaspermayone/obsidian-ai-tagger) - _"Auto tagging obsidian notes w/ AI"_ **(6 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown          2h 47m 14s   █████████████░░░░░░░░░░░░  49.44%
-C                32m 32s      ███░░░░░░░░░░░░░░░░░░░░░░  9.62%
-Java             29m 43s      ███░░░░░░░░░░░░░░░░░░░░░░  8.79%
-HTTP Request     26m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.90%
-Markdown         13m 42s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.05%
+unknown          3h 5m 33s   ██████████████░░░░░░░░░░░  52.04%
+C                32m 32s     ███░░░░░░░░░░░░░░░░░░░░░░  9.12%
+Java             29m 43s     ███░░░░░░░░░░░░░░░░░░░░░░  8.33%
+HTTP Request     26m 43s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.49%
+Markdown         13m 42s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.84%
 
 💼 Projects:
-2025             2h 5m 1s     ██████████░░░░░░░░░░░░░░░  36.95%
-mlh/core         50m 10s      ████░░░░░░░░░░░░░░░░░░░░░  14.83%
-01               32m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  9.62%
-fawkes           30m 58s      ███░░░░░░░░░░░░░░░░░░░░░░  9.15%
-co2-rings-site   16m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.85%
+2025             2h 5m 1s    █████████░░░░░░░░░░░░░░░░  35.05%
+mlh/core         50m 10s     ████░░░░░░░░░░░░░░░░░░░░░  14.06%
+fawkes           49m 17s     ████░░░░░░░░░░░░░░░░░░░░░  13.82%
+01               32m 34s     ███░░░░░░░░░░░░░░░░░░░░░░  9.13%
+co2-rings-site   16m 24s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.60%
 
-Total: 5 hrs 38 mins
+Total: 5 hrs 57 mins
 ```
 
 
