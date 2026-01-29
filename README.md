@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(today)**
 - [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(today)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(today)**
+- [`@jaspermayone/wit_robotics_2025`](https://github.com/jaspermayone/wit_robotics_2025) - _""_ **(1 day ago)**
 - [`@tobi/try`](https://github.com/tobi/try) - _"fresh directories for every vibe"_ **(2 days ago)**
-- [`@jaspermayone/wit_robotics_2025`](https://github.com/jaspermayone/wit_robotics_2025) - _""_ **(2 days ago)**
 
 #### 🌱 My latest projects
 
@@ -31,27 +31,27 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 🍴 My recent forks
 
+- [wut](https://github.com/jaspermayone-forks/wut) - Ephemeral worktrees that stay out of your vibe zone.
 - [try](https://github.com/jaspermayone-forks/try) - fresh directories for every vibe
-- [envoy](https://github.com/jaspermayone-forks/envoy) - Hack Club's Visa Letter issuing system for events!
 
 #### 📡 my _`wakatime`_ stats from the last week
 
 ```text
 💾 Languages:
-unknown        2h 37m 54s   ████████████░░░░░░░░░░░░░  44.27%
-Python         32m 32s      ███░░░░░░░░░░░░░░░░░░░░░░  9.12%
-Java           31m 43s      ███░░░░░░░░░░░░░░░░░░░░░░  8.89%
-HTTP Request   26m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.49%
-C              16m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.72%
+unknown        2h 42m 9s    ████████████░░░░░░░░░░░░░  44.92%
+Python         32m 32s      ███░░░░░░░░░░░░░░░░░░░░░░  9.01%
+Java           31m 43s      ███░░░░░░░░░░░░░░░░░░░░░░  8.79%
+HTTP Request   26m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.40%
+C              16m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.67%
 
 💼 Projects:
-2025           2h 9m 1s     ██████████░░░░░░░░░░░░░░░  36.15%
-fawkes         1h 11m 47s   ██████░░░░░░░░░░░░░░░░░░░  20.11%
-mlh/core       50m 9s       ████░░░░░░░░░░░░░░░░░░░░░  14.05%
-01             32m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  9.12%
-dots           19m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.46%
+2025           2h 15m 16s   ██████████░░░░░░░░░░░░░░░  37.45%
+fawkes         1h 11m 47s   █████░░░░░░░░░░░░░░░░░░░░  19.87%
+mlh/core       50m 9s       ████░░░░░░░░░░░░░░░░░░░░░  13.88%
+01             32m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  9.02%
+dots           19m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.39%
 
-Total: 5 hrs 57 mins
+Total: 6 hrs 1 mins
 ```
 
 
