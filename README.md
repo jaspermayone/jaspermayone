@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(today)**
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(today)**
-- [`@jaspermayone/ZipMerge`](https://github.com/jaspermayone/ZipMerge) - _"Simple App to help @jsp make it through COMP1050 with a professor who won't use version controll."_ **(today)**
-- [`@jaspermayone/wit_robotics_2025`](https://github.com/jaspermayone/wit_robotics_2025) - _""_ **(today)**
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(1 day ago)**
+- [`@jaspermayone/ZipMerge`](https://github.com/jaspermayone/ZipMerge) - _"Simple App to help @jsp make it through COMP1050 with a professor who won't use version controll."_ **(1 day ago)**
+- [`@jaspermayone/wit_robotics_2025`](https://github.com/jaspermayone/wit_robotics_2025) - _""_ **(1 day ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown        2h 51m 1s    ███████████░░░░░░░░░░░░░░  43.31%
-YAML           35m 47s      ███░░░░░░░░░░░░░░░░░░░░░░  9.06%
-Swift          32m 54s      ███░░░░░░░░░░░░░░░░░░░░░░  8.33%
-Python         32m 32s      ███░░░░░░░░░░░░░░░░░░░░░░  8.24%
-HTTP Request   26m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.77%
+unknown        2h 50m 59s   ███████████░░░░░░░░░░░░░░  42.33%
+YAML           35m 47s      ███░░░░░░░░░░░░░░░░░░░░░░  8.86%
+Swift          32m 54s      ███░░░░░░░░░░░░░░░░░░░░░░  8.15%
+Python         32m 32s      ███░░░░░░░░░░░░░░░░░░░░░░  8.05%
+HTTP Request   26m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.61%
 
 💼 Projects:
-2025           2h 13m 43s   █████████░░░░░░░░░░░░░░░░  33.86%
-fawkes         1h 11m 47s   █████░░░░░░░░░░░░░░░░░░░░  18.18%
-dots           1h 7m 44s    █████░░░░░░░░░░░░░░░░░░░░  17.15%
-mlh/core       50m 9s       ████░░░░░░░░░░░░░░░░░░░░░  12.70%
-unknown        15m 45s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.99%
+2025           2h 22m 49s   █████████░░░░░░░░░░░░░░░░  35.35%
+fawkes         1h 11m 47s   █████░░░░░░░░░░░░░░░░░░░░  17.77%
+dots           1h 7m 44s    █████░░░░░░░░░░░░░░░░░░░░  16.76%
+mlh/core       50m 9s       ████░░░░░░░░░░░░░░░░░░░░░  12.41%
+unknown        15m 45s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.90%
 
-Total: 6 hrs 35 mins
+Total: 6 hrs 44 mins
 ```
 
 
