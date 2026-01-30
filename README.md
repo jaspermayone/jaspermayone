@@ -18,14 +18,14 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@jaspermayone/ZipMerge`](https://github.com/jaspermayone/ZipMerge) - _"Simple App to help @jaspermayone make it through COMP1050 with a professor who won't use version controll."_ **(today)**
+- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _""_ **(today)**
 - [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(today)**
 - [`@jaspermayone/wit_robotics_2025`](https://github.com/jaspermayone/wit_robotics_2025) - _""_ **(1 day ago)**
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(1 day ago)**
-- [`@jaspermayone/ZipMerge`](https://github.com/jaspermayone/ZipMerge) - _"Simple App to help @jsp make it through COMP1050 with a professor who won't use version controll."_ **(1 day ago)**
 
 #### 🌱 My latest projects
 
-- [`@jaspermayone/ZipMerge`](https://github.com/jaspermayone/ZipMerge) - _"Simple App to help @jsp make it through COMP1050 with a professor who won't use version controll."_
+- [`@jaspermayone/ZipMerge`](https://github.com/jaspermayone/ZipMerge) - _"Simple App to help @jaspermayone make it through COMP1050 with a professor who won't use version controll."_
 - [`@jaspermayone/strings`](https://github.com/jaspermayone/strings) - _"simple strings server for the wentworth coding club"_
 - [`@jaspermayone/serviceberry-ios`](https://github.com/jaspermayone/serviceberry-ios) - _"IOS Companion for @LimesKey/Serviceberry"_
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown        3h 9m 12s    ████████████░░░░░░░░░░░░░  45.21%
-YAML           35m 47s      ███░░░░░░░░░░░░░░░░░░░░░░  8.55%
-Swift          32m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.86%
-HTTP Request   26m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.38%
-Python         25m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.11%
+unknown        3h 23m 35s   █████████████░░░░░░░░░░░░  48.93%
+YAML           35m 3s       ███░░░░░░░░░░░░░░░░░░░░░░  8.42%
+Swift          32m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.91%
+HTTP Request   26m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.42%
+Python         25m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.15%
 
 💼 Projects:
-2025           2h 8m 38s    ████████░░░░░░░░░░░░░░░░░  30.73%
-dots           1h 20m 29s   █████░░░░░░░░░░░░░░░░░░░░  19.23%
-fawkes         1h 11m 47s   █████░░░░░░░░░░░░░░░░░░░░  17.15%
-mlh/core       50m 9s       ███░░░░░░░░░░░░░░░░░░░░░░  11.98%
-unknown        30m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.36%
+2025           2h 5m 49s    ████████░░░░░░░░░░░░░░░░░  30.23%
+dots           1h 19m 45s   █████░░░░░░░░░░░░░░░░░░░░  19.16%
+fawkes         1h 11m 47s   █████░░░░░░░░░░░░░░░░░░░░  17.25%
+mlh/core       50m 9s       ████░░░░░░░░░░░░░░░░░░░░░  12.05%
+unknown        33m 37s      ███░░░░░░░░░░░░░░░░░░░░░░  8.08%
 
-Total: 6 hrs 59 mins
+Total: 6 hrs 56 mins
 ```
 
 
