@@ -18,9 +18,9 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(today)**
 - [`@jaspermayone/ZipMerge`](https://github.com/jaspermayone/ZipMerge) - _"Simple App to help @jaspermayone make it through COMP1050 with a professor who won't use version controll."_ **(1 day ago)**
 - [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _""_ **(1 day ago)**
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
 - [`@jaspermayone/wit_robotics_2025`](https://github.com/jaspermayone/wit_robotics_2025) - _""_ **(2 days ago)**
 
 #### 🌱 My latest projects
@@ -38,18 +38,18 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown        3h 34m 39s   █████████████░░░░░░░░░░░░  50.26%
-Swift          32m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.70%
-Python         29m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.83%
+unknown        3h 34m 15s   █████████████░░░░░░░░░░░░  50.21%
+Swift          32m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.71%
+Python         29m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.84%
 YAML           29m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.83%
 HTTP Request   26m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.26%
 
 💼 Projects:
-2025           2h 5m 27s    ████████░░░░░░░░░░░░░░░░░  29.37%
-dots           1h 13m 51s   █████░░░░░░░░░░░░░░░░░░░░  17.29%
-fawkes         1h 11m 47s   █████░░░░░░░░░░░░░░░░░░░░  16.80%
-mlh/core       50m 9s       ███░░░░░░░░░░░░░░░░░░░░░░  11.74%
-unknown        33m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.87%
+2025           2h 5m 27s    ████████░░░░░░░░░░░░░░░░░  29.40%
+dots           1h 13m 51s   █████░░░░░░░░░░░░░░░░░░░░  17.30%
+fawkes         1h 11m 47s   █████░░░░░░░░░░░░░░░░░░░░  16.82%
+mlh/core       50m 9s       ███░░░░░░░░░░░░░░░░░░░░░░  11.75%
+unknown        33m 37s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.88%
 
 Total: 7 hrs 7 mins
 ```
