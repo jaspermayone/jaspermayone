@@ -18,7 +18,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(today)**
 - [`@jaspermayone/ZipMerge`](https://github.com/jaspermayone/ZipMerge) - _"Simple App to help @jaspermayone make it through COMP1050 with a professor who won't use version controll."_ **(2 days ago)**
 - [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _""_ **(2 days ago)**
 - [`@jaspermayone/wit_robotics_2025`](https://github.com/jaspermayone/wit_robotics_2025) - _""_ **(3 days ago)**
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown    3h 31m 58s   █████████████░░░░░░░░░░░░  51.94%
-Swift      32m 54s      ███░░░░░░░░░░░░░░░░░░░░░░  8.06%
-Python     29m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.15%
-YAML       28m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.10%
-C          14m 10s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.47%
+unknown   3h 36m 15s   ██████████████░░░░░░░░░░░  54.91%
+Swift     32m 54s      ███░░░░░░░░░░░░░░░░░░░░░░  8.35%
+Python    29m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.41%
+YAML      28m 21s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.20%
+C         14m 10s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.60%
 
 💼 Projects:
-2025       2h 5m 27s    ████████░░░░░░░░░░░░░░░░░  30.73%
-dots       1h 13m 51s   █████░░░░░░░░░░░░░░░░░░░░  18.09%
-fawkes     1h 11m 47s   █████░░░░░░░░░░░░░░░░░░░░  17.59%
-mlh/core   41m 41s      ███░░░░░░░░░░░░░░░░░░░░░░  10.21%
-unknown    22m 4s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.41%
+2025      2h 5m 27s    ████████░░░░░░░░░░░░░░░░░  31.85%
+dots      1h 13m 51s   █████░░░░░░░░░░░░░░░░░░░░  18.75%
+fawkes    1h 11m 47s   █████░░░░░░░░░░░░░░░░░░░░  18.22%
+unknown   22m 4s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.60%
+02        21m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.50%
 
-Total: 6 hrs 48 mins
+Total: 6 hrs 34 mins
 ```
 
 
