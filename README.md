@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(today)**
-- [`@jaspermayone/ZipMerge`](https://github.com/jaspermayone/ZipMerge) - _"Simple App to help @jaspermayone make it through COMP1050 with a professor who won't use version controll."_ **(2 days ago)**
-- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _""_ **(2 days ago)**
-- [`@jaspermayone/wit_robotics_2025`](https://github.com/jaspermayone/wit_robotics_2025) - _""_ **(3 days ago)**
+- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _""_ **(1 day ago)**
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
+- [`@jaspermayone/ZipMerge`](https://github.com/jaspermayone/ZipMerge) - _"Simple App to help @jaspermayone make it through COMP1050 with a professor who won't use version controll."_ **(3 days ago)**
+- [`@jaspermayone/wit_robotics_2025`](https://github.com/jaspermayone/wit_robotics_2025) - _""_ **(4 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown   4h 3m 29s    ███████████████░░░░░░░░░░  57.83%
-Swift     32m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.81%
-Python    29m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.93%
-YAML      28m 21s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.73%
-C         14m 10s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.36%
+unknown   4h 3m 25s    ███████████████░░░░░░░░░░  58.41%
+Swift     32m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.89%
+Python    29m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.00%
+YAML      28m 21s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.80%
+C         14m 10s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.40%
 
 💼 Projects:
-2025      2h 5m 27s    ████████░░░░░░░░░░░░░░░░░  29.79%
-dots      1h 13m 51s   █████░░░░░░░░░░░░░░░░░░░░  17.54%
-fawkes    1h 11m 47s   █████░░░░░░░░░░░░░░░░░░░░  17.04%
-backend   42m 45s      ███░░░░░░░░░░░░░░░░░░░░░░  10.15%
-unknown   22m 4s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.24%
+2025      2h 5m 27s    ████████░░░░░░░░░░░░░░░░░  30.09%
+dots      1h 13m 16s   █████░░░░░░░░░░░░░░░░░░░░  17.58%
+fawkes    1h 11m 47s   █████░░░░░░░░░░░░░░░░░░░░  17.22%
+backend   49m 24s      ███░░░░░░░░░░░░░░░░░░░░░░  11.85%
+unknown   22m 4s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.29%
 
-Total: 7 hrs 1 mins
+Total: 6 hrs 57 mins
 ```
 
 
