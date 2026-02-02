@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(today)**
 - [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _""_ **(1 day ago)**
 - [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
 - [`@jaspermayone/ZipMerge`](https://github.com/jaspermayone/ZipMerge) - _"Simple App to help @jaspermayone make it through COMP1050 with a professor who won't use version controll."_ **(3 days ago)**
-- [`@jaspermayone/wit_robotics_2025`](https://github.com/jaspermayone/wit_robotics_2025) - _""_ **(4 days ago)**
 
 #### 🌱 My latest projects
 
@@ -31,27 +31,27 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 🍴 My recent forks
 
+- [nixpkgs](https://github.com/jaspermayone-forks/nixpkgs) - Nix Packages collection & NixOS
 - [wut](https://github.com/jaspermayone-forks/wut) - Ephemeral worktrees that stay out of your vibe zone.
-- [try](https://github.com/jaspermayone-forks/try) - fresh directories for every vibe
 
 #### 📡 my _`wakatime`_ stats from the last week
 
 ```text
 💾 Languages:
-unknown   4h 8m 19s    ███████████████░░░░░░░░░░  58.89%
-Swift     32m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.80%
-Python    29m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.92%
-YAML      28m 21s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.72%
-C         14m 10s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.36%
+unknown   4h 14m 16s   ███████████████░░░░░░░░░░  58.55%
+Swift     32m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.58%
+Python    29m 11s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.72%
+YAML      28m 21s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.53%
+JSON      16m 49s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.87%
 
 💼 Projects:
-2025      2h 5m 27s    ████████░░░░░░░░░░░░░░░░░  29.75%
-dots      1h 13m 16s   █████░░░░░░░░░░░░░░░░░░░░  17.37%
-fawkes    1h 11m 47s   █████░░░░░░░░░░░░░░░░░░░░  17.02%
-backend   54m 18s      ████░░░░░░░░░░░░░░░░░░░░░  12.87%
-unknown   22m 4s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.23%
+2025      2h 5m 27s    ████████░░░░░░░░░░░░░░░░░  28.88%
+dots      1h 21m 16s   █████░░░░░░░░░░░░░░░░░░░░  18.71%
+fawkes    1h 11m 47s   █████░░░░░░░░░░░░░░░░░░░░  16.53%
+backend   54m 26s      ████░░░░░░░░░░░░░░░░░░░░░  12.53%
+unknown   26m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.11%
 
-Total: 7 hrs 2 mins
+Total: 7 hrs 14 mins
 ```
 
 
