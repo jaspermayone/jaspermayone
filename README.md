@@ -60,6 +60,10 @@ Total: 7 hrs 2 mins
 ### 🗃️ _Project Archives_:
 
 #### 🌱 Personal Projects:
+- [ZipMerge](https://github.com/jaspermayone/ZipMerge) - Simple App to help @jaspermayone make it through COMP1050 with a professor who won't use version controll.
+- [strings](https://github.com/jaspermayone/strings) - simple strings server for the wentworth coding club / my personal use
+- [calendar-backend](https://github.com/WITCodingClub/calendar-backend) - Gets Wentworth University courses and helps put them in your google calendar.
+- [boxcar](https://github.com/jaspermayone/boxcar) - My opinionated ruby on rails template
 - [IT Tool](https://github.com/jaspermayone/ittool)
 - [@jaspermayone/logger](https://github.com/jaspermayone/logger) - Oooooh! Logs! Shiny!
 - [obsidian-ai-tagger](https://github.com/jaspermayone/obsidian-ai-tagger) - Auto tagging obsidian notes w/ AI
