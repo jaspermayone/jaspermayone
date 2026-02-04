@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(today)**
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(today)**
-- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _""_ **(today)**
-- [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(today)**
+- [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(1 day ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(1 day ago)**
+- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _""_ **(1 day ago)**
+- [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(1 day ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown   4h 45m 19s   ███████████████░░░░░░░░░░  57.39%
-YAML      33m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.77%
-Python    28m 18s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.69%
-Swift     25m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.20%
-Java      22m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.55%
+unknown   4h 48m 36s   ███████████████░░░░░░░░░░  58.15%
+YAML      33m 40s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.78%
+Swift     25m 50s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.21%
+Python    24m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.88%
+Java      22m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.56%
 
 💼 Projects:
-dots      2h 12m 57s   ███████░░░░░░░░░░░░░░░░░░  26.74%
-2025      2h 5m 27s    ███████░░░░░░░░░░░░░░░░░░  25.23%
-backend   53m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  10.86%
-cv        45m 15s      ███░░░░░░░░░░░░░░░░░░░░░░  9.10%
-la2       38m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.73%
+dots      2h 12m 56s   ███████░░░░░░░░░░░░░░░░░░  26.78%
+2025      2h 1m 22s    ███████░░░░░░░░░░░░░░░░░░  24.45%
+backend   53m 59s      ███░░░░░░░░░░░░░░░░░░░░░░  10.87%
+cv        45m 15s      ███░░░░░░░░░░░░░░░░░░░░░░  9.12%
+la2       41m 43s      ███░░░░░░░░░░░░░░░░░░░░░░  8.40%
 
-Total: 8 hrs 17 mins
+Total: 8 hrs 16 mins
 ```
 
 
