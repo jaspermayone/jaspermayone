@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(today)**
-- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(today)**
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(2 days ago)**
-- [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(2 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(1 day ago)**
+- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(1 day ago)**
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(3 days ago)**
+- [`@WITCodingClub/calendar`](https://github.com/WITCodingClub/calendar) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(3 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown   4h 19m 26s   ███████████████████░░░░░░  73.25%
-JAVA      20m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.92%
-Java      20m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.72%
-JSON      10m 34s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.98%
-Nix       7m 51s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.22%
+unknown   4h 45m 16s   ███████████████████░░░░░░  75.07%
+JAVA      20m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.52%
+Java      20m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.33%
+JSON      10m 34s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.78%
+Nix       7m 51s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.07%
 
 💼 Projects:
-dots      1h 39m 18s   ████████░░░░░░░░░░░░░░░░░  28.03%
-la2       1h 14m 11s   ██████░░░░░░░░░░░░░░░░░░░  20.94%
-backend   56m 33s      ████░░░░░░░░░░░░░░░░░░░░░  15.96%
-cv        45m 15s      ████░░░░░░░░░░░░░░░░░░░░░  12.77%
-workdir   32m 39s      ███░░░░░░░░░░░░░░░░░░░░░░  9.22%
+la2       1h 40m 1s    ███████░░░░░░░░░░░░░░░░░░  26.32%
+dots      1h 39m 18s   ███████░░░░░░░░░░░░░░░░░░  26.13%
+backend   56m 33s      ████░░░░░░░░░░░░░░░░░░░░░  14.88%
+cv        45m 15s      ███░░░░░░░░░░░░░░░░░░░░░░  11.91%
+workdir   32m 39s      ███░░░░░░░░░░░░░░░░░░░░░░  8.59%
 
-Total: 5 hrs 54 mins
+Total: 6 hrs 20 mins
 ```
 
 
