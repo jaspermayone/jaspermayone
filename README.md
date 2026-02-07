@@ -18,14 +18,14 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(today)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(today)**
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _""_ **(1 day ago)**
 - [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(1 day ago)**
 - [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(3 days ago)**
 
 #### 🌱 My latest projects
 
-- [`@jaspermayone/ZipMerge`](https://github.com/jaspermayone/ZipMerge) - _"Simple App to help @jaspermayone make it through COMP1050 with a professor who won't use version controll."_
+- [`@jaspermayone/ZipMerge`](https://github.com/jaspermayone/ZipMerge) - _"Simple App to help @jaspermayone make it through COMP1050 with a professor who won't use version control."_
 - [`@jaspermayone/strings`](https://github.com/jaspermayone/strings) - _"simple strings server for the wentworth coding club / my personal use"_
 - [`@jaspermayone/serviceberry-ios`](https://github.com/jaspermayone/serviceberry-ios) - _"IOS Companion for @LimesKey/Serviceberry"_
 
@@ -38,16 +38,16 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown   5h 10m 21s   ████████████████████░░░░░  76.23%
+unknown   5h 5m 58s    ███████████████████░░░░░░  75.15%
 JAVA      20m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.15%
 Java      20m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.97%
-JSON      10m 34s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.60%
+JSON      12m 52s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.16%
 Nix       7m 51s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.93%
 
 💼 Projects:
+dots      1h 43m 37s   ███████░░░░░░░░░░░░░░░░░░  25.45%
 la2       1h 43m 13s   ███████░░░░░░░░░░░░░░░░░░  25.35%
-dots      1h 39m 18s   ███████░░░░░░░░░░░░░░░░░░  24.39%
-backend   56m 33s      ████░░░░░░░░░░░░░░░░░░░░░  13.89%
+backend   56m 18s      ████░░░░░░░░░░░░░░░░░░░░░  13.83%
 cv        45m 15s      ███░░░░░░░░░░░░░░░░░░░░░░  11.11%
 workdir   32m 39s      ███░░░░░░░░░░░░░░░░░░░░░░  8.02%
 
