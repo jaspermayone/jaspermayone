@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(1 day ago)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 day ago)**
-- [`@jaspermayone/metro`](https://github.com/jaspermayone/metro) - _"An interactive map of Boston's transit system."_ **(1 day ago)**
-- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(2 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(2 days ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(2 days ago)**
+- [`@jaspermayone/metro`](https://github.com/jaspermayone/metro) - _"An interactive map of Boston's transit system."_ **(2 days ago)**
+- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(3 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown      4h 57m 40s   █████████████████░░░░░░░░  66.91%
-TypeScript   28m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.36%
-JAVA         20m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.72%
-JSON         20m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.62%
-Java         20m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.55%
+unknown      4h 49m 43s   █████████████████░░░░░░░░  66.31%
+TypeScript   28m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.47%
+JAVA         20m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.80%
+JSON         20m 32s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.70%
+Java         20m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.63%
 
 💼 Projects:
-dots         1h 43m 42s   ██████░░░░░░░░░░░░░░░░░░░  23.31%
-la2          1h 42m 21s   ██████░░░░░░░░░░░░░░░░░░░  23.01%
-metro        1h 0m 46s    ████░░░░░░░░░░░░░░░░░░░░░  13.66%
-cv           45m 15s      ███░░░░░░░░░░░░░░░░░░░░░░  10.17%
-workdir      32m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.34%
+dots         1h 43m 42s   ██████░░░░░░░░░░░░░░░░░░░  23.73%
+la2          1h 42m 21s   ██████░░░░░░░░░░░░░░░░░░░  23.42%
+metro        1h 0m 36s    ████░░░░░░░░░░░░░░░░░░░░░  13.87%
+cv           45m 15s      ███░░░░░░░░░░░░░░░░░░░░░░  10.36%
+workdir      32m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.47%
 
-Total: 7 hrs 25 mins
+Total: 7 hrs 17 mins
 ```
 
 
