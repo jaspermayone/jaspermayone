@@ -18,16 +18,16 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(today)**
-- [`@jaspermayone/guardrails`](https://github.com/jaspermayone/guardrails) - _""_ **(today)**
 - [`@jaspermayone/leopardweb-python`](https://github.com/jaspermayone/leopardweb-python) - _""_ **(today)**
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(today)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(today)**
+- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(today)**
+- [`@jaspermayone/guardrails`](https://github.com/jaspermayone/guardrails) - _""_ **(today)**
 
 #### 🌱 My latest projects
 
+- [`@jaspermayone/encoded_ids`](https://github.com/jaspermayone/encoded_ids) - _""_
 - [`@jaspermayone/guardrails`](https://github.com/jaspermayone/guardrails) - _""_
 - [`@jaspermayone/leopardweb-python`](https://github.com/jaspermayone/leopardweb-python) - _""_
-- [`@jaspermayone/ZipMerge`](https://github.com/jaspermayone/ZipMerge) - _"Simple App to help @jaspermayone make it through COMP1050 with a professor who won't use version control."_
 
 #### 🍴 My recent forks
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown      5h 0m 50s    ████████████████░░░░░░░░░  62.89%
-TypeScript   28m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.91%
-Markdown     27m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.69%
-JAVA         20m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.39%
-Java         20m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.23%
+unknown      5h 0m 24s    ████████████████░░░░░░░░░  62.44%
+Markdown     30m 21s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.31%
+TypeScript   28m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.88%
+JAVA         20m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.36%
+Java         20m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.21%
 
 💼 Projects:
-la2          1h 42m 21s   ██████░░░░░░░░░░░░░░░░░░░  21.40%
-dots         1h 36m 14s   ██████░░░░░░░░░░░░░░░░░░░  20.12%
-metro        1h 0m 36s    ████░░░░░░░░░░░░░░░░░░░░░  12.67%
-cv           45m 15s      ███░░░░░░░░░░░░░░░░░░░░░░  9.46%
-Jasper       35m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.34%
+la2          1h 42m 21s   ██████░░░░░░░░░░░░░░░░░░░  21.27%
+dots         1h 28m 9s    █████░░░░░░░░░░░░░░░░░░░░  18.32%
+metro        1h 0m 36s    ████░░░░░░░░░░░░░░░░░░░░░  12.60%
+cv           45m 15s      ███░░░░░░░░░░░░░░░░░░░░░░  9.41%
+Jasper       35m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.30%
 
-Total: 7 hrs 58 mins
+Total: 8 hrs 1 mins
 ```
 
 
