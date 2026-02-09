@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(today)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(today)**
+- [`@jaspermayone/guardrails`](https://github.com/jaspermayone/guardrails) - _""_ **(today)**
 - [`@jaspermayone/leopardweb-python`](https://github.com/jaspermayone/leopardweb-python) - _""_ **(today)**
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(2 days ago)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(2 days ago)**
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(today)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown      5h 12m 33s   █████████████████░░░░░░░░  66.04%
-TypeScript   28m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.98%
-JAVA         20m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.43%
-Java         20m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.28%
-Markdown     18m 45s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.96%
+unknown      5h 0m 50s    ████████████████░░░░░░░░░  62.89%
+TypeScript   28m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.91%
+Markdown     27m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.69%
+JAVA         20m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.39%
+Java         20m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.23%
 
 💼 Projects:
-dots         1h 44m 4s    ██████░░░░░░░░░░░░░░░░░░░  21.99%
-la2          1h 42m 21s   ██████░░░░░░░░░░░░░░░░░░░  21.63%
-metro        1h 0m 36s    ████░░░░░░░░░░░░░░░░░░░░░  12.80%
-cv           45m 15s      ███░░░░░░░░░░░░░░░░░░░░░░  9.56%
-Jasper       35m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.42%
+la2          1h 42m 21s   ██████░░░░░░░░░░░░░░░░░░░  21.40%
+dots         1h 36m 14s   ██████░░░░░░░░░░░░░░░░░░░  20.12%
+metro        1h 0m 36s    ████░░░░░░░░░░░░░░░░░░░░░  12.67%
+cv           45m 15s      ███░░░░░░░░░░░░░░░░░░░░░░  9.46%
+Jasper       35m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.34%
 
-Total: 7 hrs 53 mins
+Total: 7 hrs 58 mins
 ```
 
 
