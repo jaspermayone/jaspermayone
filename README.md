@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/leopardweb-python`](https://github.com/jaspermayone/leopardweb-python) - _""_ **(today)**
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(today)**
-- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(today)**
-- [`@jaspermayone/guardrails`](https://github.com/jaspermayone/guardrails) - _""_ **(today)**
+- [`@jaspermayone/leopardweb-python`](https://github.com/jaspermayone/leopardweb-python) - _""_ **(1 day ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(1 day ago)**
+- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(1 day ago)**
+- [`@jaspermayone/guardrails`](https://github.com/jaspermayone/guardrails) - _""_ **(1 day ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown      5h 0m 24s    ████████████████░░░░░░░░░  62.44%
-Markdown     30m 21s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.31%
-TypeScript   28m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.88%
-JAVA         20m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.36%
-Java         20m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.21%
+unknown      4h 58m 49s   ████████████████░░░░░░░░░  63.19%
+Markdown     30m 21s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.42%
+TypeScript   28m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.98%
+JAVA         20m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.44%
+Java         20m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.28%
 
 💼 Projects:
-la2          1h 42m 21s   ██████░░░░░░░░░░░░░░░░░░░  21.27%
-dots         1h 28m 9s    █████░░░░░░░░░░░░░░░░░░░░  18.32%
-metro        1h 0m 36s    ████░░░░░░░░░░░░░░░░░░░░░  12.60%
-cv           45m 15s      ███░░░░░░░░░░░░░░░░░░░░░░  9.41%
-Jasper       35m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.30%
+la2          1h 42m 21s   ██████░░░░░░░░░░░░░░░░░░░  21.65%
+dots         1h 5m 50s    ████░░░░░░░░░░░░░░░░░░░░░  13.92%
+metro        1h 0m 36s    ████░░░░░░░░░░░░░░░░░░░░░  12.82%
+cv           39m 28s      ███░░░░░░░░░░░░░░░░░░░░░░  8.35%
+Jasper       34m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.38%
 
-Total: 8 hrs 1 mins
+Total: 7 hrs 53 mins
 ```
 
 
