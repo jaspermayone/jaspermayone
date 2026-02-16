@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(3 days ago)**
-- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(3 days ago)**
-- [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(3 days ago)**
-- [`@jaspermayone/encoded_ids`](https://github.com/jaspermayone/encoded_ids) - _""_ **(3 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(4 days ago)**
+- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(4 days ago)**
+- [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(4 days ago)**
+- [`@jaspermayone/encoded_ids`](https://github.com/jaspermayone/encoded_ids) - _""_ **(4 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown    4h 48m 8s    ██████████████░░░░░░░░░░░  53.23%
-YAML       1h 50m 41s   ██████░░░░░░░░░░░░░░░░░░░  20.45%
-Python     44m 24s      ███░░░░░░░░░░░░░░░░░░░░░░  8.20%
-Markdown   39m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.39%
-Ruby       28m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.18%
+unknown    4h 50m 8s    ██████████████░░░░░░░░░░░  53.40%
+YAML       1h 50m 41s   ██████░░░░░░░░░░░░░░░░░░░  20.37%
+Python     44m 24s      ███░░░░░░░░░░░░░░░░░░░░░░  8.17%
+Markdown   39m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.36%
+Ruby       28m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.16%
 
 💼 Projects:
-dns        2h 23m 1s    ███████░░░░░░░░░░░░░░░░░░  26.42%
-alex-wow   1h 49m 8s    ██████░░░░░░░░░░░░░░░░░░░  20.16%
-unknown    54m 6s       ███░░░░░░░░░░░░░░░░░░░░░░  9.99%
-idp        51m 45s      ███░░░░░░░░░░░░░░░░░░░░░░  9.56%
-pubid      44m 16s      ███░░░░░░░░░░░░░░░░░░░░░░  8.18%
+dns        2h 23m 1s    ███████░░░░░░░░░░░░░░░░░░  26.32%
+alex-wow   1h 49m 8s    ██████░░░░░░░░░░░░░░░░░░░  20.09%
+unknown    54m 6s       ███░░░░░░░░░░░░░░░░░░░░░░  9.96%
+idp        53m 45s      ███░░░░░░░░░░░░░░░░░░░░░░  9.89%
+pubid      44m 16s      ███░░░░░░░░░░░░░░░░░░░░░░  8.15%
 
-Total: 9 hrs 1 mins
+Total: 9 hrs 3 mins
 ```
 
 
