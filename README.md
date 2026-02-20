@@ -18,8 +18,8 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(today)**
 - [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(today)**
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(3 days ago)**
 - [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(3 days ago)**
 - [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(1 week ago)**
 
