@@ -18,9 +18,9 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(1 day ago)**
-- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(1 day ago)**
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(4 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(2 days ago)**
+- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(2 days ago)**
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(5 days ago)**
 - [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(1 week ago)**
 
 #### 🌱 My latest projects
@@ -38,7 +38,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown   3h 10m 54s   ██████████████░░░░░░░░░░░  52.71%
+unknown   3h 10m 53s   ██████████████░░░░░░░░░░░  52.71%
 C         31m 10s      ███░░░░░░░░░░░░░░░░░░░░░░  8.61%
 C/C++     21m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.96%
 Nix       19m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.40%
@@ -46,9 +46,9 @@ YAML      17m 10s      ██░░░░░░░░░░░░░░░░░
 
 💼 Projects:
 2025      1h 43m 56s   ████████░░░░░░░░░░░░░░░░░  28.68%
-unknown   54m 35s      ████░░░░░░░░░░░░░░░░░░░░░  15.06%
+unknown   52m 35s      ████░░░░░░░░░░░░░░░░░░░░░  14.51%
 idp       48m 47s      ████░░░░░░░░░░░░░░░░░░░░░  13.46%
-website   40m 39s      ███░░░░░░░░░░░░░░░░░░░░░░  11.22%
+website   42m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  11.76%
 la3       39m 27s      ███░░░░░░░░░░░░░░░░░░░░░░  10.89%
 
 Total: 6 hrs 2 mins
