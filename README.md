@@ -18,8 +18,8 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(today)**
 - [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(today)**
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(1 day ago)**
 - [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(3 days ago)**
 - [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(1 week ago)**
 
@@ -31,27 +31,27 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 🍴 My recent forks
 
+- [mbta-mcp-server](https://github.com/jaspermayone-forks/mbta-mcp-server) - 
 - [claude-island](https://github.com/jaspermayone-forks/claude-island) - Claude Code notifications without the context switch. A minimal, always-present session manager for macOS.
-- [DEV-Android](https://github.com/jaspermayone-forks/DEV-Android) - DEV Community Android App
 
 #### 📡 my _`wakatime`_ stats from the last week
 
 ```text
 💾 Languages:
-unknown   2h 50m 31s   █████████████░░░░░░░░░░░░  49.02%
-C         31m 10s      ███░░░░░░░░░░░░░░░░░░░░░░  8.96%
-Nix       22m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.35%
-C/C++     21m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.21%
-Java      14m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.06%
+unknown   3h 3m 38s    █████████████░░░░░░░░░░░░  50.87%
+C         31m 10s      ███░░░░░░░░░░░░░░░░░░░░░░  8.63%
+Nix       22m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.12%
+C/C++     21m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.98%
+Java      14m 8s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.92%
 
 💼 Projects:
-2025      1h 43m 56s   ████████░░░░░░░░░░░░░░░░░  29.86%
-dots      42m 17s      ████░░░░░░░░░░░░░░░░░░░░░  12.15%
-unknown   41m 39s      ███░░░░░░░░░░░░░░░░░░░░░░  11.96%
-website   40m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  11.67%
-la3       39m 27s      ███░░░░░░░░░░░░░░░░░░░░░░  11.33%
+2025      1h 43m 56s   ████████░░░░░░░░░░░░░░░░░  28.77%
+unknown   46m 28s      ████░░░░░░░░░░░░░░░░░░░░░  12.86%
+dots      42m 17s      ███░░░░░░░░░░░░░░░░░░░░░░  11.71%
+website   40m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  11.25%
+la3       39m 27s      ███░░░░░░░░░░░░░░░░░░░░░░  10.92%
 
-Total: 5 hrs 48 mins
+Total: 6 hrs 1 mins
 ```
 
 
