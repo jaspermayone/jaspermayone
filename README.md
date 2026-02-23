@@ -18,9 +18,9 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(today)**
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(today)**
-- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(2 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(1 day ago)**
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
+- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(3 days ago)**
 - [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(1 week ago)**
 
 #### 🌱 My latest projects
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown   2h 46m 26s   █████████████░░░░░░░░░░░░  50.69%
-C         31m 10s      ███░░░░░░░░░░░░░░░░░░░░░░  9.49%
-Nix       22m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.73%
-C/C++     21m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.58%
-Java      14m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.30%
+unknown   2h 51m 27s   █████████████░░░░░░░░░░░░  51.43%
+C         31m 10s      ███░░░░░░░░░░░░░░░░░░░░░░  9.35%
+Nix       22m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.63%
+C/C++     21m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.48%
+Java      14m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.24%
 
 💼 Projects:
-2025      1h 43m 56s   ████████░░░░░░░░░░░░░░░░░  31.63%
-website   40m 38s      ████░░░░░░░░░░░░░░░░░░░░░  12.37%
-la3       39m 27s      ████░░░░░░░░░░░░░░░░░░░░░  12.01%
-unknown   39m 3s       ███░░░░░░░░░░░░░░░░░░░░░░  11.89%
-dots      35m 17s      ███░░░░░░░░░░░░░░░░░░░░░░  10.74%
+2025      1h 43m 56s   ████████░░░░░░░░░░░░░░░░░  31.16%
+website   40m 38s      ████░░░░░░░░░░░░░░░░░░░░░  12.18%
+dots      40m 18s      ████░░░░░░░░░░░░░░░░░░░░░  12.08%
+la3       39m 27s      ███░░░░░░░░░░░░░░░░░░░░░░  11.83%
+unknown   39m 3s       ███░░░░░░░░░░░░░░░░░░░░░░  11.71%
 
-Total: 5 hrs 29 mins
+Total: 5 hrs 34 mins
 ```
 
 
