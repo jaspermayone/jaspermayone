@@ -18,7 +18,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(1 day ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(today)**
 - [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
 - [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(4 days ago)**
 - [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(1 week ago)**
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown    2h 48m 18s   ████████████░░░░░░░░░░░░░  46.42%
-C          31m 10s      ███░░░░░░░░░░░░░░░░░░░░░░  8.60%
-Nix        22m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.10%
-C/C++      21m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.96%
-Markdown   17m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.75%
+unknown    2h 50m 8s    ████████████░░░░░░░░░░░░░  46.69%
+C          31m 10s      ███░░░░░░░░░░░░░░░░░░░░░░  8.55%
+Nix        22m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.07%
+C/C++      21m 36s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.93%
+Markdown   17m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.72%
 
 💼 Projects:
-2025       1h 43m 56s   ████████░░░░░░░░░░░░░░░░░  28.64%
-unknown    42m 26s      ███░░░░░░░░░░░░░░░░░░░░░░  11.69%
-dots       42m 17s      ███░░░░░░░░░░░░░░░░░░░░░░  11.65%
-website    40m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  11.20%
-la3        39m 27s      ███░░░░░░░░░░░░░░░░░░░░░░  10.87%
+2025       1h 43m 56s   ████████░░░░░░░░░░░░░░░░░  28.50%
+unknown    44m 13s      ████░░░░░░░░░░░░░░░░░░░░░  12.12%
+dots       42m 17s      ███░░░░░░░░░░░░░░░░░░░░░░  11.59%
+website    40m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  11.14%
+la3        39m 27s      ███░░░░░░░░░░░░░░░░░░░░░░  10.82%
 
-Total: 6 hrs 3 mins
+Total: 6 hrs 5 mins
 ```
 
 
