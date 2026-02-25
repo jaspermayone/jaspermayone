@@ -18,7 +18,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(1 day ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(today)**
 - [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(2 days ago)**
 - [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(5 days ago)**
 - [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(1 week ago)**
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown   2h 47m 46s   █████████████░░░░░░░░░░░░  49.11%
-YAML      28m 16s      ███░░░░░░░░░░░░░░░░░░░░░░  8.27%
-C         27m 44s      ███░░░░░░░░░░░░░░░░░░░░░░  8.12%
-C/C++     17m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.02%
-Java      14m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.14%
+unknown   2h 49m 37s   █████████████░░░░░░░░░░░░  49.08%
+YAML      30m 23s      ███░░░░░░░░░░░░░░░░░░░░░░  8.79%
+C         27m 44s      ███░░░░░░░░░░░░░░░░░░░░░░  8.03%
+C/C++     17m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.96%
+Java      14m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.09%
 
 💼 Projects:
-2025      1h 27m 58s   ███████░░░░░░░░░░░░░░░░░░  25.73%
-unknown   44m 36s      ████░░░░░░░░░░░░░░░░░░░░░  13.05%
-website   40m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  11.89%
-la3       39m 27s      ███░░░░░░░░░░░░░░░░░░░░░░  11.54%
-dns       31m 20s      ███░░░░░░░░░░░░░░░░░░░░░░  9.17%
+2025      1h 27m 58s   ███████░░░░░░░░░░░░░░░░░░  25.44%
+unknown   44m 18s      ████░░░░░░░░░░░░░░░░░░░░░  12.81%
+website   40m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  11.75%
+la3       39m 27s      ███░░░░░░░░░░░░░░░░░░░░░░  11.41%
+dns       35m 36s      ███░░░░░░░░░░░░░░░░░░░░░░  10.29%
 
-Total: 5 hrs 42 mins
+Total: 5 hrs 46 mins
 ```
 
 
