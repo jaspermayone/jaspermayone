@@ -19,7 +19,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 #### 👷 The latest repos I've pushed to
 
 - [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(today)**
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(2 days ago)**
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(today)**
 - [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(5 days ago)**
 - [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(1 week ago)**
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown   2h 47m 38s   █████████████░░░░░░░░░░░░  48.48%
-YAML      32m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  9.42%
-C         27m 44s      ███░░░░░░░░░░░░░░░░░░░░░░  8.02%
-C/C++     17m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.96%
-Java      14m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.09%
+unknown   2h 50m 56s   █████████████░░░░░░░░░░░░  48.06%
+YAML      32m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  9.16%
+C         27m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.80%
+C/C++     17m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.82%
+Java      14m 8s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.97%
 
 💼 Projects:
-2025      1h 27m 58s   ███████░░░░░░░░░░░░░░░░░░  25.42%
-unknown   42m 18s      ████░░░░░░░░░░░░░░░░░░░░░  12.23%
-website   40m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  11.74%
-la3       39m 27s      ███░░░░░░░░░░░░░░░░░░░░░░  11.40%
-dns       37m 48s      ███░░░░░░░░░░░░░░░░░░░░░░  10.92%
+2025      1h 27m 58s   ███████░░░░░░░░░░░░░░░░░░  24.72%
+unknown   42m 18s      ███░░░░░░░░░░░░░░░░░░░░░░  11.89%
+website   40m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  11.42%
+dns       39m 47s      ███░░░░░░░░░░░░░░░░░░░░░░  11.18%
+la3       39m 27s      ███░░░░░░░░░░░░░░░░░░░░░░  11.08%
 
-Total: 5 hrs 46 mins
+Total: 5 hrs 56 mins
 ```
 
 
