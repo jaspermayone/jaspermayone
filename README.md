@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(today)**
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(today)**
-- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(5 days ago)**
-- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(1 week ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(1 day ago)**
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
+- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(6 days ago)**
+- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(2 weeks ago)**
 
 #### 🌱 My latest projects
 
@@ -38,18 +38,18 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown   2h 57m 48s   █████████████░░░░░░░░░░░░  49.05%
-YAML      32m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  8.98%
-C         27m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.65%
+unknown   2h 58m 14s   █████████████░░░░░░░░░░░░  49.11%
+YAML      32m 34s      ███░░░░░░░░░░░░░░░░░░░░░░  8.97%
+C         27m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.64%
 C/C++     17m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.73%
-Java      14m 8s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.90%
+Java      14m 8s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.89%
 
 💼 Projects:
-2025      1h 27m 58s   ███████░░░░░░░░░░░░░░░░░░  24.25%
-unknown   42m 18s      ███░░░░░░░░░░░░░░░░░░░░░░  11.66%
-website   40m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  11.20%
-dns       39m 47s      ███░░░░░░░░░░░░░░░░░░░░░░  10.97%
-la3       39m 27s      ███░░░░░░░░░░░░░░░░░░░░░░  10.87%
+2025      1h 27m 58s   ███████░░░░░░░░░░░░░░░░░░  24.22%
+website   40m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  11.19%
+unknown   40m 36s      ███░░░░░░░░░░░░░░░░░░░░░░  11.18%
+dns       39m 47s      ███░░░░░░░░░░░░░░░░░░░░░░  10.95%
+la3       39m 27s      ███░░░░░░░░░░░░░░░░░░░░░░  10.86%
 
 Total: 6 hrs 3 mins
 ```
