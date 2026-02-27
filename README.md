@@ -18,9 +18,9 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(today)**
-- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(today)**
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(today)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(1 day ago)**
+- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(1 day ago)**
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
 - [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(2 weeks ago)**
 
 #### 🌱 My latest projects
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown   3h 43m 1s    ██████████████░░░░░░░░░░░  52.35%
-YAML      36m 56s      ███░░░░░░░░░░░░░░░░░░░░░░  8.67%
-Ruby      28m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.73%
-C         27m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.51%
-C/C++     17m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.03%
+unknown    3h 44m 10s   ██████████████░░░░░░░░░░░  55.50%
+YAML       36m 56s      ███░░░░░░░░░░░░░░░░░░░░░░  9.14%
+Ruby       32m 49s      ███░░░░░░░░░░░░░░░░░░░░░░  8.12%
+Markdown   14m 29s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.59%
+C          13m 10s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.26%
 
 💼 Projects:
-2025      1h 36m 36s   ██████░░░░░░░░░░░░░░░░░░░  22.67%
-dns       1h 10m 41s   █████░░░░░░░░░░░░░░░░░░░░  16.58%
-backend   48m 4s       ███░░░░░░░░░░░░░░░░░░░░░░  11.28%
-website   40m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  9.53%
-unknown   36m 17s      ███░░░░░░░░░░░░░░░░░░░░░░  8.51%
+dns        1h 10m 41s   █████░░░░░░░░░░░░░░░░░░░░  17.49%
+2025       1h 9m 48s    █████░░░░░░░░░░░░░░░░░░░░  17.27%
+backend    54m 20s      ████░░░░░░░░░░░░░░░░░░░░░  13.44%
+website    40m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  10.05%
+unknown    36m 17s      ███░░░░░░░░░░░░░░░░░░░░░░  8.98%
 
-Total: 7 hrs 6 mins
+Total: 6 hrs 44 mins
 ```
 
 
