@@ -18,9 +18,9 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(2 days ago)**
-- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(2 days ago)**
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(2 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(3 days ago)**
+- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(3 days ago)**
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(3 days ago)**
 - [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(2 weeks ago)**
 
 #### 🌱 My latest projects
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown        2h 54m 38s   ███████████████░░░░░░░░░░  59.77%
-Ruby           34m 49s      ███░░░░░░░░░░░░░░░░░░░░░░  11.92%
-YAML           32m 21s      ███░░░░░░░░░░░░░░░░░░░░░░  11.07%
-Markdown       11m 36s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.97%
-HTTP Request   8m 23s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.87%
+unknown        2h 59m 9s   ████████████████░░░░░░░░░  60.38%
+Ruby           34m 49s     ███░░░░░░░░░░░░░░░░░░░░░░  11.73%
+YAML           32m 21s     ███░░░░░░░░░░░░░░░░░░░░░░  10.90%
+Markdown       11m 36s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.91%
+HTTP Request   8m 23s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.83%
 
 💼 Projects:
-dns            1h 4m 6s     ██████░░░░░░░░░░░░░░░░░░░  21.92%
-backend        54m 20s      █████░░░░░░░░░░░░░░░░░░░░  18.58%
-unknown        33m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  11.50%
-crane          24m 56s      ███░░░░░░░░░░░░░░░░░░░░░░  8.53%
-dots           22m 1s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.53%
+dns            1h 4m 6s    ██████░░░░░░░░░░░░░░░░░░░  21.59%
+backend        54m 20s     █████░░░░░░░░░░░░░░░░░░░░  18.30%
+unknown        33m 38s     ███░░░░░░░░░░░░░░░░░░░░░░  11.33%
+crane          24m 56s     ███░░░░░░░░░░░░░░░░░░░░░░  8.40%
+mlh/core       24m 8s      ███░░░░░░░░░░░░░░░░░░░░░░  8.13%
 
-Total: 4 hrs 52 mins
+Total: 4 hrs 57 mins
 ```
 
 
