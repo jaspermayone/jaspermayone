@@ -19,9 +19,9 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 #### 👷 The latest repos I've pushed to
 
 - [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(4 days ago)**
-- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(4 days ago)**
 - [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(4 days ago)**
-- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(2 weeks ago)**
+- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(4 days ago)**
+- [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(2 weeks ago)**
 
 #### 🌱 My latest projects
 
