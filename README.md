@@ -18,8 +18,8 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(today)**
 - [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(6 days ago)**
 - [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(6 days ago)**
 - [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(2 weeks ago)**
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown        1h 50m 48s   ████████████░░░░░░░░░░░░░  47.21%
-Ruby           44m 58s      █████░░░░░░░░░░░░░░░░░░░░  19.16%
-HTTP Request   35m 25s      ████░░░░░░░░░░░░░░░░░░░░░  15.09%
-YAML           23m 47s      ███░░░░░░░░░░░░░░░░░░░░░░  10.13%
-Bash           4m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.10%
+unknown        1h 47m 15s   █████████████░░░░░░░░░░░░  49.54%
+Ruby           44m 58s      ██████░░░░░░░░░░░░░░░░░░░  20.77%
+HTTP Request   35m 25s      █████░░░░░░░░░░░░░░░░░░░░  16.36%
+Bash           7m 53s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.64%
+YAML           6m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.03%
 
 💼 Projects:
-backend        1h 21m 55s   █████████░░░░░░░░░░░░░░░░  34.88%
-dns            56m 2s       ██████░░░░░░░░░░░░░░░░░░░  23.86%
-mlh/core       42m 49s      █████░░░░░░░░░░░░░░░░░░░░  18.23%
-macos          20m 0s       ███░░░░░░░░░░░░░░░░░░░░░░  8.52%
-volo-drone     17m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.53%
+backend        1h 23m 54s   ██████████░░░░░░░░░░░░░░░  38.73%
+mlh/core       42m 49s      █████░░░░░░░░░░░░░░░░░░░░  19.76%
+dns            37m 15s      █████░░░░░░░░░░░░░░░░░░░░  17.19%
+macos          22m 58s      ███░░░░░░░░░░░░░░░░░░░░░░  10.60%
+volo-drone     17m 41s      ███░░░░░░░░░░░░░░░░░░░░░░  8.16%
 
-Total: 3 hrs 55 mins
+Total: 3 hrs 37 mins
 ```
 
 
