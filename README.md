@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(today)**
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
-- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(6 days ago)**
-- [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(2 weeks ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(1 day ago)**
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(2 days ago)**
+- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(1 week ago)**
+- [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(3 weeks ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown        1h 40m 19s   █████████████░░░░░░░░░░░░  49.47%
-Ruby           44m 58s      ██████░░░░░░░░░░░░░░░░░░░  22.17%
-HTTP Request   35m 25s      █████░░░░░░░░░░░░░░░░░░░░  17.46%
-Bash           4m 57s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.44%
-YAML           4m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.15%
+Ruby           1h 46m 58s   ██████████░░░░░░░░░░░░░░░  38.45%
+unknown        1h 36m 49s   █████████░░░░░░░░░░░░░░░░  34.80%
+HTTP Request   45m 48s      █████░░░░░░░░░░░░░░░░░░░░  16.46%
+YAML           8m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.93%
+PLAIN_TEXT     6m 4s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.18%
 
 💼 Projects:
-backend        1h 23m 54s   ███████████░░░░░░░░░░░░░░  41.35%
-mlh/core       42m 49s      ██████░░░░░░░░░░░░░░░░░░░  21.10%
-dns            30m 54s      ████░░░░░░░░░░░░░░░░░░░░░  15.23%
-volo-drone     17m 41s      ███░░░░░░░░░░░░░░░░░░░░░░  8.72%
-macos          15m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.68%
+backend        2h 39m 3s    ███████████████░░░░░░░░░░  57.14%
+mlh/core       41m 24s      ████░░░░░░░░░░░░░░░░░░░░░  14.87%
+dns            30m 54s      ███░░░░░░░░░░░░░░░░░░░░░░  11.10%
+volo-drone     17m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.35%
+macos          13m 30s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.85%
 
-Total: 3 hrs 23 mins
+Total: 4 hrs 38 mins
 ```
 
 
