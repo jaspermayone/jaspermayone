@@ -18,7 +18,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(1 day ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(today)**
 - [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(2 days ago)**
 - [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(1 week ago)**
 - [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(3 weeks ago)**
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-Ruby           1h 31m 50s   ███████████░░░░░░░░░░░░░░  43.66%
-unknown        52m 46s      ███████░░░░░░░░░░░░░░░░░░  25.09%
-HTTP Request   42m 17s      ██████░░░░░░░░░░░░░░░░░░░  20.10%
+Ruby           1h 31m 50s   ███████████░░░░░░░░░░░░░░  43.64%
+unknown        50m 40s      ███████░░░░░░░░░░░░░░░░░░  24.08%
+HTTP Request   41m 41s      █████░░░░░░░░░░░░░░░░░░░░  19.81%
+Markdown       8m 49s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.19%
 PLAIN_TEXT     6m 4s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.88%
-Markdown       6m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.85%
 
 💼 Projects:
-backend        2h 19m 56s   █████████████████░░░░░░░░  66.49%
-mlh/core       41m 24s      █████░░░░░░░░░░░░░░░░░░░░  19.67%
+backend        2h 19m 51s   █████████████████░░░░░░░░  66.42%
+mlh/core       41m 24s      █████░░░░░░░░░░░░░░░░░░░░  19.66%
 macos          11m 28s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.45%
-2025           9m 48s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.66%
-Jasper         4m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.94%
+2025           7m 11s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.41%
+Jasper         6m 53s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.27%
 
-Total: 3 hrs 30 mins
+Total: 3 hrs 31 mins
 ```
 
 
