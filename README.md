@@ -21,7 +21,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 - [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(4 days ago)**
 - [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(4 days ago)**
 - [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(1 week ago)**
-- [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"OctoDNS + CoreDNS managed DNS config"_ **(3 weeks ago)**
+- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(3 weeks ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown          2h 39m 42s   ███████████░░░░░░░░░░░░░░  41.89%
-Ruby             1h 25m 40s   ██████░░░░░░░░░░░░░░░░░░░  22.47%
-HTTP Request     39m 25s      ███░░░░░░░░░░░░░░░░░░░░░░  10.34%
-TSX              17m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.49%
-Markdown         15m 4s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.95%
+unknown          2h 39m 42s   ███████████░░░░░░░░░░░░░░  41.05%
+Ruby             1h 25m 40s   ██████░░░░░░░░░░░░░░░░░░░  22.02%
+HTTP Request     39m 25s      ███░░░░░░░░░░░░░░░░░░░░░░  10.13%
+TSX              17m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.40%
+Python           16m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.23%
 
 💼 Projects:
-backend          2h 13m 34s   █████████░░░░░░░░░░░░░░░░  35.02%
-Jasper           1h 12m 59s   █████░░░░░░░░░░░░░░░░░░░░  19.14%
-macos            55m 15s      ████░░░░░░░░░░░░░░░░░░░░░  14.49%
-website          47m 7s       ████░░░░░░░░░░░░░░░░░░░░░  12.35%
-tma-automation   28m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.36%
+backend          2h 13m 34s   █████████░░░░░░░░░░░░░░░░  34.32%
+Jasper           1h 12m 59s   █████░░░░░░░░░░░░░░░░░░░░  18.75%
+macos            56m 15s      ████░░░░░░░░░░░░░░░░░░░░░  14.45%
+website          47m 7s       ████░░░░░░░░░░░░░░░░░░░░░  12.11%
+tma-automation   32m 53s      ███░░░░░░░░░░░░░░░░░░░░░░  8.45%
 
-Total: 6 hrs 21 mins
+Total: 6 hrs 29 mins
 ```
 
 
