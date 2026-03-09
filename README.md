@@ -31,27 +31,27 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 🍴 My recent forks
 
+- [img](https://github.com/jaspermayone-forks/img) - lightweight image tools
 - [mbta-mcp-server](https://github.com/jaspermayone-forks/mbta-mcp-server) - 
-- [claude-island](https://github.com/jaspermayone-forks/claude-island) - Claude Code notifications without the context switch. A minimal, always-present session manager for macOS.
 
 #### 📡 my _`wakatime`_ stats from the last week
 
 ```text
 💾 Languages:
-unknown        2h 52m 48s   ██████████░░░░░░░░░░░░░░░  36.10%
-Ruby           1h 25m 40s   █████░░░░░░░░░░░░░░░░░░░░  17.90%
-TSX            1h 18m 14s   █████░░░░░░░░░░░░░░░░░░░░  16.34%
-HTTP Request   39m 25s      ███░░░░░░░░░░░░░░░░░░░░░░  8.23%
-Markdown       18m 47s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.92%
+unknown        2h 56m 4s    ██████████░░░░░░░░░░░░░░░  36.53%
+Ruby           1h 25m 40s   █████░░░░░░░░░░░░░░░░░░░░  17.77%
+TSX            1h 18m 14s   █████░░░░░░░░░░░░░░░░░░░░  16.23%
+HTTP Request   39m 25s      ███░░░░░░░░░░░░░░░░░░░░░░  8.18%
+Markdown       18m 47s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.90%
 
 💼 Projects:
-backend        2h 13m 34s   ███████░░░░░░░░░░░░░░░░░░  27.89%
-cl-vtambucs    1h 20m 57s   █████░░░░░░░░░░░░░░░░░░░░  16.90%
-Jasper         1h 12m 59s   ████░░░░░░░░░░░░░░░░░░░░░  15.24%
-macos          58m 40s      ████░░░░░░░░░░░░░░░░░░░░░  12.25%
-website        47m 7s       ███░░░░░░░░░░░░░░░░░░░░░░  9.84%
+backend        2h 13m 34s   ███████░░░░░░░░░░░░░░░░░░  27.70%
+cl-vtambucs    1h 24m 13s   █████░░░░░░░░░░░░░░░░░░░░  17.47%
+Jasper         1h 12m 59s   ████░░░░░░░░░░░░░░░░░░░░░  15.14%
+macos          58m 40s      ████░░░░░░░░░░░░░░░░░░░░░  12.17%
+website        47m 7s       ███░░░░░░░░░░░░░░░░░░░░░░  9.77%
 
-Total: 7 hrs 59 mins
+Total: 8 hrs 2 mins
 ```
 
 
