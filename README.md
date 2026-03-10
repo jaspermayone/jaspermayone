@@ -18,8 +18,8 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(4 days ago)**
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(4 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(5 days ago)**
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(5 days ago)**
 - [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(1 week ago)**
 - [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(3 weeks ago)**
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown        3h 22m 43s   ██████████░░░░░░░░░░░░░░░  39.86%
-Ruby           1h 25m 40s   █████░░░░░░░░░░░░░░░░░░░░  16.84%
-TSX            1h 18m 14s   ████░░░░░░░░░░░░░░░░░░░░░  15.38%
-HTTP Request   39m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.75%
-Markdown       18m 47s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.69%
+unknown        3h 34m 20s   ███████████░░░░░░░░░░░░░░  41.17%
+Ruby           1h 25m 40s   █████░░░░░░░░░░░░░░░░░░░░  16.46%
+TSX            1h 18m 14s   ████░░░░░░░░░░░░░░░░░░░░░  15.03%
+HTTP Request   39m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.57%
+Markdown       19m 8s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.68%
 
 💼 Projects:
-backend        2h 13m 34s   ███████░░░░░░░░░░░░░░░░░░  26.25%
-cl-vtambucs    1h 34m 0s    █████░░░░░░░░░░░░░░░░░░░░  18.47%
-Jasper         1h 12m 59s   ████░░░░░░░░░░░░░░░░░░░░░  14.34%
-macos          58m 40s      ███░░░░░░░░░░░░░░░░░░░░░░  11.53%
-website        47m 7s       ███░░░░░░░░░░░░░░░░░░░░░░  9.26%
+backend        2h 13m 34s   ███████░░░░░░░░░░░░░░░░░░  25.65%
+cl-vtambucs    1h 34m 0s    █████░░░░░░░░░░░░░░░░░░░░  18.05%
+Jasper         1h 13m 20s   ████░░░░░░░░░░░░░░░░░░░░░  14.08%
+macos          58m 40s      ███░░░░░░░░░░░░░░░░░░░░░░  11.26%
+unknown        52m 52s      ███░░░░░░░░░░░░░░░░░░░░░░  10.15%
 
-Total: 8 hrs 29 mins
+Total: 8 hrs 41 mins
 ```
 
 
