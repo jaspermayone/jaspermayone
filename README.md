@@ -19,9 +19,9 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 #### 👷 The latest repos I've pushed to
 
 - [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(today)**
+- [`@jaspermayone/strings`](https://github.com/jaspermayone/strings) - _"simple strings server for the wentworth coding club / my personal use"_ **(today)**
 - [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(today)**
 - [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(1 week ago)**
-- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(3 weeks ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown        3h 55m 1s    ███████████░░░░░░░░░░░░░░  41.71%
-Ruby           1h 25m 43s   ████░░░░░░░░░░░░░░░░░░░░░  15.21%
-TSX            1h 18m 14s   ████░░░░░░░░░░░░░░░░░░░░░  13.88%
-HTTP Request   39m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.00%
-Bash           23m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.18%
+unknown        3h 55m 1s    ███████████░░░░░░░░░░░░░░  41.52%
+Ruby           1h 25m 43s   ████░░░░░░░░░░░░░░░░░░░░░  15.14%
+TSX            1h 18m 14s   ████░░░░░░░░░░░░░░░░░░░░░  13.82%
+HTTP Request   39m 25s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.96%
+Bash           26m 10s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.62%
 
 💼 Projects:
-backend        2h 18m 33s   ███████░░░░░░░░░░░░░░░░░░  24.58%
-cl-vtambucs    1h 34m 0s    █████░░░░░░░░░░░░░░░░░░░░  16.67%
-Jasper         1h 20m 2s    ████░░░░░░░░░░░░░░░░░░░░░  14.20%
-unknown        1h 13m 58s   ████░░░░░░░░░░░░░░░░░░░░░  13.12%
-macos          1h 4m 48s    ███░░░░░░░░░░░░░░░░░░░░░░  11.49%
+backend        2h 18m 33s   ███████░░░░░░░░░░░░░░░░░░  24.46%
+cl-vtambucs    1h 34m 0s    █████░░░░░░░░░░░░░░░░░░░░  16.60%
+Jasper         1h 20m 2s    ████░░░░░░░░░░░░░░░░░░░░░  14.13%
+unknown        1h 13m 58s   ████░░░░░░░░░░░░░░░░░░░░░  13.06%
+macos          1h 7m 24s    ███░░░░░░░░░░░░░░░░░░░░░░  11.90%
 
-Total: 9 hrs 24 mins
+Total: 9 hrs 26 mins
 ```
 
 
