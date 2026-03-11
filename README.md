@@ -38,7 +38,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown       4h 19m 29s   ████████████░░░░░░░░░░░░░  47.88%
+unknown       4h 19m 26s   ████████████░░░░░░░░░░░░░  47.88%
 TSX           1h 20m 57s   ████░░░░░░░░░░░░░░░░░░░░░  14.94%
 Ruby          1h 3m 38s    ███░░░░░░░░░░░░░░░░░░░░░░  11.74%
 Bash          23m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.28%
