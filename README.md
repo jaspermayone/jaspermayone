@@ -18,8 +18,8 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(1 day ago)**
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(today)**
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(today)**
 - [`@jaspermayone/strings`](https://github.com/jaspermayone/strings) - _"simple strings server for the wentworth coding club / my personal use"_ **(2 days ago)**
 - [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(2 weeks ago)**
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown       4h 39m 8s    ███████████████░░░░░░░░░░  57.11%
-TSX           1h 20m 57s   █████░░░░░░░░░░░░░░░░░░░░  16.56%
-Markdown      23m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.76%
-Bash          23m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.75%
-Python        16m 27s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.37%
+unknown       4h 51m 21s   ███████████████░░░░░░░░░░  58.16%
+TSX           1h 20m 57s   █████░░░░░░░░░░░░░░░░░░░░  16.16%
+Markdown      23m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.64%
+Bash          23m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.63%
+Python        16m 27s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.28%
 
 💼 Projects:
-cl-vtambucs   1h 34m 0s    █████░░░░░░░░░░░░░░░░░░░░  19.23%
-Jasper        1h 20m 2s    █████░░░░░░░░░░░░░░░░░░░░  16.37%
-unknown       1h 10m 7s    ████░░░░░░░░░░░░░░░░░░░░░  14.34%
-website       1h 0m 3s     ████░░░░░░░░░░░░░░░░░░░░░  12.28%
-macos         55m 56s      ███░░░░░░░░░░░░░░░░░░░░░░  11.44%
+cl-vtambucs   1h 34m 0s    █████░░░░░░░░░░░░░░░░░░░░  18.76%
+Jasper        1h 20m 2s    ████░░░░░░░░░░░░░░░░░░░░░  15.97%
+unknown       1h 10m 7s    ████░░░░░░░░░░░░░░░░░░░░░  13.99%
+website       1h 0m 3s     ███░░░░░░░░░░░░░░░░░░░░░░  11.98%
+macos         55m 56s      ███░░░░░░░░░░░░░░░░░░░░░░  11.16%
 
-Total: 8 hrs 9 mins
+Total: 8 hrs 21 mins
 ```
 
 
