@@ -31,27 +31,27 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 🍴 My recent forks
 
+- [claude-statusline](https://github.com/jaspermayone-forks/claude-statusline) - Minimal Claude Code statusline setup I personally use
 - [img](https://github.com/jaspermayone-forks/img) - lightweight image tools
-- [mbta-mcp-server](https://github.com/jaspermayone-forks/mbta-mcp-server) - 
 
 #### 📡 my _`wakatime`_ stats from the last week
 
 ```text
 💾 Languages:
-unknown       4h 47m 56s   ███████████████░░░░░░░░░░  57.79%
-TSX           1h 3m 50s    ████░░░░░░░░░░░░░░░░░░░░░  12.81%
-Markdown      29m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.97%
-Bash          23m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.66%
-Python        16m 27s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.30%
+unknown       4h 48m 44s   ███████████████░░░░░░░░░░  56.82%
+TSX           1h 3m 50s    ████░░░░░░░░░░░░░░░░░░░░░  12.56%
+Markdown      29m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.86%
+JSON          24m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.90%
+Bash          23m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.57%
 
 💼 Projects:
-cl-vtambucs   1h 34m 0s    █████░░░░░░░░░░░░░░░░░░░░  18.86%
-dots          1h 13m 3s    ████░░░░░░░░░░░░░░░░░░░░░  14.66%
-unknown       1h 7m 7s     ████░░░░░░░░░░░░░░░░░░░░░  13.47%
-macos         55m 56s      ███░░░░░░░░░░░░░░░░░░░░░░  11.22%
-Jasper        41m 35s      ███░░░░░░░░░░░░░░░░░░░░░░  8.34%
+cl-vtambucs   1h 34m 0s    █████░░░░░░░░░░░░░░░░░░░░  18.49%
+dots          1h 26m 19s   █████░░░░░░░░░░░░░░░░░░░░  16.98%
+unknown       1h 3m 40s    ████░░░░░░░░░░░░░░░░░░░░░  12.52%
+macos         55m 56s      ███░░░░░░░░░░░░░░░░░░░░░░  11.00%
+Jasper        41m 30s      ███░░░░░░░░░░░░░░░░░░░░░░  8.16%
 
-Total: 8 hrs 18 mins
+Total: 8 hrs 28 mins
 ```
 
 
