@@ -18,8 +18,8 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(2 days ago)**
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(2 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(3 days ago)**
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(3 days ago)**
 - [`@jaspermayone/strings`](https://github.com/jaspermayone/strings) - _"simple strings server for the wentworth coding club / my personal use"_ **(1 week ago)**
 - [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(2 weeks ago)**
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown        5h 28m 25s   ████████████████████░░░░░  76.78%
-Markdown       32m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.65%
-JSON           23m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.45%
-HTTP Request   13m 24s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.13%
+unknown        5h 27m 21s   ████████████████████░░░░░  76.73%
+Markdown       32m 44s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.67%
+JSON           23m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.47%
+HTTP Request   13m 24s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.14%
 Ruby           6m 45s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.58%
 
 💼 Projects:
-dots           2h 7m 42s    ████████░░░░░░░░░░░░░░░░░  29.86%
-Jasper         1h 35m 56s   ██████░░░░░░░░░░░░░░░░░░░  22.43%
-backend        1h 32m 22s   ██████░░░░░░░░░░░░░░░░░░░  21.59%
-ublock         39m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  9.34%
-crane          17m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.19%
+dots           2h 7m 42s    ████████░░░░░░░░░░░░░░░░░  29.93%
+Jasper         1h 34m 52s   ██████░░░░░░░░░░░░░░░░░░░  22.23%
+backend        1h 32m 22s   ██████░░░░░░░░░░░░░░░░░░░  21.65%
+ublock         39m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  9.36%
+crane          17m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.20%
 
-Total: 7 hrs 8 mins
+Total: 7 hrs 7 mins
 ```
 
 
