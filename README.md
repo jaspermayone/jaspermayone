@@ -18,7 +18,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(3 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(today)**
 - [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(3 days ago)**
 - [`@jaspermayone/strings`](https://github.com/jaspermayone/strings) - _"simple strings server for the wentworth coding club / my personal use"_ **(1 week ago)**
 - [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(2 weeks ago)**
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown        4h 58m 59s   ████████████████████░░░░░  77.14%
-Markdown       30m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.93%
-JSON           23m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.96%
-HTTP Request   13m 24s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.46%
-Ruby           6m 45s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.74%
+unknown        4h 59m 9s    ████████████████████░░░░░  76.75%
+Markdown       32m 43s      ███░░░░░░░░░░░░░░░░░░░░░░  8.39%
+JSON           23m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.92%
+HTTP Request   13m 24s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.44%
+Ruby           6m 45s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.73%
 
 💼 Projects:
-dots           2h 0m 5s     ████████░░░░░░░░░░░░░░░░░  30.98%
-Jasper         1h 36m 52s   ███████░░░░░░░░░░░░░░░░░░  24.99%
-backend        1h 32m 22s   ██████░░░░░░░░░░░░░░░░░░░  23.83%
-ublock         39m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  10.31%
-crane          17m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.63%
+dots           2h 0m 5s     ████████░░░░░░░░░░░░░░░░░  30.81%
+Jasper         1h 39m 2s    ███████░░░░░░░░░░░░░░░░░░  25.41%
+backend        1h 32m 22s   ██████░░░░░░░░░░░░░░░░░░░  23.70%
+ublock         39m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  10.25%
+crane          17m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.60%
 
-Total: 6 hrs 28 mins
+Total: 6 hrs 30 mins
 ```
 
 
