@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@jaspermayone/boxcar`](https://github.com/jaspermayone/boxcar) - _"My opinionated ruby on rails template"_ **(today)**
+- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _"My homebrew tap - storing the formulas i make"_ **(today)**
 - [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(today)**
 - [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(2 days ago)**
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(2 days ago)**
-- [`@jaspermayone/strings`](https://github.com/jaspermayone/strings) - _"simple strings server for the wentworth coding club / my personal use"_ **(1 week ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown    3h 59m 34s   ███████████████████░░░░░░  72.98%
-Markdown   25m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.69%
-C          20m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.36%
-JSON       16m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.05%
-Java       9m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.93%
+unknown    4h 5m 47s    ███████████████████░░░░░░  75.75%
+C          20m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.43%
+JSON       16m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.11%
+Markdown   15m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.69%
+Java       9m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.96%
 
 💼 Projects:
-Jasper     1h 29m 20s   ███████░░░░░░░░░░░░░░░░░░  27.21%
-backend    1h 12m 7s    ██████░░░░░░░░░░░░░░░░░░░  21.97%
-dots       56m 39s      █████░░░░░░░░░░░░░░░░░░░░  17.25%
-labs       39m 41s      ████░░░░░░░░░░░░░░░░░░░░░  12.09%
-2025       32m 0s       ███░░░░░░░░░░░░░░░░░░░░░░  9.75%
+Jasper     1h 25m 33s   ███████░░░░░░░░░░░░░░░░░░  26.36%
+backend    1h 12m 7s    ██████░░░░░░░░░░░░░░░░░░░  22.22%
+dots       56m 39s      █████░░░░░░░░░░░░░░░░░░░░  17.46%
+labs       39m 41s      ████░░░░░░░░░░░░░░░░░░░░░  12.23%
+2025       32m 0s       ███░░░░░░░░░░░░░░░░░░░░░░  9.86%
 
-Total: 5 hrs 28 mins
+Total: 5 hrs 25 mins
 ```
 
 
