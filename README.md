@@ -18,9 +18,9 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(today)**
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(1 day ago)**
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
+- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(1 day ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(2 days ago)**
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(2 days ago)**
 - [`@jaspermayone/strings`](https://github.com/jaspermayone/strings) - _"simple strings server for the wentworth coding club / my personal use"_ **(1 week ago)**
 
 #### 🌱 My latest projects
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown    4h 29m 36s   ███████████████████░░░░░░  75.35%
-Markdown   29m 0s       ███░░░░░░░░░░░░░░░░░░░░░░  8.11%
-JSON       23m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.45%
-Java       9m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.69%
-Diff       6m 31s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.82%
+unknown    3h 59m 53s   ██████████████████░░░░░░░  71.65%
+Markdown   26m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.77%
+JSON       22m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.66%
+C          18m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.41%
+Java       9m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.87%
 
 💼 Projects:
-Jasper     1h 44m 34s   ████████░░░░░░░░░░░░░░░░░  29.22%
-backend    1h 29m 51s   ███████░░░░░░░░░░░░░░░░░░  25.11%
-dots       1h 17m 49s   ██████░░░░░░░░░░░░░░░░░░░  21.74%
-labs       39m 41s      ███░░░░░░░░░░░░░░░░░░░░░░  11.09%
-crane      17m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.01%
+Jasper     1h 29m 36s   ███████░░░░░░░░░░░░░░░░░░  26.76%
+dots       1h 13m 41s   ██████░░░░░░░░░░░░░░░░░░░  22.00%
+backend    1h 12m 7s    ██████░░░░░░░░░░░░░░░░░░░  21.54%
+labs       39m 41s      ███░░░░░░░░░░░░░░░░░░░░░░  11.85%
+2025       21m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.34%
 
-Total: 5 hrs 58 mins
+Total: 5 hrs 35 mins
 ```
 
 
