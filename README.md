@@ -18,7 +18,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(1 day ago)**
+- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(today)**
 - [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(2 days ago)**
 - [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(2 days ago)**
 - [`@jaspermayone/strings`](https://github.com/jaspermayone/strings) - _"simple strings server for the wentworth coding club / my personal use"_ **(1 week ago)**
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown    3h 53m 53s   ███████████████████░░░░░░  73.59%
-Markdown   23m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.31%
-C          18m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.70%
-JSON       16m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.22%
-Java       9m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.03%
+unknown    4h 1m 53s    ███████████████████░░░░░░  73.17%
+Markdown   25m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.63%
+C          20m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.31%
+JSON       16m 35s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.02%
+Java       9m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.91%
 
 💼 Projects:
-Jasper     1h 29m 36s   ████████░░░░░░░░░░░░░░░░░  28.19%
-backend    1h 12m 7s    ██████░░░░░░░░░░░░░░░░░░░  22.69%
-dots       56m 40s      █████░░░░░░░░░░░░░░░░░░░░  17.83%
-labs       39m 41s      ████░░░░░░░░░░░░░░░░░░░░░  12.49%
-2025       21m 14s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.68%
+Jasper     1h 31m 36s   ███████░░░░░░░░░░░░░░░░░░  27.71%
+backend    1h 12m 7s    ██████░░░░░░░░░░░░░░░░░░░  21.81%
+dots       56m 40s      █████░░░░░░░░░░░░░░░░░░░░  17.14%
+labs       39m 41s      ███░░░░░░░░░░░░░░░░░░░░░░  12.00%
+2025       32m 0s       ███░░░░░░░░░░░░░░░░░░░░░░  9.68%
 
-Total: 5 hrs 18 mins
+Total: 5 hrs 31 mins
 ```
 
 
