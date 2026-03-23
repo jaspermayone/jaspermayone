@@ -19,8 +19,8 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 #### 👷 The latest repos I've pushed to
 
 - [`@marianewman/funding-findr-rails`](https://github.com/marianewman/funding-findr-rails) - _"new version of FF"_ **(today)**
-- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _"My homebrew tap - storing the formulas i make"_ **(3 days ago)**
 - [`@jaspermayone/boxcar`](https://github.com/jaspermayone/boxcar) - _"My opinionated ruby on rails template"_ **(3 days ago)**
+- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _"My homebrew tap - storing the formulas i make"_ **(3 days ago)**
 - [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(3 days ago)**
 
 #### 🌱 My latest projects
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown        2h 38m 57s   ██████████████░░░░░░░░░░░  54.93%
-Ruby           48m 1s       █████░░░░░░░░░░░░░░░░░░░░  16.59%
-Markdown       30m 11s      ███░░░░░░░░░░░░░░░░░░░░░░  10.43%
-C              20m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.21%
-Java           9m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.32%
+unknown        2h 38m 57s   ██████████████░░░░░░░░░░░  52.47%
+Ruby           48m 1s       ████░░░░░░░░░░░░░░░░░░░░░  15.85%
+Markdown       32m 10s      ███░░░░░░░░░░░░░░░░░░░░░░  10.62%
+C              20m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.89%
+YAML           16m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.37%
 
 💼 Projects:
-FundingFindr   2h 3m 34s    ███████████░░░░░░░░░░░░░░  42.69%
-Jasper         1h 3m 54s    ██████░░░░░░░░░░░░░░░░░░░  22.07%
-labs           39m 41s      ████░░░░░░░░░░░░░░░░░░░░░  13.71%
-2025           34m 13s      ███░░░░░░░░░░░░░░░░░░░░░░  11.82%
-unknown        13m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.58%
+FundingFindr   2h 10m 19s   ███████████░░░░░░░░░░░░░░  43.00%
+Jasper         1h 3m 54s    ██████░░░░░░░░░░░░░░░░░░░  21.09%
+labs           39m 41s      ████░░░░░░░░░░░░░░░░░░░░░  13.10%
+2025           34m 13s      ███░░░░░░░░░░░░░░░░░░░░░░  11.29%
+unknown        20m 3s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.62%
 
-Total: 4 hrs 49 mins
+Total: 5 hrs 3 mins
 ```
 
 
