@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 day ago)**
-- [`@jaspermayone/boxcar`](https://github.com/jaspermayone/boxcar) - _"My opinionated ruby on rails template"_ **(4 days ago)**
-- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _"My homebrew tap - storing the formulas i make"_ **(4 days ago)**
-- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(4 days ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(2 days ago)**
+- [`@jaspermayone/boxcar`](https://github.com/jaspermayone/boxcar) - _"My opinionated ruby on rails template"_ **(5 days ago)**
+- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _"My homebrew tap - storing the formulas i make"_ **(5 days ago)**
+- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(5 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,18 +38,18 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown        2h 22m 54s   ████████████░░░░░░░░░░░░░  45.53%
-Ruby           49m 57s      ████░░░░░░░░░░░░░░░░░░░░░  15.91%
-YAML           31m 36s      ███░░░░░░░░░░░░░░░░░░░░░░  10.07%
-Markdown       27m 3s       ███░░░░░░░░░░░░░░░░░░░░░░  8.62%
-C              20m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.65%
+unknown        2h 23m 21s   ████████████░░░░░░░░░░░░░  45.63%
+Ruby           49m 57s      ████░░░░░░░░░░░░░░░░░░░░░  15.90%
+YAML           31m 24s      ███░░░░░░░░░░░░░░░░░░░░░░  10.00%
+Markdown       27m 3s       ███░░░░░░░░░░░░░░░░░░░░░░  8.61%
+C              20m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.64%
 
 💼 Projects:
-FundingFindr   2h 33m 40s   █████████████░░░░░░░░░░░░  48.94%
-labs           39m 41s      ████░░░░░░░░░░░░░░░░░░░░░  12.64%
-unknown        35m 20s      ███░░░░░░░░░░░░░░░░░░░░░░  11.25%
-2025           34m 13s      ███░░░░░░░░░░░░░░░░░░░░░░  10.90%
-Jasper         32m 5s       ███░░░░░░░░░░░░░░░░░░░░░░  10.22%
+FundingFindr   2h 33m 40s   █████████████░░░░░░░░░░░░  48.90%
+labs           39m 41s      ████░░░░░░░░░░░░░░░░░░░░░  12.63%
+unknown        37m 19s      ███░░░░░░░░░░░░░░░░░░░░░░  11.87%
+2025           34m 13s      ███░░░░░░░░░░░░░░░░░░░░░░  10.89%
+Jasper         30m 21s      ███░░░░░░░░░░░░░░░░░░░░░░  9.66%
 
 Total: 5 hrs 14 mins
 ```
