@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(2 days ago)**
-- [`@jaspermayone/boxcar`](https://github.com/jaspermayone/boxcar) - _"My opinionated ruby on rails template"_ **(5 days ago)**
-- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _"My homebrew tap - storing the formulas i make"_ **(5 days ago)**
-- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(5 days ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(3 days ago)**
+- [`@jaspermayone/boxcar`](https://github.com/jaspermayone/boxcar) - _"My opinionated ruby on rails template"_ **(6 days ago)**
+- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _"My homebrew tap - storing the formulas i make"_ **(6 days ago)**
+- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(6 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown        2h 51m 54s   █████████████░░░░░░░░░░░░  49.36%
+unknown        2h 52m 1s    █████████████░░░░░░░░░░░░  49.38%
 Ruby           49m 57s      ████░░░░░░░░░░░░░░░░░░░░░  14.34%
 YAML           33m 24s      ███░░░░░░░░░░░░░░░░░░░░░░  9.59%
-Markdown       27m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.79%
+Markdown       27m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.78%
 C              20m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.99%
 
 💼 Projects:
-FundingFindr   2h 47m 10s   ████████████░░░░░░░░░░░░░  47.98%
-unknown        41m 19s      ███░░░░░░░░░░░░░░░░░░░░░░  11.86%
+FundingFindr   2h 47m 17s   ████████████░░░░░░░░░░░░░  47.99%
+unknown        41m 20s      ███░░░░░░░░░░░░░░░░░░░░░░  11.86%
 Jasper         40m 30s      ███░░░░░░░░░░░░░░░░░░░░░░  11.62%
 labs           39m 41s      ███░░░░░░░░░░░░░░░░░░░░░░  11.39%
 2025           34m 13s      ███░░░░░░░░░░░░░░░░░░░░░░  9.82%
 
-Total: 5 hrs 48 mins
+Total: 5 hrs 49 mins
 ```
 
 
