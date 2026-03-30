@@ -18,9 +18,9 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(today)**
-- [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(3 days ago)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(6 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(1 day ago)**
+- [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(4 days ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 week ago)**
 - [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _"My homebrew tap - storing the formulas i make"_ **(1 week ago)**
 
 #### 🌱 My latest projects
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown        4h 26m 5s    ████████████████░░░░░░░░░  61.62%
-Markdown       43m 27s      ███░░░░░░░░░░░░░░░░░░░░░░  10.06%
-YAML           36m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  8.56%
-Ruby           23m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.35%
-ERB            10m 27s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.42%
+unknown        4h 38m 37s   ████████████████░░░░░░░░░  62.39%
+Markdown       43m 27s      ███░░░░░░░░░░░░░░░░░░░░░░  9.73%
+YAML           36m 57s      ███░░░░░░░░░░░░░░░░░░░░░░  8.27%
+Ruby           23m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.17%
+ERB            10m 27s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.34%
 
 💼 Projects:
-FundingFindr   2h 51m 14s   ██████████░░░░░░░░░░░░░░░  39.64%
-unknown        1h 27m 51s   ██████░░░░░░░░░░░░░░░░░░░  20.34%
-Jasper         49m 36s      ███░░░░░░░░░░░░░░░░░░░░░░  11.48%
-cv             45m 38s      ███░░░░░░░░░░░░░░░░░░░░░░  10.56%
-dots           38m 12s      ███░░░░░░░░░░░░░░░░░░░░░░  8.84%
+FundingFindr   2h 49m 8s    ██████████░░░░░░░░░░░░░░░  37.86%
+unknown        1h 27m 51s   █████░░░░░░░░░░░░░░░░░░░░  19.66%
+Jasper         49m 36s      ███░░░░░░░░░░░░░░░░░░░░░░  11.10%
+cv             45m 37s      ███░░░░░░░░░░░░░░░░░░░░░░  10.21%
+dots           38m 12s      ███░░░░░░░░░░░░░░░░░░░░░░  8.55%
 
-Total: 7 hrs 12 mins
+Total: 7 hrs 27 mins
 ```
 
 
