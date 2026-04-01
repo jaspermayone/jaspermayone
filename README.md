@@ -18,9 +18,9 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(today)**
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(1 day ago)**
-- [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(5 days ago)**
+- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(1 day ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(2 days ago)**
+- [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(6 days ago)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 week ago)**
 
 #### 🌱 My latest projects
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown        7h 33m 9s    █████████████████████░░░░  80.47%
-Markdown       25m 23s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.51%
-YAML           23m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.24%
-Ruby           10m 57s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.94%
-ERB            10m 27s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.86%
+unknown        7h 9m 49s    ████████████████████░░░░░  79.63%
+Markdown       25m 23s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.70%
+YAML           23m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.42%
+Ruby           10m 57s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.03%
+ERB            10m 27s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.94%
 
 💼 Projects:
-unknown        3h 53m 13s   ███████████░░░░░░░░░░░░░░  41.40%
-FundingFindr   1h 42m 28s   █████░░░░░░░░░░░░░░░░░░░░  18.19%
-cv             1h 31m 17s   █████░░░░░░░░░░░░░░░░░░░░  16.21%
-Jasper         40m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.24%
-dots           38m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.75%
+unknown        3h 29m 53s   ██████████░░░░░░░░░░░░░░░  38.87%
+FundingFindr   1h 42m 28s   █████░░░░░░░░░░░░░░░░░░░░  18.98%
+cv             1h 31m 17s   █████░░░░░░░░░░░░░░░░░░░░  16.91%
+Jasper         40m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.55%
+dots           38m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  7.04%
 
-Total: 9 hrs 23 mins
+Total: 9 hrs 0 mins
 ```
 
 
