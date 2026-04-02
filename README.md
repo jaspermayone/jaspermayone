@@ -18,9 +18,9 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(1 day ago)**
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(2 days ago)**
-- [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(6 days ago)**
+- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(2 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(3 days ago)**
+- [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(1 week ago)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 week ago)**
 
 #### 🌱 My latest projects
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown        9h 20m 14s   ███████████████████░░░░░░  75.62%
-Ruby           59m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  8.00%
-Markdown       30m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.06%
-YAML           23m 11s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.13%
-C#             17m 48s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.40%
+unknown        9h 21m 2s    ███████████████████░░░░░░  75.86%
+Ruby           59m 15s      ███░░░░░░░░░░░░░░░░░░░░░░  8.01%
+Markdown       30m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.07%
+YAML           21m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.85%
+C#             17m 48s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.41%
 
 💼 Projects:
-FundingFindr   3h 31m 47s   ████████░░░░░░░░░░░░░░░░░  28.58%
-unknown        3h 29m 59s   ████████░░░░░░░░░░░░░░░░░  28.34%
-cv             1h 31m 17s   ████░░░░░░░░░░░░░░░░░░░░░  12.32%
-2025           1h 23m 11s   ███░░░░░░░░░░░░░░░░░░░░░░  11.23%
-CSAS-2000      55m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.46%
+FundingFindr   3h 32m 35s   ████████░░░░░░░░░░░░░░░░░  28.74%
+unknown        3h 27m 54s   ████████░░░░░░░░░░░░░░░░░  28.10%
+cv             1h 31m 17s   ████░░░░░░░░░░░░░░░░░░░░░  12.34%
+2025           1h 23m 11s   ███░░░░░░░░░░░░░░░░░░░░░░  11.25%
+CSAS-2000      55m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.47%
 
-Total: 12 hrs 21 mins
+Total: 12 hrs 20 mins
 ```
 
 
