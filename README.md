@@ -18,8 +18,8 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(today)**
-- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(2 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(1 day ago)**
+- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(3 days ago)**
 - [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(1 week ago)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 week ago)**
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown        10h 59m 52s   ███████████████████░░░░░░  72.21%
-Ruby           2h 2m 13s     ████░░░░░░░░░░░░░░░░░░░░░  13.38%
-YAML           25m 41s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.81%
-C#             24m 26s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.67%
-Markdown       21m 30s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.35%
+unknown        11h 28m 51s   ███████████████████░░░░░░  73.51%
+Ruby           2h 8m 59s     ████░░░░░░░░░░░░░░░░░░░░░  13.76%
+YAML           25m 41s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.74%
+C#             24m 26s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.61%
+Markdown       21m 30s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.29%
 
 💼 Projects:
-FundingFindr   5h 38m 57s    ██████████░░░░░░░░░░░░░░░  37.09%
-unknown        4h 21m 44s    ████████░░░░░░░░░░░░░░░░░  28.64%
-2025           1h 20m 56s    ███░░░░░░░░░░░░░░░░░░░░░░  8.86%
-cv             1h 11m 19s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.80%
-dots           59m 16s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.48%
+FundingFindr   5h 53m 3s     ██████████░░░░░░░░░░░░░░░  37.67%
+unknown        4h 21m 44s    ███████░░░░░░░░░░░░░░░░░░  27.93%
+cv             1h 11m 19s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.61%
+2025           1h 6m 4s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.05%
+dots           59m 16s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.32%
 
-Total: 15 hrs 14 mins
+Total: 15 hrs 37 mins
 ```
 
 
