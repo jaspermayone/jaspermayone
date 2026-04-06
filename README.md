@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(3 days ago)**
-- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(5 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(4 days ago)**
+- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(6 days ago)**
 - [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(1 week ago)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 week ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(2 weeks ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown        13h 54m 28s   █████████████████░░░░░░░░  64.85%
-Ruby           4h 54m 59s    ██████░░░░░░░░░░░░░░░░░░░  22.92%
-YAML           50m 28s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.92%
-Markdown       35m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.74%
-C#             24m 26s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.90%
+unknown        13h 38m 2s   █████████████████░░░░░░░░  64.70%
+Ruby           4h 52m 27s   ██████░░░░░░░░░░░░░░░░░░░  23.13%
+YAML           50m 28s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.99%
+Markdown       32m 37s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.58%
+C#             24m 26s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.93%
 
 💼 Projects:
-FundingFindr   6h 43m 20s    ████████░░░░░░░░░░░░░░░░░  31.34%
-ff-core        5h 57m 35s    ███████░░░░░░░░░░░░░░░░░░  27.78%
-unknown        4h 40m 30s    ██████░░░░░░░░░░░░░░░░░░░  21.80%
-2025           1h 0m 1s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.66%
-CSAS-2000      55m 17s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.30%
+FundingFindr   6h 43m 20s   ████████░░░░░░░░░░░░░░░░░  31.89%
+ff-core        5h 51m 20s   ███████░░░░░░░░░░░░░░░░░░  27.78%
+unknown        4h 40m 30s   ██████░░░░░░░░░░░░░░░░░░░  22.18%
+2025           1h 0m 1s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.75%
+CSAS-2000      55m 17s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.37%
 
-Total: 21 hrs 27 mins
+Total: 21 hrs 5 mins
 ```
 
 
