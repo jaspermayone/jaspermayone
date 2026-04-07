@@ -18,8 +18,8 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(4 days ago)**
-- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(6 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(5 days ago)**
+- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(1 week ago)**
 - [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(1 week ago)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(2 weeks ago)**
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown        12h 34m 53s   ███████████████░░░░░░░░░░  59.05%
-Ruby           5h 43m 21s    ███████░░░░░░░░░░░░░░░░░░  26.86%
-Markdown       49m 43s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.89%
-YAML           40m 49s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.19%
+unknown        12h 29m 23s   ███████████████░░░░░░░░░░  58.68%
+Ruby           5h 48m 40s    ███████░░░░░░░░░░░░░░░░░░  27.30%
+Markdown       49m 44s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.89%
+YAML           38m 48s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.04%
 C#             24m 26s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.91%
 
 💼 Projects:
-ff-core        8h 7m 7s      ██████████░░░░░░░░░░░░░░░  38.10%
-FundingFindr   6h 21m 52s    ████████░░░░░░░░░░░░░░░░░  29.87%
-unknown        3h 36m 20s    █████░░░░░░░░░░░░░░░░░░░░  16.92%
-2025           1h 0m 1s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.69%
-CSAS-2000      55m 17s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.32%
+ff-core        8h 25m 9s     ██████████░░░░░░░░░░░░░░░  39.55%
+FundingFindr   6h 21m 52s    ████████░░░░░░░░░░░░░░░░░  29.89%
+unknown        3h 17m 19s    ████░░░░░░░░░░░░░░░░░░░░░  15.45%
+2025           1h 0m 1s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.70%
+CSAS-2000      55m 17s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.33%
 
-Total: 21 hrs 19 mins
+Total: 21 hrs 17 mins
 ```
 
 
