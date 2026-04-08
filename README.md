@@ -18,7 +18,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(1 day ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(today)**
 - [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(1 week ago)**
 - [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(1 week ago)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(2 weeks ago)**
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown            11h 24m 31s   ██████████████░░░░░░░░░░░  55.48%
-Ruby               6h 7m 2s      ████████░░░░░░░░░░░░░░░░░  29.75%
-Markdown           49m 28s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.01%
-YAML               39m 10s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.17%
-C#                 24m 26s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.98%
+unknown            11h 37m 42s   ██████████████░░░░░░░░░░░  55.74%
+Ruby               6h 7m 9s      ████████░░░░░░░░░░░░░░░░░  29.33%
+Markdown           47m 25s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.79%
+YAML               38m 55s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.11%
+Text               19m 46s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.58%
 
 💼 Projects:
-ff-core            9h 39m 46s    ████████████░░░░░░░░░░░░░  46.98%
-FundingFindr       6h 23m 3s     ████████░░░░░░░░░░░░░░░░░  31.04%
-unknown            2h 8m 24s     ███░░░░░░░░░░░░░░░░░░░░░░  10.40%
-CSAS-2000          55m 17s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.48%
-West_End_mayonej   36m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.99%
+ff-core            10h 16m 9s    █████████████░░░░░░░░░░░░  49.21%
+FundingFindr       6h 16m 16s    ████████░░░░░░░░░░░░░░░░░  30.05%
+unknown            2h 6m 22s     ███░░░░░░░░░░░░░░░░░░░░░░  10.09%
+CSAS-2000          40m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.24%
+West_End_mayonej   36m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.95%
 
-Total: 20 hrs 34 mins
+Total: 20 hrs 52 mins
 ```
 
 
