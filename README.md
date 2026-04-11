@@ -18,8 +18,8 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(today)**
 - [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(2 days ago)**
-- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(1 week ago)**
 - [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(2 weeks ago)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(2 weeks ago)**
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown    9h 59m 28s    ██████████████░░░░░░░░░░░  53.59%
-Ruby       4h 54m 6s     ███████░░░░░░░░░░░░░░░░░░  26.29%
-Markdown   57m 55s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.18%
-YAML       34m 4s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.05%
-Text       27m 30s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.46%
+unknown    9h 39m 48s   ██████████████░░░░░░░░░░░  53.23%
+Ruby       4h 39m 0s    ███████░░░░░░░░░░░░░░░░░░  25.62%
+Markdown   59m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.50%
+YAML       33m 59s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.12%
+Text       27m 30s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.52%
 
 💼 Projects:
-ff-core    16h 22m 41s   ██████████████████████░░░  87.82%
-2025       39m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.57%
-dots       29m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.68%
-unknown    29m 41s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.65%
-lab        18m 10s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.62%
+ff-core    15h 40m 7s   ██████████████████████░░░  86.29%
+2025       52m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.86%
+dots       29m 56s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.75%
+unknown    29m 41s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.72%
+lab        18m 10s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.67%
 
-Total: 18 hrs 39 mins
+Total: 18 hrs 9 mins
 ```
 
 
