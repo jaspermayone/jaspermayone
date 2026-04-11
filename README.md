@@ -18,7 +18,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(1 day ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(2 days ago)**
 - [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(1 week ago)**
 - [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(2 weeks ago)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(2 weeks ago)**
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown      11h 0m 16s   ███████████████░░░░░░░░░░  56.16%
-Ruby         5h 50m 21s   ████████░░░░░░░░░░░░░░░░░  29.80%
-Markdown     40m 58s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.48%
-Text         24m 22s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.07%
-JavaScript   22m 13s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.89%
+unknown    10h 19m 55s   ██████████████░░░░░░░░░░░  54.42%
+Ruby       5h 30m 25s    ████████░░░░░░░░░░░░░░░░░  29.01%
+Markdown   39m 57s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.51%
+YAML       28m 27s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.50%
+Text       27m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.42%
 
 💼 Projects:
-ff-core      17h 33m 7s   ███████████████████████░░  89.55%
-unknown      57m 5s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.85%
-dots         29m 51s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.54%
-lab          18m 10s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.54%
-Jasper       11m 11s      █░░░░░░░░░░░░░░░░░░░░░░░░  0.95%
+ff-core    17h 19m 4s    ███████████████████████░░  91.20%
+unknown    34m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.02%
+dots       29m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.63%
+lab        18m 10s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.59%
+Jasper     11m 11s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.98%
 
-Total: 19 hrs 36 mins
+Total: 18 hrs 59 mins
 ```
 
 
