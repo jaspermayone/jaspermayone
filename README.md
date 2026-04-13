@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(1 day ago)**
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(3 days ago)**
+- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(2 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(4 days ago)**
 - [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(2 weeks ago)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(2 weeks ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(3 weeks ago)**
 
 #### 🌱 My latest projects
 
@@ -31,27 +31,27 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 🍴 My recent forks
 
+- [freewrite](https://github.com/jaspermayone-forks/freewrite) - 
 - [claude-statusline](https://github.com/jaspermayone-forks/claude-statusline) - Minimal Claude Code statusline setup I personally use
-- [img](https://github.com/jaspermayone-forks/img) - lightweight image tools
 
 #### 📡 my _`wakatime`_ stats from the last week
 
 ```text
 💾 Languages:
-unknown    10h 21m 17s   ██████████████░░░░░░░░░░░  53.27%
-Ruby       4h 43m 12s    ███████░░░░░░░░░░░░░░░░░░  24.28%
-Markdown   1h 1m 33s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.28%
-YAML       37m 4s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.18%
-C          31m 7s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.67%
+unknown    10h 23m 43s   ██████████████░░░░░░░░░░░  52.92%
+Ruby       4h 53m 2s     ███████░░░░░░░░░░░░░░░░░░  24.86%
+Markdown   1h 1m 33s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.22%
+YAML       37m 4s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.15%
+C          31m 7s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.64%
 
 💼 Projects:
-ff-core    15h 26m 42s   ████████████████████░░░░░  79.45%
-2025       2h 10m 58s    ███░░░░░░░░░░░░░░░░░░░░░░  11.23%
-unknown    42m 19s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.63%
-dots       29m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.57%
-lab        18m 10s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.56%
+ff-core    15h 38m 59s   ████████████████████░░░░░  79.66%
+2025       2h 10m 58s    ███░░░░░░░░░░░░░░░░░░░░░░  11.11%
+unknown    42m 19s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.59%
+dots       29m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.54%
+lab        18m 10s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.54%
 
-Total: 19 hrs 26 mins
+Total: 19 hrs 39 mins
 ```
 
 
