@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(1 day ago)**
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(5 days ago)**
-- [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(2 weeks ago)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(3 weeks ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(today)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(1 day ago)**
+- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(5 days ago)**
+- [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(3 weeks ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown    9h 36m 29s    ███████████████░░░░░░░░░░  56.13%
-Ruby       3h 48m 32s    ██████░░░░░░░░░░░░░░░░░░░  22.25%
-Markdown   48m 25s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.71%
-YAML       34m 48s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.39%
-C          33m 4s        █░░░░░░░░░░░░░░░░░░░░░░░░  3.22%
+unknown        2h 46m 31s   ████████████████░░░░░░░░░  61.87%
+Ruby           56m 4s       ██████░░░░░░░░░░░░░░░░░░░  20.83%
+C              16m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.24%
+Markdown       11m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.33%
+C/C++ Header   4m 32s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.68%
 
 💼 Projects:
-ff-core    13h 16m 52s   ████████████████████░░░░░  77.58%
-2025       2h 14m 54s    ████░░░░░░░░░░░░░░░░░░░░░  13.13%
-unknown    42m 19s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.12%
-dots       29m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.91%
-lab        18m 10s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.77%
+ff-core        3h 2m 37s    █████████████████░░░░░░░░  67.81%
+2025           1h 9m 52s    ███████░░░░░░░░░░░░░░░░░░  25.94%
+unknown        12m 38s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.69%
+Jasper         4m 3s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.50%
+mbedtls        8s           █░░░░░░░░░░░░░░░░░░░░░░░░  0.05%
 
-Total: 17 hrs 7 mins
+Total: 4 hrs 29 mins
 ```
 
 
