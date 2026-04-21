@@ -18,7 +18,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(1 day ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(today)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(2 days ago)**
 - [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(1 week ago)**
 - [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(3 weeks ago)**
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown                   13h 38m 36s   ███████████░░░░░░░░░░░░░░  43.79%
-Ruby                      13h 35m 38s   ███████████░░░░░░░░░░░░░░  43.63%
-Markdown                  51m 16s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.74%
-YAML                      33m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.78%
-HTML                      23m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.28%
+Ruby                      14h 17m 12s   ████████████░░░░░░░░░░░░░  44.53%
+unknown                   13h 48m 0s    ███████████░░░░░░░░░░░░░░  43.02%
+Markdown                  51m 17s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.66%
+YAML                      34m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.77%
+HTML                      23m 52s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.24%
 
 💼 Projects:
-ff-core                   29h 28m 57s   ████████████████████████░  94.61%
-lamoille-housing-summit   22m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.21%
-unknown                   19m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.02%
-Jasper                    14m 30s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.78%
-dots                      13m 16s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.71%
+ff-core                   30h 19m 7s    ████████████████████████░  94.50%
+lamoille-housing-summit   22m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.17%
+unknown                   19m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.99%
+dots                      18m 23s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.95%
+Jasper                    14m 30s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.75%
 
-Total: 31 hrs 10 mins
+Total: 32 hrs 5 mins
 ```
 
 
