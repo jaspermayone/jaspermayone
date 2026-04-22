@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-Ruby                      15h 6m 7s    ████████████░░░░░░░░░░░░░  45.31%
-unknown                   14h 0m 8s    ███████████░░░░░░░░░░░░░░  42.01%
+Ruby                      15h 6m 7s    ████████████░░░░░░░░░░░░░  45.26%
+unknown                   14h 2m 16s   ███████████░░░░░░░░░░░░░░  42.07%
 Markdown                  53m 46s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.69%
 YAML                      37m 57s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.90%
 JavaScript                24m 20s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.22%
 
 💼 Projects:
-ff-core                   31h 27m 2s   ████████████████████████░  94.35%
+ff-core                   31h 29m 9s   ████████████████████████░  94.35%
 dots                      25m 51s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.29%
 lamoille-housing-summit   22m 35s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.13%
 unknown                   19m 1s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.95%
 Jasper                    11m 35s      █░░░░░░░░░░░░░░░░░░░░░░░░  0.58%
 
-Total: 33 hrs 20 mins
+Total: 33 hrs 22 mins
 ```
 
 
