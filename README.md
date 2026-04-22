@@ -18,8 +18,8 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(today)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(2 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(1 day ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(3 days ago)**
 - [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(1 week ago)**
 - [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(3 weeks ago)**
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-Ruby                      15h 10m 11s   ████████████░░░░░░░░░░░░░  45.61%
-unknown                   13h 54m 41s   ███████████░░░░░░░░░░░░░░  41.83%
-Markdown                  54m 39s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.74%
-YAML                      34m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.71%
-JavaScript                24m 20s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.22%
+Ruby                      15h 10m 39s   ████████████░░░░░░░░░░░░░  44.91%
+unknown                   14h 18m 45s   ███████████░░░░░░░░░░░░░░  42.35%
+Markdown                  58m 26s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.88%
+YAML                      37m 57s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.87%
+JavaScript                24m 20s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.20%
 
 💼 Projects:
-ff-core                   31h 18m 8s    ████████████████████████░  94.10%
-dots                      25m 51s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.30%
-lamoille-housing-summit   22m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.13%
-unknown                   19m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.95%
-Jasper                    16m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.81%
+ff-core                   31h 50m 16s   ████████████████████████░  94.20%
+dots                      25m 51s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.27%
+lamoille-housing-summit   22m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.11%
+unknown                   19m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.94%
+Jasper                    16m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.80%
 
-Total: 33 hrs 16 mins
+Total: 33 hrs 48 mins
 ```
 
 
