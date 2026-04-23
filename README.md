@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(1 day ago)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(3 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(2 days ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(4 days ago)**
 - [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(1 week ago)**
-- [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(3 weeks ago)**
+- [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(4 weeks ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-Ruby                                    14h 21m 54s   ███████████░░░░░░░░░░░░░░  43.97%
-unknown                                 13h 59m 20s   ███████████░░░░░░░░░░░░░░  42.82%
-Markdown                                50m 21s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.57%
-YAML                                    35m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.82%
-TypeScript                              27m 34s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.41%
+Ruby                                    14h 44m 24s   ███████████░░░░░░░░░░░░░░  43.57%
+unknown                                 14h 27m 21s   ███████████░░░░░░░░░░░░░░  42.73%
+Markdown                                52m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.59%
+YAML                                    38m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.88%
+TypeScript                              26m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.33%
 
 💼 Projects:
-ff-core                                 29h 58m 33s   ███████████████████████░░  91.75%
-unknown                                 46m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.35%
-2026-04-22-vikas5914-helium-drm-fixer   24m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.24%
-dots                                    23m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.18%
-lamoille-housing-summit                 22m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.15%
+ff-core                                 30h 44m 24s   ███████████████████████░░  90.85%
+unknown                                 46m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.27%
+2026-04-22-vikas5914-helium-drm-fixer   24m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.20%
+dots                                    23m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.13%
+lamoille-housing-summit                 22m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.11%
 
-Total: 32 hrs 40 mins
+Total: 33 hrs 50 mins
 ```
 
 
