@@ -25,9 +25,9 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 🌱 My latest projects
 
+- [`@jaspermayone/ruby-style`](https://github.com/jaspermayone/ruby-style) - _"Jasper's Ruby Style Guide"_
 - [`@jaspermayone/supergateway`](https://github.com/jaspermayone/supergateway) - _""_
 - [`@jaspermayone/encoded_ids`](https://github.com/jaspermayone/encoded_ids) - _""_
-- [`@jaspermayone/guardrails`](https://github.com/jaspermayone/guardrails) - _""_
 
 #### 🍴 My recent forks
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-Ruby                                    14h 11m 35s   ███████████░░░░░░░░░░░░░░  43.52%
-unknown                                 13h 53m 2s    ███████████░░░░░░░░░░░░░░  42.57%
-Markdown                                50m 49s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.60%
-YAML                                    37m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.89%
-TypeScript                              26m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.38%
+Ruby                                    14h 21m 37s   ███████████░░░░░░░░░░░░░░  42.96%
+unknown                                 14h 2m 23s    ███████████░░░░░░░░░░░░░░  42.01%
+YAML                                    1h 4m 8s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.20%
+Markdown                                52m 49s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.63%
+TypeScript                              26m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.34%
 
 💼 Projects:
-ff-core                                 29h 25m 32s   ███████████████████████░░  90.21%
-unknown                                 46m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.35%
-2026-04-22-vikas5914-helium-drm-fixer   24m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.25%
-dots                                    23m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.18%
-lamoille-housing-summit                 22m 35s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.15%
+ff-core                                 30h 2m 21s    ███████████████████████░░  89.87%
+unknown                                 46m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.29%
+Jasper                                  27m 15s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.36%
+2026-04-22-vikas5914-helium-drm-fixer   24m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.21%
+dots                                    23m 2s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.15%
 
-Total: 32 hrs 37 mins
+Total: 33 hrs 26 mins
 ```
 
 
