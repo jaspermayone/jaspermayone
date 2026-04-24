@@ -18,8 +18,8 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(2 days ago)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(4 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(3 days ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(5 days ago)**
 - [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(1 week ago)**
 - [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(4 weeks ago)**
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-Ruby                                    15h 31m 36s   ████████████░░░░░░░░░░░░░  44.59%
-unknown                                 13h 49m 23s   ██████████░░░░░░░░░░░░░░░  39.70%
-YAML                                    1h 29m 15s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.27%
-Markdown                                52m 16s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.50%
-TypeScript                              26m 56s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.29%
+Ruby                                    14h 52m 34s   ████████████░░░░░░░░░░░░░  44.34%
+unknown                                 13h 18m 4s    ██████████░░░░░░░░░░░░░░░  39.64%
+YAML                                    1h 27m 39s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.35%
+Markdown                                53m 51s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.68%
+TypeScript                              26m 3s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.29%
 
 💼 Projects:
-ff-core                                 30h 27m 1s    ██████████████████████░░░  87.45%
-MentorDb                                50m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.39%
-unknown                                 46m 1s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.20%
-Jasper                                  27m 15s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.30%
-2026-04-22-vikas5914-helium-drm-fixer   24m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.17%
+ff-core                                 27h 58m 45s   █████████████████████░░░░  83.39%
+MentorDb                                2h 2m 47s     ██░░░░░░░░░░░░░░░░░░░░░░░  6.10%
+unknown                                 45m 24s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.26%
+Jasper                                  27m 15s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.35%
+2026-04-22-vikas5914-helium-drm-fixer   24m 22s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.21%
 
-Total: 34 hrs 49 mins
+Total: 33 hrs 33 mins
 ```
 
 
