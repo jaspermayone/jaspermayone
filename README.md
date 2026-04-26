@@ -25,9 +25,9 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 🌱 My latest projects
 
-- [`@jaspermayone/ruby-style`](https://github.com/jaspermayone/ruby-style) - _"Jasper's Ruby Style Guide"_
-- [`@jaspermayone/supergateway`](https://github.com/jaspermayone/supergateway) - _""_
-- [`@jaspermayone/encoded_ids`](https://github.com/jaspermayone/encoded_ids) - _""_
+- [`@jaspermayone/mazzy-pcb`](https://github.com/jaspermayone/mazzy-pcb) - _""_
+- [`@jaspermayone/mazzy-software`](https://github.com/jaspermayone/mazzy-software) - _""_
+- [`@jaspermayone/mazzy`](https://github.com/jaspermayone/mazzy) - _""_
 
 #### 🍴 My recent forks
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-Ruby       18h 39m 29s   █████████████░░░░░░░░░░░░  49.61%
-unknown    13h 21m 34s   █████████░░░░░░░░░░░░░░░░  35.52%
-YAML       1h 37m 40s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.33%
-Markdown   1h 19m 51s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.54%
-TSX        24m 26s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.08%
+Ruby       18h 17m 9s    █████████████░░░░░░░░░░░░  49.38%
+unknown    13h 12m 59s   █████████░░░░░░░░░░░░░░░░  35.69%
+YAML       1h 36m 41s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.35%
+Markdown   1h 19m 45s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.59%
+TSX        24m 26s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.10%
 
 💼 Projects:
-ff-core    27h 10m 26s   ███████████████████░░░░░░  72.24%
-MentorDb   7h 10m 1s     █████░░░░░░░░░░░░░░░░░░░░  19.05%
-Jasper     46m 20s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.05%
-unknown    32m 21s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.43%
-dots       25m 21s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.12%
+ff-core    26h 25m 34s   ██████████████████░░░░░░░  71.35%
+MentorDb   7h 10m 1s     █████░░░░░░░░░░░░░░░░░░░░  19.35%
+Jasper     46m 20s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.09%
+unknown    32m 21s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.46%
+dots       27m 21s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.23%
 
-Total: 37 hrs 37 mins
+Total: 37 hrs 2 mins
 ```
 
 
