@@ -18,9 +18,9 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(5 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(6 days ago)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 week ago)**
-- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(1 week ago)**
+- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(2 weeks ago)**
 - [`@jaspermayone/cv`](https://github.com/jaspermayone/cv) - _"My CV"_ **(1 month ago)**
 
 #### 🌱 My latest projects
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-Ruby       17h 26m 8s    █████████████░░░░░░░░░░░░  49.09%
-unknown    12h 41m 4s    █████████░░░░░░░░░░░░░░░░  35.71%
-YAML       1h 32m 48s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.35%
-Markdown   1h 16m 52s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.61%
-TSX        24m 26s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.15%
+Ruby       17h 21m 8s    █████████████░░░░░░░░░░░░  49.11%
+unknown    12h 36m 8s    █████████░░░░░░░░░░░░░░░░  35.67%
+YAML       1h 32m 48s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.38%
+Markdown   1h 16m 39s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.62%
+TSX        29m 48s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.41%
 
 💼 Projects:
-ff-core    24h 25m 42s   ██████████████████░░░░░░░  68.78%
-MentorDb   7h 10m 1s     ██████░░░░░░░░░░░░░░░░░░░  20.18%
-Jasper     46m 20s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.17%
-Mazzy      45m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.12%
+ff-core    23h 52m 47s   █████████████████░░░░░░░░  67.58%
+MentorDb   7h 10m 1s     ██████░░░░░░░░░░░░░░░░░░░  20.28%
+Mazzy      1h 1m 23s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.90%
+Jasper     46m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.18%
 dots       34m 27s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.62%
 
-Total: 35 hrs 31 mins
+Total: 35 hrs 20 mins
 ```
 
 
