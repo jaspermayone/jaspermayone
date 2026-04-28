@@ -31,27 +31,27 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 🍴 My recent forks
 
+- [Proxyman](https://github.com/jaspermayone-forks/Proxyman) - The best-in-class HTTP Debugger for macOS. Capture HTTP/HTTPS from macOS, iOS, Android with a few clicks ✅
 - [freewrite](https://github.com/jaspermayone-forks/freewrite) - 
-- [claude-statusline](https://github.com/jaspermayone-forks/claude-statusline) - Minimal Claude Code statusline setup I personally use
 
 #### 📡 my _`wakatime`_ stats from the last week
 
 ```text
 💾 Languages:
-Ruby       17h 0m 24s    █████████████░░░░░░░░░░░░  48.90%
-unknown    12h 0m 14s    █████████░░░░░░░░░░░░░░░░  34.52%
-YAML       1h 54m 37s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.49%
-Markdown   1h 14m 56s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.59%
-Nix        39m 14s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.88%
+Ruby       17h 32m 50s   █████████████░░░░░░░░░░░░  49.79%
+unknown    12h 3m 32s    █████████░░░░░░░░░░░░░░░░  34.22%
+YAML       1h 57m 51s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.57%
+Markdown   1h 13m 32s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.48%
+Nix        32m 51s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.55%
 
 💼 Projects:
-ff-core    22h 18m 15s   █████████████████░░░░░░░░  64.13%
-MentorDb   7h 10m 1s     ██████░░░░░░░░░░░░░░░░░░░  20.61%
-Mazzy      1h 32m 7s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.41%
-dots       55m 42s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.67%
-Jasper     46m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.21%
+ff-core    22h 53m 29s   █████████████████░░░░░░░░  64.95%
+MentorDb   7h 10m 1s     ██████░░░░░░░░░░░░░░░░░░░  20.34%
+Mazzy      1h 31m 50s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.34%
+dots       48m 32s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.30%
+Jasper     46m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.18%
 
-Total: 34 hrs 47 mins
+Total: 35 hrs 15 mins
 ```
 
 
