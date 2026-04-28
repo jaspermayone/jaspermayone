@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@utensils/claudette`](https://github.com/utensils/claudette) - _"Claude's missing better half — a companion tool for Claude Code usage."_ **(today)**
 - [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(1 day ago)**
 - [`@jaspermayone/mazzy-pcb`](https://github.com/jaspermayone/mazzy-pcb) - _""_ **(1 day ago)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 week ago)**
-- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(2 weeks ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-Ruby       18h 19m 30s   █████████████░░░░░░░░░░░░  50.25%
-unknown    12h 22m 36s   █████████░░░░░░░░░░░░░░░░  33.94%
-YAML       2h 2m 53s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.62%
-Markdown   1h 14m 18s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.40%
-Nix        32m 51s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.50%
+Ruby       18h 16m 57s   █████████████░░░░░░░░░░░░  50.21%
+unknown    12h 30m 13s   █████████░░░░░░░░░░░░░░░░  34.34%
+YAML       2h 4m 8s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.68%
+Markdown   1h 15m 27s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.45%
+TSX        32m 24s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.48%
 
 💼 Projects:
-ff-core    23h 55m 18s   █████████████████░░░░░░░░  65.59%
-MentorDb   7h 21m 33s    ██████░░░░░░░░░░░░░░░░░░░  20.18%
+ff-core    24h 7m 11s    █████████████████░░░░░░░░  66.23%
+MentorDb   7h 21m 33s    ██████░░░░░░░░░░░░░░░░░░░  20.21%
 Mazzy      1h 31m 50s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.20%
-dots       48m 32s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.22%
 Jasper     46m 9s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.11%
+dots       35m 58s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.65%
 
-Total: 36 hrs 28 mins
+Total: 36 hrs 25 mins
 ```
 
 
