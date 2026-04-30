@@ -18,9 +18,9 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@utensils/claudette`](https://github.com/utensils/claudette) - _"Claude's missing better half — a companion tool for Claude Code usage."_ **(1 day ago)**
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(2 days ago)**
-- [`@jaspermayone/mazzy-pcb`](https://github.com/jaspermayone/mazzy-pcb) - _""_ **(2 days ago)**
+- [`@utensils/claudette`](https://github.com/utensils/claudette) - _"Claude's missing better half — a companion tool for Claude Code usage."_ **(2 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(3 days ago)**
+- [`@jaspermayone/mazzy-pcb`](https://github.com/jaspermayone/mazzy-pcb) - _""_ **(3 days ago)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 week ago)**
 
 #### 🌱 My latest projects
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-Ruby       18h 54m 58s   █████████████░░░░░░░░░░░░  50.18%
-unknown    13h 7m 20s    █████████░░░░░░░░░░░░░░░░  34.81%
-YAML       2h 9m 38s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.73%
-Markdown   1h 24m 19s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.73%
-TSX        32m 24s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.43%
+Ruby       18h 35m 46s   █████████████░░░░░░░░░░░░  49.96%
+unknown    12h 57m 50s   █████████░░░░░░░░░░░░░░░░  34.83%
+YAML       2h 9m 38s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.80%
+Markdown   1h 24m 19s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.78%
+TSX        32m 24s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.45%
 
 💼 Projects:
-ff-core    25h 43m 22s   ██████████████████░░░░░░░  68.23%
-MentorDb   7h 21m 33s    █████░░░░░░░░░░░░░░░░░░░░  19.52%
-Mazzy      1h 31m 50s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.06%
-dots       1h 0m 45s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.69%
-Jasper     55m 23s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.45%
+ff-core    25h 14m 38s   █████████████████░░░░░░░░  67.82%
+MentorDb   7h 21m 33s    █████░░░░░░░░░░░░░░░░░░░░  19.77%
+Mazzy      1h 31m 50s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.11%
+dots       1h 0m 45s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.72%
+Jasper     55m 23s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.48%
 
-Total: 37 hrs 42 mins
+Total: 37 hrs 13 mins
 ```
 
 
