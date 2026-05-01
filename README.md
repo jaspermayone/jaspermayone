@@ -18,8 +18,8 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(today)**
 - [`@utensils/claudette`](https://github.com/utensils/claudette) - _"Claude's missing better half — a companion tool for Claude Code usage."_ **(3 days ago)**
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(4 days ago)**
 - [`@jaspermayone/mazzy-pcb`](https://github.com/jaspermayone/mazzy-pcb) - _""_ **(4 days ago)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 week ago)**
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-Ruby       14h 8m 34s    ████████████░░░░░░░░░░░░░  47.69%
-unknown    10h 59m 46s   ██████████░░░░░░░░░░░░░░░  37.08%
-Markdown   1h 20m 41s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.53%
-YAML       1h 11m 38s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.03%
-Nix        29m 45s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.67%
+Ruby         14h 8m 34s   ████████████░░░░░░░░░░░░░  47.01%
+unknown      11h 2m 3s    ██████████░░░░░░░░░░░░░░░  36.68%
+Markdown     1h 25m 18s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.73%
+YAML         1h 11m 38s   █░░░░░░░░░░░░░░░░░░░░░░░░  3.97%
+TypeScript   43m 7s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.39%
 
 💼 Projects:
-ff-core    21h 5m 10s    ██████████████████░░░░░░░  71.09%
-MentorDb   3h 45m 12s    ████░░░░░░░░░░░░░░░░░░░░░  12.65%
-Mazzy      1h 31m 50s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.16%
-dots       1h 0m 45s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.41%
-till       52m 32s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.95%
+ff-core      21h 5m 10s   ██████████████████░░░░░░░  70.08%
+MentorDb     3h 45m 12s   ████░░░░░░░░░░░░░░░░░░░░░  12.47%
+Mazzy        1h 31m 50s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.09%
+till         1h 16m 39s   ██░░░░░░░░░░░░░░░░░░░░░░░  4.25%
+dots         1h 1m 18s    █░░░░░░░░░░░░░░░░░░░░░░░░  3.40%
 
-Total: 29 hrs 40 mins
+Total: 30 hrs 5 mins
 ```
 
 
