@@ -18,9 +18,9 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(today)**
-- [`@utensils/claudette`](https://github.com/utensils/claudette) - _"Claude's missing better half — a companion tool for Claude Code usage."_ **(5 days ago)**
-- [`@jaspermayone/mazzy-pcb`](https://github.com/jaspermayone/mazzy-pcb) - _""_ **(6 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(1 day ago)**
+- [`@utensils/claudette`](https://github.com/utensils/claudette) - _"Claude's missing better half — a companion tool for Claude Code usage."_ **(6 days ago)**
+- [`@jaspermayone/mazzy-pcb`](https://github.com/jaspermayone/mazzy-pcb) - _""_ **(1 week ago)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(2 weeks ago)**
 
 #### 🌱 My latest projects
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-Ruby                               10h 11m 28s   ██████████░░░░░░░░░░░░░░░  38.63%
-unknown                            8h 57m 33s    █████████░░░░░░░░░░░░░░░░  33.96%
-TypeScript                         2h 55m 53s    ███░░░░░░░░░░░░░░░░░░░░░░  11.11%
-YAML                               1h 20m 45s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.10%
-Markdown                           1h 5m 8s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.12%
+Ruby                               10h 11m 3s    ██████████░░░░░░░░░░░░░░░  37.38%
+unknown                            8h 59m 53s    █████████░░░░░░░░░░░░░░░░  33.03%
+TypeScript                         2h 56m 37s    ███░░░░░░░░░░░░░░░░░░░░░░  10.80%
+YAML                               1h 29m 40s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.49%
+Markdown                           1h 15m 38s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.63%
 
 💼 Projects:
-ff-core                            18h 22m 36s   ██████████████████░░░░░░░  69.65%
-till                               4h 24m 2s     █████░░░░░░░░░░░░░░░░░░░░  16.68%
-dots                               1h 18m 36s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.97%
-Mazzy                              43m 8s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.72%
-2026-05-01-mazzy-can-exploration   20m 41s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.31%
+ff-core                            18h 22m 11s   █████████████████░░░░░░░░  67.42%
+till                               5h 20m 34s    █████░░░░░░░░░░░░░░░░░░░░  19.61%
+dots                               1h 32m 45s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.67%
+Mazzy                              28m 43s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.76%
+2026-05-01-mazzy-can-exploration   20m 41s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.27%
 
-Total: 26 hrs 23 mins
+Total: 27 hrs 15 mins
 ```
 
 
