@@ -18,8 +18,8 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(today)**
-- [`@utensils/claudette`](https://github.com/utensils/claudette) - _"Claude's missing better half — a companion tool for Claude Code usage."_ **(6 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(1 day ago)**
+- [`@utensils/claudette`](https://github.com/utensils/claudette) - _"Claude's missing better half — a companion tool for Claude Code usage."_ **(1 week ago)**
 - [`@jaspermayone/mazzy-pcb`](https://github.com/jaspermayone/mazzy-pcb) - _""_ **(1 week ago)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(2 weeks ago)**
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-Ruby          8h 45m 52s    █████████░░░░░░░░░░░░░░░░  34.56%
-unknown       8h 16m 44s    █████████░░░░░░░░░░░░░░░░  32.65%
-TypeScript    2h 56m 37s    ███░░░░░░░░░░░░░░░░░░░░░░  11.61%
-TSX           1h 24m 2s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.52%
-Markdown      1h 19m 17s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.21%
+unknown       8h 22m 25s    █████████░░░░░░░░░░░░░░░░  34.24%
+Ruby          7h 49m 27s    ████████░░░░░░░░░░░░░░░░░  31.99%
+TypeScript    2h 56m 37s    ████░░░░░░░░░░░░░░░░░░░░░  12.04%
+TSX           1h 24m 2s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.73%
+Markdown      1h 18m 36s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.36%
 
 💼 Projects:
-ff-core       15h 52m 41s   ████████████████░░░░░░░░░  62.61%
-till          5h 36m 10s    ██████░░░░░░░░░░░░░░░░░░░  22.09%
-dots          1h 14m 3s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.87%
-cl-vtambucs   1h 1m 52s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.07%
-Jasper        27m 40s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.82%
+ff-core       14h 57m 55s   ████████████████░░░░░░░░░  61.18%
+till          5h 36m 10s    ██████░░░░░░░░░░░░░░░░░░░  22.90%
+dots          1h 14m 2s     ██░░░░░░░░░░░░░░░░░░░░░░░  5.04%
+cl-vtambucs   1h 1m 52s     ██░░░░░░░░░░░░░░░░░░░░░░░  4.22%
+Jasper        28m 29s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.94%
 
-Total: 25 hrs 22 mins
+Total: 24 hrs 28 mins
 ```
 
 
