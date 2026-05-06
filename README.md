@@ -18,7 +18,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(1 day ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(2 days ago)**
 - [`@utensils/claudette`](https://github.com/utensils/claudette) - _"Claude's missing better half — a companion tool for Claude Code usage."_ **(1 week ago)**
 - [`@jaspermayone/mazzy-pcb`](https://github.com/jaspermayone/mazzy-pcb) - _""_ **(1 week ago)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(2 weeks ago)**
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown       7h 30m 38s   █████████░░░░░░░░░░░░░░░░  33.45%
-Ruby          6h 25m 59s   ████████░░░░░░░░░░░░░░░░░  28.65%
-TypeScript    2h 56m 37s   ████░░░░░░░░░░░░░░░░░░░░░  13.11%
-TSX           1h 24m 2s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.24%
-Markdown      1h 14m 34s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.54%
+unknown       7h 7m 31s    █████████░░░░░░░░░░░░░░░░  32.29%
+Ruby          6h 25m 59s   ████████░░░░░░░░░░░░░░░░░  29.15%
+TypeScript    2h 56m 37s   ████░░░░░░░░░░░░░░░░░░░░░  13.34%
+TSX           1h 24m 2s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.35%
+Markdown      1h 14m 34s   ██░░░░░░░░░░░░░░░░░░░░░░░  5.63%
 
 💼 Projects:
-ff-core       12h 33m 8s   ██████████████░░░░░░░░░░░  55.90%
-till          5h 36m 10s   ███████░░░░░░░░░░░░░░░░░░  24.95%
-dots          1h 14m 2s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.49%
-cl-vtambucs   1h 1m 52s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.59%
-Jasper        56m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.23%
+ff-core       12h 10m 2s   ██████████████░░░░░░░░░░░  55.13%
+till          5h 36m 10s   ███████░░░░░░░░░░░░░░░░░░  25.38%
+dots          1h 14m 2s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.59%
+cl-vtambucs   1h 1m 52s    ██░░░░░░░░░░░░░░░░░░░░░░░  4.67%
+Jasper        56m 59s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.30%
 
-Total: 22 hrs 27 mins
+Total: 22 hrs 4 mins
 ```
 
 
