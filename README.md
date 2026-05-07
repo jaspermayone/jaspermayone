@@ -31,27 +31,27 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 🍴 My recent forks
 
-- [trust](https://github.com/jaspermayone-forks/trust) - An interactive guide to the game theory of cooperation
-- [adt2](https://github.com/jaspermayone-forks/adt2) - Easy-to-use powerful controls for private Slack channels that puts you back in charge.
+- [costco-importer](https://github.com/jaspermayone-forks/costco-importer) - Parses Costco receipts for importing into Google Sheets (CSV)
+- [THERMAL](https://github.com/jaspermayone-forks/THERMAL) - A searchable collection of your receipts
 
 #### 📡 my _`wakatime`_ stats from the last week
 
 ```text
 💾 Languages:
-unknown       5h 48m 52s   ████████░░░░░░░░░░░░░░░░░  29.16%
-Ruby          4h 53m 18s   ███████░░░░░░░░░░░░░░░░░░  24.51%
-TypeScript    2h 56m 37s   ████░░░░░░░░░░░░░░░░░░░░░  14.76%
-TSX           1h 24m 2s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.02%
-Markdown      1h 18m 43s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.58%
+unknown       5h 52m 54s   ████████░░░░░░░░░░░░░░░░░  29.40%
+Ruby          4h 53m 18s   ███████░░░░░░░░░░░░░░░░░░  24.43%
+TypeScript    2h 56m 37s   ████░░░░░░░░░░░░░░░░░░░░░  14.71%
+TSX           1h 24m 2s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.00%
+Markdown      1h 18m 43s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.56%
 
 💼 Projects:
-ff-core       9h 46m 17s   █████████████░░░░░░░░░░░░  49.00%
-till          5h 41m 48s   ████████░░░░░░░░░░░░░░░░░  28.56%
-Jasper        1h 16m 38s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.40%
-cl-vtambucs   1h 1m 52s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.17%
-dots          1h 1m 46s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.16%
+ff-core       9h 46m 17s   █████████████░░░░░░░░░░░░  48.83%
+till          5h 41m 48s   ████████░░░░░░░░░░░░░░░░░  28.47%
+Jasper        1h 20m 40s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.72%
+cl-vtambucs   1h 1m 52s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.15%
+dots          1h 1m 46s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.14%
 
-Total: 19 hrs 57 mins
+Total: 20 hrs 1 mins
 ```
 
 
