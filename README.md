@@ -31,27 +31,27 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 🍴 My recent forks
 
-- [costco-importer](https://github.com/jaspermayone-forks/costco-importer) - Parses Costco receipts for importing into Google Sheets (CSV)
-- [THERMAL](https://github.com/jaspermayone-forks/THERMAL) - A searchable collection of your receipts
+- [ivymeter](https://github.com/jaspermayone-forks/ivymeter) - 
+- [deda](https://github.com/jaspermayone-forks/deda) - 
 
 #### 📡 my _`wakatime`_ stats from the last week
 
 ```text
 💾 Languages:
-unknown       5h 52m 54s   ████████░░░░░░░░░░░░░░░░░  29.40%
-Ruby          4h 53m 18s   ███████░░░░░░░░░░░░░░░░░░  24.43%
-TypeScript    2h 56m 37s   ████░░░░░░░░░░░░░░░░░░░░░  14.71%
-TSX           1h 24m 2s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.00%
-Markdown      1h 18m 43s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.56%
+unknown       6h 15m 34s   ████████░░░░░░░░░░░░░░░░░  30.55%
+Ruby          4h 53m 18s   ██████░░░░░░░░░░░░░░░░░░░  23.86%
+TypeScript    2h 56m 37s   ████░░░░░░░░░░░░░░░░░░░░░  14.37%
+TSX           1h 24m 2s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.83%
+Markdown      1h 18m 43s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.40%
 
 💼 Projects:
-ff-core       9h 46m 17s   █████████████░░░░░░░░░░░░  48.83%
-till          5h 41m 48s   ████████░░░░░░░░░░░░░░░░░  28.47%
-Jasper        1h 20m 40s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.72%
-cl-vtambucs   1h 1m 52s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.15%
-dots          1h 1m 46s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.14%
+ff-core       9h 50m 8s    ████████████░░░░░░░░░░░░░  47.99%
+till          5h 41m 48s   ███████░░░░░░░░░░░░░░░░░░  27.80%
+Jasper        1h 40m 41s   ███░░░░░░░░░░░░░░░░░░░░░░  8.19%
+dots          1h 6m 54s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.44%
+cl-vtambucs   1h 1m 52s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.03%
 
-Total: 20 hrs 1 mins
+Total: 20 hrs 30 mins
 ```
 
 
