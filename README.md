@@ -18,7 +18,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(today)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(1 day ago)**
 - [`@utensils/claudette`](https://github.com/utensils/claudette) - _"Claude's missing better half — a companion tool for Claude Code usage."_ **(1 week ago)**
 - [`@jaspermayone/mazzy-pcb`](https://github.com/jaspermayone/mazzy-pcb) - _""_ **(1 week ago)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(2 weeks ago)**
@@ -31,27 +31,27 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 🍴 My recent forks
 
-- [Proxyman](https://github.com/jaspermayone-forks/Proxyman) - The best-in-class HTTP Debugger for macOS. Capture HTTP/HTTPS from macOS, iOS, Android with a few clicks ✅
-- [freewrite](https://github.com/jaspermayone-forks/freewrite) - 
+- [trust](https://github.com/jaspermayone-forks/trust) - An interactive guide to the game theory of cooperation
+- [adt2](https://github.com/jaspermayone-forks/adt2) - Easy-to-use powerful controls for private Slack channels that puts you back in charge.
 
 #### 📡 my _`wakatime`_ stats from the last week
 
 ```text
 💾 Languages:
-unknown       6h 22m 9s    ████████░░░░░░░░░░░░░░░░░  31.44%
-Ruby          4h 58m 27s   ███████░░░░░░░░░░░░░░░░░░  24.55%
-TypeScript    2h 56m 37s   ████░░░░░░░░░░░░░░░░░░░░░  14.53%
-TSX           1h 24m 2s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.91%
-YAML          1h 6m 54s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.50%
+unknown       5h 58m 59s   ████████░░░░░░░░░░░░░░░░░  29.75%
+Ruby          4h 53m 18s   ███████░░░░░░░░░░░░░░░░░░  24.31%
+TypeScript    2h 56m 37s   ████░░░░░░░░░░░░░░░░░░░░░  14.64%
+TSX           1h 24m 2s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.96%
+Markdown      1h 18m 43s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.52%
 
 💼 Projects:
-ff-core       10h 36m 7s   ██████████████░░░░░░░░░░░  52.32%
-till          5h 41m 48s   ████████░░░░░░░░░░░░░░░░░  28.11%
-cl-vtambucs   1h 1m 52s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.09%
-dots          1h 1m 46s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.08%
-Jasper        46m 1s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.78%
+ff-core       9h 56m 24s   █████████████░░░░░░░░░░░░  49.42%
+till          5h 41m 48s   ████████░░░░░░░░░░░░░░░░░  28.32%
+Jasper        1h 16m 38s   ██░░░░░░░░░░░░░░░░░░░░░░░  6.35%
+cl-vtambucs   1h 1m 52s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.13%
+dots          1h 1m 46s    ██░░░░░░░░░░░░░░░░░░░░░░░  5.12%
 
-Total: 20 hrs 16 mins
+Total: 20 hrs 7 mins
 ```
 
 
