@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(today)**
 - [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(1 day ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 day ago)**
 - [`@utensils/claudette`](https://github.com/utensils/claudette) - _"Claude's missing better half — a companion tool for Claude Code usage."_ **(1 week ago)**
-- [`@jaspermayone/mazzy-pcb`](https://github.com/jaspermayone/mazzy-pcb) - _""_ **(1 week ago)**
+- [`@jaspermayone/mazzy-pcb`](https://github.com/jaspermayone/mazzy-pcb) - _""_ **(2 weeks ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown       6h 18m 4s     █████████░░░░░░░░░░░░░░░░  35.02%
-Ruby          5h 4m 0s      ████████░░░░░░░░░░░░░░░░░  28.16%
-TSX           1h 54m 4s     ███░░░░░░░░░░░░░░░░░░░░░░  10.57%
-YAML          1h 33m 49s    ███░░░░░░░░░░░░░░░░░░░░░░  8.69%
-Markdown      52m 46s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.89%
+unknown       6h 2m 31s    █████████░░░░░░░░░░░░░░░░  35.84%
+Ruby          5h 4m 0s     ████████░░░░░░░░░░░░░░░░░  30.06%
+TSX           1h 42m 58s   ███░░░░░░░░░░░░░░░░░░░░░░  10.18%
+YAML          1h 24m 54s   ███░░░░░░░░░░░░░░░░░░░░░░  8.39%
+Markdown      42m 16s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.18%
 
 💼 Projects:
-ff-core       10h 57m 38s   ████████████████░░░░░░░░░  60.90%
-Jasper        1h 49m 38s    ███░░░░░░░░░░░░░░░░░░░░░░  10.15%
-till          1h 24m 3s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.78%
-dots          1h 22m 29s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.64%
-cl-vtambucs   1h 20m 1s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.41%
+ff-core       10h 58m 5s   █████████████████░░░░░░░░  65.05%
+Jasper        1h 49m 38s   ███░░░░░░░░░░░░░░░░░░░░░░  10.84%
+cl-vtambucs   1h 20m 1s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.91%
+dots          1h 11m 35s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.08%
+website       33m 41s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.33%
 
-Total: 18 hrs 0 mins
+Total: 16 hrs 52 mins
 ```
 
 
