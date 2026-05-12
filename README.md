@@ -18,16 +18,16 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@jaspermayone/forked`](https://github.com/jaspermayone/forked) - _""_ **(today)**
 - [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(2 days ago)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(2 days ago)**
 - [`@utensils/claudette`](https://github.com/utensils/claudette) - _"Claude's missing better half — a companion tool for Claude Code usage."_ **(2 weeks ago)**
-- [`@jaspermayone/mazzy-pcb`](https://github.com/jaspermayone/mazzy-pcb) - _""_ **(2 weeks ago)**
 
 #### 🌱 My latest projects
 
+- [`@jaspermayone/forked`](https://github.com/jaspermayone/forked) - _""_
 - [`@jaspermayone/mazzy-pcb`](https://github.com/jaspermayone/mazzy-pcb) - _""_
 - [`@jaspermayone/mazzy-software`](https://github.com/jaspermayone/mazzy-software) - _""_
-- [`@jaspermayone/mazzy`](https://github.com/jaspermayone/mazzy) - _""_
 
 #### 🍴 My recent forks
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown       5h 25m 24s    ██████████░░░░░░░░░░░░░░░  36.54%
-Ruby          4h 37m 9s     ████████░░░░░░░░░░░░░░░░░  31.12%
-YAML          1h 23m 47s    ███░░░░░░░░░░░░░░░░░░░░░░  9.41%
-TSX           48m 55s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.49%
-Nix           38m 47s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.36%
+unknown       5h 29m 5s    █████████░░░░░░░░░░░░░░░░  35.26%
+Ruby          4h 37m 9s    ████████░░░░░░░░░░░░░░░░░  29.70%
+YAML          1h 23m 47s   ███░░░░░░░░░░░░░░░░░░░░░░  8.98%
+TSX           1h 2m 58s    ██░░░░░░░░░░░░░░░░░░░░░░░  6.75%
+Nix           51m 26s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.51%
 
 💼 Projects:
-ff-core       10h 17m 59s   ██████████████████░░░░░░░  69.39%
-Jasper        1h 33m 10s    ███░░░░░░░░░░░░░░░░░░░░░░  10.46%
-dots          1h 14m 34s    ███░░░░░░░░░░░░░░░░░░░░░░  8.37%
-website       33m 41s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.78%
-cl-vtambucs   26m 4s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.93%
+ff-core       10h 5m 41s   █████████████████░░░░░░░░  64.89%
+dots          1h 44m 14s   ███░░░░░░░░░░░░░░░░░░░░░░  11.17%
+Jasper        1h 33m 10s   ███░░░░░░░░░░░░░░░░░░░░░░  9.98%
+cl-vtambucs   40m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.30%
+website       33m 41s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.61%
 
-Total: 14 hrs 51 mins
+Total: 15 hrs 33 mins
 ```
 
 
