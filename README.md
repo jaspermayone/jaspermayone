@@ -19,9 +19,9 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 #### 👷 The latest repos I've pushed to
 
 - [`@jaspermayone/boxcar`](https://github.com/jaspermayone/boxcar) - _"My opinionated ruby on rails template"_ **(today)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(today)**
 - [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _"My homebrew tap - storing the formulas i make"_ **(today)**
 - [`@jaspermayone/forked`](https://github.com/jaspermayone/forked) - _""_ **(today)**
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(2 days ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown       5h 8m 1s     █████████░░░░░░░░░░░░░░░░  35.42%
-Ruby          4h 25m 14s   ████████░░░░░░░░░░░░░░░░░  30.50%
-YAML          1h 7m 54s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.81%
-TSX           1h 2m 58s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.24%
-Nix           51m 26s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.91%
+unknown       5h 14m 59s   █████████░░░░░░░░░░░░░░░░  35.63%
+Ruby          4h 26m 49s   ████████░░░░░░░░░░░░░░░░░  30.18%
+TSX           1h 8m 58s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.80%
+YAML          1h 7m 54s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.68%
+Nix           51m 26s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.82%
 
 💼 Projects:
-ff-core       9h 37m 37s   █████████████████░░░░░░░░  66.42%
-dots          1h 44m 14s   ███░░░░░░░░░░░░░░░░░░░░░░  11.99%
-Jasper        1h 4m 40s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.44%
-cl-vtambucs   40m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.61%
-website       33m 41s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.87%
+ff-core       9h 43m 46s   █████████████████░░░░░░░░  66.02%
+dots          1h 46m 30s   ████░░░░░░░░░░░░░░░░░░░░░  12.04%
+Jasper        1h 4m 40s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.31%
+cl-vtambucs   40m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.54%
+website       33m 41s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.81%
 
-Total: 14 hrs 30 mins
+Total: 14 hrs 44 mins
 ```
 
 
