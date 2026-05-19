@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(today)**
-- [`@jaspermayone/forked`](https://github.com/jaspermayone/forked) - _""_ **(6 days ago)**
-- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _"My homebrew tap - storing the formulas i make"_ **(6 days ago)**
-- [`@jaspermayone/boxcar`](https://github.com/jaspermayone/boxcar) - _"My opinionated ruby on rails template"_ **(6 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(1 day ago)**
+- [`@jaspermayone/forked`](https://github.com/jaspermayone/forked) - _""_ **(1 week ago)**
+- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _"My homebrew tap - storing the formulas i make"_ **(1 week ago)**
+- [`@jaspermayone/boxcar`](https://github.com/jaspermayone/boxcar) - _"My opinionated ruby on rails template"_ **(1 week ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown                   4h 18m 3s    ████████████░░░░░░░░░░░░░  46.60%
-Ruby                      1h 40m 54s   █████░░░░░░░░░░░░░░░░░░░░  18.22%
-Image (svg)               56m 46s      ███░░░░░░░░░░░░░░░░░░░░░░  10.25%
-Nix                       40m 15s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.27%
-TSX                       37m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.75%
+unknown                   4h 24m 36s   ████████████░░░░░░░░░░░░░  47.28%
+Ruby                      1h 40m 54s   █████░░░░░░░░░░░░░░░░░░░░  18.03%
+Nix                       1h 4m 33s    ███░░░░░░░░░░░░░░░░░░░░░░  11.53%
+Image (svg)               56m 46s      ███░░░░░░░░░░░░░░░░░░░░░░  10.14%
+Markdown                  21m 3s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.76%
 
 💼 Projects:
-ff-core                   6h 33m 24s   ██████████████████░░░░░░░  71.03%
-dots                      1h 50m 51s   ██████░░░░░░░░░░░░░░░░░░░  20.02%
-cl-vtambucs               29m 2s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.24%
-lamoille-housing-summit   9m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.66%
-forked                    5m 58s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.08%
+ff-core                   6h 32m 53s   ██████████████████░░░░░░░  70.20%
+dots                      2h 19m 13s   ███████░░░░░░░░░░░░░░░░░░  24.87%
+lamoille-housing-summit   9m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.64%
+cl-vtambucs               7m 4s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.26%
+forked                    5m 58s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.07%
 
-Total: 9 hrs 14 mins
+Total: 9 hrs 20 mins
 ```
 
 
