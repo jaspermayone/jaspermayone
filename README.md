@@ -31,27 +31,27 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 🍴 My recent forks
 
+- [sn-learn-javascript](https://github.com/jaspermayone-forks/sn-learn-javascript) - Example scripts from the series "Learn JavaScript on the Now Platform"
 - [ivymeter](https://github.com/jaspermayone-forks/ivymeter) - 
-- [deda](https://github.com/jaspermayone-forks/deda) - 
 
 #### 📡 my _`wakatime`_ stats from the last week
 
 ```text
 💾 Languages:
-unknown       5h 12m 12s   █████████████░░░░░░░░░░░░  50.83%
-Ruby          1h 39m 28s   █████░░░░░░░░░░░░░░░░░░░░  16.20%
-Nix           1h 11m 14s   ███░░░░░░░░░░░░░░░░░░░░░░  11.60%
-Image (svg)   56m 46s      ███░░░░░░░░░░░░░░░░░░░░░░  9.24%
-JavaScript    25m 55s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.22%
+unknown       5h 14m 12s   █████████████░░░░░░░░░░░░  50.23%
+Ruby          1h 41m 28s   █████░░░░░░░░░░░░░░░░░░░░  16.22%
+Nix           1h 11m 14s   ███░░░░░░░░░░░░░░░░░░░░░░  11.39%
+Image (svg)   56m 46s      ███░░░░░░░░░░░░░░░░░░░░░░  9.07%
+JavaScript    33m 19s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.33%
 
 💼 Projects:
-ff-core       7h 2m 12s    ██████████████████░░░░░░░  68.74%
-dots          2h 15m 35s   ██████░░░░░░░░░░░░░░░░░░░  22.07%
-ui            40m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.66%
-cl-vtambucs   7m 4s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.15%
-wes-pta       3m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  0.59%
+ff-core       7h 2m 12s    █████████████████░░░░░░░░  67.49%
+dots          2h 15m 35s   ██████░░░░░░░░░░░░░░░░░░░  21.67%
+ui            40m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.54%
+MentorDb      9m 24s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.50%
+cl-vtambucs   7m 4s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.13%
 
-Total: 10 hrs 14 mins
+Total: 10 hrs 26 mins
 ```
 
 
