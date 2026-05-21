@@ -31,27 +31,27 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 🍴 My recent forks
 
+- [tiktokenizer](https://github.com/jaspermayone-forks/tiktokenizer) - Online playground for OpenAPI tokenizers
 - [sn-learn-javascript](https://github.com/jaspermayone-forks/sn-learn-javascript) - Example scripts from the series "Learn JavaScript on the Now Platform"
-- [ivymeter](https://github.com/jaspermayone-forks/ivymeter) - 
 
 #### 📡 my _`wakatime`_ stats from the last week
 
 ```text
 💾 Languages:
-unknown                  4h 46m 12s   ████████████░░░░░░░░░░░░░  47.56%
-Ruby                     1h 39m 40s   █████░░░░░░░░░░░░░░░░░░░░  16.56%
-Nix                      58m 20s      ███░░░░░░░░░░░░░░░░░░░░░░  9.69%
-Image (svg)              56m 46s      ███░░░░░░░░░░░░░░░░░░░░░░  9.43%
-JavaScript               34m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.69%
+unknown                  4h 52m 15s   ████████████░░░░░░░░░░░░░  46.76%
+Ruby                     1h 32m 1s    ████░░░░░░░░░░░░░░░░░░░░░  14.72%
+Nix                      58m 20s      ███░░░░░░░░░░░░░░░░░░░░░░  9.33%
+Image (svg)              56m 46s      ███░░░░░░░░░░░░░░░░░░░░░░  9.08%
+JavaScript               53m 33s      ███░░░░░░░░░░░░░░░░░░░░░░  8.57%
 
 💼 Projects:
-ff-core                  6h 33m 32s   █████████████████░░░░░░░░  65.39%
-dots                     1h 18m 53s   ████░░░░░░░░░░░░░░░░░░░░░  13.11%
-ui                       40m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.80%
-Digital Tool Directory   35m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.96%
-playground               24m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.08%
+ff-core                  6h 17m 32s   ████████████████░░░░░░░░░  60.40%
+Digital Tool Directory   1h 19m 3s    ████░░░░░░░░░░░░░░░░░░░░░  12.65%
+dots                     1h 14m 53s   ███░░░░░░░░░░░░░░░░░░░░░░  11.98%
+ui                       40m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.55%
+playground               24m 34s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.93%
 
-Total: 10 hrs 2 mins
+Total: 10 hrs 25 mins
 ```
 
 
