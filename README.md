@@ -18,7 +18,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(2 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(today)**
 - [`@jaspermayone/forked`](https://github.com/jaspermayone/forked) - _""_ **(1 week ago)**
 - [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _"My homebrew tap - storing the formulas i make"_ **(1 week ago)**
 - [`@jaspermayone/boxcar`](https://github.com/jaspermayone/boxcar) - _"My opinionated ruby on rails template"_ **(1 week ago)**
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown       4h 29m 25s   ████████████░░░░░░░░░░░░░  47.63%
-Ruby          1h 41m 28s   █████░░░░░░░░░░░░░░░░░░░░  17.94%
-Image (svg)   56m 46s      ███░░░░░░░░░░░░░░░░░░░░░░  10.04%
-Nix           54m 52s      ███░░░░░░░░░░░░░░░░░░░░░░  9.70%
-JavaScript    33m 22s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.90%
+unknown                  4h 46m 12s   ████████████░░░░░░░░░░░░░  47.56%
+Ruby                     1h 39m 40s   █████░░░░░░░░░░░░░░░░░░░░  16.56%
+Nix                      58m 20s      ███░░░░░░░░░░░░░░░░░░░░░░  9.69%
+Image (svg)              56m 46s      ███░░░░░░░░░░░░░░░░░░░░░░  9.43%
+JavaScript               34m 13s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.69%
 
 💼 Projects:
-ff-core       6h 41m 12s   ██████████████████░░░░░░░  70.92%
-dots          1h 17m 5s    ████░░░░░░░░░░░░░░░░░░░░░  13.63%
-ui            40m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.24%
-playground    18m 22s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.25%
-MentorDb      11m 36s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.05%
+ff-core                  6h 33m 32s   █████████████████░░░░░░░░  65.39%
+dots                     1h 18m 53s   ████░░░░░░░░░░░░░░░░░░░░░  13.11%
+ui                       40m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.80%
+Digital Tool Directory   35m 51s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.96%
+playground               24m 34s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.08%
 
-Total: 9 hrs 26 mins
+Total: 10 hrs 2 mins
 ```
 
 
