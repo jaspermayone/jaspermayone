@@ -38,15 +38,15 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown                  4h 50m 37s   ████████████░░░░░░░░░░░░░  44.96%
+unknown                  4h 52m 36s   ████████████░░░░░░░░░░░░░  45.27%
 Ruby                     1h 32m 1s    ████░░░░░░░░░░░░░░░░░░░░░  14.24%
 JavaScript               1h 3m 52s    ███░░░░░░░░░░░░░░░░░░░░░░  9.88%
 Nix                      58m 20s      ███░░░░░░░░░░░░░░░░░░░░░░  9.03%
 Image (svg)              56m 46s      ███░░░░░░░░░░░░░░░░░░░░░░  8.78%
 
 💼 Projects:
-ff-core                  6h 5m 32s    ███████████████░░░░░░░░░░  56.55%
-Digital Tool Directory   1h 52m 26s   █████░░░░░░░░░░░░░░░░░░░░  17.39%
+ff-core                  6h 3m 32s    ███████████████░░░░░░░░░░  56.24%
+Digital Tool Directory   1h 54m 27s   █████░░░░░░░░░░░░░░░░░░░░  17.70%
 dots                     1h 14m 53s   ███░░░░░░░░░░░░░░░░░░░░░░  11.58%
 ui                       40m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.33%
 playground               24m 33s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.80%
