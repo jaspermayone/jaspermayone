@@ -18,7 +18,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(1 day ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(2 days ago)**
 - [`@jaspermayone/forked`](https://github.com/jaspermayone/forked) - _""_ **(1 week ago)**
 - [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _"My homebrew tap - storing the formulas i make"_ **(1 week ago)**
 - [`@jaspermayone/boxcar`](https://github.com/jaspermayone/boxcar) - _"My opinionated ruby on rails template"_ **(1 week ago)**
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown                  4h 59m 13s   ████████████░░░░░░░░░░░░░  46.33%
-Ruby                     1h 24m 9s    ████░░░░░░░░░░░░░░░░░░░░░  13.03%
-JavaScript               1h 3m 48s    ███░░░░░░░░░░░░░░░░░░░░░░  9.88%
-Nix                      58m 20s      ███░░░░░░░░░░░░░░░░░░░░░░  9.03%
-Image (svg)              56m 46s      ███░░░░░░░░░░░░░░░░░░░░░░  8.79%
+unknown                  5h 21m 59s   ████████████░░░░░░░░░░░░░  47.73%
+Ruby                     1h 24m 9s    ████░░░░░░░░░░░░░░░░░░░░░  12.47%
+JavaScript               1h 3m 48s    ███░░░░░░░░░░░░░░░░░░░░░░  9.46%
+Image (svg)              1h 2m 46s    ███░░░░░░░░░░░░░░░░░░░░░░  9.30%
+Nix                      58m 20s      ███░░░░░░░░░░░░░░░░░░░░░░  8.65%
 
 💼 Projects:
-ff-core                  5h 51m 22s   ██████████████░░░░░░░░░░░  54.40%
-Digital Tool Directory   2h 0m 51s    █████░░░░░░░░░░░░░░░░░░░░  18.71%
-dots                     1h 14m 53s   ███░░░░░░░░░░░░░░░░░░░░░░  11.59%
-ui                       40m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.34%
-playground               24m 33s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.80%
+ff-core                  6h 20m 9s    ███████████████░░░░░░░░░░  56.35%
+Digital Tool Directory   2h 0m 50s    █████░░░░░░░░░░░░░░░░░░░░  17.91%
+dots                     1h 14m 53s   ███░░░░░░░░░░░░░░░░░░░░░░  11.10%
+ui                       40m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.07%
+playground               24m 33s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.64%
 
-Total: 10 hrs 46 mins
+Total: 11 hrs 15 mins
 ```
 
 
