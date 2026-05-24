@@ -18,7 +18,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(3 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(today)**
 - [`@jaspermayone/forked`](https://github.com/jaspermayone/forked) - _""_ **(1 week ago)**
 - [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _"My homebrew tap - storing the formulas i make"_ **(1 week ago)**
 - [`@jaspermayone/boxcar`](https://github.com/jaspermayone/boxcar) - _"My opinionated ruby on rails template"_ **(1 week ago)**
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown                  5h 33m 2s    ████████████░░░░░░░░░░░░░  47.09%
-Nix                      1h 48m 22s   ████░░░░░░░░░░░░░░░░░░░░░  15.32%
-Ruby                     1h 27m 13s   ████░░░░░░░░░░░░░░░░░░░░░  12.33%
-JavaScript               1h 4m 48s    ███░░░░░░░░░░░░░░░░░░░░░░  9.16%
-Markdown                 25m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.55%
+unknown                  5h 33m 53s   ████████████░░░░░░░░░░░░░  46.75%
+Nix                      1h 50m 25s   ████░░░░░░░░░░░░░░░░░░░░░  15.46%
+Ruby                     1h 27m 13s   ████░░░░░░░░░░░░░░░░░░░░░  12.21%
+JavaScript               1h 4m 48s    ███░░░░░░░░░░░░░░░░░░░░░░  9.07%
+Markdown                 25m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.51%
 
 💼 Projects:
-ff-core                  5h 2m 21s    ███████████░░░░░░░░░░░░░░  42.75%
-dots                     2h 8m 43s    █████░░░░░░░░░░░░░░░░░░░░  18.20%
-Digital Tool Directory   2h 0m 50s    █████░░░░░░░░░░░░░░░░░░░░  17.09%
-MentorDb                 54m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.75%
-ui                       43m 2s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.08%
+ff-core                  5h 2m 21s    ███████████░░░░░░░░░░░░░░  42.34%
+dots                     2h 15m 41s   █████░░░░░░░░░░░░░░░░░░░░  19.00%
+Digital Tool Directory   2h 0m 50s    █████░░░░░░░░░░░░░░░░░░░░  16.92%
+MentorDb                 54m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.68%
+ui                       43m 2s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.03%
 
-Total: 11 hrs 47 mins
+Total: 11 hrs 54 mins
 ```
 
 
