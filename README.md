@@ -31,27 +31,27 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 🍴 My recent forks
 
+- [obsidian-pocket](https://github.com/jaspermayone-forks/obsidian-pocket) - Sync Pocket AI conversations and daily highlights into Markdown notes.
 - [tiktokenizer](https://github.com/jaspermayone-forks/tiktokenizer) - Online playground for OpenAPI tokenizers
-- [sn-learn-javascript](https://github.com/jaspermayone-forks/sn-learn-javascript) - Example scripts from the series "Learn JavaScript on the Now Platform"
 
 #### 📡 my _`wakatime`_ stats from the last week
 
 ```text
 💾 Languages:
-unknown                  6h 15m 54s   █████████████░░░░░░░░░░░░  50.96%
-Nix                      1h 50m 25s   ████░░░░░░░░░░░░░░░░░░░░░  14.97%
-Ruby                     1h 17m 47s   ███░░░░░░░░░░░░░░░░░░░░░░  10.54%
-JavaScript               1h 4m 48s    ███░░░░░░░░░░░░░░░░░░░░░░  8.78%
-Markdown                 22m 48s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.09%
+unknown                  6h 31m 53s   ██████████████░░░░░░░░░░░  52.33%
+Nix                      1h 50m 25s   ████░░░░░░░░░░░░░░░░░░░░░  14.74%
+Ruby                     1h 14m 10s   ███░░░░░░░░░░░░░░░░░░░░░░  9.90%
+JavaScript               1h 4m 48s    ███░░░░░░░░░░░░░░░░░░░░░░  8.65%
+Markdown                 21m 26s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.86%
 
 💼 Projects:
-ff-core                  4h 37m 52s   ██████████░░░░░░░░░░░░░░░  37.67%
-dots                     3h 3m 42s    ███████░░░░░░░░░░░░░░░░░░  24.90%
-Digital Tool Directory   2h 0m 50s    █████░░░░░░░░░░░░░░░░░░░░  16.38%
-MentorDb                 54m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.43%
-ui                       43m 2s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.83%
+ff-core                  4h 15m 57s   █████████░░░░░░░░░░░░░░░░  34.17%
+dots                     3h 21m 41s   ███████░░░░░░░░░░░░░░░░░░  26.93%
+Digital Tool Directory   2h 0m 50s    █████░░░░░░░░░░░░░░░░░░░░  16.13%
+MentorDb                 54m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.32%
+ui                       43m 2s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.75%
 
-Total: 12 hrs 18 mins
+Total: 12 hrs 29 mins
 ```
 
 
