@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(1 day ago)**
-- [`@jaspermayone/boxcar`](https://github.com/jaspermayone/boxcar) - _"My opinionated ruby on rails template"_ **(1 week ago)**
-- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _"My homebrew tap - storing the formulas i make"_ **(1 week ago)**
-- [`@jaspermayone/forked`](https://github.com/jaspermayone/forked) - _""_ **(1 week ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(2 days ago)**
+- [`@jaspermayone/boxcar`](https://github.com/jaspermayone/boxcar) - _"My opinionated ruby on rails template"_ **(2 weeks ago)**
+- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _"My homebrew tap - storing the formulas i make"_ **(2 weeks ago)**
+- [`@jaspermayone/forked`](https://github.com/jaspermayone/forked) - _""_ **(2 weeks ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown                  6h 20m 36s   ███████████░░░░░░░░░░░░░░  43.07%
-Ruby                     3h 9m 30s    ██████░░░░░░░░░░░░░░░░░░░  21.44%
-Nix                      1h 14m 45s   ███░░░░░░░░░░░░░░░░░░░░░░  8.46%
-JavaScript               1h 6m 31s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.53%
-Markdown                 20m 23s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.31%
+unknown                  5h 53m 24s   ███████████░░░░░░░░░░░░░░  41.44%
+Ruby                     3h 24m 27s   ██████░░░░░░░░░░░░░░░░░░░  23.98%
+JavaScript               1h 6m 31s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.80%
+Nix                      1h 0m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.10%
+CSS                      18m 44s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.20%
 
 💼 Projects:
-ff-core                  3h 40m 47s   ███████░░░░░░░░░░░░░░░░░░  24.98%
-dots                     2h 38m 26s   █████░░░░░░░░░░░░░░░░░░░░  17.92%
-calendar                 2h 37m 39s   █████░░░░░░░░░░░░░░░░░░░░  17.84%
-Digital Tool Directory   2h 0m 50s    ████░░░░░░░░░░░░░░░░░░░░░  13.67%
-MentorDb                 54m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.20%
+calendar                 3h 10m 55s   ██████░░░░░░░░░░░░░░░░░░░  22.39%
+ff-core                  2h 56m 34s   ██████░░░░░░░░░░░░░░░░░░░  20.70%
+dots                     2h 15m 51s   ████░░░░░░░░░░░░░░░░░░░░░  15.93%
+Digital Tool Directory   2h 0m 50s    ████░░░░░░░░░░░░░░░░░░░░░  14.17%
+MentorDb                 54m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.43%
 
-Total: 14 hrs 44 mins
+Total: 14 hrs 13 mins
 ```
 
 
