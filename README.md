@@ -18,7 +18,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(3 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(today)**
 - [`@jaspermayone/boxcar`](https://github.com/jaspermayone/boxcar) - _"My opinionated ruby on rails template"_ **(2 weeks ago)**
 - [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _"My homebrew tap - storing the formulas i make"_ **(2 weeks ago)**
 - [`@jaspermayone/forked`](https://github.com/jaspermayone/forked) - _""_ **(2 weeks ago)**
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown                  5h 40m 28s   ██████████░░░░░░░░░░░░░░░  36.38%
-Ruby                     3h 20m 18s   ██████░░░░░░░░░░░░░░░░░░░  21.40%
-TSX                      1h 15m 15s   ███░░░░░░░░░░░░░░░░░░░░░░  8.04%
-Nix                      55m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.94%
-TypeScript               51m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.46%
+unknown                  5h 53m 13s   ██████████░░░░░░░░░░░░░░░  37.24%
+Ruby                     3h 20m 18s   ██████░░░░░░░░░░░░░░░░░░░  21.12%
+TSX                      1h 15m 15s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.93%
+Nix                      55m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.86%
+TypeScript               51m 7s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.39%
 
 💼 Projects:
-calendar                 3h 5m 11s    █████░░░░░░░░░░░░░░░░░░░░  19.79%
-myWentworth              2h 15m 58s   ████░░░░░░░░░░░░░░░░░░░░░  14.53%
-dots                     2h 10m 16s   ████░░░░░░░░░░░░░░░░░░░░░  13.92%
-ff-core                  2h 4m 34s    ████░░░░░░░░░░░░░░░░░░░░░  13.31%
-Digital Tool Directory   2h 0m 50s    ████░░░░░░░░░░░░░░░░░░░░░  12.91%
+calendar                 3h 5m 11s    █████░░░░░░░░░░░░░░░░░░░░  19.52%
+ff-core                  2h 20m 34s   ████░░░░░░░░░░░░░░░░░░░░░  14.82%
+myWentworth              2h 15m 58s   ████░░░░░░░░░░░░░░░░░░░░░  14.33%
+dots                     2h 13m 1s    ████░░░░░░░░░░░░░░░░░░░░░  14.02%
+Digital Tool Directory   2h 0m 50s    ████░░░░░░░░░░░░░░░░░░░░░  12.74%
 
-Total: 15 hrs 36 mins
+Total: 15 hrs 49 mins
 ```
 
 
