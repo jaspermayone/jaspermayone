@@ -18,7 +18,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(2 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(3 days ago)**
 - [`@jaspermayone/boxcar`](https://github.com/jaspermayone/boxcar) - _"My opinionated ruby on rails template"_ **(2 weeks ago)**
 - [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _"My homebrew tap - storing the formulas i make"_ **(2 weeks ago)**
 - [`@jaspermayone/forked`](https://github.com/jaspermayone/forked) - _""_ **(2 weeks ago)**
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown                  4h 55m 24s   █████████░░░░░░░░░░░░░░░░  34.45%
-Ruby                     3h 26m 27s   ███████░░░░░░░░░░░░░░░░░░  24.08%
-JavaScript               1h 6m 31s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.76%
-Nix                      1h 0m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.06%
-Image (svg)              34m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.97%
+unknown                  4h 56m 58s   █████████░░░░░░░░░░░░░░░░  33.53%
+Ruby                     3h 26m 27s   ██████░░░░░░░░░░░░░░░░░░░  23.31%
+JavaScript               1h 6m 31s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.51%
+Nix                      55m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.27%
+TypeScript               42m 52s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.84%
 
 💼 Projects:
-calendar                 3h 10m 55s   ██████░░░░░░░░░░░░░░░░░░░  22.26%
-dots                     2h 15m 51s   ████░░░░░░░░░░░░░░░░░░░░░  15.84%
-Digital Tool Directory   2h 0m 50s    ████░░░░░░░░░░░░░░░░░░░░░  14.09%
-ff-core                  1h 34m 34s   ███░░░░░░░░░░░░░░░░░░░░░░  11.03%
-admin                    54m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.40%
+calendar                 3h 10m 55s   ██████░░░░░░░░░░░░░░░░░░░  21.55%
+dots                     2h 10m 51s   ████░░░░░░░░░░░░░░░░░░░░░  14.77%
+Digital Tool Directory   2h 0m 50s    ████░░░░░░░░░░░░░░░░░░░░░  13.64%
+ff-core                  1h 34m 34s   ███░░░░░░░░░░░░░░░░░░░░░░  10.67%
+admin                    1h 7m 38s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.63%
 
-Total: 14 hrs 18 mins
+Total: 14 hrs 46 mins
 ```
 
 
