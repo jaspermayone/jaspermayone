@@ -18,7 +18,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(2 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(3 days ago)**
 - [`@jaspermayone/boxcar`](https://github.com/jaspermayone/boxcar) - _"My opinionated ruby on rails template"_ **(2 weeks ago)**
 - [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _"My homebrew tap - storing the formulas i make"_ **(2 weeks ago)**
 - [`@jaspermayone/forked`](https://github.com/jaspermayone/forked) - _""_ **(2 weeks ago)**
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown       5h 48m 39s   ██████████░░░░░░░░░░░░░░░  39.46%
-Ruby          3h 8m 37s    ██████░░░░░░░░░░░░░░░░░░░  21.35%
-TSX           1h 23m 50s   ███░░░░░░░░░░░░░░░░░░░░░░  9.49%
-Nix           1h 8m 30s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.75%
-TypeScript    53m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.10%
+unknown       5h 27m 52s   ██████████░░░░░░░░░░░░░░░  38.36%
+Ruby          3h 8m 37s    ██████░░░░░░░░░░░░░░░░░░░  22.07%
+TSX           1h 23m 50s   ███░░░░░░░░░░░░░░░░░░░░░░  9.81%
+Nix           1h 8m 30s    ███░░░░░░░░░░░░░░░░░░░░░░  8.01%
+TypeScript    53m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.30%
 
 💼 Projects:
-calendar      3h 5m 11s    ██████░░░░░░░░░░░░░░░░░░░  20.96%
-ff-core       2h 48m 6s    █████░░░░░░░░░░░░░░░░░░░░  19.02%
-dots          2h 29m 33s   █████░░░░░░░░░░░░░░░░░░░░  16.92%
-myWentworth   2h 15m 57s   ████░░░░░░░░░░░░░░░░░░░░░  15.38%
-admin         1h 7m 38s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.65%
+calendar      3h 5m 11s    ██████░░░░░░░░░░░░░░░░░░░  21.66%
+dots          2h 29m 33s   █████░░░░░░░░░░░░░░░░░░░░  17.49%
+ff-core       2h 17m 20s   █████░░░░░░░░░░░░░░░░░░░░  16.06%
+myWentworth   2h 15m 57s   ████░░░░░░░░░░░░░░░░░░░░░  15.90%
+admin         1h 7m 38s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.91%
 
-Total: 14 hrs 44 mins
+Total: 14 hrs 15 mins
 ```
 
 
