@@ -18,7 +18,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(3 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(4 days ago)**
 - [`@jaspermayone/boxcar`](https://github.com/jaspermayone/boxcar) - _"My opinionated ruby on rails template"_ **(2 weeks ago)**
 - [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _"My homebrew tap - storing the formulas i make"_ **(2 weeks ago)**
 - [`@jaspermayone/forked`](https://github.com/jaspermayone/forked) - _""_ **(2 weeks ago)**
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown                                5h 53m 17s   ██████████░░░░░░░░░░░░░░░  38.89%
-Ruby                                   3h 35m 0s    ██████░░░░░░░░░░░░░░░░░░░  23.67%
-TSX                                    1h 27m 22s   ███░░░░░░░░░░░░░░░░░░░░░░  9.62%
-Nix                                    1h 8m 30s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.54%
-TypeScript                             53m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.93%
+unknown                                5h 56m 16s   ██████████░░░░░░░░░░░░░░░  36.71%
+Ruby                                   4h 30m 1s    ███████░░░░░░░░░░░░░░░░░░  27.82%
+TSX                                    1h 23m 50s   ███░░░░░░░░░░░░░░░░░░░░░░  8.64%
+Nix                                    1h 8m 30s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.06%
+TypeScript                             53m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.55%
 
 💼 Projects:
-calendar                               3h 5m 11s    ██████░░░░░░░░░░░░░░░░░░░  20.38%
-ff-core                                2h 55m 43s   █████░░░░░░░░░░░░░░░░░░░░  19.34%
-dots                                   2h 29m 33s   █████░░░░░░░░░░░░░░░░░░░░  16.46%
-myWentworth                            2h 15m 57s   ████░░░░░░░░░░░░░░░░░░░░░  14.96%
-2026-05-25-Maclean-D-obsidian-pocket   1h 12m 5s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.93%
+ff-core                                4h 18m 15s   ███████░░░░░░░░░░░░░░░░░░  26.61%
+calendar                               3h 5m 11s    █████░░░░░░░░░░░░░░░░░░░░  19.08%
+dots                                   2h 29m 33s   ████░░░░░░░░░░░░░░░░░░░░░  15.41%
+myWentworth                            2h 15m 57s   ████░░░░░░░░░░░░░░░░░░░░░  14.01%
+2026-05-25-Maclean-D-obsidian-pocket   1h 10m 5s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.22%
 
-Total: 15 hrs 9 mins
+Total: 16 hrs 11 mins
 ```
 
 
