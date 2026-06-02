@@ -18,7 +18,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(2 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(today)**
 - [`@jaspermayone/boxcar`](https://github.com/jaspermayone/boxcar) - _"My opinionated ruby on rails template"_ **(3 weeks ago)**
 - [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _"My homebrew tap - storing the formulas i make"_ **(3 weeks ago)**
 - [`@jaspermayone/forked`](https://github.com/jaspermayone/forked) - _""_ **(3 weeks ago)**
@@ -31,27 +31,27 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 🍴 My recent forks
 
+- [fizzy](https://github.com/jaspermayone-forks/fizzy) - Kanban as it should be. Not as it has been.
 - [obsidian-pocket](https://github.com/jaspermayone-forks/obsidian-pocket) - Sync Pocket AI conversations and daily highlights into Markdown notes.
-- [tiktokenizer](https://github.com/jaspermayone-forks/tiktokenizer) - Online playground for OpenAPI tokenizers
 
 #### 📡 my _`wakatime`_ stats from the last week
 
 ```text
 💾 Languages:
-unknown       5h 38m 25s   ████████████░░░░░░░░░░░░░  44.66%
-Ruby          2h 5m 22s    █████░░░░░░░░░░░░░░░░░░░░  16.54%
-Nix           1h 32m 11s   ████░░░░░░░░░░░░░░░░░░░░░  12.17%
-TSX           1h 23m 50s   ███░░░░░░░░░░░░░░░░░░░░░░  11.06%
-TypeScript    46m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.14%
+unknown                                6h 18m 41s   ████████████░░░░░░░░░░░░░  47.97%
+Ruby                                   2h 12m 51s   █████░░░░░░░░░░░░░░░░░░░░  16.83%
+Nix                                    1h 46m 39s   ████░░░░░░░░░░░░░░░░░░░░░  13.51%
+TSX                                    1h 12m 56s   ███░░░░░░░░░░░░░░░░░░░░░░  9.24%
+TypeScript                             25m 39s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.25%
 
 💼 Projects:
-ff-core       4h 13m 50s   █████████░░░░░░░░░░░░░░░░  33.50%
-dots          2h 46m 31s   ██████░░░░░░░░░░░░░░░░░░░  21.97%
-myWentworth   2h 15m 57s   █████░░░░░░░░░░░░░░░░░░░░  17.94%
-admin         1h 7m 38s    ███░░░░░░░░░░░░░░░░░░░░░░  8.92%
-MentorDb      1h 3m 40s    ███░░░░░░░░░░░░░░░░░░░░░░  8.40%
+ff-core                                4h 13m 50s   █████████░░░░░░░░░░░░░░░░  32.15%
+dots                                   3h 12m 10s   ███████░░░░░░░░░░░░░░░░░░  24.34%
+myWentworth                            2h 1m 43s    ████░░░░░░░░░░░░░░░░░░░░░  15.42%
+MentorDb                               1h 41m 50s   ████░░░░░░░░░░░░░░░░░░░░░  12.90%
+2026-05-25-Maclean-D-obsidian-pocket   56m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.18%
 
-Total: 12 hrs 38 mins
+Total: 13 hrs 10 mins
 ```
 
 
