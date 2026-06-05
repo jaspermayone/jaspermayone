@@ -18,8 +18,8 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(1 day ago)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 day ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(2 days ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(2 days ago)**
 - [`@jaspermayone/boxcar`](https://github.com/jaspermayone/boxcar) - _"My opinionated ruby on rails template"_ **(3 weeks ago)**
 - [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _"My homebrew tap - storing the formulas i make"_ **(3 weeks ago)**
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown                                5h 41m 33s   ████████████░░░░░░░░░░░░░  45.76%
-Ruby                                   2h 22m 8s    █████░░░░░░░░░░░░░░░░░░░░  19.04%
-Nix                                    2h 16m 46s   █████░░░░░░░░░░░░░░░░░░░░  18.32%
-CSS                                    32m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.33%
-Markdown                               21m 45s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.91%
+unknown                                5h 37m 33s   ████████████░░░░░░░░░░░░░  45.47%
+Ruby                                   2h 22m 8s    █████░░░░░░░░░░░░░░░░░░░░  19.15%
+Nix                                    2h 16m 46s   █████░░░░░░░░░░░░░░░░░░░░  18.42%
+CSS                                    32m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.36%
+Markdown                               21m 45s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.93%
 
 💼 Projects:
-dots                                   4h 42m 37s   ██████████░░░░░░░░░░░░░░░  37.86%
-ff-core                                3h 33m 41s   ████████░░░░░░░░░░░░░░░░░  28.63%
-MentorDb                               2h 33m 53s   ██████░░░░░░░░░░░░░░░░░░░  20.62%
-2026-05-25-Maclean-D-obsidian-pocket   56m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.60%
-2026-06-02-jaspermayone-forks-fizzy    16m 57s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.27%
+dots                                   4h 42m 37s   ██████████░░░░░░░░░░░░░░░  38.07%
+ff-core                                3h 29m 41s   ████████░░░░░░░░░░░░░░░░░  28.24%
+MentorDb                               2h 33m 53s   ██████░░░░░░░░░░░░░░░░░░░  20.73%
+2026-05-25-Maclean-D-obsidian-pocket   56m 43s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.64%
+2026-06-02-jaspermayone-forks-fizzy    16m 57s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.28%
 
-Total: 12 hrs 26 mins
+Total: 12 hrs 22 mins
 ```
 
 
