@@ -18,7 +18,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(3 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(1 day ago)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(3 days ago)**
 - [`@jaspermayone/boxcar`](https://github.com/jaspermayone/boxcar) - _"My opinionated ruby on rails template"_ **(3 weeks ago)**
 - [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _"My homebrew tap - storing the formulas i make"_ **(3 weeks ago)**
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown                                5h 37m 32s   ███████████░░░░░░░░░░░░░░  41.82%
-Ruby                                   2h 48m 13s   ██████░░░░░░░░░░░░░░░░░░░  20.84%
-Nix                                    2h 30m 59s   █████░░░░░░░░░░░░░░░░░░░░  18.71%
-CSS                                    32m 20s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.01%
-Markdown                               31m 2s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.85%
+unknown                                5h 48m 40s   ███████████░░░░░░░░░░░░░░  41.29%
+Ruby                                   2h 53m 55s   ██████░░░░░░░░░░░░░░░░░░░  20.60%
+Nix                                    2h 41m 48s   █████░░░░░░░░░░░░░░░░░░░░  19.16%
+CSS                                    38m 33s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.57%
+Markdown                               34m 31s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.09%
 
 💼 Projects:
-dots                                   4h 56m 21s   ██████████░░░░░░░░░░░░░░░  36.72%
-ff-core                                4h 9m 10s    ████████░░░░░░░░░░░░░░░░░  30.87%
-MentorDb                               2h 55m 22s   ██████░░░░░░░░░░░░░░░░░░░  21.73%
-2026-05-25-Maclean-D-obsidian-pocket   33m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.21%
-2026-06-02-jaspermayone-forks-fizzy    16m 57s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.10%
+dots                                   5h 7m 10s    ██████████░░░░░░░░░░░░░░░  36.37%
+ff-core                                4h 17m 9s    ████████░░░░░░░░░░░░░░░░░  30.45%
+MentorDb                               3h 13m 54s   ██████░░░░░░░░░░░░░░░░░░░  22.96%
+2026-05-25-Maclean-D-obsidian-pocket   33m 57s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.02%
+2026-06-02-jaspermayone-forks-fizzy    16m 57s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.01%
 
-Total: 13 hrs 27 mins
+Total: 14 hrs 4 mins
 ```
 
 
