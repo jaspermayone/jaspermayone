@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(3 days ago)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(5 days ago)**
-- [`@jaspermayone/forked`](https://github.com/jaspermayone/forked) - _""_ **(3 weeks ago)**
-- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _"My homebrew tap - storing the formulas i make"_ **(3 weeks ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(4 days ago)**
+- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(6 days ago)**
+- [`@jaspermayone/forked`](https://github.com/jaspermayone/forked) - _""_ **(4 weeks ago)**
+- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _"My homebrew tap - storing the formulas i make"_ **(4 weeks ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-unknown                               4h 39m 3s    ██████████░░░░░░░░░░░░░░░  39.06%
-Ruby                                  2h 51m 34s   ███████░░░░░░░░░░░░░░░░░░  24.02%
-Nix                                   1h 40m 0s    ████░░░░░░░░░░░░░░░░░░░░░  14.00%
-CSS                                   38m 47s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.43%
-Markdown                              37m 24s      ██░░░░░░░░░░░░░░░░░░░░░░░  5.24%
+unknown                               4h 11m 15s   ██████████░░░░░░░░░░░░░░░  36.92%
+Ruby                                  3h 6m 2s     ███████░░░░░░░░░░░░░░░░░░  27.34%
+Nix                                   1h 33m 49s   ████░░░░░░░░░░░░░░░░░░░░░  13.79%
+Markdown                              34m 0s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.00%
+CSS                                   27m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.08%
 
 💼 Projects:
-MentorDb                              3h 47m 48s   ████████░░░░░░░░░░░░░░░░░  31.88%
-ff-core                               3h 40m 22s   ████████░░░░░░░░░░░░░░░░░  30.84%
-dots                                  3h 16m 39s   ███████░░░░░░░░░░░░░░░░░░  27.52%
-calendar                              18m 44s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.62%
-2026-06-02-jaspermayone-forks-fizzy   16m 57s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.37%
+ff-core                               3h 33m 18s   ████████░░░░░░░░░░░░░░░░░  31.34%
+dots                                  3h 10m 28s   ███████░░░░░░░░░░░░░░░░░░  27.99%
+MentorDb                              2h 54m 3s    ███████░░░░░░░░░░░░░░░░░░  25.58%
+calendar                              51m 48s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.61%
+2026-06-02-jaspermayone-forks-fizzy   16m 57s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.49%
 
-Total: 11 hrs 54 mins
+Total: 11 hrs 21 mins
 ```
 
 
