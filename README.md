@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(5 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(6 days ago)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 week ago)**
-- [`@jaspermayone/forked`](https://github.com/jaspermayone/forked) - _""_ **(4 weeks ago)**
-- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _"My homebrew tap - storing the formulas i make"_ **(4 weeks ago)**
+- [`@jaspermayone/forked`](https://github.com/jaspermayone/forked) - _""_ **(1 month ago)**
+- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _"My homebrew tap - storing the formulas i make"_ **(1 month ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-Ruby       3h 16m 19s   ██████████░░░░░░░░░░░░░░░  38.87%
-unknown    2h 32m 57s   ████████░░░░░░░░░░░░░░░░░  30.28%
-Nix        50m 1s       ███░░░░░░░░░░░░░░░░░░░░░░  9.90%
-Markdown   26m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.18%
-YAML       23m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.74%
+Ruby       3h 16m 19s   ███████████░░░░░░░░░░░░░░  40.76%
+unknown    2h 26m 38s   ████████░░░░░░░░░░░░░░░░░  30.45%
+Nix        32m 49s      ██░░░░░░░░░░░░░░░░░░░░░░░  6.81%
+Markdown   26m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.43%
+YAML       23m 58s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.98%
 
 💼 Projects:
-ff-core    3h 28m 47s   ███████████░░░░░░░░░░░░░░  41.33%
-dots       1h 43m 34s   ██████░░░░░░░░░░░░░░░░░░░  20.50%
-calendar   1h 24m 55s   █████░░░░░░░░░░░░░░░░░░░░  16.81%
-MentorDb   1h 13m 55s   ████░░░░░░░░░░░░░░░░░░░░░  14.63%
-cms        11m 7s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.20%
+ff-core    3h 24m 57s   ███████████░░░░░░░░░░░░░░  42.55%
+calendar   1h 24m 55s   █████░░░░░░░░░░░░░░░░░░░░  17.63%
+dots       1h 23m 53s   █████░░░░░░░░░░░░░░░░░░░░  17.42%
+MentorDb   1h 13m 55s   ████░░░░░░░░░░░░░░░░░░░░░  15.35%
+cms        11m 7s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.31%
 
-Total: 8 hrs 25 mins
+Total: 8 hrs 2 mins
 ```
 
 
