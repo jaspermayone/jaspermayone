@@ -18,7 +18,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(6 days ago)**
+- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(1 week ago)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 week ago)**
 - [`@jaspermayone/forked`](https://github.com/jaspermayone/forked) - _""_ **(1 month ago)**
 - [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _"My homebrew tap - storing the formulas i make"_ **(1 month ago)**
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-Ruby         2h 53m 46s   ████████████░░░░░░░░░░░░░  45.88%
-unknown      1h 58m 0s    ████████░░░░░░░░░░░░░░░░░  31.16%
-Nix          32m 49s      ███░░░░░░░░░░░░░░░░░░░░░░  8.66%
-Markdown     17m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.51%
-YAML         15m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.14%
+Ruby         2h 46m 40s   ████████████░░░░░░░░░░░░░  45.09%
+unknown      1h 55m 58s   ████████░░░░░░░░░░░░░░░░░  31.37%
+Nix          32m 49s      ███░░░░░░░░░░░░░░░░░░░░░░  8.88%
+Markdown     17m 6s       ██░░░░░░░░░░░░░░░░░░░░░░░  4.63%
+YAML         15m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.24%
 
 💼 Projects:
-ff-core      2h 30m 18s   ██████████░░░░░░░░░░░░░░░  39.68%
-calendar     1h 27m 32s   ██████░░░░░░░░░░░░░░░░░░░  23.11%
-MentorDb     1h 13m 55s   █████░░░░░░░░░░░░░░░░░░░░  19.51%
-dots         52m 6s       ████░░░░░░░░░░░░░░░░░░░░░  13.75%
-servicenow   8m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.13%
+ff-core      2h 21m 12s   ██████████░░░░░░░░░░░░░░░  38.20%
+calendar     1h 27m 31s   ██████░░░░░░░░░░░░░░░░░░░  23.67%
+MentorDb     1h 13m 55s   █████░░░░░░░░░░░░░░░░░░░░  20.00%
+dots         52m 6s       ████░░░░░░░░░░░░░░░░░░░░░  14.09%
+servicenow   8m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  2.19%
 
-Total: 6 hrs 19 mins
+Total: 6 hrs 10 mins
 ```
 
 
