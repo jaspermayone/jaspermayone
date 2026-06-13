@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@WITCodingClub/calendar-extension`](https://github.com/WITCodingClub/calendar-extension) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(today)**
+- [`@WITCodingClub/calendar-home`](https://github.com/WITCodingClub/calendar-home) - _"The landing page for WIT-Calendar"_ **(today)**
 - [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(1 week ago)**
 - [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 week ago)**
-- [`@jaspermayone/forked`](https://github.com/jaspermayone/forked) - _""_ **(1 month ago)**
-- [`@jaspermayone/homebrew-tap`](https://github.com/jaspermayone/homebrew-tap) - _"My homebrew tap - storing the formulas i make"_ **(1 month ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-Ruby             2h 55m 18s   █████████████░░░░░░░░░░░░  51.06%
-unknown          2h 18m 0s    ███████████░░░░░░░░░░░░░░  40.20%
-Svelte           10m 43s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.12%
-JavaScript       6m 5s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.77%
-TSX              5m 4s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.48%
+Ruby             3h 23m 3s   ██████████████░░░░░░░░░░░  54.89%
+unknown          2h 16m 0s   ██████████░░░░░░░░░░░░░░░  36.76%
+Svelte           10m 43s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.90%
+JavaScript       6m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.64%
+TSX              5m 4s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.37%
 
 💼 Projects:
-ff-core          2h 37m 2s    ████████████░░░░░░░░░░░░░  45.74%
-calendar         1h 43m 18s   ████████░░░░░░░░░░░░░░░░░  30.09%
-techspot-kiosk   26m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.70%
-MentorDb         22m 9s       ██░░░░░░░░░░░░░░░░░░░░░░░  6.45%
-extension        13m 45s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.01%
+ff-core          2h 39m 2s   ███████████░░░░░░░░░░░░░░  42.99%
+calendar         2h 11m 3s   █████████░░░░░░░░░░░░░░░░  35.42%
+techspot-kiosk   26m 27s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.15%
+MentorDb         18m 9s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.91%
+extension        14m 39s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.96%
 
-Total: 5 hrs 43 mins
+Total: 6 hrs 10 mins
 ```
 
 
