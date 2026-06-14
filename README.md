@@ -18,10 +18,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@WITCodingClub/calendar-extension`](https://github.com/WITCodingClub/calendar-extension) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(today)**
-- [`@WITCodingClub/calendar-home`](https://github.com/WITCodingClub/calendar-home) - _"The landing page for WIT-Calendar"_ **(today)**
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
+- [`@WITCodingClub/calendar-extension`](https://github.com/WITCodingClub/calendar-extension) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(1 day ago)**
+- [`@WITCodingClub/calendar-website`](https://github.com/WITCodingClub/calendar-website) - _"The landing page for WIT-Calendar"_ **(1 day ago)**
 - [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(1 week ago)**
-- [`@jaspermayone/website`](https://github.com/jaspermayone/website) - _"Personal Website for @jaspermayone."_ **(1 week ago)**
 
 #### 🌱 My latest projects
 
@@ -38,20 +38,20 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 ```text
 💾 Languages:
-Ruby             3h 23m 3s   ██████████████░░░░░░░░░░░  54.89%
-unknown          2h 16m 0s   ██████████░░░░░░░░░░░░░░░  36.76%
-Svelte           10m 43s     █░░░░░░░░░░░░░░░░░░░░░░░░  2.90%
-JavaScript       6m 5s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.64%
-TSX              5m 4s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.37%
+Ruby             3h 4m 3s     █████████████░░░░░░░░░░░░  48.69%
+unknown          2h 27m 8s    ██████████░░░░░░░░░░░░░░░  38.93%
+Svelte           13m 12s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.49%
+JavaScript       8m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.28%
+Nix              6m 11s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.64%
 
 💼 Projects:
-ff-core          2h 39m 2s   ███████████░░░░░░░░░░░░░░  42.99%
-calendar         2h 11m 3s   █████████░░░░░░░░░░░░░░░░  35.42%
-techspot-kiosk   26m 27s     ██░░░░░░░░░░░░░░░░░░░░░░░  7.15%
-MentorDb         18m 9s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.91%
-extension        14m 39s     █░░░░░░░░░░░░░░░░░░░░░░░░  3.96%
+ff-core          2h 25m 56s   ██████████░░░░░░░░░░░░░░░  38.60%
+calendar         2h 17m 58s   ██████████░░░░░░░░░░░░░░░  36.50%
+techspot-kiosk   26m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.00%
+extension        14m 39s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.88%
+frontend         12m 52s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.40%
 
-Total: 6 hrs 10 mins
+Total: 6 hrs 18 mins
 ```
 
 
