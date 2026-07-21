@@ -1,5 +1,3 @@
-![IMG_0567](https://github.com/user-attachments/assets/14acf257-a138-449e-92d7-96579ea608ab)
-
 # Jasper Mayone (he/they)
 
 Jasper Mayone is a 19-year-old college student from rural Vermont, currently residing in Boston.
@@ -49,16 +47,7 @@ Total: {{ wakatimeData.HumanReadableTotal }}
 - [strings](https://github.com/jaspermayone/strings) - simple strings server for the wentworth coding club / my personal use
 - [calendar-backend](https://github.com/WITCodingClub/calendar-backend) - Gets Wentworth University courses and helps put them in your google calendar.
 - [boxcar](https://github.com/jaspermayone/boxcar) - My opinionated ruby on rails template
-- [IT Tool](https://github.com/jaspermayone/ittool)
 - [@jaspermayone/logger](https://github.com/jaspermayone/logger) - Oooooh! Logs! Shiny!
-- [obsidian-ai-tagger](https://github.com/jaspermayone/obsidian-ai-tagger) - Auto tagging obsidian notes w/ AI
-- [metro](https://github.com/jaspermayone/metro) - An interactive map of Boston's transit system.
-
-#### <img src="https://assets.hackclub.com/icon-progress-rounded.png" width="20" height="20" /> Hack Club Projects:
-- [Pizza Fund](https://github.com/hackclub/pizza-fund) - Orpheus the delivery dino is ready to deliver your $100 pizza grants!
-- [Professor Bloom](https://github.com/hackclub/professor-bloom) - The beloved bot powering welcome-commitee @ Hack Club
-- [Arcadius](https://github.com/hackclub/arcadius) - Managing Hack Club's Arcade
-- [YSWS API](https://github.com/jaspermayone/ysws-api) - Small API for [Hack Club's Onboard](https://hackclub.com/onboard/) Improvements by [@limeskey](https://github.com/limeskey)
 
 #### Attributions:
 - [@kcoderhtml/slackbot-ultimate-template](https://github.com/kcoderhtml/slackbot-ultimate-template?tab=readme-ov-file#template-example)
