@@ -29,15 +29,6 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-#### 📡 my _`wakatime`_ stats from the last week
-
-```text
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
-
-Total: {{ wakatimeData.HumanReadableTotal }}
-```
-
-
 ---
 
 ### 🗃️ _Project Archives_:
