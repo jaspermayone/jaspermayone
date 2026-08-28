@@ -1,5 +1,3 @@
-![IMG_0567](https://github.com/user-attachments/assets/14acf257-a138-449e-92d7-96579ea608ab)
-
 # Jasper Mayone (he/they)
 
 Jasper Mayone is a 19-year-old college student from rural Vermont, currently residing in Boston.
@@ -18,42 +16,21 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
-- [`@WITCodingClub/calendar-extension`](https://github.com/WITCodingClub/calendar-extension) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(1 day ago)**
-- [`@WITCodingClub/calendar-website`](https://github.com/WITCodingClub/calendar-website) - _"The landing page for WIT-Calendar"_ **(1 day ago)**
-- [`@jaspermayone/dots`](https://github.com/jaspermayone/dots) - _"@jaspermayone's dotfiles"_ **(1 week ago)**
+- [`@WITCodingClub/calendar-extension`](https://github.com/WITCodingClub/calendar-extension) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(1 week ago)**
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 week ago)**
+- [`@jaspermayone/pathfinders-leopardplan`](https://github.com/jaspermayone/pathfinders-leopardplan) - _"Course schedule planner for Wentworth, built on the public WIT CC catalog API"_ **(1 week ago)**
+- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(1 week ago)**
 
 #### 🌱 My latest projects
 
-- [`@jaspermayone/forked`](https://github.com/jaspermayone/forked) - _""_
-- [`@jaspermayone/mazzy-pcb`](https://github.com/jaspermayone/mazzy-pcb) - _""_
-- [`@jaspermayone/mazzy-software`](https://github.com/jaspermayone/mazzy-software) - _""_
+- [`@jaspermayone/caelum`](https://github.com/jaspermayone/caelum) - _""_
+- [`@jaspermayone/pathfinders-leopardplan`](https://github.com/jaspermayone/pathfinders-leopardplan) - _"Course schedule planner for Wentworth, built on the public WIT CC catalog API"_
+- [`@jaspermayone/skills`](https://github.com/jaspermayone/skills) - _"agent skills"_
 
 #### 🍴 My recent forks
 
+- [lard](https://github.com/jaspermayone-forks/lard) - mem
 - [fizzy](https://github.com/jaspermayone-forks/fizzy) - Kanban as it should be. Not as it has been.
-- [obsidian-pocket](https://github.com/jaspermayone-forks/obsidian-pocket) - Sync Pocket AI conversations and daily highlights into Markdown notes.
-
-#### 📡 my _`wakatime`_ stats from the last week
-
-```text
-💾 Languages:
-Ruby             2h 52m 36s   ████████████░░░░░░░░░░░░░  47.64%
-unknown          2h 22m 53s   ██████████░░░░░░░░░░░░░░░  39.44%
-Svelte           13m 12s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.64%
-JavaScript       8m 37s       █░░░░░░░░░░░░░░░░░░░░░░░░  2.38%
-Nix              6m 11s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.71%
-
-💼 Projects:
-calendar         2h 17m 58s   ██████████░░░░░░░░░░░░░░░  38.08%
-ff-core          2h 16m 29s   ██████████░░░░░░░░░░░░░░░  37.67%
-techspot-kiosk   26m 27s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.30%
-frontend         14m 53s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.11%
-extension        14m 39s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.04%
-
-Total: 6 hrs 2 mins
-```
-
 
 ---
 
@@ -64,16 +41,7 @@ Total: 6 hrs 2 mins
 - [strings](https://github.com/jaspermayone/strings) - simple strings server for the wentworth coding club / my personal use
 - [calendar-backend](https://github.com/WITCodingClub/calendar-backend) - Gets Wentworth University courses and helps put them in your google calendar.
 - [boxcar](https://github.com/jaspermayone/boxcar) - My opinionated ruby on rails template
-- [IT Tool](https://github.com/jaspermayone/ittool)
 - [@jaspermayone/logger](https://github.com/jaspermayone/logger) - Oooooh! Logs! Shiny!
-- [obsidian-ai-tagger](https://github.com/jaspermayone/obsidian-ai-tagger) - Auto tagging obsidian notes w/ AI
-- [metro](https://github.com/jaspermayone/metro) - An interactive map of Boston's transit system.
-
-#### <img src="https://assets.hackclub.com/icon-progress-rounded.png" width="20" height="20" /> Hack Club Projects:
-- [Pizza Fund](https://github.com/hackclub/pizza-fund) - Orpheus the delivery dino is ready to deliver your $100 pizza grants!
-- [Professor Bloom](https://github.com/hackclub/professor-bloom) - The beloved bot powering welcome-commitee @ Hack Club
-- [Arcadius](https://github.com/hackclub/arcadius) - Managing Hack Club's Arcade
-- [YSWS API](https://github.com/jaspermayone/ysws-api) - Small API for [Hack Club's Onboard](https://hackclub.com/onboard/) Improvements by [@limeskey](https://github.com/limeskey)
 
 #### Attributions:
 - [@kcoderhtml/slackbot-ultimate-template](https://github.com/kcoderhtml/slackbot-ultimate-template?tab=readme-ov-file#template-example)
