@@ -29,8 +29,8 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 🍴 My recent forks
 
+- [workspacex](https://github.com/jaspermayone-forks/workspacex) - Agent Workspaces in Your Terminal
 - [lard](https://github.com/jaspermayone-forks/lard) - mem
-- [fizzy](https://github.com/jaspermayone-forks/fizzy) - Kanban as it should be. Not as it has been.
 
 ---
 
