@@ -18,8 +18,8 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 - [`@WITCodingClub/calendar-extension`](https://github.com/WITCodingClub/calendar-extension) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(1 week ago)**
 - [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 week ago)**
-- [`@jaspermayone/pathfinders-leopardplan`](https://github.com/jaspermayone/pathfinders-leopardplan) - _"Course schedule planner for Wentworth, built on the public WIT CC catalog API"_ **(1 week ago)**
 - [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(1 week ago)**
+- [`@jaspermayone/pathfinders-leopardplan`](https://github.com/jaspermayone/pathfinders-leopardplan) - _"Course schedule planner for Wentworth, built on the public WIT CC catalog API"_ **(1 week ago)**
 
 #### 🌱 My latest projects
 
