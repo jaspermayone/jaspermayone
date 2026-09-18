@@ -23,9 +23,9 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 🌱 My latest projects
 
+- [`@jaspermayone/construction-tape`](https://github.com/jaspermayone/construction-tape) - _"Browser extension that marks each environment and account with hazard-tape page borders, a banner, and a tab favicon."_
 - [`@jaspermayone/caelum`](https://github.com/jaspermayone/caelum) - _""_
 - [`@jaspermayone/pathfinders-leopardplan`](https://github.com/jaspermayone/pathfinders-leopardplan) - _"Course schedule planner for Wentworth, built on the public WIT CC catalog API"_
-- [`@jaspermayone/skills`](https://github.com/jaspermayone/skills) - _"agent skills"_
 
 #### 🍴 My recent forks
 
