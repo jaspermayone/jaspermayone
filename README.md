@@ -16,9 +16,9 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@WITCodingClub/calendar-website`](https://github.com/WITCodingClub/calendar-website) - _"The landing page for WIT-Calendar"_ **(1 day ago)**
-- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
 - [`@WITCodingClub/calendar-extension`](https://github.com/WITCodingClub/calendar-extension) - _"WIT-Calendar is a Chrome extension that makes adding your classes to your calendar easy & quick!"_ **(1 day ago)**
+- [`@WITCodingClub/calendar-backend`](https://github.com/WITCodingClub/calendar-backend) - _"Backend for calendar project. Written in Ruby on Rails."_ **(1 day ago)**
+- [`@WITCodingClub/calendar-website`](https://github.com/WITCodingClub/calendar-website) - _"The landing page for WIT-Calendar"_ **(1 day ago)**
 - [`@jaspermayone/leopardweb-python`](https://github.com/jaspermayone/leopardweb-python) - _""_ **(1 week ago)**
 
 #### 🌱 My latest projects
