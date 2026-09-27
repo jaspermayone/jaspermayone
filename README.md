@@ -19,13 +19,13 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 - [`@patchworklabsorg/patchworklabs.org`](https://github.com/patchworklabsorg/patchworklabs.org) - _""_ **(4 days ago)**
 - [`@jaspermayone/leopardweb-python`](https://github.com/jaspermayone/leopardweb-python) - _""_ **(2 weeks ago)**
 - [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(2 weeks ago)**
-- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(1 month ago)**
+- [`@jaspermayone/pathfinders-leopardplan`](https://github.com/jaspermayone/pathfinders-leopardplan) - _"Course schedule planner for Wentworth, built on the public WIT CC catalog API"_ **(1 month ago)**
 
 #### 🌱 My latest projects
 
+- [`@jaspermayone/asset-scanner`](https://github.com/jaspermayone/asset-scanner) - _"Use your phone as a barcode scanner for your laptop. Two-field asset inventory, no dependencies, no app."_
 - [`@jaspermayone/construction-tape`](https://github.com/jaspermayone/construction-tape) - _"Browser extension that marks each environment and account with hazard-tape page borders, a banner, and a tab favicon."_
 - [`@jaspermayone/caelum`](https://github.com/jaspermayone/caelum) - _""_
-- [`@jaspermayone/pathfinders-leopardplan`](https://github.com/jaspermayone/pathfinders-leopardplan) - _"Course schedule planner for Wentworth, built on the public WIT CC catalog API"_
 
 #### 🍴 My recent forks
 
