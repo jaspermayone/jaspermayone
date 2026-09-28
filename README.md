@@ -16,10 +16,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@patchworklabsorg/weave`](https://github.com/patchworklabsorg/weave) - _"The central identity provider for Patchwork Labs."_ **(today)**
+- [`@jaspermayone/scripts`](https://github.com/jaspermayone/scripts) - _""_ **(today)**
+- [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"Declarative DNS Infrastructure for Patchwork Labs"_ **(today)**
 - [`@patchworklabsorg/patchworklabs.org`](https://github.com/patchworklabsorg/patchworklabs.org) - _""_ **(5 days ago)**
-- [`@jaspermayone/leopardweb-python`](https://github.com/jaspermayone/leopardweb-python) - _""_ **(2 weeks ago)**
-- [`@phishdirectory/core`](https://github.com/phishdirectory/core) - _"monolith powering most of phish.directory"_ **(3 weeks ago)**
-- [`@WITRC/battlebot`](https://github.com/WITRC/battlebot) - _""_ **(1 month ago)**
 
 #### 🌱 My latest projects
 
