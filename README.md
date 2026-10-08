@@ -16,8 +16,8 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@patchworklabsorg/weave`](https://github.com/patchworklabsorg/weave) - _"The central identity provider for Patchwork Labs."_ **(today)**
-- [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"Declarative DNS Infrastructure for Patchwork Labs"_ **(6 days ago)**
+- [`@patchworklabsorg/weave`](https://github.com/patchworklabsorg/weave) - _"The central identity provider for Patchwork Labs."_ **(1 day ago)**
+- [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"Declarative DNS Infrastructure for Patchwork Labs"_ **(1 week ago)**
 - [`@patchworklabsorg/patchworklabs.org`](https://github.com/patchworklabsorg/patchworklabs.org) - _""_ **(2 weeks ago)**
 - [`@jaspermayone/leopardweb-python`](https://github.com/jaspermayone/leopardweb-python) - _""_ **(3 weeks ago)**
 
