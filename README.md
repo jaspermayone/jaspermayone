@@ -16,10 +16,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@patchworklabsorg/infra`](https://github.com/patchworklabsorg/infra) - _"patchwork declarative infra"_ **(today)**
-- [`@patchworklabsorg/core`](https://github.com/patchworklabsorg/core) - _"Services and other configuration on the Core VM running NixOS"_ **(1 day ago)**
-- [`@Hack-Boston/website`](https://github.com/Hack-Boston/website) - _"Website to host information and registration for HackBoston's inaugural hackathon event in Spring 2027."_ **(1 day ago)**
-- [`@patchworklabsorg/weave`](https://github.com/patchworklabsorg/weave) - _"The central identity provider for Patchwork Labs."_ **(1 day ago)**
+- [`@patchworklabsorg/infra`](https://github.com/patchworklabsorg/infra) - _"patchwork declarative infra"_ **(1 day ago)**
+- [`@patchworklabsorg/core`](https://github.com/patchworklabsorg/core) - _"Services and other configuration on the Core VM running NixOS"_ **(2 days ago)**
+- [`@Hack-Boston/website`](https://github.com/Hack-Boston/website) - _"Website to host information and registration for HackBoston's inaugural hackathon event in Spring 2027."_ **(2 days ago)**
+- [`@patchworklabsorg/weave`](https://github.com/patchworklabsorg/weave) - _"The central identity provider for Patchwork Labs."_ **(2 days ago)**
 
 #### 🌱 My latest projects
 
