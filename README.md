@@ -16,10 +16,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
+- [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"Declarative DNS Infrastructure for Patchwork Labs"_ **(today)**
 - [`@patchworklabsorg/infra`](https://github.com/patchworklabsorg/infra) - _"patchwork declarative infra"_ **(1 day ago)**
 - [`@patchworklabsorg/patchworklabs.org`](https://github.com/patchworklabsorg/patchworklabs.org) - _""_ **(1 day ago)**
 - [`@Hack-Boston/website`](https://github.com/Hack-Boston/website) - _"Website to host information and registration for HackBoston's inaugural hackathon event in Spring 2027."_ **(2 days ago)**
-- [`@patchworklabsorg/weave`](https://github.com/patchworklabsorg/weave) - _"The central identity provider for Patchwork Labs."_ **(2 days ago)**
 
 #### 🌱 My latest projects
 
