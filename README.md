@@ -16,21 +16,21 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@patchworklabsorg/weave`](https://github.com/patchworklabsorg/weave) - _"The central identity provider for Patchwork Labs."_ **(today)**
-- [`@patchworklabsorg/krater`](https://github.com/patchworklabsorg/krater) - _"The management utility for Project Ganymede"_ **(2 days ago)**
-- [`@patchworklabsorg/infra`](https://github.com/patchworklabsorg/infra) - _"patchwork declarative infra"_ **(2 days ago)**
-- [`@patchworklabsorg/patchworklabs.org`](https://github.com/patchworklabsorg/patchworklabs.org) - _""_ **(6 days ago)**
+- [`@jaspermayone/phial`](https://github.com/jaspermayone/phial) - _"Memory server for coding agents: one record per memory, served over MCP"_ **(1 day ago)**
+- [`@patchworklabsorg/weave`](https://github.com/patchworklabsorg/weave) - _"The central identity provider for Patchwork Labs."_ **(1 day ago)**
+- [`@patchworklabsorg/krater`](https://github.com/patchworklabsorg/krater) - _"The management utility for Project Ganymede"_ **(3 days ago)**
+- [`@patchworklabsorg/infra`](https://github.com/patchworklabsorg/infra) - _"patchwork declarative infra"_ **(3 days ago)**
 
 #### 🌱 My latest projects
 
+- [`@jaspermayone/phial`](https://github.com/jaspermayone/phial) - _"Memory server for coding agents: one record per memory, served over MCP"_
 - [`@jaspermayone/asset-scanner`](https://github.com/jaspermayone/asset-scanner) - _"Use your phone as a barcode scanner for your laptop. Two-field asset inventory, no dependencies, no app."_
 - [`@jaspermayone/construction-tape`](https://github.com/jaspermayone/construction-tape) - _"Browser extension that marks each environment and account with hazard-tape page borders, a banner, and a tab favicon."_
-- [`@jaspermayone/caelum`](https://github.com/jaspermayone/caelum) - _""_
 
 #### 🍴 My recent forks
 
+- [entire-judge](https://github.com/jaspermayone-forks/entire-judge) - Hackathon-jury insights plugin for Entire: judge lenses over a submission's brain (deterministic authenticity/effort + LLM-judged prompting/idea-execution), JSON, TUI, and advisory ranking
 - [workspacex](https://github.com/jaspermayone-forks/workspacex) - Agent Workspaces in Your Terminal
-- [lard](https://github.com/jaspermayone-forks/lard) - mem
 
 ---
 
