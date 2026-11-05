@@ -17,8 +17,8 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 #### 👷 The latest repos I've pushed to
 
 - [`@patchworklabsorg/infra`](https://github.com/patchworklabsorg/infra) - _"patchwork declarative infra"_ **(1 day ago)**
-- [`@jaspermayone/mazzy-mini`](https://github.com/jaspermayone/mazzy-mini) - _"Test board for Mazzy project"_ **(4 days ago)**
 - [`@jaspermayone/phial`](https://github.com/jaspermayone/phial) - _"Memory server for coding agents: one record per memory, served over MCP"_ **(4 days ago)**
+- [`@jaspermayone/mazzy-mini`](https://github.com/jaspermayone/mazzy-mini) - _"Test board for Mazzy project"_ **(4 days ago)**
 - [`@patchworklabsorg/weave`](https://github.com/patchworklabsorg/weave) - _"The central identity provider for Patchwork Labs."_ **(5 days ago)**
 
 #### 🌱 My latest projects
