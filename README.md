@@ -16,10 +16,10 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 
 #### 👷 The latest repos I've pushed to
 
-- [`@patchworklabsorg/weave`](https://github.com/patchworklabsorg/weave) - _"The central identity provider for Patchwork Labs."_ **(2 days ago)**
-- [`@patchworklabsorg/infra`](https://github.com/patchworklabsorg/infra) - _"patchwork declarative infra"_ **(2 days ago)**
+- [`@patchworklabsorg/stash`](https://github.com/patchworklabsorg/stash) - _"The Patchwork Labs archive: web pages, repositories, documents and media, kept as submitted"_ **(today)**
 - [`@patchworklabsorg/krater`](https://github.com/patchworklabsorg/krater) - _"The management utility for Project Ganymede"_ **(2 days ago)**
-- [`@jaspermayone/phial`](https://github.com/jaspermayone/phial) - _"Memory server for coding agents: one record per memory, served over MCP"_ **(1 week ago)**
+- [`@patchworklabsorg/infra`](https://github.com/patchworklabsorg/infra) - _"patchwork declarative infra"_ **(2 days ago)**
+- [`@patchworklabsorg/weave`](https://github.com/patchworklabsorg/weave) - _"The central identity provider for Patchwork Labs."_ **(2 days ago)**
 
 #### 🌱 My latest projects
 
