@@ -1,16 +1,16 @@
 # Jasper Mayone (he/they)
 
-Jasper Mayone is a 19-year-old college student from rural Vermont, currently residing in Boston.
+Jasper Mayone [he/they] is a 20-year-old college student from rural Vermont, currently residing in Boston.
 
-A circus artist and a native Vermonter, Jasper is currently pursuing a Computer Science Major at [Wentworth Institute of Technology](https://wit.edu) in Boston Massachusetts. When not in school or at work, Jasper's hobbies include reading, being in the great outdoors, photography, computer programming, cooking, and running away to join the circus.
+A computer science major at Wentworth Institute of Technology in Boston, Massachusetts. When not in school or at work, Jasper's hobbies include reading, being in the great outdoors, photography, computer programming, cooking, and running away to join the circus.
 
 An avid organizer and big picture thinker, you can often find them scheming up some sort of business venture. From developing a small app to drafting large scale plans for a world domination scheme, Jasper is always looking for ways to combine their diverse interests and skills into enterprising projects. This knack for organization and leadership has opened doors for Jasper to take on exciting roles in various projects and adventures, both close to home and abroad.
 
-Recently they've been focusing their time (outside of their degree) on [Patchwork Labs](https://github.com/patchworklabsorg), a nonprofit they started with the mission to "Provide fiscal sponsorship and administrative support for hackathons and STEM projects, enabling individuals and teams to organize educational events and develop technology-based solutions that benefit the community."
+Recently they've been focusing their time (outside of their degree) on Patchwork Labs, a nonprofit they started with the mission to bring back creativity and support the next generation of makers.
 
-Previously, Jasper's adventures included working at [MLH](https://mlh.io/) as the Summer 2025 engineering intern, a month-long trip to Rwanda, where they filmed a documentary and managed production for their fellow students' films. They also played a key role in the Waitsfield Elementary PTA's Annual Ski & Skate sale, co-coordinated large scale climate conferences called “See Change Sessions” with thousands of attendees, and enjoyed concerts by AJR, Sammy Rae & the Friends, and Lake Street Dive.
+Jasper is also passionate about making the internet a safer place! They contribute to several open source projects focused on web security and privacy, including phish.directory, a free and open source phishing directory, for which Jasper serves as the lead maintainer.
 
-You should check out their website at [jaspermayone.com](https://jaspermayone.com).
+Previously, Jasper's adventures included working at MLH as the Summer 2025 engineering intern, a month-long trip to Rwanda, where they filmed a documentary and managed production for their fellow students' films. They also played a key role in the Waitsfield Elementary PTA's Annual Ski & Skate sale, co-coordinated large scale climate conferences called “See Change Sessions” with thousands of attendees, and enjoyed concerts by AJR, Sammy Rae & the Friends, and Lake Street Dive.
 
 ---
 
@@ -19,7 +19,7 @@ You should check out their website at [jaspermayone.com](https://jaspermayone.co
 - [`@jaspermayone/phial`](https://github.com/jaspermayone/phial) - _"Memory server for coding agents: one record per memory, served over MCP"_ **(2 days ago)**
 - [`@patchworklabsorg/weave`](https://github.com/patchworklabsorg/weave) - _"The central identity provider for Patchwork Labs."_ **(2 days ago)**
 - [`@patchworklabsorg/infra`](https://github.com/patchworklabsorg/infra) - _"patchwork declarative infra"_ **(4 days ago)**
-- [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"Declarative DNS Infrastructure for Patchwork Labs"_ **(1 week ago)**
+- [`@patchworklabsorg/krater`](https://github.com/patchworklabsorg/krater) - _"The management utility for Project Ganymede"_ **(1 week ago)**
 
 #### 🌱 My latest projects
 
