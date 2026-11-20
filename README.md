@@ -19,7 +19,7 @@ Previously, Jasper's adventures included working at MLH as the Summer 2025 engin
 - [`@jaspermayone/phial`](https://github.com/jaspermayone/phial) - _"Memory server for coding agents: one record per memory, served over MCP"_ **(2 days ago)**
 - [`@patchworklabsorg/weave`](https://github.com/patchworklabsorg/weave) - _"The central identity provider for Patchwork Labs."_ **(2 days ago)**
 - [`@patchworklabsorg/infra`](https://github.com/patchworklabsorg/infra) - _"patchwork declarative infra"_ **(4 days ago)**
-- [`@patchworklabsorg/krater`](https://github.com/patchworklabsorg/krater) - _"The management utility for Project Ganymede"_ **(1 week ago)**
+- [`@patchworklabsorg/dns`](https://github.com/patchworklabsorg/dns) - _"Declarative DNS Infrastructure for Patchwork Labs"_ **(1 week ago)**
 
 #### 🌱 My latest projects
 
